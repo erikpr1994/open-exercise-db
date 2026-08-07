@@ -1,0 +1,66 @@
+name: New exercise PR
+
+on:
+  issues:
+    types: [labeled]
+
+jobs:
+  create-pr:
+    if: github.event.label.name == 'new-exercise'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+      issues: write
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - id: parse
+        continue-on-error: true
+        run: node scripts/issue-to-exercise.mjs "$GITHUB_EVENT_PATH" 2> errors.txt
+      - id: validate
+        if: steps.parse.outcome == 'success'
+        continue-on-error: true
+        run: node scripts/validate.mjs 2> errors.txt
+      - name: Report errors on the issue
+        if: steps.parse.outcome == 'failure' || steps.validate.outcome == 'failure'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ISSUE: ${{ github.event.issue.number }}
+        run: |
+          {
+            echo "The submission does not validate:"
+            echo '```'
+            cat errors.txt
+            echo '```'
+            echo
+            echo "Edit the issue to fix the fields, then remove and re-add the \`new-exercise\` label to retry."
+          } > comment.md
+          gh issue comment "$ISSUE" --body-file comment.md
+      - name: Open the pull request
+        if: steps.validate.outcome == 'success'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          EXERCISE_ID: ${{ steps.parse.outputs.id }}
+          EXERCISE_NAME: ${{ steps.parse.outputs.name }}
+          ISSUE: ${{ github.event.issue.number }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -b "exercise/$EXERCISE_ID"
+          git add "exercises/$EXERCISE_ID.json"
+          git commit -m "Add exercise: $EXERCISE_NAME"
+          git push origin "exercise/$EXERCISE_ID"
+          {
+            echo "Closes #$ISSUE"
+            echo
+            echo "🤖 Generated with [Claude Code](https://claude.com/claude-code)"
+          } > pr-body.md
+          gh pr create \
+            --title "Add exercise: $EXERCISE_NAME" \
+            --head "exercise/$EXERCISE_ID" \
+            --body-file pr-body.md

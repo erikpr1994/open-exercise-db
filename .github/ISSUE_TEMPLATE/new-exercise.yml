@@ -1,0 +1,215 @@
+name: New exercise
+description: Propose a new exercise for the catalogue.
+title: "New exercise: "
+labels:
+  - new-exercise
+body:
+  - type: markdown
+    attributes:
+      value: |-
+        Propose a new exercise without cloning the repository.
+        A workflow turns this issue into a pull request after it validates your answers.
+        Read [CONTRIBUTING.md](https://github.com/erikpr1994/open-exercise-db/blob/main/CONTRIBUTING.md) first.
+        All content is English-only: the name, the aliases, and the instructions.
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      description: The canonical English name. It must describe a concrete action, not a goal or a body region.
+      placeholder: Barbell Back Squat
+    validations:
+      required: true
+  - type: input
+    id: family
+    attributes:
+      label: Family
+      description: The slug of an existing family. A slug is the lowercase hyphenated file name in families/, for example "squat" for families/squat.json. Leave this empty when the exercise has no family.
+      placeholder: squat
+  - type: dropdown
+    id: modality
+    attributes:
+      label: Modality
+      options:
+        - strength
+        - stretching
+        - plyometrics
+        - powerlifting
+        - olympic weightlifting
+        - strongman
+        - cardio
+    validations:
+      required: true
+  - type: dropdown
+    id: level
+    attributes:
+      label: Level
+      options:
+        - beginner
+        - intermediate
+        - expert
+    validations:
+      required: true
+  - type: dropdown
+    id: equipment
+    attributes:
+      label: Equipment
+      options:
+        - ab wheel
+        - agility hurdle
+        - atlas stone
+        - balance board
+        - bands
+        - barbell
+        - battle ropes
+        - body only
+        - cable
+        - dumbbell
+        - e-z curl bar
+        - elliptical
+        - exercise ball
+        - farmer's walk handles
+        - foam roll
+        - head harness
+        - jump rope
+        - keg
+        - kettlebells
+        - log
+        - machine
+        - medicine ball
+        - other
+        - resistance chains
+        - rowing machine
+        - sandbag
+        - sled
+        - sledgehammer
+        - stationary bike
+        - suspension trainer
+        - tire
+        - trap bar
+        - treadmill
+        - weight plate
+        - weight vest
+        - wrist roller
+        - yoke
+    validations:
+      required: true
+  - type: dropdown
+    id: measurement-type
+    attributes:
+      label: Measurement type
+      description: How one set of this exercise is measured. Select "none" if you are not sure.
+      options:
+        - none
+        - reps
+        - weight_reps
+        - weighted_bodyweight_reps
+        - assisted_weight_reps
+        - time
+        - weighted_time
+      default: 0
+  - type: dropdown
+    id: laterality
+    attributes:
+      label: Laterality
+      description: Select "bilateral" when the movement loads both sides at the same time, "unilateral" when it loads one side at a time, or "none" if you are not sure.
+      options:
+        - none
+        - bilateral
+        - unilateral
+      default: 0
+  - type: dropdown
+    id: mechanic
+    attributes:
+      label: Mechanic
+      options:
+        - none
+        - compound
+        - isolation
+      default: 0
+  - type: dropdown
+    id: force
+    attributes:
+      label: Force
+      options:
+        - none
+        - push
+        - pull
+        - static
+      default: 0
+  - type: checkboxes
+    id: primary-muscles
+    attributes:
+      label: Primary muscles
+      description: The muscles that do the main work.
+      options:
+        - label: abdominals
+        - label: abductors
+        - label: adductors
+        - label: biceps
+        - label: calves
+        - label: chest
+        - label: forearms
+        - label: glutes
+        - label: hamstrings
+        - label: hip flexors
+        - label: lats
+        - label: lower back
+        - label: middle back
+        - label: neck
+        - label: quadriceps
+        - label: shoulders
+        - label: traps
+        - label: triceps
+  - type: checkboxes
+    id: secondary-muscles
+    attributes:
+      label: Secondary muscles
+      description: The muscles that assist. Do not repeat a primary muscle.
+      options:
+        - label: abdominals
+        - label: abductors
+        - label: adductors
+        - label: biceps
+        - label: calves
+        - label: chest
+        - label: forearms
+        - label: glutes
+        - label: hamstrings
+        - label: hip flexors
+        - label: lats
+        - label: lower back
+        - label: middle back
+        - label: neck
+        - label: quadriceps
+        - label: shoulders
+        - label: traps
+        - label: triceps
+  - type: textarea
+    id: instructions
+    attributes:
+      label: Instructions
+      description: The ordered execution steps, in English. Write one step per line.
+      placeholder: |-
+        Stand with the bar on your upper back.
+        Squat down until your thighs are parallel to the floor.
+        Drive back up to the start position.
+    validations:
+      required: true
+  - type: input
+    id: aliases
+    attributes:
+      label: Aliases
+      description: Alternative English names for the same movement, separated by commas.
+      placeholder: Back Squat, Olympic Squat
+  - type: input
+    id: video
+    attributes:
+      label: Video URL
+      description: A YouTube video that shows the movement.
+      placeholder: https://www.youtube.com/watch?v=XXXXXXXXXXX
+  - type: input
+    id: variant-group
+    attributes:
+      label: Variant group
+      description: A free-text sub-group inside a large family, for example "Incline" or "Kettlebell".
+      placeholder: Kettlebell

@@ -17,3 +17,8 @@ jobs:
       - run: npm ci
       - run: npm run validate
       - run: npm run build
+      - run: npm test
+      - name: Check that the issue form matches schema and vocab
+        run: |
+          npm run generate-issue-form
+          git diff --exit-code -- .github/ISSUE_TEMPLATE/new-exercise.yml

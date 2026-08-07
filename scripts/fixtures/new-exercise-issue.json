@@ -1,0 +1,11 @@
+{
+  "action": "labeled",
+  "label": {
+    "name": "new-exercise"
+  },
+  "issue": {
+    "number": 123,
+    "title": "New exercise: Bulgarian Split Squat",
+    "body": "### Name\n\nBulgarian Split Squat\n\n### Family\n\nsquat\n\n### Modality\n\nstrength\n\n### Level\n\nintermediate\n\n### Equipment\n\ndumbbell\n\n### Measurement type\n\nweight_reps\n\n### Laterality\n\nunilateral\n\n### Mechanic\n\ncompound\n\n### Force\n\nnone\n\n### Primary muscles\n\n- [x] quadriceps\n- [ ] chest\n- [x] glutes\n\n### Secondary muscles\n\n- [x] hamstrings\n- [ ] calves\n\n### Instructions\n\nStand two feet in front of a bench, facing away from it.\nPlace the top of your rear foot on the bench.\n\nLower your hips until the front thigh is parallel to the floor.\nDrive through the front heel to stand back up.\n\n### Aliases\n\nRear-Foot-Elevated Split Squat, RFE Split Squat , Rear-Foot-Elevated Split Squat\n\n### Video URL\n\n_No response_\n\n### Variant group\n\nDumbbell"
+  }
+}

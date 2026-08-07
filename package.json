@@ -7,9 +7,12 @@
   },
   "scripts": {
     "validate": "node scripts/validate.mjs",
-    "build": "node scripts/build.mjs"
+    "build": "node scripts/build.mjs",
+    "generate-issue-form": "node scripts/generate-issue-form.mjs",
+    "test": "node --test scripts/*.test.mjs"
   },
   "dependencies": {
-    "ajv": "^8.17.1"
+    "ajv": "^8.17.1",
+    "yaml": "^2.9.0"
   }
 }
