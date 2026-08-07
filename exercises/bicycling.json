@@ -1,0 +1,37 @@
+{
+  "id": "bicycling",
+  "name": "Bicycling",
+  "aliases": [
+    "cycling",
+    "biking"
+  ],
+  "family": "cardio",
+  "variantGroup": null,
+  "modality": "cardio",
+  "level": "beginner",
+  "mechanic": null,
+  "force": null,
+  "equipment": "stationary bike",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings"
+  ],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "To begin, seat yourself on the bike and adjust the seat to your height."
+  ],
+  "images": [
+    "bicycling/0.jpg",
+    "bicycling/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=pAzdBDXG_Iw",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Bicycling"
+  }
+}

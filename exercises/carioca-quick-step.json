@@ -1,0 +1,42 @@
+{
+  "id": "carioca-quick-step",
+  "name": "Carioca Quick Step",
+  "aliases": [
+    "carioca",
+    "grapevine drill"
+  ],
+  "family": "sprint-drill",
+  "variantGroup": null,
+  "modality": "plyometrics",
+  "level": "beginner",
+  "mechanic": null,
+  "force": null,
+  "equipment": "body only",
+  "primaryMuscles": [
+    "adductors"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "abductors",
+    "calves",
+    "glutes",
+    "hamstrings",
+    "quadriceps"
+  ],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Begin with your feet a few inches apart and your left arm up in a relaxed, athletic position.",
+    "With your right foot, quick step behind and pull the knee up.",
+    "Fire your arms back up when you pull the right knee, being sure that your knee goes straight up and down. Avoid turning your feet as you move and continue to look forward as you move to the side."
+  ],
+  "images": [
+    "carioca-quick-step/0.jpg",
+    "carioca-quick-step/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=5UtlTl-7bio",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Carioca_Quick_Step"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "ring-dips",
+  "name": "Ring Dips",
+  "aliases": [
+    "gymnastic ring dips"
+  ],
+  "family": "dip",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "suspension trainer",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "shoulders"
+  ],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Grip a ring in each hand, and then take a small jump to help you get into the starting position with your arms locked out.",
+    "Begin by flexing the elbow, lowering your body until your arms break 90 degrees. Avoid swinging, and maintain good posture throughout the descent.",
+    "Reverse the motion by extending the elbow, pushing yourself back up into the starting position.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "images": [
+    "ring-dips/0.jpg",
+    "ring-dips/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=W-hfweOYsG8",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Ring_Dips"
+  }
+}

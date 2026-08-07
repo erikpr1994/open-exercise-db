@@ -1,0 +1,34 @@
+{
+  "id": "knee-circles",
+  "name": "Knee Circles",
+  "family": "mobility",
+  "variantGroup": null,
+  "modality": "stretching",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "pull",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "quadriceps"
+  ],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Stand with your legs together and hands by your waist.",
+    "Now move your knees in a circular motion as you breathe normally.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "images": [
+    "knee-circles/0.jpg",
+    "knee-circles/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=N6MLiMUPZUc",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Knee_Circles"
+  }
+}

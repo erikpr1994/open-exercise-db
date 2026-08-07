@@ -1,0 +1,31 @@
+{
+  "id": "alternate-leg-bound",
+  "name": "Alternate-Leg Bound",
+  "aliases": [
+    "bounding"
+  ],
+  "family": "plyometric-jump",
+  "variantGroup": null,
+  "modality": "plyometrics",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "quadriceps",
+    "calves"
+  ],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Bound forward in a straight line, pushing off one leg to cover as much horizontal distance as possible before landing on the opposite leg, then immediately bounding again.",
+    "Drive the knees and swing the arms powerfully, exaggerating each stride for maximal distance and hang time.",
+    "Continue alternating legs down the lane."
+  ],
+  "images": [],
+  "video": null
+}

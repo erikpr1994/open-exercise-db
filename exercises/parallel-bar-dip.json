@@ -1,0 +1,39 @@
+{
+  "id": "parallel-bar-dip",
+  "name": "Parallel Bar Dip",
+  "aliases": [
+    "dips",
+    "tricep dip"
+  ],
+  "family": "dip",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "shoulders"
+  ],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Stand between a set of parallel bars. Place a hand on each bar, and then take a small jump to help you get into the starting position with your arms locked out.",
+    "Begin by flexing the elbow, lowering your body until your arms break 90 degrees. Avoid swinging, and maintain good posture throughout the descent.",
+    "Reverse the motion by extending the elbow, pushing yourself back up into the starting position.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "images": [
+    "parallel-bar-dip/0.jpg",
+    "parallel-bar-dip/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=6IknX1l-XhM",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Parallel_Bar_Dip"
+  }
+}

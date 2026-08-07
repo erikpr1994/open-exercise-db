@@ -1,0 +1,34 @@
+{
+  "id": "middle-back-stretch",
+  "name": "Middle Back Stretch",
+  "family": "back-lat-stretch",
+  "variantGroup": null,
+  "modality": "stretching",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "static",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "lats",
+    "lower back"
+  ],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Stand so your feet are shoulder width apart and your hands are on your hips.",
+    "Twist at your waist until you feel a stretch. Hold for 10 to 15 seconds, then twist to the other side."
+  ],
+  "images": [
+    "middle-back-stretch/0.jpg",
+    "middle-back-stretch/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=VnDuWC40egg",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Middle_Back_Stretch"
+  }
+}

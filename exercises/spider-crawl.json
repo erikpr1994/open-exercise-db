@@ -1,0 +1,38 @@
+{
+  "id": "spider-crawl",
+  "name": "Spider Crawl",
+  "aliases": [
+    "spiderman crawl"
+  ],
+  "family": "crawl",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "pull",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "shoulders",
+    "triceps"
+  ],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Begin in a prone position on the floor. Support your weight on your hands and toes, with your feet together and your body straight. Your arms should be bent to 90 degrees. This will be your starting position.",
+    "Initiate the movement by raising one foot off of the ground. Externally rotate the leg and bring the knee toward your elbow, as far forward as possible.",
+    "Return this leg to the starting position and repeat on the opposite side."
+  ],
+  "images": [
+    "spider-crawl/0.jpg",
+    "spider-crawl/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=2a8mkNBsaGw",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Spider_Crawl"
+  }
+}

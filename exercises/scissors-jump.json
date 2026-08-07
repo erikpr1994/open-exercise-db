@@ -1,0 +1,38 @@
+{
+  "id": "scissors-jump",
+  "name": "Scissors Jump",
+  "aliases": [
+    "split jump"
+  ],
+  "family": "plyometric-jump",
+  "variantGroup": null,
+  "modality": "plyometrics",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings"
+  ],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Assume a lunge stance position with one foot forward with the knee bent, and the rear knee nearly touching the ground.",
+    "Ensure that the front knee is over the midline of the foot. Extending through both legs, jump as high as possible, swinging your arms to gain lift.",
+    "As you jump as high as you can, switch the position of your legs, moving your front leg to the back and the rear leg to the front.",
+    "As you land, absorb the impact through the legs by adopting the lunge position, and repeat."
+  ],
+  "images": [
+    "scissors-jump/0.jpg",
+    "scissors-jump/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=WBueMsXaEno",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Scissors_Jump"
+  }
+}

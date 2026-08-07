@@ -1,0 +1,33 @@
+{
+  "id": "around-the-worlds",
+  "name": "Around The Worlds",
+  "family": "fly",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Lay down on a flat bench holding a dumbbell in each hand with the palms of the hands facing towards the ceiling. Tip: Your arms should be parallel to the floor and next to your thighs. To avoid injury, make sure that you keep your elbows slightly bent. This will be your starting position.",
+    "Now move the dumbbells by creating a semi-circle as you displace them from the initial position to over the head. All of the movement should happen with the arms parallel to the floor at all times. Breathe in as you perform this portion of the movement.",
+    "Reverse the movement to return the weight to the starting position as you exhale."
+  ],
+  "images": [
+    "around-the-worlds/0.jpg",
+    "around-the-worlds/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=w_Pplr0hI1s",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Around_The_Worlds"
+  }
+}

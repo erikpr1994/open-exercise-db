@@ -1,0 +1,37 @@
+{
+  "id": "crossover-reverse-lunge",
+  "name": "Crossover Reverse Lunge",
+  "family": "mobility",
+  "variantGroup": null,
+  "modality": "stretching",
+  "level": "intermediate",
+  "mechanic": null,
+  "force": "pull",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "lower back"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "abductors",
+    "glutes",
+    "hamstrings",
+    "quadriceps"
+  ],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Stand with your feet shoulder width apart. This will be your starting position.",
+    "Perform a rear lunge by stepping back with one foot and flexing the hips and front knee. As you do so, rotate your torso across the front leg.",
+    "After a brief pause, return to the starting position and repeat on the other side, continuing in an alternating fashion."
+  ],
+  "images": [
+    "crossover-reverse-lunge/0.jpg",
+    "crossover-reverse-lunge/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=_X_NgMn1gY8",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Crossover_Reverse_Lunge"
+  }
+}

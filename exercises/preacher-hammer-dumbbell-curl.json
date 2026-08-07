@@ -1,0 +1,38 @@
+{
+  "id": "preacher-hammer-dumbbell-curl",
+  "name": "Preacher Hammer Dumbbell Curl",
+  "aliases": [
+    "preacher hammer curl",
+    "hammer preacher curl"
+  ],
+  "family": "curl",
+  "variantGroup": "Preacher",
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "pull",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Place the upper part of both arms on top of the preacher bench as you hold a dumbbell in each hand with the palms facing each other (neutral grip).",
+    "As you breathe in, slowly lower the dumbbells until your upper arm is extended and the biceps is fully stretched.",
+    "As you exhale, use the biceps to curl the weight up until your biceps is fully contracted and the dumbbells are at shoulder height.",
+    "Squeeze the biceps hard for a second at the contracted position and repeat for the recommended amount of repetitions."
+  ],
+  "images": [
+    "preacher-hammer-dumbbell-curl/0.jpg",
+    "preacher-hammer-dumbbell-curl/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=_GziHDdJY10",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Preacher_Hammer_Dumbbell_Curl"
+  }
+}

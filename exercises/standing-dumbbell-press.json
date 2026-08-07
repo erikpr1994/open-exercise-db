@@ -1,0 +1,38 @@
+{
+  "id": "standing-dumbbell-press",
+  "name": "Standing Dumbbell Press",
+  "aliases": [
+    "dumbbell shoulder press",
+    "standing db press",
+    "dumbbell overhead press"
+  ],
+  "family": "overhead-press",
+  "variantGroup": "Dumbbell",
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "triceps"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Standing with your feet shoulder width apart, take a dumbbell in each hand. Raise the dumbbells to head height, the elbows out and about 90 degrees. This will be your starting position.",
+    "Maintaining strict technique with no leg drive or leaning back, extend through the elbow to raise the weights together directly above your head.",
+    "Pause, and slowly return the weight to the starting position."
+  ],
+  "images": [
+    "standing-dumbbell-press/0.jpg",
+    "standing-dumbbell-press/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=k6tzKisR3NY",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Standing_Dumbbell_Press"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "split-squats",
+  "name": "Split Squats",
+  "aliases": [
+    "static lunge",
+    "stationary lunge"
+  ],
+  "family": "mobility",
+  "variantGroup": null,
+  "modality": "stretching",
+  "level": "intermediate",
+  "mechanic": null,
+  "force": "push",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "quadriceps"
+  ],
+  "measurementType": "time",
+  "laterality": "unilateral",
+  "instructions": [
+    "Being in a standing position. Jump into a split leg position, with one leg forward and one leg back, flexing the knees and lowering your hips slightly as you do so.",
+    "As you descend, immediately reverse direction, standing back up and jumping, reversing the position of your legs. Repeat 5-10 times on each leg."
+  ],
+  "images": [
+    "split-squats/0.jpg",
+    "split-squats/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=o7yFuIR9XVU",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Split_Squats"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "machine-shoulder-military-press",
+  "name": "Machine Shoulder (Military) Press",
+  "aliases": [
+    "machine ohp",
+    "shoulder press machine"
+  ],
+  "family": "overhead-press",
+  "variantGroup": "Machine/Smith",
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "triceps"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Sit down on the Shoulder Press Machine and select the weight.",
+    "Grab the handles to your sides as you keep the elbows bent and in line with your torso. This will be your starting position.",
+    "Now lift the handles as you exhale and you extend the arms fully. At the top of the position make sure that you hold the contraction for a second.",
+    "Lower the handles slowly back to the starting position as you inhale.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "images": [
+    "machine-shoulder-military-press/0.jpg",
+    "machine-shoulder-military-press/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=6v4nrRVySj0",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Machine_Shoulder_Military_Press"
+  }
+}

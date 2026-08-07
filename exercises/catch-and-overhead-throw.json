@@ -1,0 +1,35 @@
+{
+  "id": "catch-and-overhead-throw",
+  "name": "Catch and Overhead Throw",
+  "family": "throw-slam",
+  "variantGroup": null,
+  "modality": "plyometrics",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "medicine ball",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "chest",
+    "shoulders"
+  ],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Begin standing while facing a wall or a partner.",
+    "Using both hands, position the ball behind your head, stretching as much as possible, and forcefully throw the ball forward.",
+    "Ensure that you follow your throw through, being prepared to receive your rebound from your throw. If you are throwing against the wall, make sure that you stand close enough to the wall to receive the rebound, and aim a little higher than you would with a partner."
+  ],
+  "images": [
+    "catch-and-overhead-throw/0.jpg",
+    "catch-and-overhead-throw/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=Uvtb5eiLgTk",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Catch_and_Overhead_Throw"
+  }
+}

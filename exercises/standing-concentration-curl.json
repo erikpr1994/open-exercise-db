@@ -1,0 +1,37 @@
+{
+  "id": "standing-concentration-curl",
+  "name": "Standing Concentration Curl",
+  "aliases": [
+    "concentration curl"
+  ],
+  "family": "curl",
+  "variantGroup": "Concentration",
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "pull",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Taking a dumbbell in your working hand, lean forward. Allow your working arm to hang perpendicular to the ground with the elbow pointing out. This will be your starting position.",
+    "Flex the elbow to curl the weight, keeping the upper arm stationary. At the top of the repetition, flex the biceps and pause.",
+    "Lower the dumbbell back to the starting position.",
+    "Repeat the movement for the prescribed amount of repetitions."
+  ],
+  "images": [
+    "standing-concentration-curl/0.jpg",
+    "standing-concentration-curl/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=I_bKCYL2nL8",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Standing_Concentration_Curl"
+  }
+}

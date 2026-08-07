@@ -1,0 +1,31 @@
+{
+  "id": "forward-travelling-pogo",
+  "name": "Forward Travelling Pogo",
+  "aliases": [
+    "pogo jump",
+    "pogo hops"
+  ],
+  "family": "pogo",
+  "variantGroup": null,
+  "modality": "plyometrics",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "force": "push",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [
+    "quadriceps",
+    "glutes"
+  ],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Adopt a stiff double-leg pogo position on the balls of the feet.",
+    "Bounce continuously while travelling forward in small increments, keeping each ground contact brief and the knees nearly locked.",
+    "Lean slightly forward and let the ankles propel you ahead."
+  ],
+  "images": [],
+  "video": null
+}

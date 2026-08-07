@@ -1,0 +1,40 @@
+{
+  "id": "incline-push-up-medium",
+  "name": "Incline Push-Up Medium",
+  "aliases": [
+    "incline pushup medium grip"
+  ],
+  "family": "push-up",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "shoulders",
+    "triceps"
+  ],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Stand facing a Smith machine bar or sturdy elevated platform at an appropriate height.",
+    "Place your hands on the bar, with your hands about shoulder width apart.",
+    "Position your feet back from the bar with arms and body straight. This will be your starting position.",
+    "Keeping your body straight, lower your chest to the bar by bending the arms.",
+    "Return to the starting position by extending the elbows, pressing yourself back up."
+  ],
+  "images": [
+    "incline-push-up-medium/0.jpg",
+    "incline-push-up-medium/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=xDCOHZ0PkF0",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Incline_Push-Up_Medium"
+  }
+}

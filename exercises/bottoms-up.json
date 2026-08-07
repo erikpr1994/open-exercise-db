@@ -1,0 +1,31 @@
+{
+  "id": "bottoms-up",
+  "name": "Bottoms Up",
+  "family": "crunch",
+  "variantGroup": "Floor",
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "pull",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Begin by lying on your back on the ground. Your legs should be straight and your arms at your side. This will be your starting position.",
+    "To perform the movement, tuck the knees toward your chest by flexing the hips and knees. Following this, extend your legs directly above you so that they are perpendicular to the ground. Rotate and elevate your pelvis to raise your glutes from the floor.",
+    "After a brief pause, return to the starting position."
+  ],
+  "images": [
+    "bottoms-up/0.jpg",
+    "bottoms-up/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=KW_Imfnb-Xo",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Bottoms_Up"
+  }
+}

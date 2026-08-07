@@ -1,0 +1,35 @@
+{
+  "id": "wind-sprints",
+  "name": "Wind Sprints",
+  "aliases": [
+    "sprints"
+  ],
+  "family": "leg-raise",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "pull",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Hang from a pull-up bar using a pronated grip. Your arms and legs should be extended. This will be your starting position.",
+    "Begin by quickly raising one knee as high as you can. Do not swing your body or your legs. 3",
+    "Immediately reverse the motion, returning that leg to the starting position. Simultaneously raise the opposite knee as high as possible.",
+    "Continue alternating between legs until the set is complete."
+  ],
+  "images": [
+    "wind-sprints/0.jpg",
+    "wind-sprints/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=zAMFp1BHmC0",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Wind_Sprints"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "one-handed-hang",
+  "name": "One Handed Hang",
+  "aliases": [
+    "dead hang one arm"
+  ],
+  "family": "back-lat-stretch",
+  "variantGroup": null,
+  "modality": "stretching",
+  "level": "beginner",
+  "mechanic": null,
+  "force": "static",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "biceps"
+  ],
+  "measurementType": "time",
+  "laterality": "unilateral",
+  "instructions": [
+    "Grab onto a chinup bar with one hand, using a pronated grip. Keep your feet on the floor or a step. Allow the majority of your weight to hang from that hand, while keeping your feet on the ground. Hold for 10-20 seconds and switch sides."
+  ],
+  "images": [
+    "one-handed-hang/0.jpg",
+    "one-handed-hang/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=CXiAwW1lMhs",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "One_Handed_Hang"
+  }
+}

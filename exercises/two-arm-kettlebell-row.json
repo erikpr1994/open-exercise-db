@@ -1,0 +1,33 @@
+{
+  "id": "two-arm-kettlebell-row",
+  "name": "Two-Arm Kettlebell Row",
+  "family": "row",
+  "variantGroup": "Dumbbell",
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "pull",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "lats"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Place two kettlebells in front of your feet. Bend your knees slightly and then push your butt out as much as possible as you bend over to get in the starting position.",
+    "Grab both kettlebells and pull them to your stomach, retracting your shoulder blades and flexing the elbows. Keep your back straight. Lower and repeat."
+  ],
+  "images": [
+    "two-arm-kettlebell-row/0.jpg",
+    "two-arm-kettlebell-row/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=OfVawCCJJQM",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Two-Arm_Kettlebell_Row"
+  }
+}

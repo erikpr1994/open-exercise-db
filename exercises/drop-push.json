@@ -1,0 +1,34 @@
+{
+  "id": "drop-push",
+  "name": "Drop Push",
+  "family": "push-up",
+  "variantGroup": null,
+  "modality": "plyometrics",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Position low boxes or other platforms 2-3 feet apart.",
+    "Move to a pushup position between them, supporting yourself by placing your hands on the boxes.",
+    "With good posture, drop from the platforms by pressing up and moving your hands to shoulder width, cushioning your landing by absorbing the impact through the arm."
+  ],
+  "images": [
+    "drop-push/0.jpg",
+    "drop-push/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=w2RlUS4_0sk",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Drop_Push"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "cable-deadlifts",
+  "name": "Cable Deadlifts",
+  "family": "deadlift",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "pull",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "forearms",
+    "glutes",
+    "hamstrings",
+    "lower back"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Move the cables to the bottom of the towers and select an appropriate weight. Stand directly in between the uprights.",
+    "To begin, squat down be flexing your hips and knees until you can reach the handles.",
+    "After grasping them, begin your ascent. Driving through your heels extend your hips and knees keeping your hands hanging at your side. Keep your head and chest up throughout the movement.",
+    "After reaching a full standing position, Return to the starting position and repeat."
+  ],
+  "images": [
+    "cable-deadlifts/0.jpg",
+    "cable-deadlifts/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=A9OxBT-6Mw0",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Cable_Deadlifts"
+  }
+}

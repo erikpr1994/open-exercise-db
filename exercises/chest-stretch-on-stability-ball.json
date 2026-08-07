@@ -1,0 +1,31 @@
+{
+  "id": "chest-stretch-on-stability-ball",
+  "name": "Chest Stretch on Stability Ball",
+  "family": "chest-shoulder-stretch",
+  "variantGroup": null,
+  "modality": "stretching",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "static",
+  "equipment": "exercise ball",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Get on your hands and knees next to an exercise ball.",
+    "Place your elbows on top of the ball, keeping your arm out to your side. This will be your starting position.",
+    "Lower your torso towards the floor, keeping your elbow on top of the ball. Hold the stretch for 20-30 seconds, and repeat with the other arm."
+  ],
+  "images": [
+    "chest-stretch-on-stability-ball/0.jpg",
+    "chest-stretch-on-stability-ball/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=_wLaGrH0dXM",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Chest_Stretch_on_Stability_Ball"
+  }
+}

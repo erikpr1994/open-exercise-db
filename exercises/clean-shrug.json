@@ -1,0 +1,33 @@
+{
+  "id": "clean-shrug",
+  "name": "Clean Shrug",
+  "family": "olympic-pull",
+  "variantGroup": null,
+  "modality": "olympic weightlifting",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "pull",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "traps"
+  ],
+  "secondaryMuscles": [
+    "forearms",
+    "shoulders"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Begin with a shoulder width, double overhand or hook grip, with the bar hanging at the mid thigh position. Your back should be straight and inclined slightly forward.",
+    "Shrug your shoulders towards your ears. While this exercise can usually by loaded with heavier weight than a clean, avoid overloading to the point that the execution slows down."
+  ],
+  "images": [
+    "clean-shrug/0.jpg",
+    "clean-shrug/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=rFsSeClGnNA",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Clean_Shrug"
+  }
+}

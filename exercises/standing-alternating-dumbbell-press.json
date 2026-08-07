@@ -1,0 +1,38 @@
+{
+  "id": "standing-alternating-dumbbell-press",
+  "name": "Standing Alternating Dumbbell Press",
+  "aliases": [
+    "alternating dumbbell shoulder press",
+    "alternating db press"
+  ],
+  "family": "overhead-press",
+  "variantGroup": "Dumbbell",
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "triceps"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "unilateral",
+  "instructions": [
+    "Stand with a dumbbell in each hand. Raise the dumbbells to your shoulders with your palms facing forward and your elbows pointed out. This will be your starting position.",
+    "Extend one arm to press the dumbbell straight up, keeping your off hand in place. Do not lean or jerk the weight during the movement.",
+    "After a brief pause, return the weight to the starting position.",
+    "Repeat for the opposite side, continuing to alternate between arms."
+  ],
+  "images": [
+    "standing-alternating-dumbbell-press/0.jpg",
+    "standing-alternating-dumbbell-press/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=k6tzKisR3NY",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Standing_Alternating_Dumbbell_Press"
+  }
+}

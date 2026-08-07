@@ -1,0 +1,37 @@
+{
+  "id": "standing-hip-circles",
+  "name": "Standing Hip Circles",
+  "aliases": [
+    "hip circles"
+  ],
+  "family": "mobility",
+  "variantGroup": null,
+  "modality": "stretching",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "pull",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abductors"
+  ],
+  "secondaryMuscles": [
+    "adductors"
+  ],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Begin standing on one leg, holding to a vertical support.",
+    "Raise the unsupported knee to 90 degrees. This will be your starting position.",
+    "Open the hip as far as possible, attempting to make a big circle with your knee.",
+    "Perform this movement slowly for a number of repetitions, and repeat on the other side."
+  ],
+  "images": [
+    "standing-hip-circles/0.jpg",
+    "standing-hip-circles/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=x-5h_QUOem8",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Standing_Hip_Circles"
+  }
+}

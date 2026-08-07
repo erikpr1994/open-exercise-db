@@ -1,0 +1,41 @@
+{
+  "id": "suspended-fallout",
+  "name": "Suspended Fallout",
+  "aliases": [
+    "trx fallout",
+    "trx rollout"
+  ],
+  "family": "crunch",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "force": "pull",
+  "equipment": "suspension trainer",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "lower back",
+    "shoulders"
+  ],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Adjust the straps so the handles are at an appropriate height, below waist level.",
+    "Begin standing and grasping the handles. Lean into the straps, moving to an incline push-up position. This will be your starting position.",
+    "Keeping your arms straight, lean further into the suspension straps, bringing your body closer to the ground, allowing your shoulders to extend, raising your arms up and over your head.",
+    "Maintain a neutral spine and keep the rest of your body straight, your shoulders being the only joints allowed to move.",
+    "Pause during the peak contraction, and then return to the starting position."
+  ],
+  "images": [
+    "suspended-fallout/0.jpg",
+    "suspended-fallout/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=6BhEdyTQLfo",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Suspended_Fallout"
+  }
+}

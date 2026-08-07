@@ -1,0 +1,35 @@
+{
+  "id": "seated-calf-stretch",
+  "name": "Seated Calf Stretch",
+  "family": "calf-ankle-stretch",
+  "variantGroup": null,
+  "modality": "stretching",
+  "level": "beginner",
+  "mechanic": null,
+  "force": "static",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "lower back"
+  ],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Sit up straight on an exercise mat.",
+    "Bend one knee and put that foot on the floor to stabilize the torso.",
+    "Straighten your other leg and flex your ankle.",
+    "Using a band, towel, or your hand if you can reach, pull the toes toward you. Hold for 10 to 20 seconds, then switch sides."
+  ],
+  "images": [
+    "seated-calf-stretch/0.jpg",
+    "seated-calf-stretch/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=7SO6QzfBRaE",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Seated_Calf_Stretch"
+  }
+}

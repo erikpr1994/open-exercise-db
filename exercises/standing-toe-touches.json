@@ -1,0 +1,36 @@
+{
+  "id": "standing-toe-touches",
+  "name": "Standing Toe Touches",
+  "aliases": [
+    "toe touch",
+    "standing forward fold"
+  ],
+  "family": "hamstring-stretch",
+  "variantGroup": null,
+  "modality": "stretching",
+  "level": "beginner",
+  "mechanic": null,
+  "force": "static",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "calves"
+  ],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Stand with some space in front and behind you.",
+    "Bend at the waist, keeping your legs straight, until you can relax and let your upper body hang down in front of you. Let your arms and hands hang down naturally. Hold for 10 to 20 seconds."
+  ],
+  "images": [
+    "standing-toe-touches/0.jpg",
+    "standing-toe-touches/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=2nfsR9PC7hQ",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Standing_Toe_Touches"
+  }
+}

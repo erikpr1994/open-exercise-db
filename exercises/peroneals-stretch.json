@@ -1,0 +1,33 @@
+{
+  "id": "peroneals-stretch",
+  "name": "Peroneals Stretch",
+  "aliases": [
+    "peroneal stretch"
+  ],
+  "family": "calf-ankle-stretch",
+  "variantGroup": null,
+  "modality": "stretching",
+  "level": "intermediate",
+  "mechanic": null,
+  "force": "static",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "In a seated position, loop a belt, rope, or band around one foot. This will be your starting position.",
+    "With the leg extended and the heel off of the ground, pull on the belt so that the foot is inverted, with the inside of the foot being pulled towards you. Hold for 10-20 seconds, and then switch sides."
+  ],
+  "images": [
+    "peroneals-stretch/0.jpg",
+    "peroneals-stretch/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=dEJgPRgsnnY",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Peroneals_Stretch"
+  }
+}

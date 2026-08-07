@@ -1,0 +1,40 @@
+{
+  "id": "see-saw-press-alternating-side-press",
+  "name": "See-Saw Press (Alternating Side Press)",
+  "aliases": [
+    "seesaw press",
+    "alternating side press"
+  ],
+  "family": "overhead-press",
+  "variantGroup": "Dumbbell",
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "triceps"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "unilateral",
+  "instructions": [
+    "Grab a dumbbell with each hand and stand up erect.",
+    "Clean (lift) the dumbbells to the chest/shoulder level and then rotate your wrists so that your palms are facing towards you as if you were getting ready to perform an Arnold Press. This will be your starting position.",
+    "Now start extending your left arm overhead as you rotate the wrist so that the palm of your hand faces forward as you go up. Your elbows should come out also as you lift the weight. Simultaneously, you will also be bending from your hip to your opposite side. Tip: If you perform the exercise correctly, is should look as if you are trying to reach for something overhead on the right hand side of your body, but with your left arm. Breathe out as you perform this movement.",
+    "Once you reach the top position breathe in. Then, with the weight fully extended overhead and you bent over to your right hand side, begin the movement to the left side.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "images": [
+    "see-saw-press-alternating-side-press/0.jpg",
+    "see-saw-press-alternating-side-press/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=mU22P6R4vKo",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "See-Saw_Press_Alternating_Side_Press"
+  }
+}

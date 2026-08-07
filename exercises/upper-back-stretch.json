@@ -1,0 +1,29 @@
+{
+  "id": "upper-back-stretch",
+  "name": "Upper Back Stretch",
+  "family": "back-lat-stretch",
+  "variantGroup": null,
+  "modality": "stretching",
+  "level": "beginner",
+  "mechanic": null,
+  "force": "static",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Clasp fingers together with your thumbs pointing down, round your shoulders as you reach your hands forward."
+  ],
+  "images": [
+    "upper-back-stretch/0.jpg",
+    "upper-back-stretch/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=xwARWc7-TB8",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Upper_Back_Stretch"
+  }
+}

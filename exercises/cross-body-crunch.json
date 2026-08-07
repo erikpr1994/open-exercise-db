@@ -1,0 +1,33 @@
+{
+  "id": "cross-body-crunch",
+  "name": "Cross-Body Crunch",
+  "family": "crunch",
+  "variantGroup": "Oblique/Twist",
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "pull",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Lie flat on your back and bend your knees about 60 degrees.",
+    "Keep your feet flat on the floor and place your hands loosely behind your head. This will be your starting position.",
+    "Now curl up and bring your right elbow and shoulder across your body while bring your left knee in toward your left shoulder at the same time. Reach with your elbow and try to touch your knee. Exhale as you perform this movement. Tip: Try to bring your shoulder up towards your knee rather than just your elbow and remember that the key is to contract the abs as you perform the movement; not just to move the elbow.",
+    "Now go back down to the starting position as you inhale and repeat with the left elbow and the right knee.",
+    "Continue alternating in this manner until all prescribed repetitions are done."
+  ],
+  "images": [
+    "cross-body-crunch/0.jpg",
+    "cross-body-crunch/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=cDIYH5rH0qU",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Cross-Body_Crunch"
+  }
+}

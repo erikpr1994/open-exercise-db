@@ -1,0 +1,38 @@
+{
+  "id": "incline-push-up",
+  "name": "Incline Push-Up",
+  "aliases": [
+    "incline pushup",
+    "elevated push up"
+  ],
+  "family": "push-up",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Stand facing bench or sturdy elevated platform. Place hands on edge of bench or platform, slightly wider than shoulder width.",
+    "Position forefoot back from bench or platform with arms and body straight. Arms should be perpendicular to body. Keeping body straight, lower chest to edge of box or platform by bending arms.",
+    "Push body up until arms are extended. Repeat."
+  ],
+  "images": [
+    "incline-push-up/0.jpg",
+    "incline-push-up/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=uYSmTpi32a4",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Incline_Push-Up"
+  }
+}

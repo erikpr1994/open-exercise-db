@@ -1,0 +1,34 @@
+{
+  "id": "barbell-seated-calf-raise",
+  "name": "Barbell Seated Calf Raise",
+  "family": "calf-raise",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "push",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [],
+  "measurementType": "weight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Place a block about 12 inches in front of a flat bench.",
+    "Sit on the bench and place the ball of your feet on the block.",
+    "Have someone place a barbell over your upper thighs about 3 inches above your knees and hold it there. This will be your starting position.",
+    "Raise up on your toes as high as possible as you squeeze the calves and as you breathe out.",
+    "After a second contraction, slowly go back to the starting position. Tip: To get maximum benefit stretch your calves as far as you can.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "images": [
+    "barbell-seated-calf-raise/0.jpg",
+    "barbell-seated-calf-raise/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=baEXLy09Ncc",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Barbell_Seated_Calf_Raise"
+  }
+}

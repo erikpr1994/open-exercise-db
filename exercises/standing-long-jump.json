@@ -1,0 +1,40 @@
+{
+  "id": "standing-long-jump",
+  "name": "Standing Long Jump",
+  "aliases": [
+    "broad jump",
+    "standing broad jump"
+  ],
+  "family": "broad-long-jump",
+  "variantGroup": null,
+  "modality": "plyometrics",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings"
+  ],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "This drill is best done in sand or other soft landing surface. Ensure that you are able to measure distance. Stand in a partial squat stance with feet shoulder width apart.",
+    "Utilizing a big arm swing and a countermovement of the legs, jump forward as far as you can.",
+    "Attempt to land with your feet out in front you, reaching as far as possible with your legs.",
+    "Measure the distance from your landing point to the starting point and track results."
+  ],
+  "images": [
+    "standing-long-jump/0.jpg",
+    "standing-long-jump/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=bOU_G9qRV6s",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Standing_Long_Jump"
+  }
+}

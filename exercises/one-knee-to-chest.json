@@ -1,0 +1,35 @@
+{
+  "id": "one-knee-to-chest",
+  "name": "One Knee To Chest",
+  "family": "back-lat-stretch",
+  "variantGroup": null,
+  "modality": "stretching",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "static",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "lower back"
+  ],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Start off by lying on the floor.",
+    "Extend one leg straight and pull the other knee to your chest. Hold under the knee joint to protect the kneecap.",
+    "Gently tug that knee toward your nose.",
+    "Switch sides. This stretches the buttocks and lower back of the bent leg and the hip flexor of the straight leg."
+  ],
+  "images": [
+    "one-knee-to-chest/0.jpg",
+    "one-knee-to-chest/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=S1_eZIIZlIc",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "One_Knee_To_Chest"
+  }
+}

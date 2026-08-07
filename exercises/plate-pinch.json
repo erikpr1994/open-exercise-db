@@ -1,0 +1,37 @@
+{
+  "id": "plate-pinch",
+  "name": "Plate Pinch",
+  "aliases": [
+    "plate pinch grip",
+    "pinch grip hold"
+  ],
+  "family": "forearm-grip",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "force": "static",
+  "equipment": "weight plate",
+  "primaryMuscles": [
+    "forearms"
+  ],
+  "secondaryMuscles": [],
+  "measurementType": "weighted_time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Grab two wide-rimmed plates and put them together with the smooth sides facing outward",
+    "Use your fingers to grip the outside part of the plate and your thumb for the other side thus holding both plates together. This is the starting position.",
+    "Squeeze the plate with your fingers and thumb. Hold this position for as long as you can.",
+    "Repeat for the recommended amount of sets prescribed in your program.",
+    "Switch arms and repeat the movements."
+  ],
+  "images": [
+    "plate-pinch/0.jpg",
+    "plate-pinch/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=3DziydWcO2c",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Plate_Pinch"
+  }
+}

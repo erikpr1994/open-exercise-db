@@ -1,0 +1,34 @@
+{
+  "id": "single-leg-high-box-squat",
+  "name": "Single-Leg High Box Squat",
+  "family": "squat",
+  "variantGroup": "Split & Single-Leg",
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings"
+  ],
+  "measurementType": "reps",
+  "laterality": "unilateral",
+  "instructions": [
+    "Position a box in a rack. Secure a band or rope in place above the box.",
+    "Standing in front of it, step onto the box to a full standing position, letting your other leg remain unsupported. Hold onto the band for balance",
+    ". Continue stepping up and down on the same leg before switching to the opposite side."
+  ],
+  "images": [
+    "single-leg-high-box-squat/0.jpg",
+    "single-leg-high-box-squat/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=A9OxBT-6Mw0",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Single-Leg_High_Box_Squat"
+  }
+}

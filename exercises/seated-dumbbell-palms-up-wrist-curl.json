@@ -1,0 +1,35 @@
+{
+  "id": "seated-dumbbell-palms-up-wrist-curl",
+  "name": "Seated Dumbbell Palms-Up Wrist Curl",
+  "family": "wrist-curl",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "pull",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "forearms"
+  ],
+  "secondaryMuscles": [],
+  "measurementType": "weight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Start out by placing two dumbbells on the floor in front of a flat bench.",
+    "Sit down on the edge of the flat bench with your legs at about shoulder width apart. Make sure to keep your feet on the floor.",
+    "Use your arms to grab both of the dumbbells and bring them up so that your forearms are resting against your thighs with the palms of the hands facing up. Your wrists should be hanging over the edge of your thighs.",
+    "Start out by curling your wrist upwards and exhaling.",
+    "Slowly lower your wrists back down to the starting position while inhaling. Make sure to inhale during this part of the exercise. Tip: Your forearms should be stationary as your wrist is the only movement needed to perform this exercise.",
+    "Repeat for the recommended amount of repetitions.",
+    "When finished, simply lower the dumbbells to the floor."
+  ],
+  "images": [
+    "seated-dumbbell-palms-up-wrist-curl/0.jpg",
+    "seated-dumbbell-palms-up-wrist-curl/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=sKXqNO2KQp8",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Seated_Dumbbell_Palms-Up_Wrist_Curl"
+  }
+}

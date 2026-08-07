@@ -1,0 +1,37 @@
+{
+  "id": "bodyweight-squat",
+  "name": "Bodyweight Squat",
+  "aliases": [
+    "air squat"
+  ],
+  "family": "squat",
+  "variantGroup": "Barbell",
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings"
+  ],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Stand with your feet shoulder width apart. You can place your hands behind your head. This will be your starting position.",
+    "Begin the movement by flexing your knees and hips, sitting back with your hips.",
+    "Continue down to full depth if you are able,and quickly reverse the motion until you return to the starting position. As you squat, keep your head and chest up and push your knees out."
+  ],
+  "images": [
+    "bodyweight-squat/0.jpg",
+    "bodyweight-squat/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=eFEVKmp3M4g",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Bodyweight_Squat"
+  }
+}

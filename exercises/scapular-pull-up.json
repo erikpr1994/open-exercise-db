@@ -1,0 +1,37 @@
+{
+  "id": "scapular-pull-up",
+  "name": "Scapular Pull-Up",
+  "aliases": [
+    "scap pull-up"
+  ],
+  "family": "scapular-raise",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "pull",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "traps"
+  ],
+  "secondaryMuscles": [
+    "lats",
+    "middle back"
+  ],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Take a pronated grip on a pull-up bar.",
+    "From a hanging position, raise yourself a few inches without using your arms. Do this by depressing your shoulder girdle in a reverse shrugging motion.",
+    "Pause at the completion of the movement, and then slowly return to the starting position before performing more repetitions."
+  ],
+  "images": [
+    "scapular-pull-up/0.jpg",
+    "scapular-pull-up/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=WqCXcFrA1Iw",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Scapular_Pull-Up"
+  }
+}

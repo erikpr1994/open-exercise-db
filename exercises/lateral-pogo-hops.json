@@ -1,0 +1,26 @@
+{
+  "id": "lateral-pogo-hops",
+  "name": "Lateral Pogo Hops",
+  "family": "pogo",
+  "variantGroup": null,
+  "modality": "plyometrics",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "force": "push",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "quadriceps"
+  ],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Start in a stiff pogo stance on the balls of both feet.",
+    "Bounce continuously side to side, covering small distances laterally while keeping the knees nearly straight and ground contacts brief and springy."
+  ],
+  "images": [],
+  "video": null
+}

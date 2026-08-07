@@ -1,0 +1,30 @@
+{
+  "id": "one-arm-against-wall",
+  "name": "One Arm Against Wall",
+  "family": "chest-shoulder-stretch",
+  "variantGroup": null,
+  "modality": "stretching",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "static",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [],
+  "measurementType": "time",
+  "laterality": "unilateral",
+  "instructions": [
+    "From a standing position, place a bent arm against a wall or doorway.",
+    "Slowly lean toward your arm until you feel a stretch in your lats."
+  ],
+  "images": [
+    "one-arm-against-wall/0.jpg",
+    "one-arm-against-wall/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=wYy32uk4Bu8",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "One_Arm_Against_Wall"
+  }
+}

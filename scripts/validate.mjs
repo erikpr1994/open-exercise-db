@@ -193,7 +193,8 @@ for (const entry of exercises) {
   checkAliases(entry);
 }
 
-checkUniqueIds([...exercises, ...families]);
+checkUniqueIds(exercises);
+checkUniqueIds(families);
 
 console.log(
   `Validated ${exercises.length} exercise file(s) and ${families.length} family file(s).`,

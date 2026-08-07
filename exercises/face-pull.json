@@ -1,0 +1,31 @@
+{
+  "id": "face-pull",
+  "name": "Face Pull",
+  "family": "face-pull",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "pull",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "middle back"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Facing a high pulley with a rope or dual handles attached, pull the weight directly towards your face, separating your hands as you do so. Keep your upper arms parallel to the ground."
+  ],
+  "images": [
+    "face-pull/0.jpg",
+    "face-pull/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=IeOqdw9WI90",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Face_Pull"
+  }
+}

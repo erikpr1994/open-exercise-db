@@ -1,0 +1,39 @@
+{
+  "id": "reverse-hyperextension",
+  "name": "Reverse Hyperextension",
+  "aliases": [
+    "reverse hyper"
+  ],
+  "family": "hip-extension",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": null,
+  "force": "pull",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Place your feet between the pads after loading an appropriate weight. Lay on the top pad, allowing your hips to hang off the back, while grasping the handles to hold your position.",
+    "To begin the movement, flex the hips, pulling the legs forward.",
+    "Reverse the motion by extending the hips, kicking the leg back. It is very important not to over-extend the hip on this movement, stopping short of your full range of motion.",
+    "Return by again flexing the hip, pulling the carriage forward as far as you can.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "images": [
+    "reverse-hyperextension/0.jpg",
+    "reverse-hyperextension/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=aPry6gsMU5I",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Reverse_Hyperextension"
+  }
+}

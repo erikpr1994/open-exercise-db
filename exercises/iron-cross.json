@@ -1,0 +1,34 @@
+{
+  "id": "iron-cross",
+  "name": "Iron Cross",
+  "family": null,
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "glutes",
+    "hamstrings",
+    "lower back",
+    "quadriceps",
+    "traps"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "bilateral",
+  "instructions": [],
+  "images": [
+    "iron-cross/0.jpg",
+    "iron-cross/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=cYLucJwoiFI",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Iron_Cross"
+  }
+}

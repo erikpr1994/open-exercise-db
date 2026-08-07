@@ -1,0 +1,32 @@
+{
+  "id": "side-bridge",
+  "name": "Side Bridge",
+  "aliases": [
+    "side plank"
+  ],
+  "family": "side-bridge",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": null,
+  "force": "static",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [],
+  "images": [
+    "side-bridge/0.jpg",
+    "side-bridge/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=OVuNi3lbhjM",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Side_Bridge"
+  }
+}

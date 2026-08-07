@@ -1,0 +1,30 @@
+{
+  "id": "side-neck-stretch",
+  "name": "Side Neck Stretch",
+  "family": "neck-stretch",
+  "variantGroup": null,
+  "modality": "stretching",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "static",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "neck"
+  ],
+  "secondaryMuscles": [],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Start with your shoulders relaxed, gently tilt your head towards your shoulder.",
+    "Assist stretch with a gentle pull on the side of the head."
+  ],
+  "images": [
+    "side-neck-stretch/0.jpg",
+    "side-neck-stretch/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=6Tr3GLfySYo",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Side_Neck_Stretch"
+  }
+}

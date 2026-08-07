@@ -1,0 +1,33 @@
+{
+  "id": "dumbbell-scaption",
+  "name": "Dumbbell Scaption",
+  "family": "lateral-raise",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "push",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "traps"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "This corrective exercise strengthens the muscles that stabilize your shoulder blade. Hold a light weight in each hand, hanging at your sides. Your thumbs should pointing up.",
+    "Begin the movement raising your arms out in front of you, about 30 degrees off center. Your arms should be fully extended as you perform the movement.",
+    "Continue until your arms are parallel to the ground, and then return to the starting position."
+  ],
+  "images": [
+    "dumbbell-scaption/0.jpg",
+    "dumbbell-scaption/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=JIhbYYA1Q90",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Dumbbell_Scaption"
+  }
+}

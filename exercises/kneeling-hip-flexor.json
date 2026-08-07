@@ -1,0 +1,30 @@
+{
+  "id": "kneeling-hip-flexor",
+  "name": "Kneeling Hip Flexor",
+  "family": "quad-hip-flexor-stretch",
+  "variantGroup": null,
+  "modality": "stretching",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "static",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Kneel on a mat and bring your right knee up so the bottom of your foot is on the floor and extend your left leg out behind you so the top of your foot is on the floor.",
+    "Shift your weight forward until you feel a stretch in your hip. Hold for 15 seconds, then repeat for your other side."
+  ],
+  "images": [
+    "kneeling-hip-flexor/0.jpg",
+    "kneeling-hip-flexor/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=ktgtEWGhFd8",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Kneeling_Hip_Flexor"
+  }
+}

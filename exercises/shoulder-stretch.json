@@ -1,0 +1,29 @@
+{
+  "id": "shoulder-stretch",
+  "name": "Shoulder Stretch",
+  "family": "chest-shoulder-stretch",
+  "variantGroup": null,
+  "modality": "stretching",
+  "level": "beginner",
+  "mechanic": null,
+  "force": "pull",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Reach your left arm across your body and hold it straight."
+  ],
+  "images": [
+    "shoulder-stretch/0.jpg",
+    "shoulder-stretch/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=G0HMOiI-kFg",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Shoulder_Stretch"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "calf-press",
+  "name": "Calf Press",
+  "family": "calf-raise",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "push",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [],
+  "measurementType": "weight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Adjust the seat so that your legs are only slightly bent in the start position. The balls of your feet should be firmly on the platform.",
+    "Select an appropriate weight, and grasp the handles. This will be your starting position.",
+    "Straighten the legs by extending the knees, just barely lifting the weight from the stack. Your ankle should be fully flexed, toes pointing up. Execute the movement by pressing downward through the balls of your feet as far as possible.",
+    "After a brief pause, reverse the motion and repeat."
+  ],
+  "images": [
+    "calf-press/0.jpg",
+    "calf-press/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=qAQexys5Bv4",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Calf_Press"
+  }
+}

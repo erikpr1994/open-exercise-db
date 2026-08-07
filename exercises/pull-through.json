@@ -1,0 +1,37 @@
+{
+  "id": "pull-through",
+  "name": "Pull Through",
+  "aliases": [
+    "cable pull through",
+    "pull throughs"
+  ],
+  "family": "pull-through",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "pull",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "lower back"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Begin standing a few feet in front of a low pulley with a rope or handle attached. Face away from the machine, straddling the cable, with your feet set wide apart.",
+    "Begin the movement by reaching through your legs as far as possible, bending at the hips. Keep your knees slightly bent. Keeping your arms straight, extend through the hip to stand straight up. Avoid pulling upward through the shoulders; all of the motion should originate through the hips."
+  ],
+  "images": [
+    "pull-through/0.jpg",
+    "pull-through/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=wGFw_9gr7rY",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Pull_Through"
+  }
+}

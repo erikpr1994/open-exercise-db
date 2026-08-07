@@ -1,0 +1,26 @@
+{
+  "id": "ankling-drill",
+  "name": "Ankling Drill",
+  "family": "sprint-drill",
+  "variantGroup": null,
+  "modality": "plyometrics",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "push",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [
+    "hip flexors",
+    "quadriceps"
+  ],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Travel forward with very short, quick steps, dorsiflexing the foot then pawing the ground with the ball of the foot directly under the hip.",
+    "Keep knees almost straight and let the ankles do the work in a rapid, low-amplitude shuffle."
+  ],
+  "images": [],
+  "video": null
+}

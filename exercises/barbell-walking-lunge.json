@@ -1,0 +1,39 @@
+{
+  "id": "barbell-walking-lunge",
+  "name": "Barbell Walking Lunge",
+  "aliases": [
+    "walking lunge"
+  ],
+  "family": "lunge",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Begin standing with your feet shoulder width apart and a barbell across your upper back.",
+    "Step forward with one leg, flexing the knees to drop your hips. Descend until your rear knee nearly touches the ground. Your posture should remain upright, and your front knee should stay above the front foot.",
+    "Drive through the heel of your lead foot and extend both knees to raise yourself back up.",
+    "Step forward with your rear foot, repeating the lunge on the opposite leg."
+  ],
+  "images": [
+    "barbell-walking-lunge/0.jpg",
+    "barbell-walking-lunge/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=BYe4uyGF-h4",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Barbell_Walking_Lunge"
+  }
+}

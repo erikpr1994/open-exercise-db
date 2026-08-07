@@ -1,0 +1,39 @@
+{
+  "id": "trail-running-walking",
+  "name": "Trail Running/Walking",
+  "aliases": [
+    "trail running",
+    "trail run",
+    "trekking"
+  ],
+  "family": "cardio",
+  "variantGroup": null,
+  "modality": "cardio",
+  "level": "beginner",
+  "mechanic": null,
+  "force": null,
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings"
+  ],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Running or hiking on trails will get the blood pumping and heart beating almost immediately. Make sure you have good shoes. While you use the muscles in your calves and buttocks to pull yourself up a hill, the knees, joints and ankles absorb the bulk of the pounding coming back down. Take smaller steps as you walk downhill, keep your knees bent to reduce the impact and slow down to avoid falling.",
+    "A 150 lb person can burn over 200 calories for 30 minutes walking uphill, compared to 175 on a flat surface. If running the trail, a 150 lb person can burn well over 500 calories in 30 minutes."
+  ],
+  "images": [
+    "trail-running-walking/0.jpg",
+    "trail-running-walking/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=1yE03YotYA8",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Trail_Running_Walking"
+  }
+}

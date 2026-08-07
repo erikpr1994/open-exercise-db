@@ -1,0 +1,33 @@
+{
+  "id": "chair-lower-back-stretch",
+  "name": "Chair Lower Back Stretch",
+  "family": "back-lat-stretch",
+  "variantGroup": null,
+  "modality": "stretching",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "static",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "lower back"
+  ],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Sit upright on a chair.",
+    "Bend to one side with your arm over your head. You can hold onto the chair with your free hand.",
+    "Hold for 10 seconds, and repeat for your other side."
+  ],
+  "images": [
+    "chair-lower-back-stretch/0.jpg",
+    "chair-lower-back-stretch/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=upxW1WlptUE",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Chair_Lower_Back_Stretch"
+  }
+}

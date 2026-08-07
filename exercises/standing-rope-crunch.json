@@ -1,0 +1,37 @@
+{
+  "id": "standing-rope-crunch",
+  "name": "Standing Rope Crunch",
+  "aliases": [
+    "cable crunch",
+    "rope crunch",
+    "standing cable crunch"
+  ],
+  "family": "crunch",
+  "variantGroup": "Cable",
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "pull",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "measurementType": "weight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Attach a rope to a high pulley and select an appropriate weight.",
+    "Stand with your back to the cable tower. Take the rope with both hands over your shoulders, holding it to your upper chest. This will be your starting position.",
+    "Perform the movement by flexing the spine, crunching the weight down as far as you can.",
+    "Hold the peak contraction for a moment before returning to the starting position."
+  ],
+  "images": [
+    "standing-rope-crunch/0.jpg",
+    "standing-rope-crunch/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=JzaIPJ8GV_w",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Standing_Rope_Crunch"
+  }
+}

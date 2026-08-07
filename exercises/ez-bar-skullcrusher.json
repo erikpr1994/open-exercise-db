@@ -1,0 +1,39 @@
+{
+  "id": "ez-bar-skullcrusher",
+  "name": "EZ-Bar Skullcrusher",
+  "aliases": [
+    "ez bar skull crusher",
+    "ez bar lying triceps extension",
+    "french press"
+  ],
+  "family": "triceps-extension",
+  "variantGroup": "Skullcrusher/Lying",
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "push",
+  "equipment": "e-z curl bar",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Using a close grip, lift the EZ bar and hold it with your elbows in as you lie on the bench. Your arms should be perpendicular to the floor. This will be your starting position.",
+    "Keeping the upper arms stationary, lower the bar by allowing the elbows to flex. Inhale as you perform this portion of the movement. Pause once the bar is directly above the forehead.",
+    "Lift the bar back to the starting position by extending the elbow and exhaling.",
+    "Repeat."
+  ],
+  "images": [
+    "ez-bar-skullcrusher/0.jpg",
+    "ez-bar-skullcrusher/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=K3mFeNz4e3w",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "EZ-Bar_Skullcrusher"
+  }
+}

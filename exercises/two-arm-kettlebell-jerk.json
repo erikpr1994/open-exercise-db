@@ -1,0 +1,33 @@
+{
+  "id": "two-arm-kettlebell-jerk",
+  "name": "Two-Arm Kettlebell Jerk",
+  "family": "jerk",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "quadriceps",
+    "triceps"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Clean two kettlebells to your shoulders. Clean the kettlebells to your shoulders by extending through the legs and hips as you swing the kettlebells towards your shoulders. Rotate your wrists as you do so, so that the palms face forward. Squat down a few inches and reverse the motion rapidly driving both kettlebells overhead. Immediately after the initial push, squat down again and get under the kettlebells. Once the kettlebells are locked out, stand upright to complete the exercise."
+  ],
+  "images": [
+    "two-arm-kettlebell-jerk/0.jpg",
+    "two-arm-kettlebell-jerk/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=ykyeHMRKQPU",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Two-Arm_Kettlebell_Jerk"
+  }
+}

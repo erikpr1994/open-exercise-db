@@ -1,0 +1,31 @@
+{
+  "id": "pelvic-tilt-into-bridge",
+  "name": "Pelvic Tilt Into Bridge",
+  "family": "glute-bridge",
+  "variantGroup": null,
+  "modality": "stretching",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "static",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "lower back"
+  ],
+  "secondaryMuscles": [],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Lie down with your feet on the floor, heels directly under your knees.",
+    "Lift only your tailbone to the ceiling to stretch your lower back. (Don't lift the entire spine yet.) Pull in your stomach.",
+    "To go into a bridge, lift the entire spine except the neck."
+  ],
+  "images": [
+    "pelvic-tilt-into-bridge/0.jpg",
+    "pelvic-tilt-into-bridge/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=91H5HtIgilg",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Pelvic_Tilt_Into_Bridge"
+  }
+}

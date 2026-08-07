@@ -1,0 +1,36 @@
+{
+  "id": "standing-low-pulley-one-arm-triceps-extension",
+  "name": "Standing Low-Pulley One-Arm Triceps Extension",
+  "family": "triceps-extension",
+  "variantGroup": "Pushdown/Cable",
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "force": "push",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "shoulders"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "unilateral",
+  "instructions": [
+    "Grab a single handle with your left arm next to the low pulley machine. Turn away from the machine keeping the handle to the side of your body with your arm fully extended. Now use both hands to elevate the single handle directly above the head with the palm facing forward. Keep your upper arm completely vertical (perpendicular to the floor) and put your right hand on your left elbow to help keep it steady. This is the starting position.",
+    "Keeping your upper arms close to your head (elbows in) and perpendicular to the floor, lower the resistance in a semicircular motion behind your head until your forearms touch your biceps. Tip: The upper arms should remain stationary and only the forearms should move. Breathe in as you perform this step.",
+    "Go back to the starting position by using the triceps to raise the single handle. Breathe out as you perform this step.",
+    "Repeat for the recommended amount of repetitions.",
+    "Switch arms and repeat the exercise."
+  ],
+  "images": [
+    "standing-low-pulley-one-arm-triceps-extension/0.jpg",
+    "standing-low-pulley-one-arm-triceps-extension/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=9qupVR7pKtk",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Standing_Low-Pulley_One-Arm_Triceps_Extension"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "bench-sprint",
+  "name": "Bench Sprint",
+  "family": "sprint-drill",
+  "variantGroup": null,
+  "modality": "plyometrics",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings"
+  ],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Stand on the ground with one foot resting on a bench or box with your heel close to the edge.",
+    "Push off with your foot on top of the bench, extending through the hip and knee.",
+    "Land with the opposite foot on top of the box, returning your other foot back to the start position.",
+    "Continue alternating from one foot to another to complete the set."
+  ],
+  "images": [
+    "bench-sprint/0.jpg",
+    "bench-sprint/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=aOSa9us68TE",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Bench_Sprint"
+  }
+}

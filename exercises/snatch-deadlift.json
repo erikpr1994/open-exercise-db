@@ -1,0 +1,40 @@
+{
+  "id": "snatch-deadlift",
+  "name": "Snatch Deadlift",
+  "aliases": [
+    "snatch grip deadlift"
+  ],
+  "family": "olympic-pull",
+  "variantGroup": null,
+  "modality": "olympic weightlifting",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "pull",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "forearms",
+    "glutes",
+    "lower back",
+    "quadriceps",
+    "traps"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "The snatch deadlift strengthens the first pull of the snatch. Begin with a wide snatch grip with the barbell placed on the platform. The feet should be directly under the hips, with the feet turned out. Squat down to the bar, keeping the back in absolute extension with the head facing forward.",
+    "Initiate the movement by driving through the heels, raising the hips. The back angle should remain the same until the bar passes the knees.",
+    "At that point, drive your hips through the bar as you lay back. Return the bar to the platform by reversing the motion."
+  ],
+  "images": [
+    "snatch-deadlift/0.jpg",
+    "snatch-deadlift/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=M3gpDIPZ1hQ",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Snatch_Deadlift"
+  }
+}

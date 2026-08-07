@@ -1,0 +1,39 @@
+{
+  "id": "pushups-close-and-wide-hand-positions",
+  "name": "Pushups (Close and Wide Hand Positions)",
+  "aliases": [
+    "push ups close and wide",
+    "varied grip push ups"
+  ],
+  "family": "push-up",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Lie on the floor face down and body straight with your toes on the floor and the hands wider than shoulder width for a wide hand position and closer than shoulder width for a close hand position. Make sure you are holding your torso up at arms length.",
+    "Lower yourself until your chest almost touches the floor as you inhale.",
+    "Using your pectoral muscles, press your upper body back up to the starting position and squeeze your chest. Breathe out as you perform this step.",
+    "After a second pause at the contracted position, repeat the movement for the prescribed amount of repetitions."
+  ],
+  "images": [
+    "pushups-close-and-wide-hand-positions/0.jpg",
+    "pushups-close-and-wide-hand-positions/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=tH62wgyExXg",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Pushups_Close_and_Wide_Hand_Positions"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "farmer-s-walk",
+  "name": "Farmer's Walk",
+  "aliases": [
+    "farmers carry",
+    "farmer carry"
+  ],
+  "family": "carry",
+  "variantGroup": null,
+  "modality": "strongman",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": null,
+  "equipment": "farmer's walk handles",
+  "primaryMuscles": [
+    "forearms"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "glutes",
+    "hamstrings",
+    "lower back",
+    "quadriceps",
+    "traps"
+  ],
+  "measurementType": "weighted_time",
+  "laterality": "bilateral",
+  "instructions": [
+    "There are various implements that can be used for the farmers walk. These can also be performed with heavy dumbbells or short bars if these implements aren't available. Begin by standing between the implements.",
+    "After gripping the handles, lift them up by driving through your heels, keeping your back straight and your head up.",
+    "Walk taking short, quick steps, and don't forget to breathe. Move for a given distance, typically 50-100 feet, as fast as possible."
+  ],
+  "images": [
+    "farmer-s-walk/0.jpg",
+    "farmer-s-walk/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=1uOs1hP3u4A",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Farmers_Walk"
+  }
+}

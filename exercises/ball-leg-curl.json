@@ -1,0 +1,39 @@
+{
+  "id": "ball-leg-curl",
+  "name": "Ball Leg Curl",
+  "aliases": [
+    "stability ball leg curl"
+  ],
+  "family": "leg-curl",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "pull",
+  "equipment": "exercise ball",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes"
+  ],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Begin on the floor laying on your back with your feet on top of the ball.",
+    "Position the ball so that when your legs are extended your ankles are on top of the ball. This will be your starting position.",
+    "Raise your hips off of the ground, keeping your weight on the shoulder blades and your feet.",
+    "Flex the knees, pulling the ball as close to you as you can, contracting the hamstrings.",
+    "After a brief pause, return to the starting position."
+  ],
+  "images": [
+    "ball-leg-curl/0.jpg",
+    "ball-leg-curl/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=_lgE0gPvbik",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Ball_Leg_Curl"
+  }
+}

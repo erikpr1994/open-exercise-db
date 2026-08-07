@@ -1,0 +1,36 @@
+{
+  "id": "one-arm-high-pulley-cable-side-bends",
+  "name": "One-Arm High-Pulley Cable Side Bends",
+  "family": "side-bend",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "pull",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "measurementType": "weight_reps",
+  "laterality": "unilateral",
+  "instructions": [
+    "Connect a standard handle to a tower. Move cable to highest pulley position.",
+    "Stand with side to cable. With one hand, reach up and grab handle with underhand grip.",
+    "Pull down cable until elbow touches your side and the handle is by your shoulder.",
+    "Position feet hip-width apart. Place free hand on hip to help gauge pivot point.",
+    "Keep arm in static position. Contract oblique to bring the weight down in a side crunch.",
+    "Once you reach maximum contraction, slowly release the weight to the starting position. The weight stack should never be unloaded in a resting position. The aim is constant tension during the set.",
+    "Repeat to failure.",
+    "Then, reposition and repeat the same series of movements on the opposite side."
+  ],
+  "images": [
+    "one-arm-high-pulley-cable-side-bends/0.jpg",
+    "one-arm-high-pulley-cable-side-bends/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=uZNhCPxH8r4",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "One-Arm_High-Pulley_Cable_Side_Bends"
+  }
+}

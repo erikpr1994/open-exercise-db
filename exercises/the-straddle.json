@@ -1,0 +1,37 @@
+{
+  "id": "the-straddle",
+  "name": "The Straddle",
+  "aliases": [
+    "straddle stretch",
+    "seated straddle"
+  ],
+  "family": "adductor-groin-stretch",
+  "variantGroup": null,
+  "modality": "stretching",
+  "level": "beginner",
+  "mechanic": null,
+  "force": "static",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "adductors",
+    "calves"
+  ],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Begin in a seated, upright position. Start by extending your legs in front of you in a V.",
+    "With your hands on the floor, lean forward as far as possible. Hold for 10 to 20 seconds."
+  ],
+  "images": [
+    "the-straddle/0.jpg",
+    "the-straddle/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=j4B6Kmi7g5k",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "The_Straddle"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "straight-leg-bound",
+  "name": "Straight-Leg Bound",
+  "aliases": [
+    "straight leg bounds"
+  ],
+  "family": "sprint-drill",
+  "variantGroup": null,
+  "modality": "plyometrics",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "force": "pull",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "calves"
+  ],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Travel forward bounding from foot to foot while keeping the knees nearly locked straight.",
+    "Pull each leg down and back with an active pawing motion, landing on the forefoot under the hip.",
+    "Keep the torso tall and use a stiff, rhythmic arm swing.",
+    "Also known as the dribble drill."
+  ],
+  "images": [],
+  "video": null
+}

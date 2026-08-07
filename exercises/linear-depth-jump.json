@@ -1,0 +1,39 @@
+{
+  "id": "linear-depth-jump",
+  "name": "Linear Depth Jump",
+  "aliases": [
+    "depth jump"
+  ],
+  "family": "box-jump",
+  "variantGroup": null,
+  "modality": "plyometrics",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings"
+  ],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "You will need two boxes or benches spaced a few feet away from each other. Begin by standing on one box facing towards the other platform.",
+    "To initiate the movement, gently drop down to the ground between your platforms, allowing the knees and hips to flex.",
+    "Reverse the motion by exploding, extending through the hips, knees, and ankles to jump onto the other platform.",
+    "Land softly, asborbing the impact through the legs."
+  ],
+  "images": [
+    "linear-depth-jump/0.jpg",
+    "linear-depth-jump/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=bXgFx93CGow",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Linear_Depth_Jump"
+  }
+}

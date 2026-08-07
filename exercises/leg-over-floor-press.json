@@ -1,0 +1,34 @@
+{
+  "id": "leg-over-floor-press",
+  "name": "Leg-Over Floor Press",
+  "family": "floor-press",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Lie on the floor with one kettlebell in place on your chest, holding it by the handle. Extend leg on working side over leg on non-working side.Your free arm can be extended out to your side for support.",
+    "Press the kettlebll into a locked out position.",
+    "Lower the weight until the elbow touches the ground, keeping the kettlebell above the elbow. Repeat for the desired number of repetitions."
+  ],
+  "images": [
+    "leg-over-floor-press/0.jpg",
+    "leg-over-floor-press/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=O1x7AoUf5Vs",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Leg-Over_Floor_Press"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "step-up-with-knee-raise",
+  "name": "Step-up with Knee Raise",
+  "aliases": [
+    "step up knee drive",
+    "step up with knee drive"
+  ],
+  "family": "step-up",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "quadriceps"
+  ],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Stand facing a box or bench of an appropriate height with your feet together. This will be your starting position.",
+    "Begin the movement by stepping up, putting your left foot on the top of the bench. Extend through the hip and knee of your front leg to stand up on the box. As you stand on the box with your left leg, flex your right knee and hip, bringing your knee as high as you can.",
+    "Reverse this motion to step down off the box, and then repeat the sequence on the opposite leg."
+  ],
+  "images": [
+    "step-up-with-knee-raise/0.jpg",
+    "step-up-with-knee-raise/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=8q9LVgN2RD4",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Step-up_with_Knee_Raise"
+  }
+}

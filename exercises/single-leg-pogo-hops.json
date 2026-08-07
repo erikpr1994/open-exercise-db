@@ -1,0 +1,28 @@
+{
+  "id": "single-leg-pogo-hops",
+  "name": "Single-Leg Pogo Hops",
+  "family": "pogo",
+  "variantGroup": null,
+  "modality": "plyometrics",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "force": "push",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [
+    "quadriceps",
+    "glutes"
+  ],
+  "measurementType": "time",
+  "laterality": "unilateral",
+  "instructions": [
+    "Balance on one foot with the knee nearly straight and weight on the ball of the foot.",
+    "Bounce in place continuously off that single foot, driving from the ankle with minimal knee bend and the briefest possible ground contact.",
+    "Keep hips level.",
+    "Repeat on the other leg."
+  ],
+  "images": [],
+  "video": null
+}

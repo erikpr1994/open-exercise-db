@@ -1,0 +1,36 @@
+{
+  "id": "dip-machine",
+  "name": "Dip Machine",
+  "family": "dip",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "shoulders"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Sit securely in a dip machine, select the weight and firmly grasp the handles.",
+    "Now keep your elbows in at your sides in order to place emphasis on the triceps. The elbows should be bent at a 90 degree angle.",
+    "As you contract the triceps, extend your arms downwards as you exhale. Tip: At the bottom of the movement, focus on keeping a little bend in your arms to keep tension on the triceps muscle.",
+    "Now slowly let your arms come back up to the starting position as you inhale.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "images": [
+    "dip-machine/0.jpg",
+    "dip-machine/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=2NOglxsG1wE",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Dip_Machine"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "monster-walk",
+  "name": "Monster Walk",
+  "aliases": [
+    "band monster walk",
+    "lateral band walk"
+  ],
+  "family": "hip-abduction",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "pull",
+  "equipment": "bands",
+  "primaryMuscles": [
+    "abductors"
+  ],
+  "secondaryMuscles": [],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Place a band around both ankles and another around both knees. There should be enough tension that they are tight when your feet are shoulder width apart.",
+    "To begin, take short steps forward alternating your left and right foot.",
+    "After several steps, do just the opposite and walk backward to where you started."
+  ],
+  "images": [
+    "monster-walk/0.jpg",
+    "monster-walk/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=TeyfkdXAgUg",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Monster_Walk"
+  }
+}

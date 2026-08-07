@@ -1,0 +1,36 @@
+{
+  "id": "reverse-machine-flyes",
+  "name": "Reverse Machine Flyes",
+  "aliases": [
+    "rear delt machine",
+    "pec deck rear delt"
+  ],
+  "family": "reverse-fly",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "pull",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [],
+  "measurementType": "weight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Adjust the handles so that they are fully to the rear. Make an appropriate weight selection and adjust the seat height so the handles are at shoulder level. Grasp the handles with your hands facing inwards. This will be your starting position.",
+    "In a semicircular motion, pull your hands out to your side and back, contracting your rear delts.",
+    "Keep your arms slightly bent throughout the movement, with all of the motion occurring at the shoulder joint.",
+    "Pause at the rear of the movement, and slowly return the weight to the starting position."
+  ],
+  "images": [
+    "reverse-machine-flyes/0.jpg",
+    "reverse-machine-flyes/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=7tgx6QHB0-A",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Reverse_Machine_Flyes"
+  }
+}

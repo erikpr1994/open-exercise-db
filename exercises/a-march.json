@@ -1,0 +1,28 @@
+{
+  "id": "a-march",
+  "name": "A-March",
+  "family": "sprint-drill",
+  "variantGroup": null,
+  "modality": "plyometrics",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "push",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "hip flexors"
+  ],
+  "secondaryMuscles": [
+    "quadriceps",
+    "calves",
+    "glutes"
+  ],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "March forward slowly driving one knee to hip height with the ankle dorsiflexed, then plant the foot down actively under the hip using a forefoot strike.",
+    "Coordinate opposite-arm swing and stay tall through the torso.",
+    "Alternate legs each step."
+  ],
+  "images": [],
+  "video": null
+}

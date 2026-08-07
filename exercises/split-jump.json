@@ -1,0 +1,42 @@
+{
+  "id": "split-jump",
+  "name": "Split Jump",
+  "aliases": [
+    "jumping lunge",
+    "lunge jump",
+    "alternating jump lunge"
+  ],
+  "family": "plyometric-jump",
+  "variantGroup": null,
+  "modality": "plyometrics",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings"
+  ],
+  "measurementType": "reps",
+  "laterality": "unilateral",
+  "instructions": [
+    "Assume a lunge stance position with one foot forward with the knee bent, and the rear knee nearly touching the ground.",
+    "Ensure that the front knee is over the midline of the foot.",
+    "Extending through both legs, jump as high as possible, swinging your arms to gain lift.",
+    "As you jump, bring your feet together, and move them back to their initial positions as you land.",
+    "Absorb the impact by reverting back to the starting position."
+  ],
+  "images": [
+    "split-jump/0.jpg",
+    "split-jump/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=uE_NeT2D0lo",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Split_Jump"
+  }
+}

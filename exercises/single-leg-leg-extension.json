@@ -1,0 +1,35 @@
+{
+  "id": "single-leg-leg-extension",
+  "name": "Single-Leg Leg Extension",
+  "aliases": [
+    "one leg extension"
+  ],
+  "family": "leg-extension",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "push",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [],
+  "measurementType": "weight_reps",
+  "laterality": "unilateral",
+  "instructions": [
+    "Seat yourself in the machine and adjust it so that you are positioned properly. The pad should be against the lower part of the shin but not in contact with the ankle. Adjust the seat so that the pivot point is in line with your knee. Select a weight appropriate for your abilities.",
+    "Maintaining good posture, fully extend one leg, pausing at the top of the motion.",
+    "Return to the starting position without letting the weight stop, keeping tension on the muscle.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "images": [
+    "single-leg-leg-extension/0.jpg",
+    "single-leg-leg-extension/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=iQ92TuvBqRo",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Single-Leg_Leg_Extension"
+  }
+}

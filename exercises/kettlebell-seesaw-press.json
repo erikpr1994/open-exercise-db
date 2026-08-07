@@ -1,0 +1,33 @@
+{
+  "id": "kettlebell-seesaw-press",
+  "name": "Kettlebell Seesaw Press",
+  "family": "overhead-press",
+  "variantGroup": "Kettlebell",
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "triceps"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Clean two kettlebells two your shoulders.",
+    "Press one kettlebell.",
+    "Lower the kettlebell and immediately press the other kettlebell. Make sure to do the same amount of reps on both sides."
+  ],
+  "images": [
+    "kettlebell-seesaw-press/0.jpg",
+    "kettlebell-seesaw-press/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=sKF1-rs1MYs",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Kettlebell_Seesaw_Press"
+  }
+}

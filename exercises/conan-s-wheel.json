@@ -1,0 +1,38 @@
+{
+  "id": "conan-s-wheel",
+  "name": "Conan's Wheel",
+  "family": "carry",
+  "variantGroup": null,
+  "modality": "strongman",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": null,
+  "equipment": "farmer's walk handles",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "biceps",
+    "calves",
+    "forearms",
+    "lower back",
+    "shoulders",
+    "traps"
+  ],
+  "measurementType": "weighted_time",
+  "laterality": "bilateral",
+  "instructions": [
+    "With the weight loaded, take a zurcher hold on the end of the implement. Place the bar in the crook of the elbow and hold onto your wrist. Try to keep the weight off of the forearms.",
+    "Begin by lifting the weight from the ground. Keep a tight, upright posture as you being to walk, taking short, fast steps. Look up and away as you turn in a circle. Do not hold your breath during the event. Continue walking until you complete one or more complete turns."
+  ],
+  "images": [
+    "conan-s-wheel/0.jpg",
+    "conan-s-wheel/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=5hk89_jmv1o",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Conans_Wheel"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "russian-twist",
+  "name": "Russian Twist",
+  "family": "russian-twist",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "pull",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "lower back"
+  ],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Lie down on the floor placing your feet either under something that will not move or by having a partner hold them. Your legs should be bent at the knees.",
+    "Elevate your upper body so that it creates an imaginary V-shape with your thighs. Your arms should be fully extended in front of you perpendicular to your torso and with the hands clasped. This is the starting position.",
+    "Twist your torso to the right side until your arms are parallel with the floor while breathing out.",
+    "Hold the contraction for a second and move back to the starting position while breathing out. Now move to the opposite side performing the same techniques you applied to the right side.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "images": [
+    "russian-twist/0.jpg",
+    "russian-twist/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=wkD8rjkodUI",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Russian_Twist"
+  }
+}

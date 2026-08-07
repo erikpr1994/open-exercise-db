@@ -1,0 +1,37 @@
+{
+  "id": "car-drivers",
+  "name": "Car Drivers",
+  "aliases": [
+    "plate steering wheel"
+  ],
+  "family": "front-raise",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "push",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "While standing upright, hold a barbell plate in both hands at the 3 and 9 o'clock positions. Your palms should be facing each other and your arms should be extended straight out in front of you. This will be your starting position.",
+    "Initiate the movement by rotating the plate as far to one side as possible. Use the same type of movement you would use to turn a steering wheel to one side.",
+    "Reverse the motion, turning it all the way to the opposite side.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "images": [
+    "car-drivers/0.jpg",
+    "car-drivers/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=ghXn2-ZYfU4",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Car_Drivers"
+  }
+}

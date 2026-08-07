@@ -1,0 +1,34 @@
+{
+  "id": "moving-claw-series",
+  "name": "Moving Claw Series",
+  "family": "sprint-drill",
+  "variantGroup": null,
+  "modality": "plyometrics",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": null,
+  "equipment": "body only",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "quadriceps"
+  ],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "This move helps prepare your running form to help you excel at sprinting. As you run, be sure to flex the knee, aiming to kick your glutes as the hip extends.",
+    "Reload the quad as the leg moves back forward, attacking the ground on the next step.",
+    "Ensure that as you run, you block with the arms, punching through in a rapid 1-2 motion."
+  ],
+  "images": [
+    "moving-claw-series/0.jpg",
+    "moving-claw-series/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=HVJ19uMATEM",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Moving_Claw_Series"
+  }
+}

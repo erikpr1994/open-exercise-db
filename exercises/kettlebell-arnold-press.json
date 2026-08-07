@@ -1,0 +1,33 @@
+{
+  "id": "kettlebell-arnold-press",
+  "name": "Kettlebell Arnold Press",
+  "family": "overhead-press",
+  "variantGroup": "Kettlebell",
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "triceps"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Clean a kettlebell to your shoulder. Clean the kettlebell to your shoulder by extending through the legs and hips as you raise the kettlebell towards your shoulder. The palm should be facing inward.",
+    "Looking straight ahead, press the kettlebell out and overhead, rotating your wrist so that your palm faces forward at the top of the motion.",
+    "Return the kettlebell to the starting position, with the palm facing in."
+  ],
+  "images": [
+    "kettlebell-arnold-press/0.jpg",
+    "kettlebell-arnold-press/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=wlNQI2PvppA",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Kettlebell_Arnold_Press"
+  }
+}

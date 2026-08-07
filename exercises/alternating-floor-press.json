@@ -1,0 +1,36 @@
+{
+  "id": "alternating-floor-press",
+  "name": "Alternating Floor Press",
+  "family": "floor-press",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "shoulders",
+    "triceps"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "unilateral",
+  "instructions": [
+    "Lie on the floor with two kettlebells next to your shoulders.",
+    "Position one in place on your chest and then the other, gripping the kettlebells on the handle with the palms facing forward.",
+    "Extend both arms, so that the kettlebells are being held above your chest. Lower one kettlebell, bringing it to your chest and turn the wrist in the direction of the locked out kettlebell.",
+    "Raise the kettlebell and repeat on the opposite side."
+  ],
+  "images": [
+    "alternating-floor-press/0.jpg",
+    "alternating-floor-press/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=O1x7AoUf5Vs",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Alternating_Floor_Press"
+  }
+}

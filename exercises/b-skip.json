@@ -1,0 +1,28 @@
+{
+  "id": "b-skip",
+  "name": "B-Skip",
+  "family": "sprint-drill",
+  "variantGroup": null,
+  "modality": "plyometrics",
+  "level": "expert",
+  "mechanic": "isolation",
+  "force": "pull",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "hip flexors",
+    "glutes",
+    "calves"
+  ],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "From an A-Skip knee drive, extend the lower leg forward then sweep it back down with an active pawing motion, striking the ground under the hip.",
+    "Keep the skip rhythmic and the torso tall, coordinating opposite-arm swing.",
+    "Alternate legs continuously."
+  ],
+  "images": [],
+  "video": null
+}

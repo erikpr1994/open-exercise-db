@@ -1,0 +1,38 @@
+{
+  "id": "cable-crunch",
+  "name": "Cable Crunch",
+  "aliases": [
+    "rope crunch",
+    "kneeling cable crunch"
+  ],
+  "family": "crunch",
+  "variantGroup": "Cable",
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "pull",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "measurementType": "weight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Kneel below a high pulley that contains a rope attachment.",
+    "Grasp cable rope attachment and lower the rope until your hands are placed next to your face.",
+    "Flex your hips slightly and allow the weight to hyperextend the lower back. This will be your starting position.",
+    "With the hips stationary, flex the waist as you contract the abs so that the elbows travel towards the middle of the thighs. Exhale as you perform this portion of the movement and hold the contraction for a second.",
+    "Slowly return to the starting position as you inhale. Tip: Make sure that you keep constant tension on the abs throughout the movement. Also, do not choose a weight so heavy that the lower back handles the brunt of the work.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "images": [
+    "cable-crunch/0.jpg",
+    "cable-crunch/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=eXjNNROIhD0",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Cable_Crunch"
+  }
+}

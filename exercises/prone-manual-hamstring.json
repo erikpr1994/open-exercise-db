@@ -1,0 +1,35 @@
+{
+  "id": "prone-manual-hamstring",
+  "name": "Prone Manual Hamstring",
+  "aliases": [
+    "manual hamstring curl",
+    "partner hamstring curl"
+  ],
+  "family": "leg-curl",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "static",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "You will need a partner for this exercise. Lay face down with your legs straight. Your assistant will place their hand on your heel.",
+    "To begin, flex the knee to curl your leg up. Your partner should provide resistance, starting light and increasing the pressure as the movement is completed. Communicate with your partner to monitor appropriate resistance levels.",
+    "Pause at the top, returning the leg to the starting position as your partner provides resistance going the other direction."
+  ],
+  "images": [
+    "prone-manual-hamstring/0.jpg",
+    "prone-manual-hamstring/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=lGNeJsdqJwg",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Prone_Manual_Hamstring"
+  }
+}

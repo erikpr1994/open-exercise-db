@@ -1,0 +1,31 @@
+{
+  "id": "groin-and-back-stretch",
+  "name": "Groin and Back Stretch",
+  "family": "adductor-groin-stretch",
+  "variantGroup": null,
+  "modality": "stretching",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "static",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "adductors"
+  ],
+  "secondaryMuscles": [],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Sit on the floor with your knees bent and feet together.",
+    "Interlock your fingers behind your head. This will be your starting position.",
+    "Curl downwards, bringing your elbows to the inside of your thighs. After a brief pause, return to the starting position with your head up and your back straight. Repeat for 10-20 repetitions."
+  ],
+  "images": [
+    "groin-and-back-stretch/0.jpg",
+    "groin-and-back-stretch/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=cQlT6UZgs4M",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Groin_and_Back_Stretch"
+  }
+}

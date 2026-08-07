@@ -1,0 +1,38 @@
+{
+  "id": "cat-stretch",
+  "name": "Cat Stretch",
+  "aliases": [
+    "cat cow",
+    "cat camel"
+  ],
+  "family": "back-lat-stretch",
+  "variantGroup": null,
+  "modality": "stretching",
+  "level": "beginner",
+  "mechanic": null,
+  "force": "static",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "lower back"
+  ],
+  "secondaryMuscles": [
+    "middle back",
+    "traps"
+  ],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Position yourself on the floor on your hands and knees.",
+    "Pull your belly in and round your spine, lower back, shoulders, and neck, letting your head drop.",
+    "Hold for 15 seconds."
+  ],
+  "images": [
+    "cat-stretch/0.jpg",
+    "cat-stretch/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=2of247Kt0tU",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Cat_Stretch"
+  }
+}

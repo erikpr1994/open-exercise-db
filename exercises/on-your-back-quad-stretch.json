@@ -1,0 +1,32 @@
+{
+  "id": "on-your-back-quad-stretch",
+  "name": "On-Your-Back Quad Stretch",
+  "family": "quad-hip-flexor-stretch",
+  "variantGroup": null,
+  "modality": "stretching",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "static",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Lie on a flat bench or step, and hang one leg and arm over the side.",
+    "Bend the knee and hold the top of the foot. As you do this, be careful not to arch your lower back.",
+    "Pull the belly button to the spine to stay in neutral. Press your foot down and into your hand. To add the hip stretch, lift the hip of the leg you're holding up toward the ceiling.",
+    "Switch sides."
+  ],
+  "images": [
+    "on-your-back-quad-stretch/0.jpg",
+    "on-your-back-quad-stretch/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=DeY-a6-dfeg",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "On-Your-Back_Quad_Stretch"
+  }
+}

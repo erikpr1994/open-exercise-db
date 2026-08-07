@@ -1,0 +1,38 @@
+{
+  "id": "one-arm-open-palm-kettlebell-clean",
+  "name": "One-Arm Open Palm Kettlebell Clean",
+  "family": "clean",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "pull",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "forearms",
+    "glutes",
+    "lower back",
+    "quadriceps",
+    "shoulders"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "unilateral",
+  "instructions": [
+    "Place one kettlebell between your feet.",
+    "Grab the handle with one hand and raise the kettlebell rapidly, let it flip so that the ball of the kettlebell lands in the palm of your hand.",
+    "Throw the kettlebell out in front of you and catch the handle with one hand.",
+    "Take the kettlebell to the floor and repeat. Make sure to work both arms."
+  ],
+  "images": [
+    "one-arm-open-palm-kettlebell-clean/0.jpg",
+    "one-arm-open-palm-kettlebell-clean/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=Iszs8HJBwE0",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "One-Arm_Open_Palm_Kettlebell_Clean"
+  }
+}

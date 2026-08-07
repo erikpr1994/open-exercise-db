@@ -1,0 +1,31 @@
+{
+  "id": "tricep-side-stretch",
+  "name": "Tricep Side Stretch",
+  "family": "arm-forearm-stretch",
+  "variantGroup": null,
+  "modality": "stretching",
+  "level": "beginner",
+  "mechanic": null,
+  "force": "static",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Bring right arm across your body and over your left shoulder, holding your elbow with your left hand, until you feel a stretch in your tricep. Then repeat for your other arm."
+  ],
+  "images": [
+    "tricep-side-stretch/0.jpg",
+    "tricep-side-stretch/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=xuN74WUuXqU",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Tricep_Side_Stretch"
+  }
+}

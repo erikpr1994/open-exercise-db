@@ -1,0 +1,33 @@
+{
+  "id": "elbows-back",
+  "name": "Elbows Back",
+  "family": "chest-shoulder-stretch",
+  "variantGroup": null,
+  "modality": "stretching",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "static",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Stand up straight.",
+    "Place both hands on your lower back, fingers pointing downward and elbows out.",
+    "Then gently pull your elbows back aiming to touch them together."
+  ],
+  "images": [
+    "elbows-back/0.jpg",
+    "elbows-back/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=QA8rwwiQiW0",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Elbows_Back"
+  }
+}

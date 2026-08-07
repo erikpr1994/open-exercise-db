@@ -1,0 +1,31 @@
+{
+  "id": "shoulder-raise",
+  "name": "Shoulder Raise",
+  "family": "mobility",
+  "variantGroup": null,
+  "modality": "stretching",
+  "level": "beginner",
+  "mechanic": null,
+  "force": "pull",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "lats"
+  ],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Relax your arms to your sides and raise your shoulders up toward your ears, then back down."
+  ],
+  "images": [
+    "shoulder-raise/0.jpg",
+    "shoulder-raise/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=lYH24HZr0zU",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Shoulder_Raise"
+  }
+}

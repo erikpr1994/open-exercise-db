@@ -1,0 +1,31 @@
+{
+  "id": "calf-stretch-elbows-against-wall",
+  "name": "Calf Stretch Elbows Against Wall",
+  "family": "calf-ankle-stretch",
+  "variantGroup": null,
+  "modality": "stretching",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "static",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Stand facing a wall from a couple feet away.",
+    "Lean against the wall, placing your weight on your forearms.",
+    "Attempt to keep your heels on the ground. Hold for 10-20 seconds. You may move further or closer the wall, making it more or less difficult, respectively."
+  ],
+  "images": [
+    "calf-stretch-elbows-against-wall/0.jpg",
+    "calf-stretch-elbows-against-wall/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=hKOegRU3YIs",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Calf_Stretch_Elbows_Against_Wall"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "round-the-world-shoulder-stretch",
+  "name": "Round The World Shoulder Stretch",
+  "family": "chest-shoulder-stretch",
+  "variantGroup": null,
+  "modality": "stretching",
+  "level": "beginner",
+  "mechanic": null,
+  "force": "static",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "chest"
+  ],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Stand up straight with your legs together, holding a bodybar or broomstick.",
+    "Hold the pole behind your hips with a wider than shoulder width grip. Your palms should be down and your thumbs facing out.",
+    "Slowly lift your arms up behind your head. Don't force it if it gets hard to lift further."
+  ],
+  "images": [
+    "round-the-world-shoulder-stretch/0.jpg",
+    "round-the-world-shoulder-stretch/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=6WYayFzrEFM",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Round_The_World_Shoulder_Stretch"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "standing-lateral-stretch",
+  "name": "Standing Lateral Stretch",
+  "aliases": [
+    "side stretch",
+    "standing side bend stretch"
+  ],
+  "family": "core-oblique-stretch",
+  "variantGroup": null,
+  "modality": "stretching",
+  "level": "beginner",
+  "mechanic": null,
+  "force": "static",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Take a slightly wider than hip distance stance with your knees slightly bent.",
+    "Place your right hand on your right hip to support the spine.",
+    "Raise your left arm in a vertical line and place your left hand behind your head. Keep it there as you incline your torso to the right.",
+    "Keep your weight evenly distributed between both legs (don't lean into your left hip). Switch sides."
+  ],
+  "images": [
+    "standing-lateral-stretch/0.jpg",
+    "standing-lateral-stretch/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=_h8Sfuc8EJA",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Standing_Lateral_Stretch"
+  }
+}

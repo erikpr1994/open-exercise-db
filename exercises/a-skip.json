@@ -1,0 +1,28 @@
+{
+  "id": "a-skip",
+  "name": "A-Skip",
+  "family": "sprint-drill",
+  "variantGroup": null,
+  "modality": "plyometrics",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "force": "push",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "hip flexors"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "quadriceps",
+    "glutes"
+  ],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Add a small skip to the A-March: drive one knee to hip height with a dorsiflexed ankle while skipping off the opposite foot, then strike the ground actively under the hip.",
+    "Maintain tall posture and rhythmic opposite-arm action.",
+    "Alternate legs continuously."
+  ],
+  "images": [],
+  "video": null
+}

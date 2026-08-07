@@ -1,0 +1,32 @@
+{
+  "id": "crucifix",
+  "name": "Crucifix",
+  "family": null,
+  "variantGroup": null,
+  "modality": "strongman",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "static",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "In the crucifix, you statically hold weights out to the side for time. While the event can be practiced using dumbbells, it is best to practice with one of the various implements used, such as axes and hammers, as it feels different.",
+    "Begin standing, and raise your arms out to the side holding the implements. Your arms should be parallel to the ground. In competition, judges or sensors are used to let you know when you break parallel. Hold for as long as you can. Typically, the weights should be heavy enough that you fail in 30-60 seconds."
+  ],
+  "images": [
+    "crucifix/0.jpg",
+    "crucifix/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=cYLucJwoiFI",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Crucifix"
+  }
+}

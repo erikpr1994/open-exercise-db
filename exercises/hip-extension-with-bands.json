@@ -1,0 +1,37 @@
+{
+  "id": "hip-extension-with-bands",
+  "name": "Hip Extension with Bands",
+  "aliases": [
+    "banded hip extension"
+  ],
+  "family": "hip-extension",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "bands",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings"
+  ],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Secure one end of the band to the lower portion of a post and attach the other to one ankle.",
+    "Facing the attachment point of the band, hold on to the column to stabilize yourself.",
+    "Keeping your head and your chest up, move the resisted leg back as far as you can while keeping the knee straight.",
+    "Return the leg to the starting position."
+  ],
+  "images": [
+    "hip-extension-with-bands/0.jpg",
+    "hip-extension-with-bands/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=k9iXl9zKmkM",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Hip_Extension_with_Bands"
+  }
+}

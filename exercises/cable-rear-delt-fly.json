@@ -1,0 +1,36 @@
+{
+  "id": "cable-rear-delt-fly",
+  "name": "Cable Rear Delt Fly",
+  "aliases": [
+    "cable rear delt raise",
+    "cable reverse fly"
+  ],
+  "family": "reverse-fly",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "pull",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [],
+  "measurementType": "weight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Adjust the pulleys to the appropriate height and adjust the weight. The pulleys should be above your head.",
+    "Grab the left pulley with your right hand and the right pulley with your left hand, crossing them in front of you. This will be your starting position.",
+    "Initiate the movement by moving your arms back and outward, keeping your arms straight as you execute the movement.",
+    "Pause at the end of the motion before returning the handles to the start position."
+  ],
+  "images": [
+    "cable-rear-delt-fly/0.jpg",
+    "cable-rear-delt-fly/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=FeERX9UwspY",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Cable_Rear_Delt_Fly"
+  }
+}

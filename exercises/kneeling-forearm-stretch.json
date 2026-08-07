@@ -1,0 +1,30 @@
+{
+  "id": "kneeling-forearm-stretch",
+  "name": "Kneeling Forearm Stretch",
+  "family": "arm-forearm-stretch",
+  "variantGroup": null,
+  "modality": "stretching",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "static",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "forearms"
+  ],
+  "secondaryMuscles": [],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Start by kneeling on a mat with your palms flat and your fingers pointing back toward your knees.",
+    "Slowly lean back keeping your palms flat on the floor until you feel a stretch in your wrists and forearms. Hold for 20-30 seconds."
+  ],
+  "images": [
+    "kneeling-forearm-stretch/0.jpg",
+    "kneeling-forearm-stretch/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=zyyoppwrgo0",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Kneeling_Forearm_Stretch"
+  }
+}

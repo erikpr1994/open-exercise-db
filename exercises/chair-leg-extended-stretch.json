@@ -1,0 +1,34 @@
+{
+  "id": "chair-leg-extended-stretch",
+  "name": "Chair Leg Extended Stretch",
+  "family": "hamstring-stretch",
+  "variantGroup": null,
+  "modality": "stretching",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "static",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "adductors"
+  ],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Sit upright in a chair and grip the seat on the sides.",
+    "Raise one leg, extending the knee, flexing the ankle as you do so.",
+    "Slowly move that leg outward as far as you can, and then back to the center and down.",
+    "Repeat for your other leg."
+  ],
+  "images": [
+    "chair-leg-extended-stretch/0.jpg",
+    "chair-leg-extended-stretch/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=aJvfeuu71gw",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Chair_Leg_Extended_Stretch"
+  }
+}

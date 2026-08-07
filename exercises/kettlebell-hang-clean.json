@@ -1,0 +1,37 @@
+{
+  "id": "kettlebell-hang-clean",
+  "name": "Kettlebell Hang Clean",
+  "family": "clean",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "pull",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "lower back",
+    "shoulders",
+    "traps"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Place kettlebell between your feet. To get in the starting position, push your butt back and look straight ahead.",
+    "Clean kettlebell to your shoulder. Clean the kettlebell to your shoulders by extending through the legs and hips as you raise the kettlebell towards your shoulder. The wrist should rotate as you do so.",
+    "Lower kettlebell to a hanging position between your legs while keeping the hamstrings loaded. Keep your head up at all times."
+  ],
+  "images": [
+    "kettlebell-hang-clean/0.jpg",
+    "kettlebell-hang-clean/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=wywB6G72p34",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Kettlebell_Hang_Clean"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "lower-back-curl",
+  "name": "Lower Back Curl",
+  "aliases": [
+    "back extension",
+    "hyperextension"
+  ],
+  "family": "back-lat-stretch",
+  "variantGroup": null,
+  "modality": "stretching",
+  "level": "beginner",
+  "mechanic": null,
+  "force": "static",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Lie on your stomach with your arms out to your sides. This will be your starting position.",
+    "Using your lower back muscles, extend your spine lifting your chest off of the ground. Do not use your arms to push yourself up. Keep your head up during the movement. Repeat for 10-20 repetitions."
+  ],
+  "images": [
+    "lower-back-curl/0.jpg",
+    "lower-back-curl/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=upxW1WlptUE",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Lower_Back_Curl"
+  }
+}

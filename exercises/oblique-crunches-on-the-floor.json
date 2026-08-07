@@ -1,0 +1,33 @@
+{
+  "id": "oblique-crunches-on-the-floor",
+  "name": "Oblique Crunches - On The Floor",
+  "family": "crunch",
+  "variantGroup": "Oblique/Twist",
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "pull",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Start out by lying on your right side with your legs lying on top of each other. Make sure your knees are bent a little bit.",
+    "Place your left hand behind your head.",
+    "Once you are in this set position, begin by moving your left elbow up as you would perform a normal crunch except this time the main emphasis is on your obliques.",
+    "Crunch as high as you can, hold the contraction for a second and then slowly drop back down into the starting position.",
+    "Remember to breathe in during the eccentric (lowering) part of the exercise and to breathe out during the concentric (elevation) part of the exercise."
+  ],
+  "images": [
+    "oblique-crunches-on-the-floor/0.jpg",
+    "oblique-crunches-on-the-floor/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=acj52MXBaeo",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Oblique_Crunches_-_On_The_Floor"
+  }
+}

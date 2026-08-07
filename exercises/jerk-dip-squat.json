@@ -1,0 +1,33 @@
+{
+  "id": "jerk-dip-squat",
+  "name": "Jerk Dip Squat",
+  "family": "jerk",
+  "variantGroup": null,
+  "modality": "olympic weightlifting",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "calves"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "This movement strengthens the dip portion of the jerk. Begin with the bar racked in the jerk position, with the shoulders forward to create a shelf and the bar lightly contacting the throat. The feet should be directly under the hips, with the feet turned out as is comfortable.",
+    "Keeping the torso vertical, dip by flexing the knees, allowing them to travel forward and without moving the hips to the rear. The dip should not be excessive. Return the weight to the starting position by driving forcefully though the feet."
+  ],
+  "images": [
+    "jerk-dip-squat/0.jpg",
+    "jerk-dip-squat/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=_zuU7JXlk1g",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Jerk_Dip_Squat"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "svend-press",
+  "name": "Svend Press",
+  "family": "bench-press",
+  "variantGroup": "Dumbbell",
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "weight plate",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "forearms",
+    "shoulders",
+    "triceps"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Begin in a standing position.",
+    "Press two lightweight plates together with your hands. Hold the plates together close to your chest to create an isometric contraction in your chest muscles. Your fingers should be pointed forward. This is your starting position.",
+    "Squeeze the plates between your palms and extend your arms directly out in front of you in a controlled motion.",
+    "Pause at the top of the motion, and then slowly return to the starting position."
+  ],
+  "images": [
+    "svend-press/0.jpg",
+    "svend-press/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=OZ1thS_rrpg",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Svend_Press"
+  }
+}

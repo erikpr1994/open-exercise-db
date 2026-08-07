@@ -1,0 +1,34 @@
+{
+  "id": "single-leg-push-off",
+  "name": "Single Leg Push-off",
+  "family": "plyometric-jump",
+  "variantGroup": null,
+  "modality": "plyometrics",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "hamstrings"
+  ],
+  "measurementType": "reps",
+  "laterality": "unilateral",
+  "instructions": [
+    "Stand on the ground with one foot resting on the box, heel close to the edge.",
+    "Push off with your foot on top of the box, trying to gain as much height as possible by extending through the hip and knee.",
+    "Land with the same foot on top of the box, returning your other foot back to the start position."
+  ],
+  "images": [
+    "single-leg-push-off/0.jpg",
+    "single-leg-push-off/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=WzcnTPE2tGQ",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Single_Leg_Push-off"
+  }
+}

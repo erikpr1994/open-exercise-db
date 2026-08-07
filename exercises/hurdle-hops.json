@@ -1,0 +1,40 @@
+{
+  "id": "hurdle-hops",
+  "name": "Hurdle Hops",
+  "aliases": [
+    "hurdle jumps"
+  ],
+  "family": "plyometric-jump",
+  "variantGroup": null,
+  "modality": "plyometrics",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "agility hurdle",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "abductors",
+    "adductors",
+    "calves",
+    "glutes"
+  ],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Set up a row of hurdles or other small barriers, placing them a few feet apart.",
+    "Stand in front of the first hurdle with your feet shoulder width apart. This will be your starting position.",
+    "Begin by jumping with both feet over the first hurdle, swinging both arms as you jump.",
+    "Absorb the impact of landing by bending the knees, rebounding out of the first leap by jumping over the next hurdle. Continue until you have jumped over all of the hurdles."
+  ],
+  "images": [
+    "hurdle-hops/0.jpg",
+    "hurdle-hops/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=OlgGRqUkv3w",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Hurdle_Hops"
+  }
+}

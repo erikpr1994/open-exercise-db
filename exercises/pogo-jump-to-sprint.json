@@ -1,0 +1,32 @@
+{
+  "id": "pogo-jump-to-sprint",
+  "name": "Pogo Jump to Sprint",
+  "aliases": [
+    "pogo to sprint",
+    "pogo hops to sprint"
+  ],
+  "family": "pogo",
+  "variantGroup": null,
+  "modality": "plyometrics",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "force": "push",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [
+    "quadriceps",
+    "glutes",
+    "hamstrings"
+  ],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Perform several stiff in-place pogo hops to build elastic tension, then on a cue explode forward into a short maximal sprint of a few strides.",
+    "Decelerate, reset, and repeat.",
+    "The transition from bounce to sprint should be immediate."
+  ],
+  "images": [],
+  "video": null
+}

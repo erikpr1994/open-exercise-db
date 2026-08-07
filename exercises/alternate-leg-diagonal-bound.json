@@ -1,0 +1,38 @@
+{
+  "id": "alternate-leg-diagonal-bound",
+  "name": "Alternate Leg Diagonal Bound",
+  "family": "plyometric-jump",
+  "variantGroup": null,
+  "modality": "plyometrics",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "abductors",
+    "adductors",
+    "calves",
+    "glutes",
+    "hamstrings"
+  ],
+  "measurementType": "reps",
+  "laterality": "unilateral",
+  "instructions": [
+    "Assume a comfortable stance with one foot slightly in front of the other.",
+    "Begin by pushing off with the front leg, driving the opposite knee forward and as high as possible before landing. Attempt to cover as much distance to each side with each bound.",
+    "It may help to use a line on the ground to guage distance from side to side.",
+    "Repeat the sequence with the other leg."
+  ],
+  "images": [
+    "alternate-leg-diagonal-bound/0.jpg",
+    "alternate-leg-diagonal-bound/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=p3x_hrbay8o",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Alternate_Leg_Diagonal_Bound"
+  }
+}

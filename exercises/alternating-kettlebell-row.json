@@ -1,0 +1,34 @@
+{
+  "id": "alternating-kettlebell-row",
+  "name": "Alternating Kettlebell Row",
+  "family": "row",
+  "variantGroup": "Dumbbell",
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "force": "pull",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "lats"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "unilateral",
+  "instructions": [
+    "Place two kettlebells in front of your feet. Bend your knees slightly and push your butt out as much as possible. As you bend over to get into the starting position grab both kettlebells by the handles.",
+    "Pull one kettlebell off of the floor while holding on to the other kettlebell. Retract the shoulder blade of the working side, as you flex the elbow, drawing the kettlebell towards your stomach or rib cage.",
+    "Lower the kettlebell in the working arm and repeat with your other arm."
+  ],
+  "images": [
+    "alternating-kettlebell-row/0.jpg",
+    "alternating-kettlebell-row/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=nKu_lABLEKY",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Alternating_Kettlebell_Row"
+  }
+}

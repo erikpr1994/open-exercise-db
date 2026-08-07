@@ -1,0 +1,37 @@
+{
+  "id": "rope-crunch",
+  "name": "Rope Crunch",
+  "aliases": [
+    "cable crunch",
+    "kneeling cable crunch"
+  ],
+  "family": "crunch",
+  "variantGroup": "Cable",
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "pull",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "measurementType": "weight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Kneel 1-2 feet in front of a cable system with a rope attached.",
+    "After selecting an appropriate weight, grasp the rope with both hands reaching overhead. Your torso should be upright in the starting position.",
+    "To begin, flex at the spine, attempting to bring your rib cage to your legs as you pull the cable down.",
+    "Pause at the bottom of the motion, and then slowly return to the starting position.",
+    "These can be done with twists or to the side to hit the obliques."
+  ],
+  "images": [
+    "rope-crunch/0.jpg",
+    "rope-crunch/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=dkGwcfo9zto",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Rope_Crunch"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "rickshaw-carry",
+  "name": "Rickshaw Carry",
+  "family": "carry",
+  "variantGroup": null,
+  "modality": "strongman",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": null,
+  "equipment": "farmer's walk handles",
+  "primaryMuscles": [
+    "forearms"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "calves",
+    "glutes",
+    "hamstrings",
+    "lower back",
+    "quadriceps",
+    "traps"
+  ],
+  "measurementType": "weighted_time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Position the frame at the starting point, and load with the appropriate weight. Standing in the center of the frame, begin by gripping the handles and driving through your heels to lift the frame. Ensure your chest and head are up and your back is straight.",
+    "Immediately begin walking briskly with quick, controlled steps. Keep your chest up and head forward, and make sure you continue breathing. Bring the frame to the ground after you have reached the end point."
+  ],
+  "images": [
+    "rickshaw-carry/0.jpg",
+    "rickshaw-carry/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=O31W88nt0y8",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Rickshaw_Carry"
+  }
+}

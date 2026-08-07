@@ -1,0 +1,32 @@
+{
+  "id": "two-arm-kettlebell-military-press",
+  "name": "Two-Arm Kettlebell Military Press",
+  "family": "overhead-press",
+  "variantGroup": "Kettlebell",
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "triceps"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Clean two kettlebells to your shoulders. Clean the kettlebells to your shoulders by extending through the legs and hips as you swing the kettlebells towards your shoulders. Rotate your wrists as you do so, so that the palms face forward.",
+    "Press the kettlebells up and out. As the kettlebells pass your head, lean into the weights so that the kettlebells are racked behind your head. Make sure to contract your lats, butt, and stomach for added stability."
+  ],
+  "images": [
+    "two-arm-kettlebell-military-press/0.jpg",
+    "two-arm-kettlebell-military-press/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=VzMqlt3nzU0",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Two-Arm_Kettlebell_Military_Press"
+  }
+}

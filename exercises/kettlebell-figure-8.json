@@ -1,0 +1,36 @@
+{
+  "id": "kettlebell-figure-8",
+  "name": "Kettlebell Figure 8",
+  "aliases": [
+    "kettlebell figure eight"
+  ],
+  "family": "figure-8",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": null,
+  "force": "pull",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "shoulders"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Place one kettlebell between your legs and take a wider than shoulder width stance. Bend over by pushing your butt out and keeping your back flat.",
+    "Pick up a kettlebell and pass it to your other hand between your legs. The receiving hand should reach from behind the legs. Go back and forth for several repetitions."
+  ],
+  "images": [
+    "kettlebell-figure-8/0.jpg",
+    "kettlebell-figure-8/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=7g2v3b3TWKg",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Kettlebell_Figure_8"
+  }
+}

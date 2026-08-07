@@ -1,0 +1,31 @@
+{
+  "id": "calf-stretch-hands-against-wall",
+  "name": "Calf Stretch Hands Against Wall",
+  "family": "calf-ankle-stretch",
+  "variantGroup": null,
+  "modality": "stretching",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "static",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Stand facing a wall from several feet away. Stagger your stance, placing one foot forward.",
+    "Lean forward and rest your hands on the wall, keeping your heel, hip and head in a straight line.",
+    "Attempt to keep your heel on the ground. Hold for 10-20 seconds and then switch sides."
+  ],
+  "images": [
+    "calf-stretch-hands-against-wall/0.jpg",
+    "calf-stretch-hands-against-wall/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=tUA4MO1kXV8",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Calf_Stretch_Hands_Against_Wall"
+  }
+}

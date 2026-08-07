@@ -1,0 +1,30 @@
+{
+  "id": "side-lying-floor-stretch",
+  "name": "Side-Lying Floor Stretch",
+  "family": "core-oblique-stretch",
+  "variantGroup": null,
+  "modality": "stretching",
+  "level": "beginner",
+  "mechanic": null,
+  "force": "static",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "First lie on your left side, bending your left knee in front of you to stabilize your torso (use your abdominal muscles as well to hold you upright).",
+    "Straighten your right leg and rest the right foot on the floor behind your left. Straighten your right arm over your head and gently pull on your right wrist to stretch the entire right side of the body. Switch sides."
+  ],
+  "images": [
+    "side-lying-floor-stretch/0.jpg",
+    "side-lying-floor-stretch/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=DMlSdmsHEeI",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Side-Lying_Floor_Stretch"
+  }
+}

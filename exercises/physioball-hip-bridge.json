@@ -1,0 +1,38 @@
+{
+  "id": "physioball-hip-bridge",
+  "name": "Physioball Hip Bridge",
+  "aliases": [
+    "stability ball hip bridge",
+    "swiss ball glute bridge",
+    "exercise ball bridge"
+  ],
+  "family": "glute-bridge",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "exercise ball",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings"
+  ],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Lay on a ball so that your upper back is on the ball with your hips unsupported. Both feet should be flat on the floor, hip width apart or wider. This will be your starting position.",
+    "Begin by extending the hips using your glutes and hamstrings, raising your hips upward as you bridge.",
+    "Pause at the top of the motion and return to the starting position."
+  ],
+  "images": [
+    "physioball-hip-bridge/0.jpg",
+    "physioball-hip-bridge/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=MRBMFFU2Ovc",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Physioball_Hip_Bridge"
+  }
+}

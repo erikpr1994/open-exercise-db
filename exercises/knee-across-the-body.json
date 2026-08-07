@@ -1,0 +1,33 @@
+{
+  "id": "knee-across-the-body",
+  "name": "Knee Across The Body",
+  "family": "glute-piriformis-stretch",
+  "variantGroup": null,
+  "modality": "stretching",
+  "level": "beginner",
+  "mechanic": null,
+  "force": "static",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "abductors",
+    "lower back"
+  ],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Lie down on the floor with your right leg straight. Bend your left leg and lower it across your body, holding the knee down toward the floor with your right hand. (The knee doesn't need to touch the floor if you're tight.)",
+    "Place your left arm comfortably beside you and turn your head to the left. Imagine you have a weight tied to your tailbone. let your tailbone fall back toward the floor as your chest reaches in the opposite direction to stretch your lower back. Switch sides."
+  ],
+  "images": [
+    "knee-across-the-body/0.jpg",
+    "knee-across-the-body/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=FPlHiEykiy8",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Knee_Across_The_Body"
+  }
+}

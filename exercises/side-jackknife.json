@@ -1,0 +1,31 @@
+{
+  "id": "side-jackknife",
+  "name": "Side Jackknife",
+  "aliases": [
+    "side crunch",
+    "oblique jackknife"
+  ],
+  "family": "crunch",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "pull",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [],
+  "images": [
+    "side-jackknife/0.jpg",
+    "side-jackknife/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=R6m-TRKpC-c",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Side_Jackknife"
+  }
+}

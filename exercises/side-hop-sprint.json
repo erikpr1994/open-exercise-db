@@ -1,0 +1,36 @@
+{
+  "id": "side-hop-sprint",
+  "name": "Side Hop-Sprint",
+  "family": "plyometric-jump",
+  "variantGroup": null,
+  "modality": "plyometrics",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "abductors",
+    "adductors",
+    "calves",
+    "hamstrings"
+  ],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Stand to the side of a cone or hurdle.",
+    "Begin this drill by hopping sideways over the obstacle, rebounding out of your landing to hop back to where you started.",
+    "Hop for a prescribed number or repetitions as quickly as possible, and finish this drill by sprinting a short distance upon landing the last hop."
+  ],
+  "images": [
+    "side-hop-sprint/0.jpg",
+    "side-hop-sprint/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=OlgGRqUkv3w",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Side_Hop-Sprint"
+  }
+}

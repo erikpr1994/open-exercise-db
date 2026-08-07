@@ -1,0 +1,36 @@
+{
+  "id": "vertical-swing",
+  "name": "Vertical Swing",
+  "family": "kettlebell-swing",
+  "variantGroup": null,
+  "modality": "plyometrics",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "pull",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "quadriceps",
+    "shoulders"
+  ],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Allow the dumbbell to hang at arms length between your legs, holding it with both hands. Keep your back straight and your head up.",
+    "Swing the dumbbell between your legs, flexing at the hips and bending the knees slightly.",
+    "Powerfully reverse the motion by extending at the hips, knees, and ankles to propel yourself upward, swinging the dumbell over your head.",
+    "As you land, absorb the impact through your legs and draw the dumbbell to your torso before the next repetition."
+  ],
+  "images": [
+    "vertical-swing/0.jpg",
+    "vertical-swing/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=zH1ZrhWkeVA",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Vertical_Swing"
+  }
+}

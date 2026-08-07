@@ -1,0 +1,33 @@
+{
+  "id": "push-press",
+  "name": "Push Press",
+  "aliases": [
+    "barbell push press"
+  ],
+  "family": "push-press",
+  "variantGroup": null,
+  "modality": "olympic weightlifting",
+  "level": "expert",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "quadriceps",
+    "triceps"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "bilateral",
+  "instructions": [],
+  "images": [
+    "push-press/0.jpg",
+    "push-press/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=k6tzKisR3NY",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Push_Press"
+  }
+}

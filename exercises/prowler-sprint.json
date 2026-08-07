@@ -1,0 +1,42 @@
+{
+  "id": "prowler-sprint",
+  "name": "Prowler Sprint",
+  "aliases": [
+    "sled sprint",
+    "prowler push",
+    "sled push"
+  ],
+  "family": "sled-push-drag",
+  "variantGroup": null,
+  "modality": "cardio",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "sled",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "chest",
+    "glutes",
+    "quadriceps",
+    "shoulders"
+  ],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Place your sled on an appropriate surface, loaded to a suitable weight. The sled should provide enough resistance to require effort, but not so heavy that you are significantly slowed down.",
+    "You may use the upright or the low handles for this exercise. Place your hands on the handles with your arms extended, leaning into the implement.",
+    "With good posture, drive through the ground with alternating, short steps. Move as fast as you can for a short distance."
+  ],
+  "images": [
+    "prowler-sprint/0.jpg",
+    "prowler-sprint/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=Cl568AAStXU",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Prowler_Sprint"
+  }
+}

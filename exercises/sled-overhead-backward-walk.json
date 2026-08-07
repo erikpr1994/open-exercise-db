@@ -1,0 +1,35 @@
+{
+  "id": "sled-overhead-backward-walk",
+  "name": "Sled Overhead Backward Walk",
+  "family": "carry",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "pull",
+  "equipment": "sled",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "middle back",
+    "quadriceps"
+  ],
+  "measurementType": "weighted_time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Attach dual handles to a sled connected by a rope or chain. Load the sled to a light weight.",
+    "Face the sled, backing up until there is some tension in the line. Hold your hands directly above your head with your elbows extended. This will be your starting position.",
+    "Walk backwards, keeping your arms raised above your head. Avoid jerky movements."
+  ],
+  "images": [
+    "sled-overhead-backward-walk/0.jpg",
+    "sled-overhead-backward-walk/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=hW0slEZ2dqg",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Sled_Overhead_Backward_Walk"
+  }
+}

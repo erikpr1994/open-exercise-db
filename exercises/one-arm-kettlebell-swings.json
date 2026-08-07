@@ -1,0 +1,35 @@
+{
+  "id": "one-arm-kettlebell-swings",
+  "name": "One-Arm Kettlebell Swings",
+  "aliases": [
+    "single arm kettlebell swing"
+  ],
+  "family": "kettlebell-swing",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "pull",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "lower back",
+    "shoulders"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "unilateral",
+  "instructions": [],
+  "images": [
+    "one-arm-kettlebell-swings/0.jpg",
+    "one-arm-kettlebell-swings/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=aSYap2yhW8s",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "One-Arm_Kettlebell_Swings"
+  }
+}

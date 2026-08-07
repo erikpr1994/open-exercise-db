@@ -1,0 +1,37 @@
+{
+  "id": "incline-cable-chest-press",
+  "name": "Incline Cable Chest Press",
+  "aliases": [
+    "incline cable press"
+  ],
+  "family": "bench-press",
+  "variantGroup": "Incline",
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Adjust the weight to an appropriate amount and be seated, grasping the handles. Your upper arms should be about 45 degrees to the body, with your head and chest up. The elbows should be bent to about 90 degrees. This will be your starting position.",
+    "Begin by extending through the elbow, pressing the handles together straight in front of you. Keep your shoulder blades retracted as you execute the movement.",
+    "After pausing at full extension, return to the starting position, keeping tension on the cables."
+  ],
+  "images": [
+    "incline-cable-chest-press/0.jpg",
+    "incline-cable-chest-press/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=PfmfAeMpym4",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Incline_Cable_Chest_Press"
+  }
+}

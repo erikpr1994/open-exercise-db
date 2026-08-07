@@ -1,0 +1,37 @@
+{
+  "id": "kettlebell-pistol-squat",
+  "name": "Kettlebell Pistol Squat",
+  "family": "squat",
+  "variantGroup": "Split & Single-Leg",
+  "modality": "strength",
+  "level": "expert",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings",
+    "shoulders"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "unilateral",
+  "instructions": [
+    "Pick up a kettlebell with two hands and hold it by the horns. Hold one leg off of the floor and squat down on the other.",
+    "Squat down by flexing the knee and sitting back with the hips, holding the kettlebell up in front of you.",
+    "Hold the bottom position for a second and then reverse the motion, driving through the heel and keeping your head and chest up.",
+    "Lower yourself again and repeat."
+  ],
+  "images": [
+    "kettlebell-pistol-squat/0.jpg",
+    "kettlebell-pistol-squat/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=bH3mRwnAN88",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Kettlebell_Pistol_Squat"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "forward-drag-with-press",
+  "name": "Forward Drag with Press",
+  "family": "sled-push-drag",
+  "variantGroup": null,
+  "modality": "strongman",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "sled",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings",
+    "quadriceps",
+    "shoulders",
+    "triceps"
+  ],
+  "measurementType": "weighted_time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Attach a dual handled chain or rope attachment to the sled. You should be facing away from the sled, holding a handle in each hand.",
+    "Begin the movement by moving forward for one step. Leaning forward, extend through the legs and hips to move, pausing with each step to extend through the elbows, pressing your hands forward. Step forward until you return to the start position prepared to press."
+  ],
+  "images": [
+    "forward-drag-with-press/0.jpg",
+    "forward-drag-with-press/1.jpg"
+  ],
+  "video": "https://www.youtube.com/watch?v=u3RZXe1kqLA",
+  "source": {
+    "name": "free-exercise-db",
+    "id": "Forward_Drag_with_Press"
+  }
+}
