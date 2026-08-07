@@ -8,15 +8,18 @@ This project started as a successor to
 domain (Unlicense) and no longer active. It keeps that dataset's 870+ exercises
 and images, and adds a curation layer on top:
 
-- **Exercise families** — variants grouped under one family (for example, all
-  bench-press variants), with a controlled body-region category per family.
+- **Exercise families** — one broad movement per family. Every squat variant —
+  sumo, front, single-leg, box — belongs to the one squat family, with a
+  controlled body-region category per family and an optional `variantGroup`
+  label for finer sub-grouping inside it.
 - **Measurement type** — how a set of this exercise is measured (`weight_reps`,
   `reps`, `time`, …). Intrinsic to the movement. An exercise without one is a
   draft.
 - **Laterality** — bilateral or unilateral, so apps can track left/right sides.
 - **Demo videos** — a YouTube URL per exercise.
-- **Aliases** — alternative names per locale, so search works in more than one
-  language and phrasing.
+- **Aliases** — alternative English names for the same movement, so search
+  matches common phrasings. The catalogue is English-only by design;
+  translation belongs to consuming apps.
 - **A richer equipment vocabulary** — the upstream `other` bucket resolved into
   real equipment types (trap bar, sled, suspension trainer, …).
 

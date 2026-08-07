@@ -28,14 +28,10 @@
       "description": "Canonical English name. Must describe a concrete action, not a goal or a body region."
     },
     "aliases": {
-      "type": "object",
-      "description": "Alternative names per locale, for search. Keys are two-letter locale codes.",
-      "propertyNames": { "pattern": "^[a-z]{2}$" },
-      "additionalProperties": {
-        "type": "array",
-        "items": { "type": "string", "minLength": 1 },
-        "uniqueItems": true
-      }
+      "type": "array",
+      "description": "Alternative English names for the same movement, for search. The catalogue's base language is English; translation is a consumer concern.",
+      "items": { "type": "string", "minLength": 1 },
+      "uniqueItems": true
     },
     "family": {
       "description": "Slug of the family this exercise belongs to, or null when unclassified. Must resolve to a file in families/.",
