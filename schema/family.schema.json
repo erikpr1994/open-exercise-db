@@ -1,0 +1,28 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/erikpr1994/open-exercise-db/main/schema/family.schema.json",
+  "title": "Exercise family",
+  "description": "A grouping of exercise variants. The file lives at families/<id>.json. A family is an organizational unit for browsing; it does not drive execution.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["id", "name", "category"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$",
+      "description": "Slug. Also the file name."
+    },
+    "name": {
+      "type": "string",
+      "minLength": 1
+    },
+    "category": {
+      "type": "string",
+      "x-vocab": "family-categories",
+      "description": "Body-region category, from the controlled vocabulary."
+    },
+    "description": {
+      "anyOf": [{ "type": "null" }, { "type": "string", "minLength": 1 }]
+    }
+  }
+}

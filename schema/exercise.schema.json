@@ -1,0 +1,129 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/erikpr1994/open-exercise-db/main/schema/exercise.schema.json",
+  "title": "Exercise",
+  "description": "One exercise. The file lives at exercises/<id>.json. Fields marked with x-vocab must hold a value from the named file in vocab/; the validation script enforces membership so vocabulary growth is a data change.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "name",
+    "modality",
+    "level",
+    "equipment",
+    "primaryMuscles",
+    "secondaryMuscles",
+    "instructions",
+    "images"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$",
+      "description": "Slug. Also the file name and the folder name under images/."
+    },
+    "name": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Canonical English name. Must describe a concrete action, not a goal or a body region."
+    },
+    "aliases": {
+      "type": "object",
+      "description": "Alternative names per locale, for search. Keys are two-letter locale codes.",
+      "propertyNames": { "pattern": "^[a-z]{2}$" },
+      "additionalProperties": {
+        "type": "array",
+        "items": { "type": "string", "minLength": 1 },
+        "uniqueItems": true
+      }
+    },
+    "family": {
+      "description": "Slug of the family this exercise belongs to, or null when unclassified. Must resolve to a file in families/.",
+      "anyOf": [
+        { "type": "null" },
+        { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$" }
+      ]
+    },
+    "variantGroup": {
+      "description": "Free-text presentation sub-group inside a large family, for example \"Incline\" or \"Kettlebell\".",
+      "anyOf": [{ "type": "null" }, { "type": "string", "minLength": 1 }]
+    },
+    "modality": {
+      "type": "string",
+      "x-vocab": "modalities"
+    },
+    "level": {
+      "type": "string",
+      "x-vocab": "levels"
+    },
+    "mechanic": {
+      "anyOf": [{ "type": "null" }, { "type": "string", "x-vocab": "mechanics" }]
+    },
+    "force": {
+      "anyOf": [{ "type": "null" }, { "type": "string", "x-vocab": "forces" }]
+    },
+    "equipment": {
+      "type": "string",
+      "x-vocab": "equipment"
+    },
+    "primaryMuscles": {
+      "type": "array",
+      "items": { "type": "string", "x-vocab": "muscles" },
+      "uniqueItems": true
+    },
+    "secondaryMuscles": {
+      "type": "array",
+      "items": { "type": "string", "x-vocab": "muscles" },
+      "uniqueItems": true,
+      "description": "Must not repeat a primary muscle."
+    },
+    "measurementType": {
+      "description": "How a set of this exercise is measured. Intrinsic to the movement. Null means the exercise is a draft and not ready for workout use. Once set, curation policy treats it as immutable.",
+      "anyOf": [
+        { "type": "null" },
+        { "type": "string", "x-vocab": "measurement-types" }
+      ]
+    },
+    "laterality": {
+      "description": "Whether the movement loads both sides at once (bilateral) or one side at a time (unilateral). Once set, curation policy treats it as immutable.",
+      "anyOf": [
+        { "type": "null" },
+        { "type": "string", "x-vocab": "lateralities" }
+      ]
+    },
+    "instructions": {
+      "type": "array",
+      "items": { "type": "string", "minLength": 1 },
+      "description": "Ordered execution steps."
+    },
+    "images": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^[a-z0-9]+(-[a-z0-9]+)*/[0-9]+\\.(jpg|jpeg|png|webp)$"
+      },
+      "uniqueItems": true,
+      "description": "Paths relative to images/. The folder must equal the exercise id, and every file must exist."
+    },
+    "video": {
+      "description": "YouTube demo video, or null.",
+      "anyOf": [
+        { "type": "null" },
+        {
+          "type": "string",
+          "pattern": "^https://((www\\.)?youtube\\.com/watch\\?v=|youtu\\.be/)[A-Za-z0-9_-]{11}$"
+        }
+      ]
+    },
+    "source": {
+      "type": "object",
+      "description": "Provenance of imported rows, kept for idempotent re-import and credit.",
+      "additionalProperties": false,
+      "required": ["name", "id"],
+      "properties": {
+        "name": { "type": "string", "minLength": 1 },
+        "id": { "type": "string", "minLength": 1 }
+      }
+    }
+  }
+}
