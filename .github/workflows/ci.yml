@@ -18,6 +18,8 @@ jobs:
       - run: npm run validate
       - run: npm run build
       - run: npm test
+      - name: Check compatibility with the latest release
+        run: node scripts/check-release-compat.mjs
       - name: Check that the issue form matches schema and vocab
         run: |
           npm run generate-issue-form

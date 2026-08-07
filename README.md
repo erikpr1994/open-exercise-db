@@ -42,7 +42,10 @@ Adding a vocabulary value is a data change, not a code change.
 
 Each release ships `exercises.json` — every exercise merged into a single
 array, with derived fields (such as loaded joint regions) computed at build
-time. Pin a release tag; do not consume `main` directly.
+time. Consume releases, not `main`. Released ids are stable and a set
+measurement type never changes: CI compares every change against the latest
+release and fails on a violation, so consumers can take the newest release
+without fear of orphaned references.
 
 ## Contributing
 
