@@ -1,0 +1,31 @@
+{
+  "id": "clamshell",
+  "name": "Clamshell",
+  "aliases": [
+    "clam"
+  ],
+  "family": "hip-abduction",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "pull",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abductors"
+  ],
+  "secondaryMuscles": [
+    "glutes"
+  ],
+  "measurementType": "reps",
+  "laterality": "unilateral",
+  "instructions": [
+    "Lie on your side with hips and knees bent about 45 degrees, feet stacked together, head resting on your lower arm.",
+    "Stack your hips vertically and keep your feet touching throughout.",
+    "Raise your top knee toward the ceiling without rolling your pelvis backward.",
+    "Pause briefly, feeling the contraction on the outside of your hip.",
+    "Lower the knee back down with control, then repeat on one side before switching."
+  ],
+  "images": [],
+  "video": null
+}

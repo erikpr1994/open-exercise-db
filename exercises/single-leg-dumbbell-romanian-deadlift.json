@@ -1,0 +1,33 @@
+{
+  "id": "single-leg-dumbbell-romanian-deadlift",
+  "name": "Single-Leg Dumbbell Romanian Deadlift",
+  "aliases": [
+    "single-leg RDL",
+    "one-leg Romanian deadlift"
+  ],
+  "family": "romanian-stiff-leg-deadlift",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "pull",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "lower back"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "unilateral",
+  "instructions": [
+    "Hold a dumbbell in the hand opposite the working leg, standing tall.",
+    "Shift your weight onto the working leg with a soft knee bend.",
+    "Hinge at the hips, extending the non-working leg straight back as your torso lowers toward parallel.",
+    "Lower the dumbbell close to your shin, keeping your back flat and hips square.",
+    "Reverse the motion by driving your hips forward to return to standing, then repeat on one leg before switching."
+  ],
+  "images": [],
+  "video": null
+}

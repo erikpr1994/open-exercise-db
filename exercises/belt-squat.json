@@ -1,0 +1,33 @@
+{
+  "id": "belt-squat",
+  "name": "Belt Squat",
+  "aliases": [
+    "hip belt squat"
+  ],
+  "family": "squat",
+  "variantGroup": "Machine",
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings",
+    "calves"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Attach a dip belt or harness to the belt squat machine's hip loading point and buckle it around your hips.",
+    "Stand on the raised platforms with feet shoulder-width apart, letting the load hang freely below.",
+    "Brace your core and keep your torso upright.",
+    "Bend your knees and hips to squat until your thighs reach at least parallel.",
+    "Drive through your feet to stand back up, keeping the load path vertical, then repeat for reps."
+  ],
+  "images": [],
+  "video": null
+}

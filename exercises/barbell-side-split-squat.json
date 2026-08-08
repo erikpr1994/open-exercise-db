@@ -1,6 +1,9 @@
 {
   "id": "barbell-side-split-squat",
   "name": "Barbell Side Split Squat",
+  "aliases": [
+    "barbell cossack squat"
+  ],
   "family": "squat",
   "variantGroup": "Split & Single-Leg",
   "modality": "strength",

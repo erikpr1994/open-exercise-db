@@ -1,0 +1,36 @@
+{
+  "id": "suitcase-carry",
+  "name": "Suitcase Carry",
+  "aliases": [
+    "offset carry",
+    "single-arm farmer's carry"
+  ],
+  "family": "carry",
+  "variantGroup": null,
+  "modality": "strongman",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": null,
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "forearms",
+    "glutes",
+    "lower back",
+    "quadriceps",
+    "traps"
+  ],
+  "measurementType": "weighted_time",
+  "laterality": "unilateral",
+  "instructions": [
+    "Stand next to a dumbbell placed on the floor at your side.",
+    "Hinge at the hips with a flat back to pick it up in one hand, letting it hang at arm's length just outside your leg.",
+    "Stand tall, brace your core hard to resist leaning toward the loaded side, and keep your shoulders level.",
+    "Walk forward with short, controlled steps for the target distance or time without letting your torso tip sideways.",
+    "Set the weight down under control, then repeat on the opposite side for equal volume."
+  ],
+  "images": [],
+  "video": null
+}

@@ -1,0 +1,38 @@
+{
+  "id": "devil-press",
+  "name": "Devil Press",
+  "aliases": [
+    "devil's press",
+    "burpee dumbbell snatch"
+  ],
+  "family": "burpee",
+  "variantGroup": null,
+  "modality": "plyometrics",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "shoulders",
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "chest",
+    "forearms",
+    "glutes",
+    "hamstrings",
+    "triceps"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Stand over two dumbbells with feet about shoulder width apart.",
+    "Bend down to grip both dumbbells with a neutral grip, then kick your feet back and lower your chest to the floor, keeping hold of the dumbbells.",
+    "Push back up to plant your feet just behind your hands, still holding the dumbbells.",
+    "Explosively stand and swing the dumbbells between your legs, then up in one continuous motion to arms fully locked out overhead.",
+    "Lower the dumbbells back to the floor with control and repeat."
+  ],
+  "images": [],
+  "video": null
+}

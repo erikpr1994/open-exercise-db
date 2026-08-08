@@ -1,6 +1,9 @@
 {
   "id": "dip-machine",
   "name": "Dip Machine",
+  "aliases": [
+    "machine dips"
+  ],
   "family": "dip",
   "variantGroup": null,
   "modality": "strength",

@@ -1,0 +1,33 @@
+{
+  "id": "spoto-press",
+  "name": "Spoto Press",
+  "aliases": [
+    "no-touch bench press",
+    "paused bench press"
+  ],
+  "family": "bench-press",
+  "variantGroup": "Barbell Flat",
+  "modality": "powerlifting",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "triceps",
+    "shoulders"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Set up on a flat bench as for a regular bench press, feet flat on the floor, shoulder blades retracted.",
+    "Unrack the bar and lower it under control to a point a few centimeters above your chest.",
+    "Stop the bar in the air and hold it motionless for about one second, without letting it touch your chest or rest on anything.",
+    "Press the bar back up to lockout without bouncing or using the stretch reflex.",
+    "Repeat for the prescribed reps, resetting the same dead-stop pause each rep."
+  ],
+  "images": [],
+  "video": null
+}
