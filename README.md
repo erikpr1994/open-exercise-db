@@ -21,7 +21,9 @@ and images, and adds a curation layer on top:
   matches common phrasings. The catalogue is English-only by design;
   translation belongs to consuming apps.
 - **A richer equipment vocabulary** — the upstream `other` bucket resolved into
-  real equipment types (trap bar, sled, suspension trainer, …).
+  real equipment types (trap bar, sled, suspension trainer, …), each with a
+  `loading` characteristic that tells how the implement takes external load
+  (plates per side, a fixed implement weight, a pin-selected stack, …).
 
 ## Repository layout
 
@@ -36,7 +38,10 @@ scripts/    Validation and build tooling
 
 Fields whose values must come from a vocabulary are marked with `x-vocab` in the
 schema; validation checks membership against the matching file in `vocab/`.
-Adding a vocabulary value is a data change, not a code change.
+Adding a vocabulary value is a data change, not a code change. Most
+vocabularies are flat name arrays; `vocab/equipment.json` holds objects that
+pair each name with a `loading` characteristic
+(`schema/equipment.schema.json` describes the shape).
 
 ## Consuming the data
 

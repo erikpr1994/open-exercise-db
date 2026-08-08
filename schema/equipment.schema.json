@@ -1,0 +1,34 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/erikpr1994/open-exercise-db/main/schema/equipment.schema.json",
+  "title": "Equipment vocabulary",
+  "description": "The entries of vocab/equipment.json. Each entry names one implement and states how it takes external load. A field marked x-vocab: equipment must hold one of the names.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": ["name", "loading"],
+    "properties": {
+      "name": {
+        "type": "string",
+        "minLength": 1
+      },
+      "loading": {
+        "description": "How the implement takes external load: plates-per-side is a bar loaded symmetrically with plates on each side; plates-single-end is plates stacked on one post or sleeve; fixed means you pick an implement of a set weight; stack is a pin-selected weight stack; none means no external load. Null when no category fits.",
+        "anyOf": [
+          { "type": "null" },
+          {
+            "type": "string",
+            "enum": [
+              "plates-per-side",
+              "plates-single-end",
+              "fixed",
+              "stack",
+              "none"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

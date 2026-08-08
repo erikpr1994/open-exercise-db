@@ -138,7 +138,10 @@ function findVocabKeyword(node) {
 }
 
 export async function loadVocab(name) {
-  return JSON.parse(
+  const entries = JSON.parse(
     await readFile(path.join(root, "vocab", `${name}.json`), "utf8"),
+  );
+  return entries.map((entry) =>
+    typeof entry === "string" ? entry : entry.name,
   );
 }
