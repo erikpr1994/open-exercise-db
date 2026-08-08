@@ -13,7 +13,9 @@ about content.
   flag.
 - **Vocabulary additions are data PRs.** If a value you need (a muscle, an
   equipment type, a level, …) is missing, add it to the matching file in
-  `vocab/` in the same PR. No code change is needed.
+  `vocab/` in the same PR. No code change is needed. An equipment entry is an
+  object with a `name` and a `loading` characteristic — how the implement
+  takes external load; use `null` when no category fits.
 - **The catalogue is English-only.** `aliases` holds alternative English names
   for the same movement, for search. Do not add locale data; translation
   belongs to consuming apps.

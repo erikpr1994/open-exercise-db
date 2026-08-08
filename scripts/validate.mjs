@@ -14,6 +14,10 @@ function report(file, message) {
 async function loadVocabs() {
   const vocabs = new Map();
   const dir = path.join(root, "vocab");
+  const validateEquipment = await compileValidator(
+    new Ajv2020({ allErrors: true }),
+    "equipment.schema.json",
+  );
   for (const name of (await readdir(dir)).filter((n) => n.endsWith(".json"))) {
     const file = `vocab/${name}`;
     let data;
@@ -23,16 +27,30 @@ async function loadVocabs() {
       report(file, `invalid JSON: ${cause.message}`);
       continue;
     }
-    if (!Array.isArray(data) || !data.every((v) => typeof v === "string")) {
-      report(file, "must be a flat array of strings");
-      continue;
-    }
-    if (new Set(data).size !== data.length) {
+    const values =
+      name === "equipment.json"
+        ? equipmentNames(file, data, validateEquipment)
+        : stringValues(file, data);
+    if (values === undefined) continue;
+    if (new Set(values).size !== values.length) {
       report(file, "contains duplicate values");
     }
-    vocabs.set(name.replace(/\.json$/, ""), new Set(data));
+    vocabs.set(name.replace(/\.json$/, ""), new Set(values));
   }
   return vocabs;
+}
+
+function stringValues(file, data) {
+  if (!Array.isArray(data) || !data.every((v) => typeof v === "string")) {
+    report(file, "must be a flat array of strings");
+    return undefined;
+  }
+  return data;
+}
+
+function equipmentNames(file, data, validate) {
+  if (!reportSchemaErrors({ file, data }, validate)) return undefined;
+  return data.map((entry) => entry.name);
 }
 
 function createAjv(vocabs) {
@@ -95,11 +113,12 @@ async function readCollection(dirName) {
 }
 
 function reportSchemaErrors(entry, validate) {
-  if (validate(entry.data)) return;
+  if (validate(entry.data)) return true;
   for (const error of validate.errors ?? []) {
     const where = error.instancePath === "" ? "" : `${error.instancePath} `;
     report(entry.file, `${where}${error.message}`);
   }
+  return false;
 }
 
 function checkFileName(entry) {
