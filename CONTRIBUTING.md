@@ -7,8 +7,10 @@ about content.
 
 - **One file per exercise.** Each exercise lives at `exercises/<id>.json`,
   where `<id>` matches the `id` field. Images go in `images/<id>/`.
-- **Validate before you open a PR.** Run `npm ci` once, then
-  `npm run validate`. CI runs the same script and rejects anything it flags.
+- **Run `npm ci` once after cloning.** It installs the dependencies and the
+  git hooks (`lefthook.yml`), which validate on commit and check release
+  compatibility on push. CI runs the same scripts and rejects anything they
+  flag.
 - **Vocabulary additions are data PRs.** If a value you need (a muscle, an
   equipment type, a level, …) is missing, add it to the matching file in
   `vocab/` in the same PR. No code change is needed.

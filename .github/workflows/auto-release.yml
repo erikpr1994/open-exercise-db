@@ -1,0 +1,102 @@
+name: Auto release
+
+# Every merge to main that changes the shipped data publishes a patch
+# release automatically. Minor and major versions are still cut by hand
+# by pushing a v* tag (see release.yml); tags created here use the
+# built-in GITHUB_TOKEN, which GitHub never lets re-trigger release.yml,
+# so the two workflows cannot double-publish.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "exercises/**"
+      - "families/**"
+      - "vocab/**"
+      - "schema/**"
+      - "removed-exercises.json"
+      - "scripts/build.mjs"
+  workflow_dispatch:
+    inputs:
+      version:
+        description: "Tag to release (vX.Y.Z), for minor/major bumps; leave empty for the next patch"
+        required: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: auto-release
+  cancel-in-progress: false
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0 # tags are needed to compute the next version
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm run validate
+      - run: npm run build
+      - name: Skip when the built data matches the latest release
+        id: diff
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          changed=true
+          if gh release download --pattern "exercises.json" --pattern "families.json" --dir released 2>/dev/null; then
+            if cmp -s dist/exercises.json released/exercises.json &&
+              cmp -s dist/families.json released/families.json; then
+              changed=false
+            fi
+          fi
+          echo "changed=$changed" >> "$GITHUB_OUTPUT"
+      - name: Compute the next version
+        if: steps.diff.outputs.changed == 'true'
+        id: version
+        env:
+          REQUESTED: ${{ inputs.version }}
+        run: |
+          if [ -n "$REQUESTED" ]; then
+            echo "$REQUESTED" | grep -Eq '^v[0-9]+\.[0-9]+\.[0-9]+$' ||
+              { echo "version must look like vX.Y.Z, got: $REQUESTED" >&2; exit 1; }
+            next="$REQUESTED"
+          else
+            latest=$(git tag --list "v*" --sort=-v:refname | head -n1)
+            bump=patch
+            if [ -f released/exercises.json ]; then
+              bump=$(node -e '
+                const { readFileSync } = require("node:fs");
+                const released = JSON.parse(readFileSync("released/exercises.json", "utf8"));
+                const current = new Set(
+                  JSON.parse(readFileSync("dist/exercises.json", "utf8")).map((e) => e.id),
+                );
+                console.log(released.some((e) => !current.has(e.id)) ? "minor" : "patch");
+              ')
+            fi
+            next=$(node -e '
+              const [major, minor, patch] = process.argv[1].replace(/^v/, "").split(".").map(Number);
+              console.log(
+                process.argv[2] === "minor" ? `v${major}.${minor + 1}.0` : `v${major}.${minor}.${patch + 1}`,
+              );
+            ' "${latest:-v0.0.0}" "$bump")
+          fi
+          echo "next=$next" >> "$GITHUB_OUTPUT"
+      - name: Generate the data changelog
+        if: steps.diff.outputs.changed == 'true'
+        run: node scripts/release-notes.mjs > release-notes.md
+      - name: Create the release
+        if: steps.diff.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: >
+          gh release create "${{ steps.version.outputs.next }}"
+          dist/exercises.json dist/families.json
+          --title "${{ steps.version.outputs.next }}"
+          --notes-file release-notes.md
+          --generate-notes

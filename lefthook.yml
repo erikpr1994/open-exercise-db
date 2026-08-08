@@ -1,0 +1,16 @@
+pre-commit:
+  parallel: true
+  commands:
+    validate:
+      run: npm run validate
+    tests:
+      glob: "scripts/*"
+      run: npm test
+    issue-form:
+      glob: "{schema,vocab}/*.json"
+      run: npm run generate-issue-form && git diff --exit-code -- .github/ISSUE_TEMPLATE/new-exercise.yml
+
+pre-push:
+  commands:
+    release-compat:
+      run: node scripts/check-release-compat.mjs
