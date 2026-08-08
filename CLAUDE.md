@@ -6,9 +6,8 @@ Open, curated exercise database. One JSON file per exercise in
 
 ## Commands
 
-There are no git hooks. Run the checks yourself before you push:
-
-- `npm ci` — install dependencies.
+- `npm ci` — install dependencies and the git hooks (`lefthook install`
+  runs through the `prepare` script).
 - `npm run validate` — schema, vocabulary, family, image, and id checks.
 - `npm run build` — write `dist/exercises.json` and `dist/families.json`.
 - `npm test` — unit tests for the scripts (`scripts/*.test.mjs`).
@@ -16,6 +15,10 @@ There are no git hooks. Run the checks yourself before you push:
 - `npm run generate-issue-form` — regenerate the new-exercise issue form.
   Run it after every schema or vocabulary change; CI fails when the
   committed form is stale.
+
+Do not run these checks by hand. The git hooks in `lefthook.yml` run them
+on commit and on push. If a check is missing from the git hooks, add it
+there instead of running it by hand.
 
 ## Data invariants
 
