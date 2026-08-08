@@ -68,10 +68,23 @@ jobs:
             next="$REQUESTED"
           else
             latest=$(git tag --list "v*" --sort=-v:refname | head -n1)
+            bump=patch
+            if [ -f released/exercises.json ]; then
+              bump=$(node -e '
+                const { readFileSync } = require("node:fs");
+                const released = JSON.parse(readFileSync("released/exercises.json", "utf8"));
+                const current = new Set(
+                  JSON.parse(readFileSync("dist/exercises.json", "utf8")).map((e) => e.id),
+                );
+                console.log(released.some((e) => !current.has(e.id)) ? "minor" : "patch");
+              ')
+            fi
             next=$(node -e '
               const [major, minor, patch] = process.argv[1].replace(/^v/, "").split(".").map(Number);
-              console.log(`v${major}.${minor}.${patch + 1}`);
-            ' "${latest:-v0.0.0}")
+              console.log(
+                process.argv[2] === "minor" ? `v${major}.${minor + 1}.0` : `v${major}.${minor}.${patch + 1}`,
+              );
+            ' "${latest:-v0.0.0}" "$bump")
           fi
           echo "next=$next" >> "$GITHUB_OUTPUT"
       - name: Generate the data changelog
