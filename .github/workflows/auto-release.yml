@@ -1,0 +1,72 @@
+name: Auto release
+
+# Every merge to main that changes the shipped data publishes a patch
+# release automatically. Minor and major versions are still cut by hand
+# by pushing a v* tag (see release.yml); tags created here use the
+# built-in GITHUB_TOKEN, which GitHub never lets re-trigger release.yml,
+# so the two workflows cannot double-publish.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "exercises/**"
+      - "families/**"
+      - "vocab/**"
+      - "schema/**"
+      - "removed-exercises.json"
+      - "scripts/build.mjs"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: auto-release
+  cancel-in-progress: false
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0 # tags are needed to compute the next version
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm run validate
+      - run: npm run build
+      - name: Skip when the built data matches the latest release
+        id: diff
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          changed=true
+          if gh release download --pattern "exercises.json" --pattern "families.json" --dir released 2>/dev/null; then
+            if cmp -s dist/exercises.json released/exercises.json &&
+              cmp -s dist/families.json released/families.json; then
+              changed=false
+            fi
+          fi
+          echo "changed=$changed" >> "$GITHUB_OUTPUT"
+      - name: Compute the next patch version
+        if: steps.diff.outputs.changed == 'true'
+        id: version
+        run: |
+          latest=$(git tag --list "v*" --sort=-v:refname | head -n1)
+          next=$(node -e '
+            const [major, minor, patch] = process.argv[1].replace(/^v/, "").split(".").map(Number);
+            console.log(`v${major}.${minor}.${patch + 1}`);
+          ' "${latest:-v0.0.0}")
+          echo "next=$next" >> "$GITHUB_OUTPUT"
+      - name: Create the release
+        if: steps.diff.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: >
+          gh release create "${{ steps.version.outputs.next }}"
+          dist/exercises.json dist/families.json
+          --title "${{ steps.version.outputs.next }}"
+          --generate-notes

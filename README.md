@@ -47,6 +47,11 @@ measurement type never changes: CI compares every change against the latest
 release and fails on a violation, so consumers can take the newest release
 without fear of orphaned references.
 
+Releases are cut automatically: every merge to `main` that changes the
+shipped data publishes a new patch release. Minor and major versions are
+still tagged by hand (`git tag vX.Y.0 && git push origin vX.Y.0`) for
+milestones worth calling out.
+
 Removing an exercise is exceptional. It requires a tombstone entry in
 `removed-exercises.json` (id, date, reason); CI rejects any other deletion of
 a released id. Consumers can read that file to migrate references away from
