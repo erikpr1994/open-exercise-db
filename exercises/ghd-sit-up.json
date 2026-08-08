@@ -1,0 +1,35 @@
+{
+  "id": "ghd-sit-up",
+  "name": "GHD Sit-Up",
+  "aliases": [
+    "GHD situp",
+    "glute-ham developer sit-up"
+  ],
+  "family": "sit-up",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "pull",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "hip flexors"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "quadriceps",
+    "glutes",
+    "lower back"
+  ],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Sit on a glute-ham developer platform with your hips just past the edge of the pad and feet secured under the rollers, knees bent about 90 degrees.",
+    "Cross your arms over your chest or place your hands lightly behind your head.",
+    "Slowly lower your torso back, letting your hips extend slightly past horizontal for a stretch.",
+    "From the bottom, drive with your hip flexors and brace your abs to pull your torso back up to sitting.",
+    "Keep both the descent and ascent controlled to protect your lower back, then repeat for reps."
+  ],
+  "images": [],
+  "video": null
+}

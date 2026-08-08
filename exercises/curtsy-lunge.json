@@ -1,0 +1,34 @@
+{
+  "id": "curtsy-lunge",
+  "name": "Curtsy Lunge",
+  "aliases": [
+    "curtsey lunge",
+    "cross-behind lunge"
+  ],
+  "family": "lunge",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "quadriceps",
+    "adductors",
+    "abductors"
+  ],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Stand with feet hip-width apart, hands at your chest for balance.",
+    "Step one leg diagonally behind and across your body, as if curtsying.",
+    "Bend both knees, lowering until the back knee nearly touches the floor, keeping your torso upright and hips square to the front.",
+    "Push through the front heel to return to standing.",
+    "Finish all reps on one side, then switch legs."
+  ],
+  "images": [],
+  "video": null
+}

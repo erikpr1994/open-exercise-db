@@ -1,13 +1,16 @@
 {
   "id": "weighted-sissy-squat",
   "name": "Weighted Sissy Squat",
+  "aliases": [
+    "sissy squat"
+  ],
   "family": "squat",
   "variantGroup": "Machine",
   "modality": "strength",
   "level": "expert",
   "mechanic": "compound",
   "force": "push",
-  "equipment": "barbell",
+  "equipment": "weight plate",
   "primaryMuscles": [
     "quadriceps"
   ],

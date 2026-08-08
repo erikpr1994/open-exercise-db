@@ -1,0 +1,33 @@
+{
+  "id": "reverse-plank",
+  "name": "Reverse Plank",
+  "aliases": [
+    "reverse plank hold"
+  ],
+  "family": "plank",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "static",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "shoulders",
+    "triceps"
+  ],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Sit on the floor with legs extended and hands placed slightly behind your hips, fingers pointing toward your feet.",
+    "Press through your hands and heels to lift your hips off the floor.",
+    "Roll your shoulders back and squeeze your glutes so your body forms a straight line from shoulders to heels.",
+    "Keep your head neutral, gaze up rather than forward, and hold the position while breathing steadily.",
+    "Lower your hips back down with control to finish."
+  ],
+  "images": [],
+  "video": null
+}

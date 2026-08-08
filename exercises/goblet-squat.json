@@ -1,6 +1,9 @@
 {
   "id": "goblet-squat",
   "name": "Goblet Squat",
+  "aliases": [
+    "kettlebell goblet squat"
+  ],
   "family": "squat",
   "variantGroup": "Front & Goblet",
   "modality": "strength",

@@ -1,0 +1,34 @@
+{
+  "id": "thruster",
+  "name": "Thruster",
+  "aliases": [
+    "barbell thruster",
+    "front squat to push press"
+  ],
+  "family": "overhead-press",
+  "variantGroup": "Barbell",
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "quadriceps",
+    "glutes",
+    "triceps"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Set a barbell in a front-rack position across your shoulders, elbows high, grip just outside shoulder width.",
+    "Stand with feet shoulder-width apart, brace your core, and squat down until your thighs are at least parallel to the floor, keeping your chest up and elbows high.",
+    "Drive up explosively through your heels, using the upward momentum from the squat to carry the bar off your shoulders.",
+    "As your legs finish extending, press the bar overhead to full arm lockout.",
+    "Lower the bar back to the front rack under control as you descend into the next squat, keeping the movement continuous."
+  ],
+  "images": [],
+  "video": null
+}

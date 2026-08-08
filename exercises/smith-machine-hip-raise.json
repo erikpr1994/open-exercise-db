@@ -1,6 +1,9 @@
 {
   "id": "smith-machine-hip-raise",
   "name": "Smith Machine Hip Raise",
+  "aliases": [
+    "smith machine glute bridge"
+  ],
   "family": "glute-bridge",
   "variantGroup": null,
   "modality": "strength",

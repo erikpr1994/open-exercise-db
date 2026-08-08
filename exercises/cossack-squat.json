@@ -1,0 +1,35 @@
+{
+  "id": "cossack-squat",
+  "name": "Cossack Squat",
+  "aliases": [
+    "lateral squat",
+    "traveling cossack squat"
+  ],
+  "family": "squat",
+  "variantGroup": "Split & Single-Leg",
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "adductors",
+    "glutes",
+    "hamstrings",
+    "abdominals"
+  ],
+  "measurementType": "reps",
+  "laterality": "unilateral",
+  "instructions": [
+    "Stand with feet much wider than shoulder width, toes turned slightly out.",
+    "Shift your weight onto one leg and bend that knee, sitting your hips back and down.",
+    "Keep the other leg straight, letting that heel lift and the foot pivot so the toes point up.",
+    "Keep your torso upright and chest lifted as you sink until the bent thigh nears parallel.",
+    "Drive through the bent leg to return to standing, then repeat for reps before switching sides."
+  ],
+  "images": [],
+  "video": null
+}

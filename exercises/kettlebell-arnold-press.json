@@ -1,6 +1,9 @@
 {
   "id": "kettlebell-arnold-press",
   "name": "Kettlebell Arnold Press",
+  "aliases": [
+    "kb arnold press"
+  ],
   "family": "overhead-press",
   "variantGroup": "Kettlebell",
   "modality": "strength",

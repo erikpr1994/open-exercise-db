@@ -1,0 +1,35 @@
+{
+  "id": "sumo-deadlift-high-pull",
+  "name": "Sumo Deadlift High Pull",
+  "aliases": [
+    "SDHP"
+  ],
+  "family": "olympic-pull",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "pull",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "traps"
+  ],
+  "secondaryMuscles": [
+    "adductors",
+    "glutes",
+    "hamstrings",
+    "quadriceps",
+    "shoulders"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Stand with feet wider than shoulder width, toes turned slightly out, barbell over mid-foot.",
+    "Hinge at the hips and bend the knees to grip the bar just inside the knees, back flat, chest up.",
+    "Drive through the heels to lift the bar, extending the hips and knees together.",
+    "As the bar passes the knees, extend explosively and shrug hard, pulling the bar upward with high, flared elbows.",
+    "Pull the bar to roughly chest height, elbows above the wrists, then reverse the motion under control back to the floor."
+  ],
+  "images": [],
+  "video": null
+}

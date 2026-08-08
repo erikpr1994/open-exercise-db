@@ -1,6 +1,9 @@
 {
   "id": "cable-shoulder-press",
   "name": "Cable Shoulder Press",
+  "aliases": [
+    "cable overhead press"
+  ],
   "family": "overhead-press",
   "variantGroup": "Cable",
   "modality": "strength",

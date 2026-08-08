@@ -1,6 +1,9 @@
 {
   "id": "narrow-stance-leg-press",
   "name": "Narrow Stance Leg Press",
+  "aliases": [
+    "close stance leg press"
+  ],
   "family": "leg-press",
   "variantGroup": null,
   "modality": "strength",

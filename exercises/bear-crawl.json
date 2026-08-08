@@ -1,0 +1,34 @@
+{
+  "id": "bear-crawl",
+  "name": "Bear Crawl",
+  "aliases": [
+    "bear walk"
+  ],
+  "family": "crawl",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "pull",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "quadriceps",
+    "glutes",
+    "chest"
+  ],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Start on hands and knees, hands under shoulders, knees under hips.",
+    "Lift your knees a few centimeters off the floor so your weight rests on your hands and toes, keeping your back flat and core braced.",
+    "Move forward by advancing your right hand and left foot together, then your left hand and right foot.",
+    "Keep your knees low to the ground and your hips level, without letting them rock side to side.",
+    "Continue crawling for the given distance or number of steps."
+  ],
+  "images": [],
+  "video": null
+}

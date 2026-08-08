@@ -1,0 +1,36 @@
+{
+  "id": "kroc-row",
+  "name": "Kroc Row",
+  "aliases": [
+    "heavy dumbbell row",
+    "high-rep dumbbell row"
+  ],
+  "family": "row",
+  "variantGroup": "Dumbbell",
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "pull",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "traps",
+    "biceps",
+    "forearms",
+    "middle back",
+    "lower back"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "unilateral",
+  "instructions": [
+    "Brace your free hand on a bench or rack and pick up a heavy dumbbell with the working arm, hinging your torso forward.",
+    "Start each rep with the arm fully extended and the shoulder allowed to stretch down toward the floor.",
+    "Row the dumbbell up explosively, driving the elbow back and using a small amount of hip drive and torso rotation to move the heavy load.",
+    "Pull your shoulder blade back hard at the top of the rep.",
+    "Lower the dumbbell back to a full stretch under control before starting the next rep, continuing for 15-25+ reps."
+  ],
+  "images": [],
+  "video": null
+}

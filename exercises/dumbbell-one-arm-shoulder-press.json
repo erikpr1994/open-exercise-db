@@ -1,6 +1,9 @@
 {
   "id": "dumbbell-one-arm-shoulder-press",
   "name": "Dumbbell One-Arm Shoulder Press",
+  "aliases": [
+    "single arm dumbbell shoulder press"
+  ],
   "family": "overhead-press",
   "variantGroup": "Dumbbell",
   "modality": "strength",

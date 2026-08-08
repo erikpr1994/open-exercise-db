@@ -1,0 +1,33 @@
+{
+  "id": "lateral-lunge",
+  "name": "Lateral Lunge",
+  "aliases": [
+    "side lunge"
+  ],
+  "family": "lunge",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "quadriceps",
+    "adductors",
+    "hamstrings"
+  ],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Stand tall with feet together, toes forward.",
+    "Take a wide step to one side and shift your weight onto that leg.",
+    "Bend the stepping knee and push your hips back, keeping the other leg straight and both feet flat.",
+    "Keep your chest up as you lower, then push through the bent leg's heel to return to standing.",
+    "Complete all reps on one side, then switch."
+  ],
+  "images": [],
+  "video": null
+}

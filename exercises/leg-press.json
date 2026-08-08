@@ -1,6 +1,9 @@
 {
   "id": "leg-press",
   "name": "Leg Press",
+  "aliases": [
+    "45 degree leg press"
+  ],
   "family": "leg-press",
   "variantGroup": null,
   "modality": "strength",
