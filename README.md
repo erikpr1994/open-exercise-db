@@ -48,9 +48,17 @@ release and fails on a violation, so consumers can take the newest release
 without fear of orphaned references.
 
 Releases are cut automatically: every merge to `main` that changes the
-shipped data publishes a new patch release. Minor and major versions are
-still tagged by hand (`git tag vX.Y.0 && git push origin vX.Y.0`) for
-milestones worth calling out.
+shipped data publishes a new patch release. Version numbers follow a simple
+policy — **patch** for additive or corrective data changes (what the
+automatic release always picks), **minor** for changes consumers should
+review before upgrading (exercise removals, vocabulary or schema changes),
+and **major** for incompatible schema restructures. Minor and major
+versions are cut by hand: push a `vX.Y.0` tag, or run the "Auto release"
+workflow with an explicit version.
+
+Every release's notes carry a generated "Data changes" section — added ids,
+removed ids with their tombstone reasons, and modified ids with the fields
+that changed — followed by GitHub's merged-PR notes.
 
 Removing an exercise is exceptional. It requires a tombstone entry in
 `removed-exercises.json` (id, date, reason); CI rejects any other deletion of

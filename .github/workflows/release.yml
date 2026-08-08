@@ -19,10 +19,13 @@ jobs:
       - run: npm ci
       - run: npm run validate
       - run: npm run build
+      - name: Generate the data changelog
+        run: node scripts/release-notes.mjs > release-notes.md
       - run: >
           gh release create "$GITHUB_REF_NAME"
           dist/exercises.json dist/families.json
           --title "$GITHUB_REF_NAME"
+          --notes-file release-notes.md
           --generate-notes
         env:
           GH_TOKEN: ${{ github.token }}
