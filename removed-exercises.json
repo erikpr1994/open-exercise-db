@@ -1,0 +1,57 @@
+[
+  {
+    "id": "bicycling",
+    "removed": "2026-08-08",
+    "reason": "Outdoor steady-state cardio activity, not a programmable exercise; out of catalogue scope."
+  },
+  {
+    "id": "bicycling-stationary",
+    "removed": "2026-08-08",
+    "reason": "Steady-state cardio machine activity, not a programmable exercise; out of catalogue scope."
+  },
+  {
+    "id": "elliptical-trainer",
+    "removed": "2026-08-08",
+    "reason": "Steady-state cardio machine activity, not a programmable exercise; out of catalogue scope."
+  },
+  {
+    "id": "jogging-treadmill",
+    "removed": "2026-08-08",
+    "reason": "Steady-state cardio machine activity, not a programmable exercise; out of catalogue scope."
+  },
+  {
+    "id": "recumbent-bike",
+    "removed": "2026-08-08",
+    "reason": "Steady-state cardio machine activity, not a programmable exercise; out of catalogue scope."
+  },
+  {
+    "id": "running-treadmill",
+    "removed": "2026-08-08",
+    "reason": "Steady-state cardio machine activity, not a programmable exercise; out of catalogue scope."
+  },
+  {
+    "id": "skating",
+    "removed": "2026-08-08",
+    "reason": "Outdoor steady-state cardio activity, not a programmable exercise; out of catalogue scope."
+  },
+  {
+    "id": "stairmaster",
+    "removed": "2026-08-08",
+    "reason": "Steady-state cardio machine activity, not a programmable exercise; out of catalogue scope."
+  },
+  {
+    "id": "step-mill",
+    "removed": "2026-08-08",
+    "reason": "Steady-state cardio machine activity, not a programmable exercise; out of catalogue scope."
+  },
+  {
+    "id": "trail-running-walking",
+    "removed": "2026-08-08",
+    "reason": "Outdoor steady-state cardio activity, not a programmable exercise; out of catalogue scope."
+  },
+  {
+    "id": "walking-treadmill",
+    "removed": "2026-08-08",
+    "reason": "Steady-state cardio machine activity, not a programmable exercise; out of catalogue scope."
+  }
+]

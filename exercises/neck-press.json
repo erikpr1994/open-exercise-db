@@ -1,6 +1,10 @@
 {
   "id": "neck-press",
   "name": "Neck Press",
+  "aliases": [
+    "guillotine press",
+    "gironda neck press"
+  ],
   "family": "bench-press",
   "variantGroup": "Barbell Flat",
   "modality": "strength",

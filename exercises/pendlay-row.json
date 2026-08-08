@@ -1,0 +1,36 @@
+{
+  "id": "pendlay-row",
+  "name": "Pendlay Row",
+  "aliases": [
+    "dead stop barbell row",
+    "dead stop row"
+  ],
+  "family": "row",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "pull",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "hamstrings",
+    "lats",
+    "lower back",
+    "shoulders"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Stand over a loaded barbell on the floor with your feet about hip-width apart. Bend at the hips until your torso is roughly parallel to the floor, keeping your back flat and head in a neutral position.",
+    "Grab the bar with an overhand grip slightly wider than shoulder width, arms fully extended. This is your starting position; the bar rests on the floor between every rep.",
+    "Keeping your torso rigid and parallel to the floor, breathe out and explosively pull the bar to your lower chest, driving your elbows up and back.",
+    "Squeeze your shoulder blades together at the top, then lower the bar back to the floor under control.",
+    "Let the bar settle to a complete dead stop, then repeat for the recommended amount of repetitions."
+  ],
+  "images": [],
+  "video": null
+}

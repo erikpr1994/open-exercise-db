@@ -1,0 +1,33 @@
+{
+  "id": "copenhagen-plank",
+  "name": "Copenhagen Plank",
+  "aliases": [
+    "copenhagen side plank",
+    "copenhagen adductor plank"
+  ],
+  "family": "side-bridge",
+  "variantGroup": "Copenhagen",
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": null,
+  "force": "static",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "adductors"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "shoulders"
+  ],
+  "measurementType": "time",
+  "laterality": "unilateral",
+  "instructions": [
+    "Lie on your side next to a bench with your forearm on the floor and your elbow directly under your shoulder.",
+    "Place the top of your upper foot or lower leg on the bench, with your bottom leg underneath it.",
+    "Lift your hips off the floor until your body forms a straight line from head to foot, letting the bottom leg hover off the ground.",
+    "Squeeze your inner thighs and keep your hips stacked, without letting them sag or rotate.",
+    "Hold for the desired time, then lower with control and repeat on the other side."
+  ],
+  "images": [],
+  "video": null
+}

@@ -1,6 +1,10 @@
 {
   "id": "one-leg-barbell-squat",
   "name": "One Leg Barbell Squat",
+  "aliases": [
+    "barbell bulgarian split squat",
+    "barbell rear foot elevated split squat"
+  ],
   "family": "squat",
   "variantGroup": "Split & Single-Leg",
   "modality": "strength",

@@ -1,0 +1,37 @@
+{
+  "id": "meadows-row",
+  "name": "Meadows Row",
+  "aliases": [
+    "landmine one-arm row",
+    "single-arm landmine row"
+  ],
+  "family": "row",
+  "variantGroup": "Landmine",
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "pull",
+  "equipment": "landmine",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "forearms",
+    "middle back",
+    "shoulders",
+    "traps"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "unilateral",
+  "instructions": [
+    "Secure one end of a barbell in a landmine attachment or a corner, and load the other end with a plate.",
+    "Stand perpendicular to the bar in a staggered stance, with the foot closest to the bar in front. Hinge at the hips until your torso is nearly parallel to the floor and rest your non-working forearm on your front thigh for support.",
+    "Grab the end of the bar sleeve with an overhand grip, arm fully extended so you feel a stretch in your lat. This is your starting position.",
+    "Breathe out and row the bar toward your hip, driving your elbow up and back past your torso.",
+    "Squeeze your back at the top, then inhale and slowly lower the bar back to the starting position.",
+    "Repeat for the recommended amount of repetitions, then switch sides."
+  ],
+  "images": [],
+  "video": null
+}

@@ -47,6 +47,11 @@ measurement type never changes: CI compares every change against the latest
 release and fails on a violation, so consumers can take the newest release
 without fear of orphaned references.
 
+Removing an exercise is exceptional. It requires a tombstone entry in
+`removed-exercises.json` (id, date, reason); CI rejects any other deletion of
+a released id. Consumers can read that file to migrate references away from
+ids that will not return.
+
 ## Contributing
 
 Every change lands as a pull request. CI validates schema conformance, unique

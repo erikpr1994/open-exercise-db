@@ -1,6 +1,10 @@
 {
   "id": "pallof-press",
   "name": "Pallof Press",
+  "aliases": [
+    "anti-rotation press",
+    "belly press"
+  ],
   "family": "anti-rotation-press",
   "variantGroup": null,
   "modality": "strength",

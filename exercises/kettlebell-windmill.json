@@ -1,6 +1,10 @@
 {
   "id": "kettlebell-windmill",
   "name": "Kettlebell Windmill",
+  "aliases": [
+    "windmill",
+    "kb windmill"
+  ],
   "family": "windmill",
   "variantGroup": null,
   "modality": "strength",

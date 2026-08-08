@@ -65,7 +65,6 @@ body:
         - cable
         - dumbbell
         - e-z curl bar
-        - elliptical
         - exercise ball
         - farmer's walk handles
         - foam roll
@@ -73,6 +72,7 @@ body:
         - jump rope
         - keg
         - kettlebells
+        - landmine
         - log
         - machine
         - medicine ball
@@ -82,11 +82,9 @@ body:
         - sandbag
         - sled
         - sledgehammer
-        - stationary bike
         - suspension trainer
         - tire
         - trap bar
-        - treadmill
         - weight plate
         - weight vest
         - wrist roller

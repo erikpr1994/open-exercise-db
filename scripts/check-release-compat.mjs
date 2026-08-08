@@ -6,6 +6,11 @@ const ROOT = fileURLToPath(new URL('..', import.meta.url));
 const RELEASED_URL =
   'https://github.com/erikpr1994/open-exercise-db/releases/latest/download/exercises.json';
 
+const removedPath = join(ROOT, 'removed-exercises.json');
+const removed = new Map(
+  JSON.parse(readFileSync(removedPath, 'utf8')).map((entry) => [entry.id, entry]),
+);
+
 const response = await fetch(RELEASED_URL);
 if (response.status === 404) {
   console.log('no release published yet — nothing to compare against');
@@ -23,11 +28,23 @@ for (const file of readdirSync(exercisesDir)) {
 }
 
 const violations = [];
+let tombstoned = 0;
 for (const record of released) {
   const exercise = current.get(record.id);
   if (!exercise) {
-    violations.push(`released id "${record.id}" is missing — a published id must stay forever`);
+    if (removed.has(record.id)) {
+      tombstoned += 1;
+      continue;
+    }
+    violations.push(
+      `released id "${record.id}" is missing — a published id must stay forever unless it is tombstoned in removed-exercises.json`,
+    );
     continue;
+  }
+  if (removed.has(record.id)) {
+    violations.push(
+      `"${record.id}" is tombstoned in removed-exercises.json but exercises/${record.id}.json still exists — remove the file or the tombstone`,
+    );
   }
   if (record.measurementType !== null && exercise.measurementType !== record.measurementType) {
     violations.push(
@@ -43,5 +60,6 @@ if (violations.length > 0) {
 }
 
 console.log(
-  `release compatibility holds: all ${released.length} released exercises survive with their measurement types`,
+  `release compatibility holds: ${released.length - tombstoned} released exercises survive with their measurement types` +
+    (tombstoned > 0 ? `, ${tombstoned} deliberately removed via removed-exercises.json` : ''),
 );

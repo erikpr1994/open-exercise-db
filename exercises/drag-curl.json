@@ -1,6 +1,10 @@
 {
   "id": "drag-curl",
   "name": "Drag Curl",
+  "aliases": [
+    "body drag curl",
+    "gironda drag curl"
+  ],
   "family": "curl",
   "variantGroup": "Barbell",
   "modality": "strength",

@@ -1,6 +1,10 @@
 {
   "id": "weighted-ball-hyperextension",
   "name": "Weighted Ball Hyperextension",
+  "aliases": [
+    "weighted swiss ball back extension",
+    "stability ball back extension"
+  ],
   "family": "back-extension",
   "variantGroup": null,
   "modality": "strength",

@@ -1,6 +1,9 @@
 {
   "id": "dead-bug",
   "name": "Dead Bug",
+  "aliases": [
+    "dying bug"
+  ],
   "family": "hollow-stability-hold",
   "variantGroup": null,
   "modality": "strength",

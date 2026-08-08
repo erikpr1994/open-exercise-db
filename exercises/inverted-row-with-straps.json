@@ -1,6 +1,10 @@
 {
   "id": "inverted-row-with-straps",
   "name": "Inverted Row with Straps",
+  "aliases": [
+    "TRX row",
+    "suspension row"
+  ],
   "family": "row",
   "variantGroup": "Bodyweight",
   "modality": "strength",

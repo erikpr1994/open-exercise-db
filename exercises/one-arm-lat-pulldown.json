@@ -1,6 +1,9 @@
 {
   "id": "one-arm-lat-pulldown",
   "name": "One Arm Lat Pulldown",
+  "aliases": [
+    "single arm lat pulldown"
+  ],
   "family": "lat-pulldown",
   "variantGroup": null,
   "modality": "strength",

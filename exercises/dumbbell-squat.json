@@ -1,6 +1,9 @@
 {
   "id": "dumbbell-squat",
   "name": "Dumbbell Squat",
+  "aliases": [
+    "db squat"
+  ],
   "family": "squat",
   "variantGroup": "Front & Goblet",
   "modality": "strength",

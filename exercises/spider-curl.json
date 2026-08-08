@@ -1,6 +1,9 @@
 {
   "id": "spider-curl",
   "name": "Spider Curl",
+  "aliases": [
+    "prone incline curl"
+  ],
   "family": "curl",
   "variantGroup": "Preacher",
   "modality": "strength",

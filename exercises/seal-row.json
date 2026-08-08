@@ -1,0 +1,37 @@
+{
+  "id": "seal-row",
+  "name": "Seal Row",
+  "aliases": [
+    "bench-supported barbell row",
+    "chest supported barbell row",
+    "prone bench row"
+  ],
+  "family": "row",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "pull",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "forearms",
+    "lats",
+    "shoulders"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Set up a flat bench high enough that your arms can hang fully extended without the barbell touching the floor. Place a loaded barbell on the floor underneath it.",
+    "Lie face down on the bench with your chest and hips supported, and grab the bar with an overhand grip slightly wider than shoulder width. This is your starting position.",
+    "Keeping your chest pressed into the bench, breathe out and pull the bar straight up toward the underside of the bench, driving your elbows up and back.",
+    "Squeeze your shoulder blades together at the top and hold for a brief pause.",
+    "Inhale and slowly lower the bar back to the starting position with your arms fully extended.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "images": [],
+  "video": null
+}

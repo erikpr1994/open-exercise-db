@@ -1,6 +1,9 @@
 {
   "id": "narrow-stance-squats",
   "name": "Narrow Stance Squats",
+  "aliases": [
+    "close stance squat"
+  ],
   "family": "squat",
   "variantGroup": "Barbell",
   "modality": "strength",

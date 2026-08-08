@@ -1,6 +1,10 @@
 {
   "id": "dumbbell-incline-row",
   "name": "Dumbbell Incline Row",
+  "aliases": [
+    "chest supported dumbbell row",
+    "incline bench row"
+  ],
   "family": "row",
   "variantGroup": "Dumbbell",
   "modality": "strength",

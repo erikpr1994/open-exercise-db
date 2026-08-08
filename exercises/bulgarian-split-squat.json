@@ -1,0 +1,35 @@
+{
+  "id": "bulgarian-split-squat",
+  "name": "Bulgarian Split Squat",
+  "aliases": [
+    "rear foot elevated split squat",
+    "RFESS",
+    "dumbbell Bulgarian split squat"
+  ],
+  "family": "squat",
+  "variantGroup": "Split & Single-Leg",
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "calves",
+    "glutes",
+    "hamstrings"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "unilateral",
+  "instructions": [
+    "Stand a couple of feet in front of a bench while holding a dumbbell in each hand at your sides. Reach one foot back and rest the top of it on the bench, with your front foot planted flat. This will be your starting position.",
+    "Keeping your chest up and torso upright, bend your front knee and lower your hips until your front thigh is roughly parallel to the floor and your rear knee approaches the ground.",
+    "Drive through the heel of your front foot to return to the starting position, keeping the front knee tracking over the toes.",
+    "Complete the desired number of repetitions, then switch legs and repeat."
+  ],
+  "images": [],
+  "video": null
+}

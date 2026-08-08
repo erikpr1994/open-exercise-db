@@ -1,6 +1,9 @@
 {
   "id": "band-pull-apart",
   "name": "Band Pull Apart",
+  "aliases": [
+    "resistance band pull apart"
+  ],
   "family": "reverse-fly",
   "variantGroup": null,
   "modality": "strength",
