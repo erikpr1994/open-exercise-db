@@ -1,0 +1,36 @@
+{
+  "id": "jumping-jack",
+  "name": "Jumping Jack",
+  "aliases": [
+    "jumping jacks",
+    "side-straddle hop"
+  ],
+  "family": "plyometric-jump",
+  "variantGroup": null,
+  "modality": "cardio",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "abductors",
+    "adductors",
+    "calves",
+    "glutes",
+    "shoulders"
+  ],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Stand upright with your feet together and your arms at your sides.",
+    "Jump up, spreading your legs out to slightly wider than shoulder width while swinging your arms out and overhead in one motion.",
+    "Land softly on the balls of your feet with knees slightly bent, feet wide and hands nearly touching overhead.",
+    "Jump again, bringing your feet back together and your arms down to your sides to return to the starting position.",
+    "Repeat at a brisk, steady rhythm for the desired number of reps."
+  ],
+  "images": [],
+  "video": null
+}

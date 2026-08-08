@@ -1,0 +1,39 @@
+{
+  "id": "burpee",
+  "name": "Burpee",
+  "aliases": [
+    "burpees",
+    "squat thrust with jump"
+  ],
+  "family": "burpee",
+  "variantGroup": null,
+  "modality": "plyometrics",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps",
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "calves",
+    "glutes",
+    "hamstrings",
+    "hip flexors",
+    "shoulders",
+    "triceps"
+  ],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Stand with your feet shoulder width apart and your arms at your sides.",
+    "Squat down and place your hands on the floor just in front of your feet.",
+    "Jump your feet back so your legs are fully extended and your body forms a plank, then perform a push-up, lowering your chest to the floor and pressing back up.",
+    "Jump your feet forward to just behind your hands, landing in a low squat.",
+    "Explode upward into a vertical jump, extending your hips fully and reaching your arms overhead, then land softly and immediately begin the next rep."
+  ],
+  "images": [],
+  "video": null
+}

@@ -1,0 +1,36 @@
+{
+  "id": "high-knees",
+  "name": "High Knees",
+  "aliases": [
+    "high knee run in place",
+    "high knee sprints"
+  ],
+  "family": "sprint-drill",
+  "variantGroup": null,
+  "modality": "cardio",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "hip flexors",
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "calves",
+    "glutes",
+    "hamstrings"
+  ],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Stand tall with your feet hip width apart, chest up and core engaged.",
+    "Drive one knee up toward your chest until your thigh is at least parallel to the floor, pumping the opposite arm as if sprinting.",
+    "Quickly switch legs, landing lightly on the ball of your foot as the other knee drives up.",
+    "Continue alternating legs at a fast running cadence, staying on the balls of your feet and keeping your torso upright.",
+    "Maintain the rhythm for the desired amount of time."
+  ],
+  "images": [],
+  "video": null
+}

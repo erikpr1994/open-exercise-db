@@ -2,7 +2,9 @@
   "id": "lateral-bound",
   "name": "Lateral Bound",
   "aliases": [
-    "skater jump"
+    "skater jump",
+    "skaters",
+    "skater hops"
   ],
   "family": "plyometric-jump",
   "variantGroup": null,

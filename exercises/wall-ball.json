@@ -1,0 +1,38 @@
+{
+  "id": "wall-ball",
+  "name": "Wall Ball",
+  "aliases": [
+    "wall ball shot",
+    "med ball wall ball"
+  ],
+  "family": "throw-slam",
+  "variantGroup": null,
+  "modality": "plyometrics",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "medicine ball",
+  "primaryMuscles": [
+    "quadriceps",
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "calves",
+    "chest",
+    "glutes",
+    "hamstrings",
+    "triceps"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Stand facing a wall about an arm's length away, holding a medicine ball at chest height in a front-rack position with your feet shoulder width apart.",
+    "Squat down to full depth, keeping your chest up and the ball close to your body.",
+    "Drive explosively through your heels to stand, using the leg drive to press and throw the ball upward at a target on the wall, roughly 9 to 10 feet high.",
+    "Catch the ball at chest height as it comes down, absorbing the impact by descending directly into the next squat.",
+    "Repeat in a smooth, continuous cycle for the desired number of reps."
+  ],
+  "images": [],
+  "video": null
+}

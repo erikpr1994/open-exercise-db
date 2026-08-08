@@ -2,7 +2,9 @@
   "id": "freehand-jump-squat",
   "name": "Freehand Jump Squat",
   "aliases": [
-    "jump squat"
+    "jump squat",
+    "squat jump",
+    "bodyweight jump squat"
   ],
   "family": "plyometric-jump",
   "variantGroup": null,
