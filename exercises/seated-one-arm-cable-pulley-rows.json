@@ -1,6 +1,10 @@
 {
   "id": "seated-one-arm-cable-pulley-rows",
   "name": "Seated One-arm Cable Pulley Rows",
+  "aliases": [
+    "single arm cable row",
+    "single arm seated cable row"
+  ],
   "family": "row",
   "variantGroup": "Cable",
   "modality": "strength",

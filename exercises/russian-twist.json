@@ -1,6 +1,9 @@
 {
   "id": "russian-twist",
   "name": "Russian Twist",
+  "aliases": [
+    "mason twist"
+  ],
   "family": "russian-twist",
   "variantGroup": null,
   "modality": "strength",

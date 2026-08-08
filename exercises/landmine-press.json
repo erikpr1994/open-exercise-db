@@ -1,0 +1,36 @@
+{
+  "id": "landmine-press",
+  "name": "Landmine Press",
+  "aliases": [
+    "angled barbell press",
+    "single-arm landmine press",
+    "half-kneeling landmine press"
+  ],
+  "family": "overhead-press",
+  "variantGroup": "Landmine",
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "landmine",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "chest",
+    "triceps"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "unilateral",
+  "instructions": [
+    "Wedge one end of a barbell into a landmine attachment or a sturdy corner and load the other end with weight.",
+    "Take a half-kneeling position with the knee opposite your pressing arm forward, or stand with feet shoulder-width apart, and hold the end of the barbell at shoulder height with your palm facing in and elbow tucked.",
+    "Brace your core and squeeze your glutes to keep your torso upright. This will be your starting position.",
+    "Press the barbell up and slightly forward along its natural arc until your arm is fully extended, exhaling as you press.",
+    "Slowly lower the bar back to your shoulder under control as you inhale.",
+    "Repeat for the recommended amount of repetitions, then switch arms."
+  ],
+  "images": [],
+  "video": null
+}

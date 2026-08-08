@@ -1,6 +1,11 @@
 {
   "id": "close-grip-dumbbell-press",
   "name": "Close-Grip Dumbbell Press",
+  "aliases": [
+    "hex press",
+    "squeeze press",
+    "crush press"
+  ],
   "family": "bench-press",
   "variantGroup": "Dumbbell",
   "modality": "strength",

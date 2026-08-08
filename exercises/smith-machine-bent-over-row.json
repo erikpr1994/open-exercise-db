@@ -1,6 +1,9 @@
 {
   "id": "smith-machine-bent-over-row",
   "name": "Smith Machine Bent Over Row",
+  "aliases": [
+    "smith machine row"
+  ],
   "family": "row",
   "variantGroup": "Machine/Smith",
   "modality": "strength",

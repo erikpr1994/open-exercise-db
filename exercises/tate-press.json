@@ -1,6 +1,9 @@
 {
   "id": "tate-press",
   "name": "Tate Press",
+  "aliases": [
+    "elbows-out triceps extension"
+  ],
   "family": "triceps-extension",
   "variantGroup": "Skullcrusher/Lying",
   "modality": "strength",

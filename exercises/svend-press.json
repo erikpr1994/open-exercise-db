@@ -1,6 +1,10 @@
 {
   "id": "svend-press",
   "name": "Svend Press",
+  "aliases": [
+    "plate pinch press",
+    "plate squeeze press"
+  ],
   "family": "bench-press",
   "variantGroup": "Dumbbell",
   "modality": "strength",

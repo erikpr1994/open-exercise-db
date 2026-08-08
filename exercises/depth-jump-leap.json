@@ -1,6 +1,10 @@
 {
   "id": "depth-jump-leap",
   "name": "Depth Jump Leap",
+  "aliases": [
+    "depth jump to box jump",
+    "depth jump to box"
+  ],
   "family": "box-jump",
   "variantGroup": null,
   "modality": "plyometrics",

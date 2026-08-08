@@ -1,0 +1,36 @@
+{
+  "id": "lat-pulldown",
+  "name": "Lat Pulldown",
+  "aliases": [
+    "pulldown",
+    "machine lat pulldown",
+    "cable lat pulldown"
+  ],
+  "family": "lat-pulldown",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "pull",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "middle back",
+    "shoulders"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Sit down at a lat pulldown station and adjust the thigh pads so your legs are held firmly in place with your feet flat on the floor.",
+    "Grab the bar with an overhand grip at about shoulder width, arms fully extended overhead. Keep your chest up, torso upright, and shoulders pulled down and back. This is your starting position.",
+    "Breathe out and pull the bar down to the top of your chest, driving your elbows down and slightly back. Keep your torso stationary and avoid leaning back to create momentum.",
+    "Squeeze your back muscles at the bottom and pause briefly.",
+    "Inhale and slowly return the bar to the starting position with your arms fully extended, feeling a stretch in your lats.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "images": [],
+  "video": null
+}

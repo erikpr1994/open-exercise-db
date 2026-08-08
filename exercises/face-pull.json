@@ -1,6 +1,10 @@
 {
   "id": "face-pull",
   "name": "Face Pull",
+  "aliases": [
+    "rear delt pull",
+    "rope face pull"
+  ],
   "family": "face-pull",
   "variantGroup": null,
   "modality": "strength",

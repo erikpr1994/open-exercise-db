@@ -1,0 +1,35 @@
+{
+  "id": "bird-dog",
+  "name": "Bird Dog",
+  "aliases": [
+    "quadruped bird dog",
+    "quadruped opposite arm and leg raise"
+  ],
+  "family": "hollow-stability-hold",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "static",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "lower back",
+    "shoulders"
+  ],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Begin on all fours with your hands directly under your shoulders and your knees under your hips.",
+    "Brace your core and keep your head and neck in a neutral position. This will be your starting position.",
+    "Extend one arm straight out in front of you while extending the opposite leg straight back, until both are level with your torso.",
+    "Keep your hips and shoulders square to the floor, resisting any rotation or arching of the lower back.",
+    "Pause briefly, then return your arm and leg to the starting position with control.",
+    "Repeat on the opposite side, alternating until the set is complete."
+  ],
+  "images": [],
+  "video": null
+}

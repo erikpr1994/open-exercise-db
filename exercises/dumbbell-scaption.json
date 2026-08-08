@@ -1,6 +1,10 @@
 {
   "id": "dumbbell-scaption",
   "name": "Dumbbell Scaption",
+  "aliases": [
+    "scaption raise",
+    "scapular plane raise"
+  ],
   "family": "lateral-raise",
   "variantGroup": null,
   "modality": "strength",

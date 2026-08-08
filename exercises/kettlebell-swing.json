@@ -1,0 +1,37 @@
+{
+  "id": "kettlebell-swing",
+  "name": "Kettlebell Swing",
+  "aliases": [
+    "russian kettlebell swing",
+    "two-handed kettlebell swing"
+  ],
+  "family": "kettlebell-swing",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "pull",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "glutes",
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "forearms",
+    "lower back",
+    "quadriceps",
+    "shoulders"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Stand with your feet slightly wider than shoulder-width apart, with a kettlebell on the floor a short distance in front of you.",
+    "Hinge at your hips with a flat back and slightly bent knees, grip the handle with both hands, and hike the kettlebell back between your legs.",
+    "Snap your hips forward explosively, squeezing your glutes to swing the kettlebell up to about chest height. Your arms should stay relaxed and act only as a connection to the weight.",
+    "Let the kettlebell swing back down, hinging at the hips as it passes between your legs while keeping your back flat.",
+    "Immediately drive your hips forward into the next repetition, and continue for the desired number of reps."
+  ],
+  "images": [],
+  "video": null
+}

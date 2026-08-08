@@ -1,6 +1,9 @@
 {
   "id": "dumbbell-lunges",
   "name": "Dumbbell Lunges",
+  "aliases": [
+    "db lunges"
+  ],
   "family": "lunge",
   "variantGroup": null,
   "modality": "strength",

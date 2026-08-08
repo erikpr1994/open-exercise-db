@@ -1,6 +1,10 @@
 {
   "id": "mixed-grip-chin",
   "name": "Mixed Grip Chin",
+  "aliases": [
+    "mixed grip pull-up",
+    "alternating grip pull-up"
+  ],
   "family": "pull-up",
   "variantGroup": null,
   "modality": "strength",

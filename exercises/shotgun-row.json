@@ -1,6 +1,9 @@
 {
   "id": "shotgun-row",
   "name": "Shotgun Row",
+  "aliases": [
+    "standing one arm cable row"
+  ],
   "family": "row",
   "variantGroup": "Cable",
   "modality": "strength",

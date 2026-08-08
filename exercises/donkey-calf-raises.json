@@ -1,6 +1,9 @@
 {
   "id": "donkey-calf-raises",
   "name": "Donkey Calf Raises",
+  "aliases": [
+    "bent-over calf raise"
+  ],
   "family": "calf-raise",
   "variantGroup": null,
   "modality": "strength",

@@ -1,0 +1,35 @@
+{
+  "id": "double-under",
+  "name": "Double-Under",
+  "aliases": [
+    "double unders",
+    "dubs"
+  ],
+  "family": "plyometric-jump",
+  "variantGroup": null,
+  "modality": "cardio",
+  "level": "expert",
+  "mechanic": null,
+  "force": null,
+  "equipment": "jump rope",
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "forearms",
+    "quadriceps",
+    "shoulders"
+  ],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Hold a handle of the jump rope in each hand with the rope behind you, elbows close to your sides and hands slightly in front of your hips.",
+    "Jump slightly higher than for a normal single skip, keeping your body tall and your knees only softly bent.",
+    "Spin the rope rapidly from the wrists so it passes under your feet twice during a single jump.",
+    "Land softly on the balls of your feet and immediately rebound into the next jump, keeping a consistent rhythm.",
+    "If learning, alternate single skips with one double-under until you can string doubles together."
+  ],
+  "images": [],
+  "video": null
+}

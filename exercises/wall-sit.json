@@ -1,0 +1,34 @@
+{
+  "id": "wall-sit",
+  "name": "Wall Sit",
+  "aliases": [
+    "wall squat hold",
+    "wall chair"
+  ],
+  "family": "squat",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "static",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "calves",
+    "glutes",
+    "hamstrings"
+  ],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Stand with your back flat against a wall and walk your feet about two feet forward, hip-width apart.",
+    "Slide down the wall until your thighs are parallel to the floor and your knees are bent to roughly 90 degrees, with your knees stacked over your ankles.",
+    "Keep your back and shoulders pressed into the wall, your core braced, and your weight through your heels.",
+    "Hold this position for the desired amount of time, breathing steadily, then push through your heels to slide back up the wall."
+  ],
+  "images": [],
+  "video": null
+}
