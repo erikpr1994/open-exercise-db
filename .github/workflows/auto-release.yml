@@ -57,7 +57,7 @@ jobs:
           fi
           echo "changed=$changed" >> "$GITHUB_OUTPUT"
       - name: Compute the next version
-        if: steps.diff.outputs.changed == 'true'
+        if: steps.diff.outputs.changed == 'true' || inputs.version != ''
         id: version
         env:
           REQUESTED: ${{ inputs.version }}
@@ -88,10 +88,10 @@ jobs:
           fi
           echo "next=$next" >> "$GITHUB_OUTPUT"
       - name: Generate the data changelog
-        if: steps.diff.outputs.changed == 'true'
+        if: steps.diff.outputs.changed == 'true' || inputs.version != ''
         run: node scripts/release-notes.mjs > release-notes.md
       - name: Create the release
-        if: steps.diff.outputs.changed == 'true'
+        if: steps.diff.outputs.changed == 'true' || inputs.version != ''
         env:
           GH_TOKEN: ${{ github.token }}
         run: >
