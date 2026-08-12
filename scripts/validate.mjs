@@ -190,47 +190,81 @@ function checkAliases(entry) {
   }
 }
 
-const vocabs = await loadVocabs();
-const ajv = createAjv(vocabs);
-const validateExercise = await compileValidator(ajv, "exercise.schema.json");
-const validateFamily = await compileValidator(ajv, "family.schema.json");
-
-const exercises = await readCollection("exercises");
-const families = await readCollection("families");
-
-for (const entry of families) {
-  reportSchemaErrors(entry, validateFamily);
-  checkFileName(entry);
+function normalizeName(value) {
+  return value.trim().toLowerCase().replace(/[^a-z0-9]+/g, " ").trim();
 }
 
-for (const entry of exercises) {
-  reportSchemaErrors(entry, validateExercise);
-  checkFileName(entry);
-  checkFamilyReference(entry);
-  checkMuscleOverlap(entry);
-  checkImages(entry);
-  checkAliases(entry);
-}
-
-checkUniqueIds(exercises);
-checkUniqueIds(families);
-
-console.log(
-  `Validated ${exercises.length} exercise file(s) and ${families.length} family file(s).`,
-);
-
-if (errors.length > 0) {
-  const byFile = new Map();
-  for (const { file, message } of errors) {
-    if (!byFile.has(file)) byFile.set(file, []);
-    byFile.get(file).push(message);
+export function checkAliasCollisions(entries, report) {
+  const byName = new Map();
+  for (const entry of entries) {
+    const { name } = entry.data;
+    if (typeof name === "string") byName.set(normalizeName(name), entry.file);
   }
-  console.error(`\n${errors.length} error(s) in ${byFile.size} file(s):`);
-  for (const [file, messages] of byFile) {
-    console.error(`\n${file}`);
-    for (const message of messages) console.error(`  - ${message}`);
+  for (const entry of entries) {
+    const { name, aliases } = entry.data;
+    if (!Array.isArray(aliases)) continue;
+    for (const alias of aliases) {
+      if (typeof alias !== "string") continue;
+      const key = normalizeName(alias);
+      if (typeof name === "string" && key === normalizeName(name)) {
+        report(entry.file, `alias "${alias}" repeats this exercise's own name`);
+        continue;
+      }
+      const owner = byName.get(key);
+      if (owner !== undefined && owner !== entry.file) {
+        report(
+          entry.file,
+          `alias "${alias}" repeats the canonical name of ${owner}`,
+        );
+      }
+    }
   }
-  process.exit(1);
 }
 
-console.log("All files are valid.");
+if (process.argv[1] === fileURLToPath(import.meta.url)) {
+  const vocabs = await loadVocabs();
+  const ajv = createAjv(vocabs);
+  const validateExercise = await compileValidator(ajv, "exercise.schema.json");
+  const validateFamily = await compileValidator(ajv, "family.schema.json");
+
+  const exercises = await readCollection("exercises");
+  const families = await readCollection("families");
+
+  for (const entry of families) {
+    reportSchemaErrors(entry, validateFamily);
+    checkFileName(entry);
+  }
+
+  for (const entry of exercises) {
+    reportSchemaErrors(entry, validateExercise);
+    checkFileName(entry);
+    checkFamilyReference(entry);
+    checkMuscleOverlap(entry);
+    checkImages(entry);
+    checkAliases(entry);
+  }
+
+  checkUniqueIds(exercises);
+  checkUniqueIds(families);
+  checkAliasCollisions(exercises, report);
+
+  console.log(
+    `Validated ${exercises.length} exercise file(s) and ${families.length} family file(s).`,
+  );
+
+  if (errors.length > 0) {
+    const byFile = new Map();
+    for (const { file, message } of errors) {
+      if (!byFile.has(file)) byFile.set(file, []);
+      byFile.get(file).push(message);
+    }
+    console.error(`\n${errors.length} error(s) in ${byFile.size} file(s):`);
+    for (const [file, messages] of byFile) {
+      console.error(`\n${file}`);
+      for (const message of messages) console.error(`  - ${message}`);
+    }
+    process.exit(1);
+  }
+
+  console.log("All files are valid.");
+}

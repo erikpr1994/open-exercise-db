@@ -1,9 +1,6 @@
 {
   "id": "kipping-muscle-up",
   "name": "Kipping Muscle Up",
-  "aliases": [
-    "kipping muscle-up"
-  ],
   "family": "pull-up",
   "variantGroup": null,
   "modality": "strength",

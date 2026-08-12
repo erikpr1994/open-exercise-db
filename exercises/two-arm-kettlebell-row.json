@@ -1,6 +1,9 @@
 {
   "id": "two-arm-kettlebell-row",
   "name": "Two-Arm Kettlebell Row",
+  "aliases": [
+    "double kettlebell row"
+  ],
   "family": "row",
   "variantGroup": "Dumbbell",
   "modality": "strength",

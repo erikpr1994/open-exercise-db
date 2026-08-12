@@ -3,8 +3,7 @@
   "name": "Prowler Sprint",
   "aliases": [
     "sled sprint",
-    "prowler push",
-    "sled push"
+    "prowler push"
   ],
   "family": "sled-push-drag",
   "variantGroup": null,

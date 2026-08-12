@@ -1,0 +1,33 @@
+{
+  "id": "hollow-rock",
+  "name": "Hollow Rock",
+  "aliases": [
+    "Rocking Hollow Hold"
+  ],
+  "family": "hollow-stability-hold",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "force": null,
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "hip flexors",
+    "lower back"
+  ],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Get into the hollow body position: lying on your back, lower back pressed to the floor, shoulders and legs lifted a few inches, arms reaching overhead, legs straight and together.",
+    "Brace your core hard and lock in this rigid hollow shape before you start moving.",
+    "Use a small, controlled drive from your upper body to rock your whole body forward a few inches, keeping the hollow shape unbroken.",
+    "Let the rock carry you backward the same distance, still keeping your lower back from arching off the floor.",
+    "Continue rocking smoothly back and forth as one solid unit for the prescribed number of reps.",
+    "Stop and reset the hollow position any time your lower back arches or form breaks down."
+  ],
+  "images": [],
+  "video": null
+}

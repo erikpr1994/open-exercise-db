@@ -1,9 +1,6 @@
 {
   "id": "scissors-jump",
   "name": "Scissors Jump",
-  "aliases": [
-    "split jump"
-  ],
   "family": "plyometric-jump",
   "variantGroup": null,
   "modality": "plyometrics",

@@ -1,9 +1,6 @@
 {
   "id": "snatch-deadlift",
   "name": "Snatch Deadlift",
-  "aliases": [
-    "snatch grip deadlift"
-  ],
   "family": "olympic-pull",
   "variantGroup": null,
   "modality": "olympic weightlifting",

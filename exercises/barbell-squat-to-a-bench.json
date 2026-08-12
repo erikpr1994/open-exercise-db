@@ -1,9 +1,6 @@
 {
   "id": "barbell-squat-to-a-bench",
   "name": "Barbell Squat To A Bench",
-  "aliases": [
-    "box squat"
-  ],
   "family": "squat",
   "variantGroup": "Box & Bench",
   "modality": "strength",

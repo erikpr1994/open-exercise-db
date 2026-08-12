@@ -1,0 +1,30 @@
+{
+  "id": "single-leg-calf-raise",
+  "name": "Single-Leg Calf Raise",
+  "aliases": [
+    "Standing Single-Leg Calf Raise",
+    "One-Leg Calf Raise"
+  ],
+  "family": "calf-raise",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "push",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [],
+  "measurementType": "reps",
+  "laterality": "unilateral",
+  "instructions": [
+    "Stand on one foot, using a wall or rail for light balance if needed.",
+    "Rise up onto the ball of your foot as high as you can.",
+    "Pause briefly at the top of the movement.",
+    "Lower your heel slowly and under control back toward the floor.",
+    "Complete all reps on one leg, then switch to the other."
+  ],
+  "images": [],
+  "video": null
+}

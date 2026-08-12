@@ -1,6 +1,9 @@
 {
   "id": "seated-leg-curl",
   "name": "Seated Leg Curl",
+  "aliases": [
+    "seated hamstring curl"
+  ],
   "family": "leg-curl",
   "variantGroup": null,
   "modality": "strength",

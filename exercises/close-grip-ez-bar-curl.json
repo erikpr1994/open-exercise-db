@@ -1,9 +1,6 @@
 {
   "id": "close-grip-ez-bar-curl",
   "name": "Close-Grip EZ Bar Curl",
-  "aliases": [
-    "close grip ez bar curl"
-  ],
   "family": "curl",
   "variantGroup": "Barbell",
   "modality": "strength",

@@ -1,6 +1,9 @@
 {
   "id": "one-arm-kettlebell-row",
   "name": "One-Arm Kettlebell Row",
+  "aliases": [
+    "single arm kettlebell row"
+  ],
   "family": "row",
   "variantGroup": "Dumbbell",
   "modality": "strength",

@@ -1,9 +1,6 @@
 {
   "id": "rope-straight-arm-pulldown",
   "name": "Rope Straight-Arm Pulldown",
-  "aliases": [
-    "straight arm pulldown"
-  ],
   "family": "straight-arm-pulldown",
   "variantGroup": null,
   "modality": "strength",

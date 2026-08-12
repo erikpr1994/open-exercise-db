@@ -1,0 +1,34 @@
+{
+  "id": "spanish-squat",
+  "name": "Spanish Squat",
+  "aliases": [
+    "Spanish Squat Hold",
+    "Band Squat Hold"
+  ],
+  "family": "squat",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "static",
+  "equipment": "bands",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "abdominals"
+  ],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Anchor a thick resistance band or squat strap at roughly knee height to a rack or sturdy post.",
+    "Step both legs through the loop so the band sits behind both knees, then walk backward until the band is taut.",
+    "Stand with feet shoulder-width apart, torso upright, and let the band take some of your bodyweight as you lean back slightly against it.",
+    "Sit back and down, letting your shins travel forward past your toes while keeping your torso and shins roughly parallel, until your knees reach about 90 degrees.",
+    "Hold this bottom position, keeping tension on the band and weight through the whole foot.",
+    "Hold for the prescribed time, then drive back up to standing by extending the knees while keeping the backward lean against the band."
+  ],
+  "images": [],
+  "video": null
+}

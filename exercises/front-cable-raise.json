@@ -1,6 +1,9 @@
 {
   "id": "front-cable-raise",
   "name": "Front Cable Raise",
+  "aliases": [
+    "cable front raise"
+  ],
   "family": "front-raise",
   "variantGroup": null,
   "modality": "strength",

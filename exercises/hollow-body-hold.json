@@ -1,0 +1,33 @@
+{
+  "id": "hollow-body-hold",
+  "name": "Hollow Body Hold",
+  "aliases": [
+    "Hollow Hold",
+    "Banana Hold"
+  ],
+  "family": "hollow-stability-hold",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "static",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "hip flexors",
+    "lower back"
+  ],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Lie on your back and press your lower back firmly into the floor.",
+    "Raise your shoulders, head, and legs a few inches off the floor, reaching your arms straight overhead alongside your ears.",
+    "Keep your legs straight and squeezed together with toes pointed, and round your upper back slightly so your ribs pull down toward your hips.",
+    "Brace your core hard and hold this rigid, banana-shaped position, keeping your lower back pinned to the floor.",
+    "Breathe steadily and hold for the desired time; bend your knees toward your chest if your lower back starts to lift."
+  ],
+  "images": [],
+  "video": null
+}

@@ -1,0 +1,34 @@
+{
+  "id": "single-arm-overhead-carry",
+  "name": "Single-Arm Overhead Carry",
+  "aliases": [
+    "Waiter's Carry",
+    "Overhead Carry"
+  ],
+  "family": "carry",
+  "variantGroup": null,
+  "modality": "strongman",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": null,
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "traps",
+    "triceps"
+  ],
+  "measurementType": "weighted_time",
+  "laterality": "unilateral",
+  "instructions": [
+    "Press a kettlebell overhead with one arm until your elbow is fully locked out, packing your shoulder down and back.",
+    "Brace your core hard and stand tall, keeping your ribcage stacked over your hips rather than leaning away from the weight.",
+    "Walk forward with short, controlled steps for the target distance or time, keeping the kettlebell locked out directly overhead.",
+    "Resist any side-bend of your torso or shrugging up of the loaded shoulder as you walk.",
+    "Lower the weight under control at the end of the set, then repeat on the opposite arm for equal volume."
+  ],
+  "images": [],
+  "video": null
+}

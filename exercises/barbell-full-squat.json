@@ -2,8 +2,7 @@
   "id": "barbell-full-squat",
   "name": "Barbell Full Squat",
   "aliases": [
-    "back squat",
-    "barbell squat"
+    "back squat"
   ],
   "family": "squat",
   "variantGroup": "Barbell",
