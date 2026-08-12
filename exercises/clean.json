@@ -1,9 +1,6 @@
 {
   "id": "clean",
   "name": "Clean",
-  "aliases": [
-    "power clean"
-  ],
   "family": "clean",
   "variantGroup": null,
   "modality": "olympic weightlifting",

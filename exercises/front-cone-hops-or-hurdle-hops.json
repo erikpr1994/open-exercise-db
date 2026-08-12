@@ -1,9 +1,6 @@
 {
   "id": "front-cone-hops-or-hurdle-hops",
   "name": "Front Cone Hops (or hurdle hops)",
-  "aliases": [
-    "hurdle hops"
-  ],
   "family": "plyometric-jump",
   "variantGroup": null,
   "modality": "plyometrics",

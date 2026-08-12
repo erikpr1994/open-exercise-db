@@ -1,9 +1,6 @@
 {
   "id": "bodyweight-mid-row",
   "name": "Bodyweight Mid Row",
-  "aliases": [
-    "inverted row"
-  ],
   "family": "row",
   "variantGroup": "Bodyweight",
   "modality": "strength",

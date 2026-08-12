@@ -1,9 +1,6 @@
 {
   "id": "dumbbell-prone-incline-curl",
   "name": "Dumbbell Prone Incline Curl",
-  "aliases": [
-    "spider curl"
-  ],
   "family": "curl",
   "variantGroup": "Dumbbell",
   "modality": "strength",
