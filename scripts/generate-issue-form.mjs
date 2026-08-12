@@ -12,7 +12,7 @@ import {
 
 const intro = [
   "Propose a new exercise without cloning the repository.",
-  "A workflow turns this issue into a pull request after it validates your answers.",
+  "A maintainer reviews the answers and writes the exercise file in a pull request.",
   "Read [CONTRIBUTING.md](https://github.com/erikpr1994/open-exercise-db/blob/main/CONTRIBUTING.md) first.",
   "All content is English-only: the name, the aliases, and the instructions.",
 ].join("\n");
