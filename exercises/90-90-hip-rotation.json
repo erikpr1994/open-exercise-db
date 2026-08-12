@@ -13,10 +13,11 @@
   "force": "pull",
   "equipment": "body only",
   "primaryMuscles": [
-    "glutes",
+    "glutes"
+  ],
+  "secondaryMuscles": [
     "hip flexors"
   ],
-  "secondaryMuscles": [],
   "measurementType": "time",
   "laterality": "bilateral",
   "instructions": [
