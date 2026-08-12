@@ -1,6 +1,9 @@
 {
   "id": "smith-machine-bench-press",
   "name": "Smith Machine Bench Press",
+  "aliases": [
+    "smith bench press"
+  ],
   "family": "bench-press",
   "variantGroup": "Machine/Smith",
   "modality": "strength",

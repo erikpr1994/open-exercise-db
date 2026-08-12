@@ -1,6 +1,10 @@
 {
   "id": "two-arm-kettlebell-military-press",
   "name": "Two-Arm Kettlebell Military Press",
+  "aliases": [
+    "double kettlebell military press",
+    "double kettlebell press"
+  ],
   "family": "overhead-press",
   "variantGroup": "Kettlebell",
   "modality": "strength",

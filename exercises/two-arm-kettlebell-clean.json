@@ -1,6 +1,9 @@
 {
   "id": "two-arm-kettlebell-clean",
   "name": "Two-Arm Kettlebell Clean",
+  "aliases": [
+    "double kettlebell clean"
+  ],
   "family": "clean",
   "variantGroup": null,
   "modality": "strength",
