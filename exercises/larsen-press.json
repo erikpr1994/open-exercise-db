@@ -1,0 +1,34 @@
+{
+  "id": "larsen-press",
+  "name": "Larsen Press",
+  "aliases": [
+    "Feet-Up Bench Press",
+    "Legs-Up Bench Press"
+  ],
+  "family": "bench-press",
+  "variantGroup": "Barbell Flat",
+  "modality": "powerlifting",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Lie back on a flat bench as you would for a standard bench press, gripping the bar slightly wider than shoulder width.",
+    "Unrack the bar and lift both legs off the floor, either straightening them out or resting your feet flat on the bench, so no part of your legs touches the ground.",
+    "Brace your core hard to keep your hips and lower back still, since you no longer have leg drive to stabilize you.",
+    "Lower the bar under control to your mid-chest, keeping your elbows at roughly 45 degrees from your torso.",
+    "Press the bar back up to lockout using only your upper body, without letting your hips rise off the bench.",
+    "Repeat for the prescribed reps, resetting your leg position each rep if needed."
+  ],
+  "images": [],
+  "video": null
+}

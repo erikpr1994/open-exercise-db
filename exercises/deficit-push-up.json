@@ -1,0 +1,34 @@
+{
+  "id": "deficit-push-up",
+  "name": "Deficit Push-Up",
+  "aliases": [
+    "Elevated-Hand Push-Up",
+    "Deep Push-Up"
+  ],
+  "family": "push-up",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Place two sturdy, stable supports, such as low blocks or weight plates, shoulder-width apart on the floor.",
+    "Get into a push-up position with one hand flat on each support and your body in a straight line from head to heels.",
+    "Brace your core and lower your body by bending your elbows, letting your chest drop below the level of your hands for a deeper stretch than a standard push-up.",
+    "Keep your elbows at roughly 45 to 75 degrees from your torso as you descend, and don't let your hips sag or pike up.",
+    "Press back up powerfully to the starting position, fully extending your arms.",
+    "Repeat for the prescribed number of repetitions."
+  ],
+  "images": [],
+  "video": null
+}

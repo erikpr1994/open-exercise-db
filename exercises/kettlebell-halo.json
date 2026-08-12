@@ -1,0 +1,36 @@
+{
+  "id": "kettlebell-halo",
+  "name": "Kettlebell Halo",
+  "aliases": [
+    "Kettlebell Around-The-Head",
+    "Halo"
+  ],
+  "family": "halo",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": null,
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "traps",
+    "triceps"
+  ],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Stand tall, feet shoulder-width apart, and hold a kettlebell upside down by the horns close to your chin, gripping firmly with both hands.",
+    "Brace your core and squeeze your glutes to keep your torso still throughout.",
+    "Guide the kettlebell around one side of your head, keeping it close, letting your elbows bend and point upward as it passes behind your head.",
+    "Continue the circle around to the front until the kettlebell returns under your chin.",
+    "Reverse direction and circle the kettlebell the same way around the other side.",
+    "Move slowly and deliberately; this is a control drill, not a momentum exercise.",
+    "Repeat for the prescribed number of circles, alternating direction each rep or set."
+  ],
+  "images": [],
+  "video": null
+}

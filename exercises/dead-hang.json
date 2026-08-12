@@ -1,0 +1,33 @@
+{
+  "id": "dead-hang",
+  "name": "Dead Hang",
+  "aliases": [
+    "Passive Hang",
+    "Bar Hang"
+  ],
+  "family": "back-lat-stretch",
+  "variantGroup": null,
+  "modality": "stretching",
+  "level": "beginner",
+  "mechanic": null,
+  "force": "static",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "forearms",
+    "shoulders"
+  ],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Grab a pull-up bar with both hands, overhand grip, shoulder-width or slightly wider.",
+    "Step or hop up so your feet leave the ground and let your arms straighten fully, taking your full bodyweight through your hands.",
+    "Relax your shoulders down away from your ears for a passive hang, letting your shoulder blades and ribcage decompress.",
+    "Keep your legs still and your body from swinging, breathing steadily throughout.",
+    "Hold for the desired time, then lower yourself back to the ground with control."
+  ],
+  "images": [],
+  "video": null
+}

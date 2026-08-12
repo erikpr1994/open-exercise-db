@@ -1,0 +1,35 @@
+{
+  "id": "reverse-nordic-curl",
+  "name": "Reverse Nordic Curl",
+  "aliases": [
+    "Reverse Nordic",
+    "Quad Nordic Curl"
+  ],
+  "family": "leg-extension",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "expert",
+  "mechanic": "isolation",
+  "force": "push",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "hip flexors"
+  ],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Kneel on a folded mat with knees hip-width apart, and knees, hips, and shoulders in one straight line.",
+    "Press the tops of your feet into the floor and brace your core; cross your arms over your chest or hold them out for balance.",
+    "Keeping your hips extended and body rigid from knees to shoulders, slowly lean backward by bending only at the knees.",
+    "Lower as far as control allows without breaking the straight line at the hips or losing balance.",
+    "Reverse the motion by pressing the tops of your feet down and contracting your quads to pull yourself back to upright.",
+    "Move down slowly and rise a little faster to emphasize the eccentric quad load.",
+    "Regress by limiting range of motion or holding onto a support in front of you if full range is not yet controlled."
+  ],
+  "images": [],
+  "video": null
+}

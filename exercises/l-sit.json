@@ -1,0 +1,33 @@
+{
+  "id": "l-sit",
+  "name": "L-Sit",
+  "aliases": [
+    "L Sit Hold"
+  ],
+  "family": "hollow-stability-hold",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "expert",
+  "mechanic": "compound",
+  "force": "static",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "hip flexors",
+    "quadriceps",
+    "triceps"
+  ],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Sit on the floor, or on a pair of low parallettes or blocks, with your legs extended straight in front of you and your hands flat on the floor beside your hips, fingers pointing forward.",
+    "Press down firmly through your hands and straighten your arms to lift your entire body off the floor.",
+    "Keep your legs fully extended and squeezed together, lifting them until they are parallel to the floor, forming an L shape with your torso.",
+    "Depress your shoulders away from your ears and keep your torso upright, resisting the urge to lean back or round your upper back.",
+    "Hold this position for the desired time while breathing steadily, then lower your hips back to the floor with control."
+  ],
+  "images": [],
+  "video": null
+}

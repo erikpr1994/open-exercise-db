@@ -1,0 +1,36 @@
+{
+  "id": "skater-squat",
+  "name": "Skater Squat",
+  "aliases": [
+    "Single-Leg Squat With Knee Tap"
+  ],
+  "family": "squat",
+  "variantGroup": "Split & Single-Leg",
+  "modality": "strength",
+  "level": "expert",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings",
+    "calves",
+    "abdominals"
+  ],
+  "measurementType": "reps",
+  "laterality": "unilateral",
+  "instructions": [
+    "Stand tall on one leg with the other leg lifted slightly behind you, core braced.",
+    "Reach your arms forward for counterbalance as you begin to bend the standing knee.",
+    "Lean your torso forward slightly and lower your hips, letting the rear knee travel down and back.",
+    "Keep the standing heel planted throughout and descend until the rear knee lightly taps the floor or a low pad, without resting weight on it.",
+    "Keep the working leg from touching down and control the descent all the way through.",
+    "Drive through the standing heel to return to the tall starting position.",
+    "Complete all reps on one leg, then switch sides."
+  ],
+  "images": [],
+  "video": null
+}

@@ -1,0 +1,34 @@
+{
+  "id": "standing-cable-hip-abduction",
+  "name": "Standing Cable Hip Abduction",
+  "aliases": [
+    "Cable Hip Abduction",
+    "Standing Glute Medius Cable Kickout"
+  ],
+  "family": "hip-abduction",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "pull",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "abductors"
+  ],
+  "secondaryMuscles": [
+    "glutes"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "unilateral",
+  "instructions": [
+    "Attach an ankle cuff to a low pulley and fasten it around the ankle furthest from the machine.",
+    "Stand side-on to the machine and step away until the cable is taut, letting the strapped leg cross slightly in front of the standing leg.",
+    "Hold the machine frame or a fixed support with the near hand for balance, and stand tall on the near leg.",
+    "Keeping the strapped leg straight, sweep it out to the side, leading with the heel, against the cable's pull.",
+    "Pause briefly at the top of the movement, feeling the contraction on the outside of the hip.",
+    "Lower the leg back across the body under control, resisting the cable the whole way.",
+    "Complete all reps, then turn around and repeat on the other leg."
+  ],
+  "images": [],
+  "video": null
+}

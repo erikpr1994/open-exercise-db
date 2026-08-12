@@ -1,0 +1,33 @@
+{
+  "id": "shrimp-squat",
+  "name": "Shrimp Squat",
+  "family": "squat",
+  "variantGroup": "Split & Single-Leg",
+  "modality": "strength",
+  "level": "expert",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings",
+    "calves",
+    "abdominals"
+  ],
+  "measurementType": "reps",
+  "laterality": "unilateral",
+  "instructions": [
+    "Stand tall on one leg and reach the other hand back to grip the ankle of the non-working leg, bending that knee so the foot sits near your glute.",
+    "Brace your core and reach your free arm forward for balance.",
+    "Keeping your torso upright, bend the standing knee and lower your body under control.",
+    "Let the bent rear knee travel down toward the floor behind you as you descend, keeping hold of the rear ankle throughout.",
+    "Lower until the rear knee lightly touches the floor, or as close as control allows, without letting go of the ankle or losing balance.",
+    "Drive through the standing foot to return to standing, keeping the torso tall the whole way up.",
+    "Complete all reps on one leg before switching sides."
+  ],
+  "images": [],
+  "video": null
+}

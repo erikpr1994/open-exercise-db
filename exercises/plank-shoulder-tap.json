@@ -1,0 +1,35 @@
+{
+  "id": "plank-shoulder-tap",
+  "name": "Plank Shoulder Tap",
+  "aliases": [
+    "Shoulder Taps",
+    "Plank Taps"
+  ],
+  "family": "plank",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "static",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "shoulders",
+    "triceps"
+  ],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Get into a high plank (push-up) position, hands directly under your shoulders, feet slightly wider than hip-width for a stable base.",
+    "Brace your core and keep your body in a straight line from head to heels, hips level and squared to the floor.",
+    "Without rotating or rocking your torso, lift one hand off the floor and tap the opposite shoulder.",
+    "Return that hand to the floor under control and repeat with the other hand tapping its opposite shoulder.",
+    "Keep your hips as still as possible throughout, resisting any side-to-side sway.",
+    "Continue alternating hands for the prescribed number of taps per side."
+  ],
+  "images": [],
+  "video": null
+}
