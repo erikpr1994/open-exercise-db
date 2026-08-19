@@ -30,6 +30,9 @@
     "Pause briefly, then return your arm and leg to the starting position with control.",
     "Repeat on the opposite side, alternating until the set is complete."
   ],
-  "images": [],
+  "images": [
+    "bird-dog/0.jpg",
+    "bird-dog/1.jpg"
+  ],
   "video": "https://www.youtube.com/watch?v=ZdAHe9_HeEw"
 }
