@@ -1,0 +1,36 @@
+{
+  "id": "lateral-shuffle",
+  "name": "Lateral Shuffle",
+  "aliases": [
+    "Defensive Slide",
+    "Side Shuffle",
+    "Shuffle Step"
+  ],
+  "family": "sprint-drill",
+  "variantGroup": null,
+  "modality": "plyometrics",
+  "level": "beginner",
+  "mechanic": null,
+  "force": null,
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abductors"
+  ],
+  "secondaryMuscles": [
+    "adductors",
+    "calves",
+    "glutes",
+    "quadriceps"
+  ],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Start in a low athletic stance, feet under hips, knees bent, chest up, weight on the balls of the feet.",
+    "Push off the trailing foot and step laterally with the lead foot.",
+    "Slide the trailing foot in to close the gap without letting the feet cross or click together.",
+    "Keep the stance low and the steps short and quick throughout.",
+    "Move for the set distance or time, then repeat leading with the other side."
+  ],
+  "images": [],
+  "video": null
+}

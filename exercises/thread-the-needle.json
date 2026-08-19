@@ -1,0 +1,33 @@
+{
+  "id": "thread-the-needle",
+  "name": "Thread the Needle",
+  "aliases": [
+    "Threading the Needle",
+    "Thread the Needle Pose"
+  ],
+  "family": "back-lat-stretch",
+  "variantGroup": null,
+  "modality": "stretching",
+  "level": "beginner",
+  "mechanic": null,
+  "force": "static",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "traps"
+  ],
+  "measurementType": "time",
+  "laterality": "unilateral",
+  "instructions": [
+    "Start on all fours, hands under shoulders and knees under hips.",
+    "Slide one arm underneath the opposite arm, palm up, reaching as far across as you can.",
+    "Let that shoulder and the side of your head rest toward the floor.",
+    "Keep the hips level and stacked over the knees as you twist through the upper back.",
+    "Hold for the set time, then unwind and repeat on the other side."
+  ],
+  "images": [],
+  "video": null
+}

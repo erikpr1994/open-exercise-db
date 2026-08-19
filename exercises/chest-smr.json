@@ -1,0 +1,32 @@
+{
+  "id": "chest-smr",
+  "name": "Chest-SMR",
+  "aliases": [
+    "Pec Foam Roll",
+    "Chest Foam Roll"
+  ],
+  "family": "foam-rolling",
+  "variantGroup": null,
+  "modality": "stretching",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "static",
+  "equipment": "foam roll",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Lie face down and place the foam roll under one side of the chest, near the armpit.",
+    "Support your body with the opposite hand and both feet; extend the arm on the rolled side out to the side.",
+    "Shift weight onto the roll and move in small motions along the pec muscle.",
+    "Pause on tender spots for 20 to 30 seconds, breathing deeply and relaxing into the pressure.",
+    "Switch to the other side after 30 to 60 seconds."
+  ],
+  "images": [],
+  "video": null
+}

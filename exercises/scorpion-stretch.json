@@ -1,0 +1,32 @@
+{
+  "id": "scorpion-stretch",
+  "name": "Scorpion Stretch",
+  "aliases": [
+    "Scorpion"
+  ],
+  "family": "quad-hip-flexor-stretch",
+  "variantGroup": null,
+  "modality": "stretching",
+  "level": "intermediate",
+  "mechanic": null,
+  "force": "static",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "hip flexors"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "lower back"
+  ],
+  "measurementType": "time",
+  "laterality": "unilateral",
+  "instructions": [
+    "Lie face down with arms out to the sides in a T, legs extended, chin resting on the mat.",
+    "Bend one knee to about 90 degrees and lift that foot off the floor.",
+    "Reach the lifted foot across the body toward the floor on the opposite side, letting the hip rotate.",
+    "Stop when you feel the stretch through the hip flexor, glute, and lower back of the lifted leg; keep the chest and shoulders pressed down.",
+    "Hold for the set time, return to start, and repeat on the other side."
+  ],
+  "images": [],
+  "video": null
+}

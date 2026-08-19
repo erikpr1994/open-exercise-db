@@ -1,0 +1,32 @@
+{
+  "id": "90-90-hip-stretch",
+  "name": "90/90 Hip Stretch",
+  "aliases": [
+    "90/90 Stretch"
+  ],
+  "family": "glute-piriformis-stretch",
+  "variantGroup": "Static Hold",
+  "modality": "stretching",
+  "level": "intermediate",
+  "mechanic": null,
+  "force": "static",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "abductors",
+    "hip flexors"
+  ],
+  "measurementType": "time",
+  "laterality": "unilateral",
+  "instructions": [
+    "Sit on the floor. Bend the front knee 90 degrees out to the side, shin on the floor.",
+    "Bend the back knee 90 degrees behind you, shin on the floor.",
+    "Sit tall and square your torso over the front shin.",
+    "Lean the torso forward over the front leg to deepen the stretch, keeping the back flat.",
+    "Hold for the set time, then rotate both legs to reverse the position for the other side."
+  ],
+  "images": [],
+  "video": null
+}

@@ -1,0 +1,34 @@
+{
+  "id": "spiderman-lunge",
+  "name": "Spiderman Lunge with Rotation",
+  "aliases": [
+    "Spiderman Lunge with T-Spine Rotation"
+  ],
+  "family": "mobility",
+  "variantGroup": null,
+  "modality": "stretching",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "pull",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "hip flexors"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "adductors",
+    "hamstrings"
+  ],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Start in a high plank, hands under shoulders.",
+    "Step one foot forward, outside the same-side hand, knee bent to about 90 degrees.",
+    "Lower the hips, keeping the chest lifted and the back leg extended.",
+    "Rotate the torso toward the front leg, reaching the same-side arm to the ceiling and following it with your eyes.",
+    "Hold briefly, then return the hand to the floor and step back to plank.",
+    "Alternate sides for the set time."
+  ],
+  "images": [],
+  "video": null
+}

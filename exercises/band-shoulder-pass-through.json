@@ -1,0 +1,36 @@
+{
+  "id": "band-shoulder-pass-through",
+  "name": "Band Pass-Through",
+  "aliases": [
+    "Shoulder Dislocate",
+    "Band Dislocate",
+    "Banded Shoulder Dislocation"
+  ],
+  "family": "mobility",
+  "variantGroup": null,
+  "modality": "stretching",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "pull",
+  "equipment": "bands",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "lats",
+    "traps"
+  ],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Stand tall, feet hip-width apart, holding a light band overhand, wider than shoulder width.",
+    "Pull the band taut, squeeze the glutes, and keep the ribs down.",
+    "With arms straight but not locked, rotate them up and overhead, letting the band pass over the head as the shoulder blades rise.",
+    "Continue rotating the arms down behind the back until the band touches the back.",
+    "Reverse the path back to the start.",
+    "Repeat for the set reps without letting the lower back arch."
+  ],
+  "images": [],
+  "video": null
+}

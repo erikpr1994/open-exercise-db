@@ -1,0 +1,33 @@
+{
+  "id": "fire-hydrant",
+  "name": "Fire Hydrant",
+  "aliases": [
+    "Quadruped Hip Abduction",
+    "Dog Leg Lift"
+  ],
+  "family": "hip-abduction",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "pull",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abductors"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "glutes"
+  ],
+  "measurementType": "reps",
+  "laterality": "unilateral",
+  "instructions": [
+    "Start on all fours, hands under shoulders, knees under hips, back flat.",
+    "Keep the knee bent at 90 degrees and lift it out to the side, hip externally rotating, without tilting the pelvis.",
+    "Hold briefly at the top, squeezing the outer hip.",
+    "Lower with control back to the start.",
+    "Complete all reps on one side, then switch."
+  ],
+  "images": [],
+  "video": null
+}

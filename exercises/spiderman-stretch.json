@@ -1,0 +1,32 @@
+{
+  "id": "spiderman-stretch",
+  "name": "Spiderman Stretch",
+  "aliases": [
+    "Spider-Man Reach Stretch"
+  ],
+  "family": "quad-hip-flexor-stretch",
+  "variantGroup": null,
+  "modality": "stretching",
+  "level": "intermediate",
+  "mechanic": null,
+  "force": "static",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "hip flexors"
+  ],
+  "secondaryMuscles": [
+    "adductors",
+    "hamstrings"
+  ],
+  "measurementType": "time",
+  "laterality": "unilateral",
+  "instructions": [
+    "Start in a push-up (high plank) position, hands under shoulders.",
+    "Step one foot forward to the outside of the same-side hand, knee bent close to 90 degrees.",
+    "Keep the back leg extended straight behind you.",
+    "Lower the hips toward the floor while keeping the chest lifted, feeling the stretch in the front hip and groin of the forward leg.",
+    "Hold for the set time without bouncing, then switch sides."
+  ],
+  "images": [],
+  "video": null
+}
