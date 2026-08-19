@@ -1,0 +1,35 @@
+{
+  "id": "muscle-clean",
+  "name": "Muscle Clean",
+  "aliases": [
+    "No-Dip Clean"
+  ],
+  "family": "clean",
+  "variantGroup": null,
+  "modality": "olympic weightlifting",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "pull",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "traps"
+  ],
+  "secondaryMuscles": [
+    "forearms",
+    "glutes",
+    "hamstrings",
+    "lower back",
+    "shoulders"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Set up and perform the first and second pull of a clean exactly as normal, accelerating the bar with hip extension to full body extension.",
+    "At full extension, shrug and pull with the arms as in a normal clean, but do not re-bend the knees or drop under the bar.",
+    "Continue pulling the elbows up and around until the bar turns over and settles into the rack position on the shoulders while you remain standing tall.",
+    "Catch the bar in the standing rack position without dipping to receive it.",
+    "Lower the bar back to the floor or hang position under control and reset for the next rep."
+  ],
+  "images": [],
+  "video": null
+}

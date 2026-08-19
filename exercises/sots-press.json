@@ -1,0 +1,37 @@
+{
+  "id": "sots-press",
+  "name": "Sots Press",
+  "aliases": [
+    "Press in Snatch",
+    "Snatch-Grip Behind-the-Neck Press"
+  ],
+  "family": "overhead-press",
+  "variantGroup": "Overhead Squat Position",
+  "modality": "olympic weightlifting",
+  "level": "expert",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "lower back",
+    "quadriceps",
+    "traps",
+    "triceps"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Take a snatch-width grip on the bar and set it across the back of your shoulders, below the traps.",
+    "Sit down into the bottom of an overhead-squat-depth squat, keeping your torso upright and chest tall.",
+    "Brace your trunk hard and squeeze your shoulder blades together; do not use any leg drive or bounce to help start the press.",
+    "Press the bar from behind the neck straight up to full lockout overhead, finishing with the bar over the midfoot.",
+    "Hold the locked-out overhead position briefly while staying tight in the bottom squat.",
+    "Lower the bar back behind the neck under control, without letting it drop or crash onto your shoulders."
+  ],
+  "images": [],
+  "video": null
+}

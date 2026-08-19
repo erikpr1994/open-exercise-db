@@ -12,9 +12,11 @@
   "force": "pull",
   "equipment": "machine",
   "primaryMuscles": [
-    "abdominals"
+    "glutes"
   ],
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "hamstrings"
+  ],
   "measurementType": "weight_reps",
   "laterality": "bilateral",
   "instructions": [

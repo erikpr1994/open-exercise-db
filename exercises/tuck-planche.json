@@ -1,0 +1,34 @@
+{
+  "id": "tuck-planche",
+  "name": "Tuck Planche",
+  "aliases": [
+    "Planche Tuck Hold"
+  ],
+  "family": "push-up",
+  "variantGroup": "Planche",
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "static",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "chest",
+    "triceps"
+  ],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Start in a push-up position on the floor.",
+    "Lean your shoulders forward past your hands and protract your shoulder blades, pushing the floor away.",
+    "Tuck your knees up close to your chest, shifting your body weight onto your hands.",
+    "Lift your feet off the floor, balancing on straight arms with hips tucked and rounded.",
+    "Keep your shoulders depressed and protracted, and your glutes and core braced.",
+    "Hold for the desired time, then set your feet back down with control."
+  ],
+  "images": [],
+  "video": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "couch-stretch",
+  "name": "Couch Stretch",
+  "aliases": [
+    "Rear Foot Elevated Hip Flexor Stretch"
+  ],
+  "family": "quad-hip-flexor-stretch",
+  "variantGroup": null,
+  "modality": "stretching",
+  "level": "beginner",
+  "mechanic": null,
+  "force": "static",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "hip flexors"
+  ],
+  "secondaryMuscles": [
+    "quadriceps"
+  ],
+  "measurementType": "time",
+  "laterality": "unilateral",
+  "instructions": [
+    "Kneel facing away from a couch, bench, or wall.",
+    "Place one shin vertically against the surface with the top of that foot pressed against it.",
+    "Step the other foot forward into a lunge, flat on the floor.",
+    "Brace your core and squeeze the glute of the kneeling leg to protect your lower back.",
+    "Gently push your hips forward to deepen the stretch through the hip flexor and quad of the kneeling leg.",
+    "Hold for the desired time, then switch sides."
+  ],
+  "images": [],
+  "video": null
+}

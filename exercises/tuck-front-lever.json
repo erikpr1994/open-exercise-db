@@ -1,0 +1,35 @@
+{
+  "id": "tuck-front-lever",
+  "name": "Tuck Front Lever",
+  "aliases": [
+    "Front Lever Tuck Hold",
+    "Tucked Front Lever"
+  ],
+  "family": "pull-up",
+  "variantGroup": "Lever",
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "static",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "biceps",
+    "shoulders"
+  ],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Hang from a bar or rings with a shoulder-width overhand or neutral grip, arms straight.",
+    "Retract your shoulder blades and brace your core.",
+    "Tuck your knees toward your chest and lift your hips until your torso is roughly parallel to the floor.",
+    "Keep your arms straight and pull your shoulder blades together throughout the hold.",
+    "Hold for the desired time, breathing steadily.",
+    "Lower with control back to a dead hang."
+  ],
+  "images": [],
+  "video": null
+}

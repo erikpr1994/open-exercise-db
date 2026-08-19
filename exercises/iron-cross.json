@@ -1,7 +1,7 @@
 {
   "id": "iron-cross",
   "name": "Iron Cross",
-  "family": null,
+  "family": "lateral-raise",
   "variantGroup": null,
   "modality": "strength",
   "level": "intermediate",

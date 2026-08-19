@@ -1,6 +1,9 @@
 {
   "id": "reverse-triceps-bench-press",
   "name": "Reverse Triceps Bench Press",
+  "aliases": [
+    "Reverse Grip Bench Press"
+  ],
   "family": "bench-press",
   "variantGroup": "Barbell Flat",
   "modality": "strength",

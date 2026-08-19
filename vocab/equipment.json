@@ -24,6 +24,7 @@
   { "name": "other", "loading": null },
   { "name": "resistance chains", "loading": null },
   { "name": "rowing machine", "loading": "none" },
+  { "name": "safety squat bar", "loading": "plates-per-side" },
   { "name": "sandbag", "loading": "fixed" },
   { "name": "sled", "loading": "plates-single-end" },
   { "name": "sledgehammer", "loading": "fixed" },

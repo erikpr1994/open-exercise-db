@@ -1,0 +1,42 @@
+{
+  "id": "stone-to-shoulder",
+  "name": "Stone to Shoulder",
+  "aliases": [
+    "Atlas Stone Load to Shoulder",
+    "Stone Shouldering"
+  ],
+  "family": "strongman-load",
+  "variantGroup": null,
+  "modality": "strongman",
+  "level": "expert",
+  "mechanic": "compound",
+  "force": "pull",
+  "equipment": "atlas stone",
+  "primaryMuscles": [
+    "lower back"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "adductors",
+    "biceps",
+    "calves",
+    "forearms",
+    "glutes",
+    "hamstrings",
+    "middle back",
+    "quadriceps",
+    "shoulders",
+    "traps"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "unilateral",
+  "instructions": [
+    "Wrap your arms around the stone, hips low and back rounded around the sphere, and lift it into your lap the same way as an Atlas Stone lift.",
+    "Roll the stone up your torso, transferring it toward the shoulder you intend to load.",
+    "As the stone nears its highest point, reposition the hand opposite that shoulder and continue rolling the stone up onto the shoulder.",
+    "Find the balance point on the shoulder, then release the opposite hand out to your side.",
+    "Hold the stone secured on the shoulder with only the near-side hand until the lift is signaled complete."
+  ],
+  "images": [],
+  "video": null
+}

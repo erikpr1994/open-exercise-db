@@ -1,6 +1,9 @@
 {
   "id": "bent-arm-barbell-pullover",
   "name": "Bent-Arm Barbell Pullover",
+  "aliases": [
+    "Barbell Pullover"
+  ],
   "family": "pullover",
   "variantGroup": null,
   "modality": "strength",

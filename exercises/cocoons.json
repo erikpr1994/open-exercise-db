@@ -1,6 +1,9 @@
 {
   "id": "cocoons",
   "name": "Cocoons",
+  "aliases": [
+    "Cocoon Crunch"
+  ],
   "family": "crunch",
   "variantGroup": null,
   "modality": "strength",

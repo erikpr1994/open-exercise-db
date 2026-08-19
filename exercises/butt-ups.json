@@ -1,6 +1,10 @@
 {
   "id": "butt-ups",
   "name": "Butt-Ups",
+  "aliases": [
+    "Plank to Pike",
+    "Pike Plank"
+  ],
   "family": "plank",
   "variantGroup": null,
   "modality": "strength",

@@ -1,0 +1,34 @@
+{
+  "id": "skin-the-cat",
+  "name": "Skin the Cat",
+  "aliases": [
+    "German Hang Rotation",
+    "Ring Skin the Cat"
+  ],
+  "family": "pull-up",
+  "variantGroup": "Lever",
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "pull",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "lats"
+  ],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Hang from rings or a bar with arms fully extended and your core engaged.",
+    "Tuck your knees toward your chest without swinging.",
+    "Bring your knees up and thread them between your hands and arms.",
+    "Continue rotating backward, extending your hips up and back until your body inverts fully behind your hands.",
+    "Hold the inverted hang briefly with arms fully extended overhead behind you.",
+    "Reverse the rotation with control back to the starting dead hang."
+  ],
+  "images": [],
+  "video": null
+}
