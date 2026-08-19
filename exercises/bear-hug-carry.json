@@ -1,0 +1,36 @@
+{
+  "id": "bear-hug-carry",
+  "name": "Bear Hug Carry",
+  "aliases": [
+    "Sandbag Bear Hug Carry"
+  ],
+  "family": "carry",
+  "variantGroup": null,
+  "modality": "strongman",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": null,
+  "equipment": "sandbag",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "forearms",
+    "glutes",
+    "hamstrings",
+    "lower back",
+    "middle back",
+    "quadriceps"
+  ],
+  "measurementType": "weighted_time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Stand over the sandbag with feet close together, wedging it between your knees.",
+    "Squat down, wrap both arms fully around the bag, and pull it tight against your chest.",
+    "Drop your hips and drive through your legs to stand up, keeping the bag hugged high on your torso.",
+    "Walk forward with short, quick steps, keeping your chest up and squeezing the bag in against your body throughout.",
+    "Set the bag down under control at the end of the distance or time."
+  ],
+  "images": [],
+  "video": null
+}

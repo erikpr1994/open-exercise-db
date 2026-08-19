@@ -1,7 +1,7 @@
 {
   "id": "downward-facing-balance",
   "name": "Downward Facing Balance",
-  "family": null,
+  "family": "back-extension",
   "variantGroup": null,
   "modality": "strength",
   "level": "intermediate",

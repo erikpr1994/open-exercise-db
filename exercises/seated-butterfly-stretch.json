@@ -1,0 +1,31 @@
+{
+  "id": "seated-butterfly-stretch",
+  "name": "Seated Butterfly Stretch",
+  "aliases": [
+    "Butterfly Stretch"
+  ],
+  "family": "adductor-groin-stretch",
+  "variantGroup": null,
+  "modality": "stretching",
+  "level": "beginner",
+  "mechanic": null,
+  "force": "static",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "adductors"
+  ],
+  "secondaryMuscles": [
+    "hip flexors"
+  ],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Sit on the floor with knees bent and press the soles of your feet together.",
+    "Let your knees fall open toward the floor.",
+    "Hold your ankles or feet with both hands and sit up tall.",
+    "Gently press the knees toward the floor with your forearms, or lean the torso forward from the hips, to deepen the stretch.",
+    "Hold for the set time without bouncing."
+  ],
+  "images": [],
+  "video": null
+}

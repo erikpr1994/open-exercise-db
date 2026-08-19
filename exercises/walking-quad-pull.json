@@ -1,0 +1,34 @@
+{
+  "id": "walking-quad-pull",
+  "name": "Walking Quad Pull",
+  "aliases": [
+    "Walking Quad Stretch",
+    "Quad Pull March"
+  ],
+  "family": "mobility",
+  "variantGroup": null,
+  "modality": "stretching",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "pull",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hip flexors"
+  ],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Stand tall, feet together.",
+    "Bring one foot up behind you and grasp the ankle with the same-side hand.",
+    "Pull the heel toward the glute, keeping the knee pointed down and in line with the hip, chest up.",
+    "Hold for one count.",
+    "Release, step forward, and repeat pulling the opposite ankle.",
+    "Continue alternating for the set distance or time."
+  ],
+  "images": [],
+  "video": null
+}

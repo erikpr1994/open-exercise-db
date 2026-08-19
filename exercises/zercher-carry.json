@@ -1,0 +1,37 @@
+{
+  "id": "zercher-carry",
+  "name": "Zercher Carry",
+  "aliases": [
+    "Zercher Walk"
+  ],
+  "family": "carry",
+  "variantGroup": null,
+  "modality": "strongman",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": null,
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "forearms",
+    "glutes",
+    "hamstrings",
+    "lower back",
+    "quadriceps",
+    "traps"
+  ],
+  "measurementType": "weighted_time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Step up to a loaded barbell resting on a rack or blocks at roughly hip height.",
+    "Bend your arms and cradle the bar in the crook of your elbows, fists held close together and elbows tucked under the bar.",
+    "Lift the bar by standing tall, bracing your core hard, and keeping your chest high.",
+    "Walk forward with short, controlled steps, keeping your torso upright without leaning back or rounding your spine.",
+    "Keep your elbows lifted for the full distance or time; if they start to sag under the load, set the bar down."
+  ],
+  "images": [],
+  "video": null
+}

@@ -1,0 +1,29 @@
+{
+  "id": "sleeper-stretch",
+  "name": "Sleeper Stretch",
+  "aliases": [
+    "Shoulder Sleeper Stretch"
+  ],
+  "family": "chest-shoulder-stretch",
+  "variantGroup": null,
+  "modality": "stretching",
+  "level": "intermediate",
+  "mechanic": null,
+  "force": "static",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [],
+  "measurementType": "time",
+  "laterality": "unilateral",
+  "instructions": [
+    "Lie on your side on a firm surface, on the side you want to stretch.",
+    "Raise that arm to shoulder height in front of you, elbow bent 90 degrees, fingers pointing up.",
+    "Using your other hand, gently press the raised forearm down toward the floor.",
+    "Stop when you feel a stretch at the back of the shoulder; do not force through pain.",
+    "Hold for the set time, release, and repeat before switching sides."
+  ],
+  "images": [],
+  "video": null
+}

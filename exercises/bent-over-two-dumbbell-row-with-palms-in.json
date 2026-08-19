@@ -1,6 +1,9 @@
 {
   "id": "bent-over-two-dumbbell-row-with-palms-in",
   "name": "Bent Over Two-Dumbbell Row With Palms In",
+  "aliases": [
+    "Neutral Grip Dumbbell Row"
+  ],
   "family": "row",
   "variantGroup": "Dumbbell",
   "modality": "strength",

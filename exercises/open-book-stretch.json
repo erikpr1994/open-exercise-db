@@ -1,0 +1,35 @@
+{
+  "id": "open-book-stretch",
+  "name": "Open Book Stretch",
+  "aliases": [
+    "Thoracic Rotation",
+    "Sidelying Open Book",
+    "Book Opener"
+  ],
+  "family": "mobility",
+  "variantGroup": null,
+  "modality": "stretching",
+  "level": "beginner",
+  "mechanic": null,
+  "force": "pull",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "shoulders"
+  ],
+  "measurementType": "time",
+  "laterality": "unilateral",
+  "instructions": [
+    "Lie on one side, knees bent to 90 degrees and stacked, hips stacked.",
+    "Extend both arms straight out in front at shoulder height, palms together.",
+    "Keeping the knees pinned together on the floor, slowly rotate the top arm up and over toward the opposite side, following the hand with your eyes.",
+    "Continue until the top hand reaches, or nears, the floor on the far side.",
+    "Hold briefly, then reverse back to the start.",
+    "Complete the set, then switch sides."
+  ],
+  "images": [],
+  "video": null
+}

@@ -1,0 +1,34 @@
+{
+  "id": "archer-push-up",
+  "name": "Archer Push-Up",
+  "aliases": [
+    "Archer Pushup"
+  ],
+  "family": "push-up",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "shoulders",
+    "triceps"
+  ],
+  "measurementType": "reps",
+  "laterality": "unilateral",
+  "instructions": [
+    "Start in a push-up position with hands set about twice shoulder-width apart.",
+    "Brace your core and keep your body in a straight line.",
+    "Shift your weight toward one hand, bending that elbow to lower your chest toward it while keeping the other arm straight and extended out to the side.",
+    "Keep the bent elbow tucked close to your body as you lower.",
+    "Push back up through the bent arm to the starting position.",
+    "Repeat, shifting to the opposite side, alternating until the set is complete."
+  ],
+  "images": [],
+  "video": null
+}

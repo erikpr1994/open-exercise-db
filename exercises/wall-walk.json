@@ -1,0 +1,33 @@
+{
+  "id": "wall-walk",
+  "name": "Wall Walk",
+  "aliases": [
+    "Handstand Wall Walk"
+  ],
+  "family": "overhead-press",
+  "variantGroup": "Bodyweight",
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "triceps"
+  ],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Start in a push-up position with your feet against a wall.",
+    "Place your hands shoulder-width apart on the floor.",
+    "Keeping your hands planted, walk your feet up the wall while walking your hands back toward the wall.",
+    "Continue until your body is vertical, hands under your shoulders.",
+    "Keep your core braced and body aligned in the handstand position.",
+    "Reverse the movement, walking your feet back down and your hands forward, to complete one rep."
+  ],
+  "images": [],
+  "video": null
+}

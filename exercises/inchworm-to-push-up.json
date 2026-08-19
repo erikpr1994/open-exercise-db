@@ -1,0 +1,35 @@
+{
+  "id": "inchworm-to-push-up",
+  "name": "Inchworm to Push-Up",
+  "aliases": [
+    "Inchworm Push-Up",
+    "Inchworm Walkout with Push-Up"
+  ],
+  "family": "mobility",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "shoulders",
+    "triceps"
+  ],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Stand feet shoulder-width apart, hinge at the hips, and place the hands on the floor in front of the feet, legs as straight as comfortable.",
+    "Walk the hands forward, alternating left and right, until the body is in a straight line from head to heels.",
+    "Bend the elbows and lower the chest to the floor in a push-up, keeping the back flat.",
+    "Push back up to the plank position.",
+    "Walk the feet back up toward the hands in small steps, legs staying straight.",
+    "Stand up tall to complete one rep."
+  ],
+  "images": [],
+  "video": null
+}

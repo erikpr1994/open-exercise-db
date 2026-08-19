@@ -1,0 +1,36 @@
+{
+  "id": "safety-squat-bar-squat",
+  "name": "Safety Squat Bar Squat",
+  "aliases": [
+    "SSB Squat",
+    "Yoke Bar Squat"
+  ],
+  "family": "squat",
+  "variantGroup": "Safety Squat Bar",
+  "modality": "powerlifting",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "safety squat bar",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings",
+    "lower back"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Set the bar in a rack about one to two inches below its unracked height, roughly at the top of your breastbone.",
+    "Lean forward, slide your head between the two padded handles so the yoke rests on your upper back, and grip one handle in each hand.",
+    "Unrack the bar, step back, and set your feet a little wider than shoulder width with your toes turned out about 20 degrees.",
+    "Brace your abs and sit back and down, keeping your shoulders moving down at the same rate as your hips, until your thighs reach parallel or slightly below.",
+    "Drive up through the floor, keeping your shoulders and hips rising together; do not pull down on the handles, which tips you forward and makes the lift easier than intended.",
+    "Stand to full lockout and repeat."
+  ],
+  "images": [],
+  "video": null
+}

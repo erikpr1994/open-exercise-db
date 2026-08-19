@@ -1,0 +1,35 @@
+{
+  "id": "standing-figure-4-stretch",
+  "name": "Standing Figure-4 Stretch",
+  "aliases": [
+    "Standing Pigeon Stretch",
+    "Figure 4 Hip Stretch",
+    "Standing Glute Stretch"
+  ],
+  "family": "glute-piriformis-stretch",
+  "variantGroup": null,
+  "modality": "stretching",
+  "level": "beginner",
+  "mechanic": null,
+  "force": "pull",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "abductors",
+    "hip flexors"
+  ],
+  "measurementType": "time",
+  "laterality": "unilateral",
+  "instructions": [
+    "Stand tall, feet hip-width apart, holding a wall or support if needed for balance.",
+    "Shift weight onto one foot and cross the opposite ankle over that thigh, just above the knee, foot flexed.",
+    "Keep the torso tall and chest lifted.",
+    "Press the hips back and bend the standing knee, lowering into a partial squat until a stretch is felt in the crossed leg's hip and glute.",
+    "Hold for the set time.",
+    "Stand back up and switch sides."
+  ],
+  "images": [],
+  "video": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "frog-stretch",
+  "name": "Frog Stretch",
+  "aliases": [
+    "Frog Pose"
+  ],
+  "family": "adductor-groin-stretch",
+  "variantGroup": null,
+  "modality": "stretching",
+  "level": "intermediate",
+  "mechanic": null,
+  "force": "static",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "adductors"
+  ],
+  "secondaryMuscles": [
+    "hip flexors",
+    "lower back"
+  ],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Start on hands and knees.",
+    "Slide the knees out wide, keeping ankles in line with knees and inner ankles touching the floor.",
+    "Lower onto your forearms and push the hips back and down, keeping the spine neutral.",
+    "Keep the core braced so the lower back does not sag.",
+    "Hold for the set time, breathing deeply and letting the hips settle further if comfortable."
+  ],
+  "images": [],
+  "video": null
+}

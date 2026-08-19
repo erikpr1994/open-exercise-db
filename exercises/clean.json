@@ -1,6 +1,9 @@
 {
   "id": "clean",
   "name": "Clean",
+  "aliases": [
+    "Squat Clean"
+  ],
   "family": "clean",
   "variantGroup": null,
   "modality": "olympic weightlifting",

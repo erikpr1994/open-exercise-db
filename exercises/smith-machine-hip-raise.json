@@ -10,11 +10,13 @@
   "level": "beginner",
   "mechanic": "isolation",
   "force": "pull",
-  "equipment": "machine",
+  "equipment": "smith machine",
   "primaryMuscles": [
-    "abdominals"
+    "glutes"
   ],
-  "secondaryMuscles": [],
+  "secondaryMuscles": [
+    "hamstrings"
+  ],
   "measurementType": "weight_reps",
   "laterality": "bilateral",
   "instructions": [

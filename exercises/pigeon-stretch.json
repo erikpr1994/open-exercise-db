@@ -1,0 +1,33 @@
+{
+  "id": "pigeon-stretch",
+  "name": "Pigeon Stretch",
+  "aliases": [
+    "Pigeon Pose"
+  ],
+  "family": "glute-piriformis-stretch",
+  "variantGroup": null,
+  "modality": "stretching",
+  "level": "beginner",
+  "mechanic": null,
+  "force": "static",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "abductors",
+    "hip flexors"
+  ],
+  "measurementType": "time",
+  "laterality": "unilateral",
+  "instructions": [
+    "Start on hands and knees.",
+    "Bring one knee forward and place it on the floor behind the same-side wrist, shin angled toward the opposite hip.",
+    "Extend the other leg straight behind you with the top of that foot on the floor.",
+    "Square your hips toward the front as much as possible.",
+    "Walk your hands forward and lower your torso over the front leg for a deeper stretch.",
+    "Hold for the desired time, then switch sides."
+  ],
+  "images": [],
+  "video": null
+}

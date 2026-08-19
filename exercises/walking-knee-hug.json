@@ -1,0 +1,34 @@
+{
+  "id": "walking-knee-hug",
+  "name": "Walking Knee Hug",
+  "aliases": [
+    "Knee Hug Walk",
+    "Walking Knee Pull"
+  ],
+  "family": "mobility",
+  "variantGroup": null,
+  "modality": "stretching",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "pull",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "hip flexors"
+  ],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Stand tall, feet hip-width apart.",
+    "Step forward onto one foot and drive the opposite knee high toward the chest.",
+    "Clasp both hands around the shin, just below the knee, and pull it gently closer.",
+    "Hold briefly while balancing on the standing leg.",
+    "Release, step the raised foot down and forward, and repeat lifting the other knee.",
+    "Continue alternating while walking forward for the set distance or time."
+  ],
+  "images": [],
+  "video": null
+}

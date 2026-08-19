@@ -1,0 +1,32 @@
+{
+  "id": "tensor-fasciae-latae-smr",
+  "name": "Tensor Fasciae Latae-SMR",
+  "aliases": [
+    "TFL Foam Roll",
+    "Hip Flexor Foam Roll"
+  ],
+  "family": "foam-rolling",
+  "variantGroup": null,
+  "modality": "stretching",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "force": "static",
+  "equipment": "foam roll",
+  "primaryMuscles": [
+    "hip flexors"
+  ],
+  "secondaryMuscles": [
+    "abductors"
+  ],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Lie face down and place the foam roll just below the hip bone, angled slightly toward the outside of the thigh.",
+    "Support your upper body on your forearms or hands, legs extended straight behind you.",
+    "Brace your core to keep the lower back from arching.",
+    "Roll a few centimeters forward and back over the front and side of the hip.",
+    "Pause on tender spots for 20 to 30 seconds, then switch sides."
+  ],
+  "images": [],
+  "video": null
+}

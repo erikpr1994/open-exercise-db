@@ -1,6 +1,9 @@
 {
   "id": "hyperextensions-with-no-hyperextension-bench",
   "name": "Hyperextensions With No Hyperextension Bench",
+  "aliases": [
+    "Floor Hyperextension"
+  ],
   "family": "back-extension",
   "variantGroup": null,
   "modality": "strength",

@@ -1,0 +1,31 @@
+{
+  "id": "standing-it-band-stretch",
+  "name": "Standing IT Band Stretch",
+  "aliases": [
+    "Standing Leg Cross Abductor Stretch"
+  ],
+  "family": "glute-piriformis-stretch",
+  "variantGroup": "Standing",
+  "modality": "stretching",
+  "level": "beginner",
+  "mechanic": null,
+  "force": "static",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abductors"
+  ],
+  "secondaryMuscles": [
+    "glutes"
+  ],
+  "measurementType": "time",
+  "laterality": "unilateral",
+  "instructions": [
+    "Stand beside a wall or chair for balance, feet together.",
+    "Cross the outside leg behind the leg nearer the support.",
+    "Lean your hips away from the support while keeping both feet flat.",
+    "Feel the stretch along the outer hip and thigh of the crossed, back leg.",
+    "Hold for the set time, then switch sides."
+  ],
+  "images": [],
+  "video": null
+}

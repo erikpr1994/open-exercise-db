@@ -2,12 +2,12 @@
   "id": "chair-squat",
   "name": "Chair Squat",
   "family": "squat",
-  "variantGroup": "Machine",
+  "variantGroup": "Barbell",
   "modality": "strength",
   "level": "beginner",
   "mechanic": "compound",
   "force": "push",
-  "equipment": "machine",
+  "equipment": "barbell",
   "primaryMuscles": [
     "quadriceps"
   ],

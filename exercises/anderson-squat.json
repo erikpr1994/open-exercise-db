@@ -1,0 +1,34 @@
+{
+  "id": "anderson-squat",
+  "name": "Anderson Squat",
+  "aliases": [
+    "Pin Squat",
+    "Dead-Stop Squat"
+  ],
+  "family": "squat",
+  "variantGroup": "Pins",
+  "modality": "powerlifting",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings",
+    "lower back"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "In a power rack, set the safety pins at the depth you want each rep to start from, typically at or just above parallel.",
+    "Load the bar onto the pins and get under it in a normal back squat position, feet shoulder width or slightly wider.",
+    "Brace hard while the bar is still resting dead still on the pins; do not let it settle or bounce.",
+    "From this complete dead stop, drive straight up to full lockout using only concentric force, with no stretch-reflex assistance from a descent.",
+    "Lower the bar back onto the pins under control, let it come to a full stop, and reset your brace before the next rep."
+  ],
+  "images": [],
+  "video": null
+}

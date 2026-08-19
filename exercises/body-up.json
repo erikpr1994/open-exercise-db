@@ -1,6 +1,10 @@
 {
   "id": "body-up",
   "name": "Body-Up",
+  "aliases": [
+    "Plank Up-Down",
+    "Plank to Push-Up"
+  ],
   "family": "triceps-extension",
   "variantGroup": "Bodyweight",
   "modality": "strength",

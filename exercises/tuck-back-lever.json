@@ -1,0 +1,35 @@
+{
+  "id": "tuck-back-lever",
+  "name": "Tuck Back Lever",
+  "aliases": [
+    "Back Lever Tuck Hold",
+    "Tucked Back Lever"
+  ],
+  "family": "pull-up",
+  "variantGroup": "Lever",
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "static",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "chest",
+    "lower back"
+  ],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Hang from a bar or rings with an overhand grip, arms straight.",
+    "Engage your core and pull your knees up toward your chest.",
+    "Rotate backward, leaning your torso back until it is roughly parallel to the floor, knees still tucked.",
+    "Keep your arms straight and your body in a hollow, tucked shape.",
+    "Hold for the desired time.",
+    "Rotate forward with control back to a dead hang."
+  ],
+  "images": [],
+  "video": null
+}
