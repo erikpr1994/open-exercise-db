@@ -27,6 +27,9 @@
     "Decelerate, reset, and repeat.",
     "The transition from bounce to sprint should be immediate."
   ],
-  "images": [],
+  "images": [
+    "pogo-jump-to-sprint/0.jpg",
+    "pogo-jump-to-sprint/1.jpg"
+  ],
   "video": null
 }

@@ -29,6 +29,8 @@
     "Keep your knees low to the ground and your hips level, without letting them rock side to side.",
     "Continue crawling for the given distance or number of steps."
   ],
-  "images": [],
+  "images": [
+    "bear-crawl/0.jpg"
+  ],
   "video": "https://www.youtube.com/watch?v=DIEU9gh8FWs"
 }

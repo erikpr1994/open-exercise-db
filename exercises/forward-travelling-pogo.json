@@ -26,6 +26,8 @@
     "Bounce continuously while travelling forward in small increments, keeping each ground contact brief and the knees nearly locked.",
     "Lean slightly forward and let the ankles propel you ahead."
   ],
-  "images": [],
+  "images": [
+    "forward-travelling-pogo/0.jpg"
+  ],
   "video": "https://www.youtube.com/watch?v=MK4Bk8kPKPg"
 }
