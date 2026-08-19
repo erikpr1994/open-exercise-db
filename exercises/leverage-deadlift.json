@@ -11,7 +11,7 @@
   "level": "beginner",
   "mechanic": "compound",
   "force": "pull",
-  "equipment": "machine",
+  "equipment": "leverage machine",
   "primaryMuscles": [
     "quadriceps"
   ],

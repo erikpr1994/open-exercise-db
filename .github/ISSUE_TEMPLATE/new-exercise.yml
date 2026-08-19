@@ -54,6 +54,7 @@ body:
     attributes:
       label: Equipment
       options:
+        - ab crunch machine
         - ab wheel
         - agility hurdle
         - atlas stone
@@ -61,31 +62,51 @@ body:
         - bands
         - barbell
         - battle ropes
+        - belt squat machine
+        - bicep curl machine
         - body only
         - cable
+        - calf raise machine
+        - chest press machine
+        - dip machine
         - dumbbell
         - e-z curl bar
         - exercise ball
         - farmer's walk handles
         - foam roll
+        - glute-ham developer
+        - hack squat machine
         - head harness
+        - hip abduction machine
+        - hip adduction machine
         - jump rope
         - keg
         - kettlebells
         - landmine
+        - leg curl machine
+        - leg extension machine
+        - leg press machine
+        - leverage machine
         - log
         - machine
         - medicine ball
         - other
+        - pec deck machine
+        - preacher curl machine
         - resistance chains
+        - reverse hyperextension machine
         - rowing machine
         - safety squat bar
         - sandbag
+        - shoulder press machine
         - sled
         - sledgehammer
+        - smith machine
         - suspension trainer
+        - t-bar row machine
         - tire
         - trap bar
+        - triceps extension machine
         - weight plate
         - weight vest
         - wrist roller
