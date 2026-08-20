@@ -28,6 +28,8 @@
     "Stand tall on the box, then step down one foot at a time. Do not hop back down.",
     "Finish the set on one leg, then switch legs."
   ],
-  "images": [],
+  "images": [
+    "single-leg-box-jump/0.jpg"
+  ],
   "video": null
 }

@@ -29,6 +29,8 @@
     "Release the leg, step forward, and repeat on the other side.",
     "Continue alternating as you walk."
   ],
-  "images": [],
+  "images": [
+    "walking-figure-4/0.jpg"
+  ],
   "video": null
 }

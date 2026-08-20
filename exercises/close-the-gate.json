@@ -28,6 +28,8 @@
     "Keep the torso upright and the standing leg stable.",
     "Step down and repeat on the other side, alternating as you walk."
   ],
-  "images": [],
+  "images": [
+    "close-the-gate/0.jpg"
+  ],
   "video": null
 }

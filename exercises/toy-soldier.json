@@ -29,6 +29,8 @@
     "Lower the leg and step onto that foot.",
     "Alternate legs as you walk, matching each kick with the opposite hand."
   ],
-  "images": [],
+  "images": [
+    "toy-soldier/0.jpg"
+  ],
   "video": null
 }
