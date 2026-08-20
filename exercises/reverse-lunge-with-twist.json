@@ -29,8 +29,6 @@
     "Rotate the torso toward the front thigh, then return the torso to the center.",
     "Push through the front foot to stand, then repeat on the other side."
   ],
-  "images": [
-    "reverse-lunge-with-twist/0.jpg"
-  ],
+  "images": [],
   "video": null
 }
