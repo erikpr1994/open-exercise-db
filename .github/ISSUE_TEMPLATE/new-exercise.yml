@@ -37,6 +37,7 @@ body:
         - olympic weightlifting
         - strongman
         - cardio
+        - technique
     validations:
       required: true
   - type: dropdown

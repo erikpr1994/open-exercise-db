@@ -1,0 +1,35 @@
+{
+  "id": "shin-box-get-up",
+  "name": "Shin Box Get-Up",
+  "aliases": [
+    "90/90 Get-Up",
+    "90-90 Get Up",
+    "Shin Box Transition"
+  ],
+  "family": "mobility",
+  "variantGroup": null,
+  "modality": "stretching",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "glutes",
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "hip flexors",
+    "adductors"
+  ],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Sit on the floor in a 90/90 position: one shin in front of you and the other shin out to the side, both knees bent about 90 degrees.",
+    "Lean slightly over the front shin, plant the front foot, and drive through that foot and the back knee to stand up. Avoid using your hands if you can.",
+    "Stand tall with the hips extended, then reverse the motion back to the floor.",
+    "Land in the opposite 90/90, rotating both knees to the other side.",
+    "Continue standing up and switching 90/90 sides for the set reps."
+  ],
+  "images": [],
+  "video": null
+}

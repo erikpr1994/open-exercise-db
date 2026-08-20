@@ -1,0 +1,34 @@
+{
+  "id": "lizard-stretch",
+  "name": "Lizard Stretch",
+  "aliases": [
+    "Lizard Pose",
+    "Utthan Pristhasana"
+  ],
+  "family": "quad-hip-flexor-stretch",
+  "variantGroup": null,
+  "modality": "stretching",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "force": "static",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "hip flexors",
+    "adductors"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings"
+  ],
+  "measurementType": "time",
+  "laterality": "unilateral",
+  "instructions": [
+    "Step one foot forward into a long lunge, with the back knee on the floor or hovering.",
+    "Place both hands inside the front foot, on the floor or on blocks.",
+    "Let the front knee track over the toes and sink the hips low, keeping the chest lifted.",
+    "Keep the back hip reaching back so the stretch stays in the hip flexor and inner thigh, not a twist toward the front foot.",
+    "Hold for the set time, then switch sides."
+  ],
+  "images": [],
+  "video": null
+}

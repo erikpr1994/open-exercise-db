@@ -1,0 +1,35 @@
+{
+  "id": "repeated-broad-jump",
+  "name": "Repeated Broad Jump",
+  "aliases": [
+    "Consecutive Broad Jumps",
+    "Repeated Standing Long Jump",
+    "Bounding Broad Jumps"
+  ],
+  "family": "broad-long-jump",
+  "variantGroup": null,
+  "modality": "plyometrics",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "glutes",
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "calves"
+  ],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Stand with the feet about hip-width apart and room to jump forward.",
+    "Swing the arms back, dip the hips, and jump forward as far as you can, landing on both feet.",
+    "Absorb the landing, then immediately jump forward again with little pause.",
+    "Keep each landing quiet and balanced. Do not let the knees collapse inward.",
+    "Continue for the set number of jumps. This is a series, not a single standing long jump."
+  ],
+  "images": [],
+  "video": null
+}

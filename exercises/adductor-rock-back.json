@@ -1,0 +1,34 @@
+{
+  "id": "adductor-rock-back",
+  "name": "Adductor Rock Back",
+  "aliases": [
+    "Frog Rock",
+    "Adductor Rock",
+    "Kneeling Adductor Rock Back"
+  ],
+  "family": "mobility",
+  "variantGroup": null,
+  "modality": "stretching",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "pull",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "adductors"
+  ],
+  "secondaryMuscles": [
+    "hip flexors",
+    "glutes"
+  ],
+  "measurementType": "reps",
+  "laterality": "unilateral",
+  "instructions": [
+    "Kneel on one knee and extend the other leg straight out to the side, toes pointing forward, with the inner thigh facing the floor.",
+    "Place both hands on the floor in front of you and keep the spine long.",
+    "Sit the hips back toward the kneeling heel to load the inner thigh of the extended leg.",
+    "Rock forward again, keeping the hips low and the extended knee soft.",
+    "Move slowly for the set reps, then switch sides. This is a rocking drill, not a static frog hold."
+  ],
+  "images": [],
+  "video": null
+}

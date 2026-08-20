@@ -1,0 +1,34 @@
+{
+  "id": "happy-baby",
+  "name": "Happy Baby",
+  "aliases": [
+    "Happy Baby Pose",
+    "Ananda Balasana"
+  ],
+  "family": "hamstring-stretch",
+  "variantGroup": null,
+  "modality": "stretching",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "static",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "hamstrings",
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "lower back",
+    "adductors"
+  ],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Lie on your back and draw both knees toward your armpits.",
+    "Hold the outsides of the feet, or the backs of the thighs if you cannot reach the feet.",
+    "Open the knees wider than the torso and flex the feet.",
+    "Gently pull the feet down as you keep the tailbone and shoulders on the floor.",
+    "Hold for the set time, breathing steadily. Rock side to side only if it stays comfortable."
+  ],
+  "images": [],
+  "video": null
+}

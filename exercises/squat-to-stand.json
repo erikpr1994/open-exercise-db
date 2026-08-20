@@ -1,0 +1,36 @@
+{
+  "id": "squat-to-stand",
+  "name": "Squat to Stand",
+  "aliases": [
+    "Primal Squat to Stand",
+    "Stand-to-Squat Mobility",
+    "Jefferson Squat Stretch"
+  ],
+  "family": "mobility",
+  "variantGroup": null,
+  "modality": "stretching",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "pull",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "hamstrings",
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hip flexors",
+    "lower back",
+    "calves"
+  ],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Stand with the feet about shoulder-width apart and hinge at the hips to reach down and hold your toes or the fronts of your shoes.",
+    "Keep a light hold on the toes as you drop the hips into a deep squat.",
+    "Lift the chest and press the elbows inside the knees, keeping the heels down if you can.",
+    "From the deep squat, straighten the legs and return to a standing hinge while you keep holding the toes.",
+    "Move slowly between the squat and the stand for the set reps. This is an unloaded mobility drill, not a loaded squat."
+  ],
+  "images": [],
+  "video": null
+}

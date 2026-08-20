@@ -1,0 +1,33 @@
+{
+  "id": "pancake-stretch",
+  "name": "Pancake Stretch",
+  "aliases": [
+    "Straddle Pancake",
+    "Seated Straddle Fold"
+  ],
+  "family": "adductor-groin-stretch",
+  "variantGroup": null,
+  "modality": "stretching",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "force": "static",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "hamstrings",
+    "adductors"
+  ],
+  "secondaryMuscles": [
+    "lower back"
+  ],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Sit on the floor with the legs in a wide straddle and the knees pointing up.",
+    "Sit tall on the sit bones and lengthen the spine.",
+    "Hinge forward from the hips and reach the chest toward the floor between the legs.",
+    "Keep the spine as long as you can. Do not round hard just to get the chest lower.",
+    "Hold for the set time, then walk the hands back and sit up."
+  ],
+  "images": [],
+  "video": null
+}

@@ -1,0 +1,34 @@
+{
+  "id": "reverse-lunge-with-twist",
+  "name": "Reverse Lunge with Twist",
+  "aliases": [
+    "Reverse Lunge Rotation",
+    "Lunge and Twist"
+  ],
+  "family": "mobility",
+  "variantGroup": null,
+  "modality": "stretching",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "pull",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps",
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "hip flexors"
+  ],
+  "measurementType": "reps",
+  "laterality": "unilateral",
+  "instructions": [
+    "Stand tall with the feet hip-width apart and the arms in front of the chest or relaxed at the sides.",
+    "Step one foot straight back into a reverse lunge, lowering until both knees are bent about 90 degrees.",
+    "Keep the front foot pointing forward. Do not step the back foot across the midline.",
+    "Rotate the torso toward the front thigh, then return the torso to the center.",
+    "Push through the front foot to stand, then repeat on the other side."
+  ],
+  "images": [],
+  "video": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "box-jump-over",
+  "name": "Box Jump Over",
+  "aliases": [
+    "Jump Over Box"
+  ],
+  "family": "box-jump",
+  "variantGroup": null,
+  "modality": "plyometrics",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps",
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "calves"
+  ],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Stand facing a box of a height you can clear with control.",
+    "Dip the hips and jump onto the box, or jump over it if the box is low enough to clear in one action.",
+    "If you land on the box, step or jump down on the far side. Stay facing the same way, or turn as the workout asks.",
+    "Land softly on the far side and reset your feet.",
+    "Turn around or continue in the same direction and repeat for the set reps."
+  ],
+  "images": [],
+  "video": null
+}

@@ -1,0 +1,33 @@
+{
+  "id": "half-kneeling-hip-flexor-reach",
+  "name": "Half-Kneeling Hip Flexor Reach",
+  "aliases": [
+    "Kneeling Hip Flexor with Overhead Reach",
+    "Half-Kneeling Lunge Reach"
+  ],
+  "family": "quad-hip-flexor-stretch",
+  "variantGroup": null,
+  "modality": "stretching",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "static",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "hip flexors"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "shoulders"
+  ],
+  "measurementType": "time",
+  "laterality": "unilateral",
+  "instructions": [
+    "Kneel in a half-kneeling lunge with the back knee down and the front foot flat.",
+    "Squeeze the glute of the kneeling leg and gently shift the hips forward until you feel a stretch in the front of that hip.",
+    "Reach one arm overhead and slightly toward the back-knee side to open the hip and upper back.",
+    "Keep the ribs down and the lower back from dumping into a hard arch.",
+    "Hold for the set time, then switch sides."
+  ],
+  "images": [],
+  "video": null
+}
