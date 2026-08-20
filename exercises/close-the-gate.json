@@ -1,0 +1,33 @@
+{
+  "id": "close-the-gate",
+  "name": "Close the Gate",
+  "aliases": [
+    "Close Gate",
+    "Hip Close the Gate"
+  ],
+  "family": "mobility",
+  "variantGroup": null,
+  "modality": "stretching",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "pull",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "hip flexors",
+    "abductors"
+  ],
+  "secondaryMuscles": [
+    "glutes"
+  ],
+  "measurementType": "reps",
+  "laterality": "unilateral",
+  "instructions": [
+    "Stand tall and march forward with a controlled pace.",
+    "Lift one knee out to the side with the hip already open, as if the gate starts open.",
+    "Rotate that hip closed so the knee travels across the body toward the midline.",
+    "Keep the torso upright and the standing leg stable.",
+    "Step down and repeat on the other side, alternating as you walk."
+  ],
+  "images": [],
+  "video": null
+}

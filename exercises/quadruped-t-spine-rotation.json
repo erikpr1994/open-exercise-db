@@ -1,0 +1,34 @@
+{
+  "id": "quadruped-t-spine-rotation",
+  "name": "Quadruped T-Spine Rotation",
+  "aliases": [
+    "Quadruped Thoracic Rotation",
+    "Thread the Needle to Open",
+    "Book Opener on All Fours"
+  ],
+  "family": "mobility",
+  "variantGroup": null,
+  "modality": "stretching",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "pull",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "abdominals"
+  ],
+  "measurementType": "reps",
+  "laterality": "unilateral",
+  "instructions": [
+    "Start on all fours with the hands under the shoulders and the knees under the hips.",
+    "Place one hand behind your head, or keep that arm free to reach.",
+    "Rotate the upper back to open the chest toward the ceiling, following the elbow or hand with your eyes.",
+    "Keep the hips level and stacked over the knees. Do not thread the arm under the body.",
+    "Return to the start and repeat for the set reps, then switch sides."
+  ],
+  "images": [],
+  "video": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "scapular-push-up",
+  "name": "Scapular Push-Up",
+  "aliases": [
+    "Push-Up Plus",
+    "Serratus Push-Up",
+    "Scap Push-Up"
+  ],
+  "family": "push-up",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "push",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "chest",
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "middle back"
+  ],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Set up in a high plank with the hands under the shoulders and the body in a straight line from head to heels.",
+    "Keep both elbows locked straight for the whole set.",
+    "Protract the shoulder blades: push the floor away and round the upper back slightly.",
+    "Then retract the shoulder blades, letting the chest sink a little between the arms without bending the elbows.",
+    "Move only at the shoulder blades. Repeat for the set reps."
+  ],
+  "images": [],
+  "video": null
+}

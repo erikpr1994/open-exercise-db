@@ -1,0 +1,34 @@
+{
+  "id": "jefferson-curl",
+  "name": "Jefferson Curl",
+  "aliases": [
+    "Standing Jefferson Curl",
+    "Segmental Forward Fold"
+  ],
+  "family": "mobility",
+  "variantGroup": null,
+  "modality": "stretching",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "force": "pull",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "hamstrings",
+    "lower back"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes"
+  ],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Stand on the floor, or on a low step, with the feet together and the knees soft.",
+    "Tuck the chin and slowly roll down one vertebra at a time, letting the arms hang.",
+    "Continue until you reach a comfortable end range. Stay unloaded until you own the pattern.",
+    "Reverse the motion, stacking the spine from the tailbone up to a tall stand.",
+    "Move slowly for the set reps. This is a segmental fold, not a sit-up."
+  ],
+  "images": [],
+  "video": null
+}

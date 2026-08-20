@@ -1,0 +1,35 @@
+{
+  "id": "countermovement-jump",
+  "name": "Countermovement Jump",
+  "aliases": [
+    "CMJ",
+    "Vertical Jump",
+    "Countermovement Vertical Jump"
+  ],
+  "family": "plyometric-jump",
+  "variantGroup": null,
+  "modality": "plyometrics",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps",
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "calves"
+  ],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Stand tall with the feet about hip-width apart and the arms at your sides.",
+    "Quickly dip the hips and knees a short way, swinging the arms back.",
+    "Without pausing, jump as high as you can, extending the hips, knees, and ankles and swinging the arms up.",
+    "Land softly on both feet, absorbing with the hips and knees.",
+    "Reset to a tall stand between jumps. This is a single max-effort jump, not a repeated jump squat."
+  ],
+  "images": [],
+  "video": null
+}

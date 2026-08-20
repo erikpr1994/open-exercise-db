@@ -1,0 +1,33 @@
+{
+  "id": "c-skip",
+  "name": "C-Skip",
+  "aliases": [
+    "C-Skip Drill"
+  ],
+  "family": "sprint-drill",
+  "variantGroup": null,
+  "modality": "technique",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "calves",
+    "hip flexors"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "shoulders"
+  ],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Stand tall and begin a rhythmic skip, swinging the opposite arm as you move forward.",
+    "Drive one thigh up to about hip height with the ankle dorsiflexed, as in an A-Skip.",
+    "From the top, cycle the lower leg so the heel pulls under the hip in a paw-back, then strike the ground under the body.",
+    "Do not sweep the foot out in front as in a B-Skip; keep the recovery tight and under the hip.",
+    "Stay tall through the torso and alternate legs for the set time."
+  ],
+  "images": [],
+  "video": null
+}

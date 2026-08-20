@@ -1,0 +1,33 @@
+{
+  "id": "foam-roller-t-spine-extension",
+  "name": "Foam Roller T-Spine Extension",
+  "aliases": [
+    "Thoracic Extension on Foam Roller",
+    "Foam Roller Upper Back Extension"
+  ],
+  "family": "foam-rolling",
+  "variantGroup": null,
+  "modality": "stretching",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "static",
+  "equipment": "foam roll",
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "abdominals"
+  ],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Sit on the floor and place a foam roller across your mid-back, then lie back so the roller sits under the shoulder blades.",
+    "Support your head with your hands. Keep the hips on the floor or only slightly lifted.",
+    "Extend the upper back over the roller, opening the chest toward the ceiling.",
+    "Return to a neutral spine. Do not roll up and down the back as in a shear foam-roll drill.",
+    "You may shift the roller one segment at a time and repeat the extension for the set reps."
+  ],
+  "images": [],
+  "video": null
+}
