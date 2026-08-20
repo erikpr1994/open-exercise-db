@@ -1,0 +1,33 @@
+{
+  "id": "shoulder-cars",
+  "name": "Shoulder CARs",
+  "aliases": [
+    "Shoulder Controlled Articular Rotations"
+  ],
+  "family": "mobility",
+  "variantGroup": null,
+  "modality": "stretching",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "force": "pull",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "lats",
+    "middle back"
+  ],
+  "measurementType": "reps",
+  "laterality": "unilateral",
+  "instructions": [
+    "Stand or kneel tall with the ribs down and the neck long. Make a fist and lock the elbow of the working arm.",
+    "Draw the largest pain-free circle you can with that arm: raise it forward and up, rotate the palm as you pass overhead, then continue around behind you and back to the start.",
+    "Keep the ribcage still. Do not arch the back or shrug to gain range.",
+    "Move slowly and stay in a range you can control without pain.",
+    "Finish the set in one direction, reverse the circle, then switch arms."
+  ],
+  "images": [],
+  "video": null
+}

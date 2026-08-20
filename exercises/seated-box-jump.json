@@ -1,0 +1,34 @@
+{
+  "id": "seated-box-jump",
+  "name": "Seated Box Jump",
+  "aliases": [
+    "Box Jump from Sit",
+    "Seated Jump to Box"
+  ],
+  "family": "box-jump",
+  "variantGroup": null,
+  "modality": "plyometrics",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps",
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "calves"
+  ],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Sit on a box or bench facing a taller box, with the feet flat and the torso upright. Hold no extra load.",
+    "Do not stand first or use a standing arm-swing preload.",
+    "From the sit, swing the arms and explode through the hips and knees to jump onto the taller box.",
+    "Land on both feet with the hips and knees bent, then stand tall on the box.",
+    "Step down, sit again, and repeat for the set reps."
+  ],
+  "images": [],
+  "video": null
+}

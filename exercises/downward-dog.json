@@ -1,0 +1,35 @@
+{
+  "id": "downward-dog",
+  "name": "Downward Dog",
+  "aliases": [
+    "Downward-Facing Dog",
+    "Adho Mukha Svanasana"
+  ],
+  "family": "mobility",
+  "variantGroup": null,
+  "modality": "stretching",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "static",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "hamstrings",
+    "calves",
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "lats",
+    "middle back"
+  ],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Start on all fours, then tuck the toes and lift the hips up and back.",
+    "Straighten the arms and legs so the body forms an inverted V.",
+    "Press the hands evenly into the floor and reach the heels toward the floor.",
+    "Keep a long spine. Soften the knees if the lower back rounds.",
+    "Hold for the set time, breathing steadily."
+  ],
+  "images": [],
+  "video": null
+}

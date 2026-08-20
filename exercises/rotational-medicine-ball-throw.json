@@ -1,0 +1,35 @@
+{
+  "id": "rotational-medicine-ball-throw",
+  "name": "Rotational Medicine Ball Throw",
+  "aliases": [
+    "Rotational Med Ball Toss",
+    "Medicine Ball Side Toss",
+    "Perpendicular Med Ball Throw"
+  ],
+  "family": "throw-slam",
+  "variantGroup": null,
+  "modality": "plyometrics",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "medicine ball",
+  "primaryMuscles": [
+    "abdominals",
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "chest"
+  ],
+  "measurementType": "reps",
+  "laterality": "unilateral",
+  "instructions": [
+    "Stand side-on to a wall, about a step away, holding a medicine ball at the hip farther from the wall.",
+    "Load the back hip, then rotate through the hips and trunk toward the wall.",
+    "Dump the ball into the wall with a side toss or shot-put action. Do not chest-pass or slam it overhead.",
+    "Catch the rebound, or reset, and repeat for the set reps.",
+    "Switch your stance and throw from the other side."
+  ],
+  "images": [],
+  "video": null
+}

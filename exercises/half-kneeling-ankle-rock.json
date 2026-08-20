@@ -1,0 +1,33 @@
+{
+  "id": "half-kneeling-ankle-rock",
+  "name": "Half-Kneeling Ankle Rock",
+  "aliases": [
+    "Knee Over Toes Rock",
+    "Half-Kneeling Dorsiflexion Rock",
+    "Ankle Mobility Rock"
+  ],
+  "family": "mobility",
+  "variantGroup": null,
+  "modality": "stretching",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "pull",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [
+    "quadriceps"
+  ],
+  "measurementType": "reps",
+  "laterality": "unilateral",
+  "instructions": [
+    "Kneel on one knee with the other foot planted in front, shin roughly vertical, and the front foot flat.",
+    "Keep the front heel down and the torso tall.",
+    "Gently drive the front knee forward over the toes until you feel a stretch in the ankle and calf.",
+    "Stop before the heel lifts or the knee collapses inward.",
+    "Rock back to the start and repeat for the set reps, then switch sides."
+  ],
+  "images": [],
+  "video": null
+}

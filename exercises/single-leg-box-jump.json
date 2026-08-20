@@ -1,0 +1,33 @@
+{
+  "id": "single-leg-box-jump",
+  "name": "Single-Leg Box Jump",
+  "aliases": [
+    "Unilateral Box Jump"
+  ],
+  "family": "box-jump",
+  "variantGroup": null,
+  "modality": "plyometrics",
+  "level": "expert",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps",
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "hamstrings"
+  ],
+  "measurementType": "reps",
+  "laterality": "unilateral",
+  "instructions": [
+    "Stand on one leg in front of a box of a height you can land on with control.",
+    "Dip slightly on the standing leg, then jump onto the box from that one leg.",
+    "Land on both feet on the box, or on the same foot if you can stay stable.",
+    "Stand tall on the box, then step down one foot at a time. Do not hop back down.",
+    "Finish the set on one leg, then switch legs."
+  ],
+  "images": [],
+  "video": null
+}

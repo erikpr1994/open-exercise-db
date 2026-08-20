@@ -1,0 +1,35 @@
+{
+  "id": "depth-drop",
+  "name": "Depth Drop",
+  "aliases": [
+    "Altitude Landing",
+    "Depth Drop to Stick",
+    "Drop Landing"
+  ],
+  "family": "box-jump",
+  "variantGroup": null,
+  "modality": "plyometrics",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps",
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "calves"
+  ],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Stand on a low box with the feet near the edge and the arms relaxed.",
+    "Step off the box. Do not jump up or out.",
+    "Land on both feet at the same time, with the hips and knees bent, and stick the landing.",
+    "Hold the stick for a moment. Do not rebound into another jump.",
+    "Step back onto the box and repeat for the set reps."
+  ],
+  "images": [],
+  "video": null
+}

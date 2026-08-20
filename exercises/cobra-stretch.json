@@ -1,0 +1,35 @@
+{
+  "id": "cobra-stretch",
+  "name": "Cobra Stretch",
+  "aliases": [
+    "Cobra Pose",
+    "Bhujangasana",
+    "Prone Cobra"
+  ],
+  "family": "back-lat-stretch",
+  "variantGroup": null,
+  "modality": "stretching",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "static",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "lower back",
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "chest"
+  ],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Lie face down with the legs long and the tops of the feet on the floor.",
+    "Place the hands under the shoulders, elbows close to the body.",
+    "Press the hands down and lift the chest, keeping the hips and thighs on the floor.",
+    "Keep the elbows soft and the shoulders away from the ears. Do not lock the arms as in a full upward-facing dog.",
+    "Hold for the set time, then lower with control."
+  ],
+  "images": [],
+  "video": null
+}

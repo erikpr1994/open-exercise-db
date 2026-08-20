@@ -1,0 +1,34 @@
+{
+  "id": "toy-soldier",
+  "name": "Toy Soldier",
+  "aliases": [
+    "Frankenstein Walk",
+    "Toy Soldier Walk",
+    "Straight-Leg March"
+  ],
+  "family": "mobility",
+  "variantGroup": null,
+  "modality": "stretching",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "pull",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "hip flexors",
+    "calves"
+  ],
+  "measurementType": "reps",
+  "laterality": "unilateral",
+  "instructions": [
+    "Stand tall with the arms reaching forward at shoulder height.",
+    "March forward and kick one nearly straight leg up to meet the opposite hand.",
+    "Keep the knee soft, not locked, and the torso upright. Do not fold into a squat.",
+    "Lower the leg and step onto that foot.",
+    "Alternate legs as you walk, matching each kick with the opposite hand."
+  ],
+  "images": [],
+  "video": null
+}

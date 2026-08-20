@@ -1,0 +1,34 @@
+{
+  "id": "hip-cars",
+  "name": "Hip CARs",
+  "aliases": [
+    "Hip Controlled Articular Rotations",
+    "Standing Hip CARs"
+  ],
+  "family": "mobility",
+  "variantGroup": null,
+  "modality": "stretching",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "force": "pull",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "glutes",
+    "hip flexors"
+  ],
+  "secondaryMuscles": [
+    "abductors",
+    "adductors"
+  ],
+  "measurementType": "reps",
+  "laterality": "unilateral",
+  "instructions": [
+    "Stand tall on one leg, holding a support if you need it for balance. Brace the core so the pelvis stays still.",
+    "Move the free hip through its largest pain-free circle: lift into flexion, then open into abduction, reach back into extension, and close through adduction.",
+    "Keep the moving knee pointing along the path of the thigh. Do not let the pelvis tilt, twist, or hike to add range.",
+    "Move slowly. Pause if you feel pinching, and shrink the circle to stay pain-free.",
+    "Complete the set in one direction, reverse the circle, then switch legs."
+  ],
+  "images": [],
+  "video": null
+}

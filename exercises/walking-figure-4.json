@@ -1,0 +1,34 @@
+{
+  "id": "walking-figure-4",
+  "name": "Walking Figure 4",
+  "aliases": [
+    "Leg Cradle Walk",
+    "Walking Figure-Four",
+    "Knee Cradle"
+  ],
+  "family": "mobility",
+  "variantGroup": null,
+  "modality": "stretching",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "pull",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hip flexors",
+    "hamstrings"
+  ],
+  "measurementType": "reps",
+  "laterality": "unilateral",
+  "instructions": [
+    "Stand tall and take a slow step forward onto one foot.",
+    "Lift the free foot and place that ankle on the standing thigh, just above the knee, to make a figure-4. You may cradle the shin instead if that is more comfortable.",
+    "Stand tall, gently press the lifted knee down, and pause for a brief stretch in the hip and glute.",
+    "Release the leg, step forward, and repeat on the other side.",
+    "Continue alternating as you walk."
+  ],
+  "images": [],
+  "video": null
+}
