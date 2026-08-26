@@ -1,0 +1,36 @@
+{
+  "id": "rucking",
+  "name": "Rucking",
+  "aliases": [
+    "Ruck March"
+  ],
+  "family": "carry",
+  "variantGroup": null,
+  "modality": "cardio",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "static",
+  "equipment": "weight vest",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "quadriceps",
+    "calves",
+    "lower back",
+    "traps",
+    "abdominals"
+  ],
+  "measurementType": "weighted_time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Load a weight vest or rucksack with a plate or sandbag, positioned high and close to the shoulders.",
+    "Stand tall with the chest up, shoulders back, and core braced.",
+    "Walk at a brisk, sustainable pace on flat or varied terrain.",
+    "Maintain a normal stride length rather than overstriding to compensate for the load.",
+    "Continue for the target time or distance, keeping posture consistent throughout."
+  ],
+  "images": [],
+  "video": null
+}

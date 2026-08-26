@@ -1,0 +1,34 @@
+{
+  "id": "handstand-walk",
+  "name": "Handstand Walk",
+  "aliases": [
+    "Walking Handstand"
+  ],
+  "family": "overhead-press",
+  "variantGroup": "Handstand",
+  "modality": "technique",
+  "level": "expert",
+  "mechanic": "compound",
+  "force": "static",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "triceps",
+    "forearms",
+    "chest"
+  ],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Kick up into a freestanding handstand with a tight, slightly hollow body line.",
+    "Shift weight onto one hand while the other hand's fingers press to steer.",
+    "Take small, controlled steps forward hand over hand, keeping the hips stacked over the shoulders.",
+    "Use the fingers, not the wrist, to make fine balance corrections.",
+    "Exit by stepping down or cartwheeling out when balance is lost."
+  ],
+  "images": [],
+  "video": null
+}

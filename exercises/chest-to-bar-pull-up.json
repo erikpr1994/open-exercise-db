@@ -1,0 +1,34 @@
+{
+  "id": "chest-to-bar-pull-up",
+  "name": "Chest-to-Bar Pull-Up",
+  "aliases": [
+    "C2B Pull-Up"
+  ],
+  "family": "pull-up",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "pull",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "middle back",
+    "shoulders",
+    "forearms"
+  ],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Hang from a pull-up bar with a full grip.",
+    "Pull explosively, driving the elbows back and slightly out rather than straight down.",
+    "Continue pulling until the chest, not just the chin, makes contact with the bar.",
+    "Lower back to a full hang under control.",
+    "Repeat for reps."
+  ],
+  "images": [],
+  "video": null
+}

@@ -1,0 +1,34 @@
+{
+  "id": "viking-press",
+  "name": "Viking Press",
+  "aliases": [
+    "Landmine Viking Press"
+  ],
+  "family": "overhead-press",
+  "variantGroup": null,
+  "modality": "strongman",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "landmine",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "triceps",
+    "traps",
+    "abdominals",
+    "chest"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Set a barbell in a landmine attachment and fit it with viking press handles, or grip the bar directly at the collar.",
+    "Stand facing the pivot with elbows bent about 90 degrees, palms facing each other.",
+    "Brace the core and dip the knees slightly.",
+    "Drive the handles forward and up along the arcing bar path until the arms are fully extended overhead.",
+    "Lower under control back to the start position and repeat."
+  ],
+  "images": [],
+  "video": null
+}
