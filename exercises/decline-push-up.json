@@ -1,6 +1,9 @@
 {
   "id": "decline-push-up",
   "name": "Decline Push-Up",
+  "aliases": [
+    "Feet-Elevated Push-Up"
+  ],
   "family": "push-up",
   "variantGroup": null,
   "modality": "strength",

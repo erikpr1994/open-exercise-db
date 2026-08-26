@@ -1,6 +1,9 @@
 {
   "id": "one-arm-dumbbell-bench-press",
   "name": "One Arm Dumbbell Bench Press",
+  "aliases": [
+    "Single-Arm Dumbbell Bench Press"
+  ],
   "family": "bench-press",
   "variantGroup": "Dumbbell",
   "modality": "strength",

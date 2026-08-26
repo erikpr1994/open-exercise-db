@@ -1,6 +1,9 @@
 {
   "id": "weighted-pull-ups",
   "name": "Weighted Pull Ups",
+  "aliases": [
+    "Weighted Pullups"
+  ],
   "family": "pull-up",
   "variantGroup": null,
   "modality": "strength",

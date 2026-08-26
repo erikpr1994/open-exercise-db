@@ -1,6 +1,9 @@
 {
   "id": "deadlift-with-chains",
   "name": "Deadlift with Chains",
+  "aliases": [
+    "Chain Deadlift"
+  ],
   "family": "deadlift",
   "variantGroup": null,
   "modality": "powerlifting",

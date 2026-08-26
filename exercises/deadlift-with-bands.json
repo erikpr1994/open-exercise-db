@@ -1,6 +1,9 @@
 {
   "id": "deadlift-with-bands",
   "name": "Deadlift with Bands",
+  "aliases": [
+    "Banded Deadlift"
+  ],
   "family": "deadlift",
   "variantGroup": null,
   "modality": "powerlifting",

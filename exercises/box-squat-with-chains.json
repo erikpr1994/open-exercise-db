@@ -1,6 +1,9 @@
 {
   "id": "box-squat-with-chains",
   "name": "Box Squat with Chains",
+  "aliases": [
+    "Chain Box Squat"
+  ],
   "family": "squat",
   "variantGroup": "Box & Bench",
   "modality": "strength",

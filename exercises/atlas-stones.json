@@ -1,6 +1,10 @@
 {
   "id": "atlas-stones",
   "name": "Atlas Stones",
+  "aliases": [
+    "Stone Lifting",
+    "Strongman Stones"
+  ],
   "family": "strongman-load",
   "variantGroup": null,
   "modality": "strongman",

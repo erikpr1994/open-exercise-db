@@ -1,6 +1,9 @@
 {
   "id": "split-jerk",
   "name": "Split Jerk",
+  "aliases": [
+    "Barbell Split Jerk"
+  ],
   "family": "jerk",
   "variantGroup": null,
   "modality": "olympic weightlifting",
