@@ -1,6 +1,9 @@
 {
   "id": "clean-and-press",
   "name": "Clean and Press",
+  "aliases": [
+    "Barbell Clean and Press"
+  ],
   "family": "clean",
   "variantGroup": null,
   "modality": "strength",

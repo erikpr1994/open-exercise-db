@@ -1,6 +1,10 @@
 {
   "id": "bench-press-powerlifting",
   "name": "Bench Press - Powerlifting",
+  "aliases": [
+    "Competition Bench Press",
+    "Raw Bench Press"
+  ],
   "family": "bench-press",
   "variantGroup": "Barbell Flat",
   "modality": "powerlifting",

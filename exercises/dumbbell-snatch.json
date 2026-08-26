@@ -1,0 +1,36 @@
+{
+  "id": "dumbbell-snatch",
+  "name": "Dumbbell Snatch",
+  "aliases": [
+    "Single-Arm Dumbbell Snatch"
+  ],
+  "family": "snatch",
+  "variantGroup": "Dumbbell",
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "pull",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "quadriceps",
+    "shoulders",
+    "traps",
+    "forearms",
+    "abdominals"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "unilateral",
+  "instructions": [
+    "Stand with feet shoulder-width apart, a dumbbell on the floor between the feet.",
+    "Hinge down and grip the dumbbell with one hand.",
+    "Drive explosively through the hips and legs, pulling the dumbbell close to the body as it rises.",
+    "As it passes shoulder height, punch the arm up and turn the wrist over to lock the dumbbell out overhead.",
+    "Lower it back to the floor under control and repeat, alternating hands as prescribed."
+  ],
+  "images": [],
+  "video": null
+}

@@ -1,6 +1,10 @@
 {
   "id": "smith-machine-overhead-shoulder-press",
   "name": "Smith Machine Overhead Shoulder Press",
+  "aliases": [
+    "Smith Machine Shoulder Press",
+    "Smith Machine Military Press"
+  ],
   "family": "overhead-press",
   "variantGroup": "Machine/Smith",
   "modality": "strength",

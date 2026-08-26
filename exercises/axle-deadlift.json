@@ -1,6 +1,10 @@
 {
   "id": "axle-deadlift",
   "name": "Axle Deadlift",
+  "aliases": [
+    "Fat Bar Deadlift",
+    "Thick Bar Deadlift"
+  ],
   "family": "deadlift",
   "variantGroup": null,
   "modality": "strongman",

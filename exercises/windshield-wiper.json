@@ -1,0 +1,32 @@
+{
+  "id": "windshield-wiper",
+  "name": "Windshield Wiper",
+  "aliases": [
+    "Lying Windshield Wiper"
+  ],
+  "family": "russian-twist",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "expert",
+  "mechanic": "compound",
+  "force": "pull",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "hip flexors",
+    "lower back"
+  ],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Lie face up with the arms out to the sides for support, palms down.",
+    "Raise the legs so the hips are flexed to about 90 degrees.",
+    "Keeping the shoulders flat on the floor, rotate the hips to lower the legs to one side, pausing just above the floor.",
+    "Pull the legs back through center using the abdominals.",
+    "Continue the arc down to the opposite side and back, alternating sides."
+  ],
+  "images": [],
+  "video": null
+}

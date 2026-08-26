@@ -1,0 +1,33 @@
+{
+  "id": "lateral-step-down",
+  "name": "Lateral Step-Down",
+  "aliases": [
+    "Step-Down"
+  ],
+  "family": "step-up",
+  "variantGroup": "Step-Down",
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "abductors"
+  ],
+  "measurementType": "reps",
+  "laterality": "unilateral",
+  "instructions": [
+    "Stand on a low box or step with one foot near the edge, the other leg hovering off it.",
+    "Keep the standing knee tracking over the toes without caving inward.",
+    "Slowly bend the standing knee to lower the free leg's heel toward the floor.",
+    "Lightly tap the heel down without transferring weight onto it.",
+    "Drive back up through the standing leg to the start.",
+    "Complete all reps on one side before switching."
+  ],
+  "images": [],
+  "video": null
+}

@@ -1,6 +1,9 @@
 {
   "id": "floor-press",
   "name": "Floor Press",
+  "aliases": [
+    "Barbell Floor Press"
+  ],
   "family": "floor-press",
   "variantGroup": null,
   "modality": "powerlifting",

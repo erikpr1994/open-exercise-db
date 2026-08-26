@@ -1,0 +1,33 @@
+{
+  "id": "toes-to-bar",
+  "name": "Toes-to-Bar",
+  "aliases": [
+    "TTB"
+  ],
+  "family": "leg-raise",
+  "variantGroup": null,
+  "modality": "technique",
+  "level": "expert",
+  "mechanic": "compound",
+  "force": "pull",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "hip flexors",
+    "forearms",
+    "lats"
+  ],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Hang from a pull-up bar with a full grip, arms straight and shoulders active.",
+    "Brace the core and drive the hips into flexion, keeping the legs as straight as flexibility allows.",
+    "Continue raising the legs until the toes touch the bar between the hands.",
+    "Lower the legs back to a full hang under control.",
+    "Repeat for the prescribed reps."
+  ],
+  "images": [],
+  "video": null
+}

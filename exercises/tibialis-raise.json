@@ -1,0 +1,29 @@
+{
+  "id": "tibialis-raise",
+  "name": "Tibialis Raise",
+  "aliases": [
+    "Tib Raise"
+  ],
+  "family": "calf-raise",
+  "variantGroup": "Tibialis",
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "pull",
+  "equipment": "bands",
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [],
+  "measurementType": "reps",
+  "laterality": "unilateral",
+  "instructions": [
+    "Anchor a resistance band low to a fixed object and loop the free end around the top of one foot.",
+    "Stand or sit facing the anchor with the leg extended so the band has tension.",
+    "Keeping the knee still, pull the toes up toward the shin as far as possible.",
+    "Hold briefly at end range.",
+    "Lower under control back to the start and repeat, then switch feet."
+  ],
+  "images": [],
+  "video": null
+}

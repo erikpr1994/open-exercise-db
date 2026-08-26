@@ -1,0 +1,35 @@
+{
+  "id": "shuttle-run",
+  "name": "Shuttle Run",
+  "aliases": [
+    "Pro Agility Test"
+  ],
+  "family": "sprint-drill",
+  "variantGroup": "Change of Direction",
+  "modality": "cardio",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings",
+    "calves",
+    "abdominals"
+  ],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Straddle a middle line with two more lines or cones set an equal distance to each side.",
+    "Start in a low, ready stance at the middle line.",
+    "Sprint to one side and touch the line.",
+    "Change direction and sprint to the far line, touching it.",
+    "Change direction again and sprint back through the start line.",
+    "Record the total time."
+  ],
+  "images": [],
+  "video": null
+}

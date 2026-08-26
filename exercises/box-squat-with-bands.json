@@ -1,6 +1,9 @@
 {
   "id": "box-squat-with-bands",
   "name": "Box Squat with Bands",
+  "aliases": [
+    "Banded Box Squat"
+  ],
   "family": "squat",
   "variantGroup": "Box & Bench",
   "modality": "powerlifting",

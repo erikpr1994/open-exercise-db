@@ -1,6 +1,9 @@
 {
   "id": "wrist-roller",
   "name": "Wrist Roller",
+  "aliases": [
+    "Forearm Roller"
+  ],
   "family": "forearm-grip",
   "variantGroup": null,
   "modality": "strength",

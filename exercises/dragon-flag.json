@@ -1,0 +1,30 @@
+{
+  "id": "dragon-flag",
+  "name": "Dragon Flag",
+  "family": "hollow-stability-hold",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "expert",
+  "mechanic": "compound",
+  "force": "static",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "lower back",
+    "hip flexors",
+    "lats"
+  ],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Lie on a bench and grip a stable anchor behind the head.",
+    "Press the shoulders down and lift the entire body off the bench, supporting the weight only on the upper back and shoulders.",
+    "Keep the body in one straight, rigid line from shoulders to feet.",
+    "Lower the body slowly toward the bench without letting the hips sag or the lower back arch.",
+    "Stop just before the hips touch, then raise back to the top and repeat."
+  ],
+  "images": [],
+  "video": null
+}
