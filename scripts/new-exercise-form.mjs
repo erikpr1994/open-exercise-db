@@ -57,6 +57,13 @@ export const fields = [
       'Select "bilateral" when the movement loads both sides at the same time, "unilateral" when it loads one side at a time, or "none" if you are not sure.',
   },
   {
+    property: "directionality",
+    label: "Directionality",
+    type: "dropdown",
+    description:
+      'Select "bidirectional" when the movement is performed in matching blocks in both directions, for example circles forward and then backward, "unidirectional" when it runs in one direction, or "none" if you are not sure.',
+  },
+  {
     property: "mechanic",
     label: "Mechanic",
     type: "dropdown",

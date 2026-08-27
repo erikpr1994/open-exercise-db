@@ -1,0 +1,34 @@
+[
+  {
+    "id": "standing-hip-circles",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one hip at a time; the bilateral value was seeded wrongly from free-exercise-db."
+  },
+  {
+    "id": "ankle-circles",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one foot at a time; the bilateral value was seeded wrongly from free-exercise-db."
+  },
+  {
+    "id": "hip-circles-prone",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one hip at a time; the bilateral value was seeded wrongly from free-exercise-db."
+  },
+  {
+    "id": "spiderman-lunge",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The movement alternates sides within the set; the catalogue counts alternating movements as unilateral."
+  }
+]
