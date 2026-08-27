@@ -54,7 +54,7 @@ export const fields = [
     label: "Laterality",
     type: "dropdown",
     description:
-      'Select "bilateral" when the movement loads both sides at the same time, "unilateral" when it loads one side at a time, or "none" if you are not sure.',
+      'Select "bilateral" when the movement loads both sides at the same time, "unilateral" when it loads one side at a time or alternates sides within a set. A continuous locomotion or conditioning drill whose sides cycle within one effort (skips, sprints, climbers) is bilateral. Select "none" if you are not sure.',
   },
   {
     property: "directionality",

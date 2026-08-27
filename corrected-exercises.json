@@ -30,5 +30,949 @@
     "to": "unilateral",
     "date": "2026-08-27",
     "reason": "The movement alternates sides within the set; the catalogue counts alternating movements as unilateral."
+  },
+  {
+    "id": "90-90-hamstring",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "adductor",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "all-fours-quad-stretch",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "ankle-on-the-knee",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "anterior-tibialis-smr",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "brachialis-smr",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "calf-stretch-hands-against-wall",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "calves-smr",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "chair-leg-extended-stretch",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "chair-lower-back-stretch",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "chest-smr",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "chest-stretch-on-stability-ball",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "dancer-s-stretch",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "foot-smr",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "hamstring-smr",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "hamstring-stretch",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "iliotibial-tract-smr",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "intermediate-groin-stretch",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "intermediate-hip-flexor-and-quad-stretch",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "it-band-and-glute-stretch",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "knee-across-the-body",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "kneeling-hip-flexor",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "latissimus-dorsi-smr",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "leg-up-hamstring-stretch",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "lower-back-smr",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "lying-crossover",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "lying-hamstring",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "lying-prone-quadriceps",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "middle-back-stretch",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "on-your-back-quad-stretch",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "on-your-side-quad-stretch",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "one-half-locust",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "one-knee-to-chest",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "overhead-lat",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "overhead-triceps",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "peroneals-smr",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "peroneals-stretch",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "piriformis-smr",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "posterior-tibialis-stretch",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "quad-stretch",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "quadriceps-smr",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "runner-s-stretch",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "seated-calf-stretch",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "seated-floor-hamstring-stretch",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "seated-hamstring-and-calf-stretch",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "seated-overhead-stretch",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "side-lying-floor-stretch",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "side-lying-groin-stretch",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "side-wrist-pull",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "spinal-stretch",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "standing-elevated-quad-stretch",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "standing-hamstring-and-calf-stretch",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "standing-hip-flexors",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "standing-lateral-stretch",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "standing-soleus-and-achilles-stretch",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "tensor-fasciae-latae-smr",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "tricep-side-stretch",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "triceps-stretch",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "world-s-greatest-stretch",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "band-hip-adductions",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "barbell-lunge",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "barbell-step-ups",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "bent-over-low-pulley-side-lateral",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "cable-hip-adduction",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "cable-judo-flip",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "cable-russian-twists",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "curtsy-lunge",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "double-kettlebell-windmill",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "dumbbell-lunges",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "dumbbell-lying-pronation",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "dumbbell-lying-rear-lateral-raise",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "dumbbell-lying-supination",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "dumbbell-step-ups",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "external-rotation",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "front-cable-raise",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "front-leg-raises",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "kettlebell-turkish-get-up-lunge-style",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "kettlebell-turkish-get-up-squat-style",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "kettlebell-windmill",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "lateral-lunge",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "lateral-shuffle",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "leg-lift",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "pallof-press",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "pallof-press-with-rotation",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "platform-hamstring-slides",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "prone-manual-hamstring",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "rear-leg-raises",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "side-leg-raises",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "sledgehammer-swings",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "standing-cable-lift",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "standing-cable-wood-chop",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "standing-low-pulley-deltoid-raise",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "weighted-ball-side-bend",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions work one side at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "barbell-walking-lunge",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The movement alternates sides within the set; the catalogue counts alternating movements as unilateral."
+  },
+  {
+    "id": "bird-dog",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The movement alternates sides within the set; the catalogue counts alternating movements as unilateral."
+  },
+  {
+    "id": "bodyweight-walking-lunge",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The movement alternates sides within the set; the catalogue counts alternating movements as unilateral."
+  },
+  {
+    "id": "cross-body-crunch",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The movement alternates sides within the set; the catalogue counts alternating movements as unilateral."
+  },
+  {
+    "id": "cross-body-hammer-curl",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The movement alternates sides within the set; the catalogue counts alternating movements as unilateral."
+  },
+  {
+    "id": "crossover-reverse-lunge",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The movement alternates sides within the set; the catalogue counts alternating movements as unilateral."
+  },
+  {
+    "id": "dead-bug",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The movement alternates sides within the set; the catalogue counts alternating movements as unilateral."
+  },
+  {
+    "id": "dumbbell-rear-lunge",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The movement alternates sides within the set; the catalogue counts alternating movements as unilateral."
+  },
+  {
+    "id": "elevated-back-lunge",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The movement alternates sides within the set; the catalogue counts alternating movements as unilateral."
+  },
+  {
+    "id": "front-dumbbell-raise",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The movement alternates sides within the set; the catalogue counts alternating movements as unilateral."
+  },
+  {
+    "id": "glute-kickback",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The movement alternates sides within the set; the catalogue counts alternating movements as unilateral."
+  },
+  {
+    "id": "iron-crosses-stretch",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The movement alternates sides within the set; the catalogue counts alternating movements as unilateral."
+  },
+  {
+    "id": "lunge-pass-through",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The movement alternates sides within the set; the catalogue counts alternating movements as unilateral."
+  },
+  {
+    "id": "oblique-crunches",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The movement alternates sides within the set; the catalogue counts alternating movements as unilateral."
+  },
+  {
+    "id": "plank-shoulder-tap",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The movement alternates sides within the set; the catalogue counts alternating movements as unilateral."
+  },
+  {
+    "id": "push-up-to-side-plank",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The movement alternates sides within the set; the catalogue counts alternating movements as unilateral."
+  },
+  {
+    "id": "scissors-jump",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The movement alternates sides within the set; the catalogue counts alternating movements as unilateral."
+  },
+  {
+    "id": "side-to-side-chins",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The movement alternates sides within the set; the catalogue counts alternating movements as unilateral."
+  },
+  {
+    "id": "spider-crawl",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The movement alternates sides within the set; the catalogue counts alternating movements as unilateral."
+  },
+  {
+    "id": "step-up-with-knee-raise",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The movement alternates sides within the set; the catalogue counts alternating movements as unilateral."
+  },
+  {
+    "id": "walking-knee-hug",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The movement alternates sides within the set; the catalogue counts alternating movements as unilateral."
+  },
+  {
+    "id": "walking-quad-pull",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The movement alternates sides within the set; the catalogue counts alternating movements as unilateral."
+  },
+  {
+    "id": "windmills",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-08-27",
+    "reason": "The movement alternates sides within the set; the catalogue counts alternating movements as unilateral."
+  },
+  {
+    "id": "chest-push-single-response",
+    "field": "laterality",
+    "from": "unilateral",
+    "to": "bilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions use both hands together; the unilateral value contradicts them."
+  },
+  {
+    "id": "single-dumbbell-raise",
+    "field": "laterality",
+    "from": "unilateral",
+    "to": "bilateral",
+    "date": "2026-08-27",
+    "reason": "The instructions use both hands together; the unilateral value contradicts them."
   }
 ]
