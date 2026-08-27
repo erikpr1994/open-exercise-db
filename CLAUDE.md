@@ -27,9 +27,12 @@ These rules protect consumers of the released data. Never weaken them.
 - A released exercise id exists forever. To remove an exercise, add a
   tombstone entry (id, date, reason) to `removed-exercises.json` and delete
   the file in the same change.
-- A set `measurementType` and a set `laterality` never change. A version of
-  a movement that is measured differently is a separate exercise in the
-  same family.
+- A set `measurementType` never changes. A version of a movement that is
+  measured differently is a separate exercise in the same family.
+- A set `laterality` or `directionality` changes only to correct data that
+  contradicts the instructions, through an entry (id, field, from, to,
+  date, reason) in `corrected-exercises.json` in the same change.
+  `check-release-compat.mjs` rejects any other change.
 - Field values marked `x-vocab` must exist in the matching `vocab/` file.
   To use a new value, add it to the vocabulary in the same pull request.
 - Families are broad movement groups. All squat variants belong to the one

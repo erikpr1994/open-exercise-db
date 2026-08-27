@@ -81,10 +81,17 @@
       ]
     },
     "laterality": {
-      "description": "Whether the movement loads both sides at once (bilateral) or one side at a time (unilateral). Once set, curation policy treats it as immutable.",
+      "description": "Whether the movement loads both sides at once (bilateral) or one side at a time (unilateral). A movement that alternates sides within a set is unilateral; a continuous locomotion or conditioning drill whose sides cycle within one effort (skips, sprints, climbers) is bilateral. Once set, it changes only through a correction entry in corrected-exercises.json.",
       "anyOf": [
         { "type": "null" },
         { "type": "string", "x-vocab": "lateralities" }
+      ]
+    },
+    "directionality": {
+      "description": "Whether the movement runs in one direction (unidirectional) or is performed in matching blocks in both directions, for example circles forward and then backward (bidirectional). Once set, it changes only through a correction entry in corrected-exercises.json.",
+      "anyOf": [
+        { "type": "null" },
+        { "type": "string", "x-vocab": "directionalities" }
       ]
     },
     "instructions": {
