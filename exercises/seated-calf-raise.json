@@ -1,6 +1,9 @@
 {
   "id": "seated-calf-raise",
   "name": "Seated Calf Raise",
+  "aliases": [
+    "seated calf raise machine"
+  ],
   "family": "calf-raise",
   "variantGroup": null,
   "modality": "strength",

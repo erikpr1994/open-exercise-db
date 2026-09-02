@@ -1,6 +1,9 @@
 {
   "id": "dumbbell-clean",
   "name": "Dumbbell Clean",
+  "aliases": [
+    "dumbbell power clean"
+  ],
   "family": "clean",
   "variantGroup": null,
   "modality": "strength",

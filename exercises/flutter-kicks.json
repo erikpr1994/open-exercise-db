@@ -1,6 +1,9 @@
 {
   "id": "flutter-kicks",
   "name": "Flutter Kicks",
+  "aliases": [
+    "leg flutters"
+  ],
   "family": "leg-raise",
   "variantGroup": null,
   "modality": "strength",

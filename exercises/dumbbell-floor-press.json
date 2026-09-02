@@ -1,6 +1,9 @@
 {
   "id": "dumbbell-floor-press",
   "name": "Dumbbell Floor Press",
+  "aliases": [
+    "DB floor press"
+  ],
   "family": "floor-press",
   "variantGroup": null,
   "modality": "powerlifting",

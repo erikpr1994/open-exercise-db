@@ -1,6 +1,9 @@
 {
   "id": "band-good-morning",
   "name": "Band Good Morning",
+  "aliases": [
+    "banded good morning"
+  ],
   "family": "good-morning",
   "variantGroup": null,
   "modality": "powerlifting",

@@ -1,6 +1,9 @@
 {
   "id": "rope-climb",
   "name": "Rope Climb",
+  "aliases": [
+    "rope climbing"
+  ],
   "family": "rope-climb",
   "variantGroup": null,
   "modality": "strength",
