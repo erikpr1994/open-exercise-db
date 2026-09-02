@@ -1,0 +1,36 @@
+{
+  "id": "single-leg-balance-hold",
+  "name": "Single-Leg Balance Hold",
+  "aliases": [
+    "Stork Stand",
+    "One-Leg Stand"
+  ],
+  "family": null,
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "static",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "calves",
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "quadriceps",
+    "hamstrings"
+  ],
+  "measurementType": "time",
+  "laterality": "unilateral",
+  "instructions": [
+    "Stand barefoot on a firm floor with the feet hip-width apart and the arms relaxed at the sides.",
+    "Shift the weight onto one foot and lift the other foot until that thigh is about hip height.",
+    "Keep the knee of the standing leg soft, not locked, and hold the hips level.",
+    "Let the ankle and the foot make small corrections. Look at one fixed point ahead.",
+    "Hold for the target time, then put the foot down and repeat on the other side.",
+    "To make it harder, close the eyes or stand on a folded towel."
+  ],
+  "images": [],
+  "video": null
+}
