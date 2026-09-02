@@ -1,0 +1,33 @@
+{
+  "id": "incline-y-raise",
+  "name": "Incline Y-Raise",
+  "aliases": [
+    "prone y-raise",
+    "y raise"
+  ],
+  "family": "lateral-raise",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "push",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "traps"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Set an adjustable bench to a 30 to 45 degree incline. Lie face down on the bench with a light dumbbell in each hand, arms hanging straight down toward the floor.",
+    "Let your shoulder blades relax and round slightly forward. This is your starting position.",
+    "With a slight bend in the elbows and thumbs pointing up, raise both arms up and out in front of you at roughly a 30 degree angle from your head, tracing the shape of a letter Y.",
+    "Continue until your arms are in line with your ears, leading the movement by squeezing your shoulder blades down and together.",
+    "Pause briefly at the top, then slowly lower the dumbbells back to the starting position.",
+    "Repeat for the recommended number of repetitions."
+  ],
+  "images": [],
+  "video": null
+}

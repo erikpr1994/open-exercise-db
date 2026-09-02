@@ -1,0 +1,35 @@
+{
+  "id": "dumbbell-goblet-squat",
+  "name": "Dumbbell Goblet Squat",
+  "aliases": [
+    "front-loaded dumbbell squat"
+  ],
+  "family": "squat",
+  "variantGroup": "Front & Goblet",
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings",
+    "shoulders"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Hold a single dumbbell vertically against your chest, cupping the top head with both hands.",
+    "Stand with your feet slightly wider than shoulder width, toes turned slightly out.",
+    "Keeping your chest up and elbows pointed down between your knees, squat down by bending your hips and knees.",
+    "Descend until your elbows lightly contact the inside of your knees or your thighs drop below parallel.",
+    "Drive through your feet to return to standing, keeping the dumbbell close to your body throughout.",
+    "Repeat for the recommended number of repetitions."
+  ],
+  "images": [],
+  "video": null
+}

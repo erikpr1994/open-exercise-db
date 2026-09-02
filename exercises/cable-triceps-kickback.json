@@ -1,0 +1,30 @@
+{
+  "id": "cable-triceps-kickback",
+  "name": "Cable Triceps Kickback",
+  "aliases": [
+    "cable kickback",
+    "standing cable triceps kickback"
+  ],
+  "family": "triceps-extension",
+  "variantGroup": "Kickback",
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "push",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [],
+  "measurementType": "weight_reps",
+  "laterality": "unilateral",
+  "instructions": [
+    "Attach a single handle to a low pulley. Stand facing the machine and take the handle in one hand with a pronated grip.",
+    "Bend forward slightly at the hips and raise your upper arm until it is parallel to the floor, tucked close to your torso, with your forearm bent toward the pulley. This is your starting position.",
+    "Keeping your upper arm stationary, exhale and extend your elbow until your arm is fully straight behind you.",
+    "Squeeze the triceps at full extension, then inhale and slowly bend the elbow back to the starting position.",
+    "Repeat for the recommended number of repetitions, then switch arms."
+  ],
+  "images": [],
+  "video": null
+}

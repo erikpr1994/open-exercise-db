@@ -1,0 +1,34 @@
+{
+  "id": "weighted-chin-up",
+  "name": "Weighted Chin-Up",
+  "aliases": [
+    "weighted chin ups",
+    "weighted chins"
+  ],
+  "family": "pull-up",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "pull",
+  "equipment": "weight plate",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "forearms",
+    "middle back"
+  ],
+  "measurementType": "weighted_bodyweight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Attach a weight to a dip belt and secure it around your waist.",
+    "Grab the pull-up bar with the palms facing your torso and a grip closer than shoulder width. Hang with both arms fully extended. This is your starting position.",
+    "Exhale and pull your torso up, keeping your elbows close to your body, until your chin clears the bar.",
+    "After a brief pause in the contracted position, inhale and slowly lower yourself back to the starting position with your arms fully extended.",
+    "Repeat for the recommended number of repetitions."
+  ],
+  "images": [],
+  "video": null
+}

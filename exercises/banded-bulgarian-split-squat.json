@@ -1,0 +1,36 @@
+{
+  "id": "banded-bulgarian-split-squat",
+  "name": "Banded Bulgarian Split Squat",
+  "aliases": [
+    "band bulgarian split squat",
+    "banded rear foot elevated split squat",
+    "resistance band split squat"
+  ],
+  "family": "squat",
+  "variantGroup": "Split & Single-Leg",
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "bands",
+  "primaryMuscles": [
+    "quadriceps",
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "calves",
+    "hamstrings"
+  ],
+  "measurementType": "reps",
+  "laterality": "unilateral",
+  "instructions": [
+    "Stand a couple of feet in front of a bench. Reach one foot back and rest the top of it on the bench, with the front foot planted flat.",
+    "Place the middle of a long resistance band under the front foot and hold one end of the band in each hand at shoulder height. This is the starting position.",
+    "Keeping your chest up and your torso upright, bend the front knee and lower your hips until the front thigh is roughly parallel to the floor.",
+    "Drive through the heel of the front foot to return to the starting position, against the pull of the band.",
+    "Complete the repetitions on that leg, then swap the legs over and repeat."
+  ],
+  "images": [],
+  "video": null
+}

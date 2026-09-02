@@ -1,0 +1,33 @@
+{
+  "id": "heels-elevated-squat",
+  "name": "Heels-Elevated Squat",
+  "aliases": [
+    "heel-elevated squat",
+    "elevated heel squat"
+  ],
+  "family": "squat",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes"
+  ],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Place a wedge, a pair of weight plates, or a slant board under your heels, with your toes on the floor a comfortable stance width apart.",
+    "Stand tall with your chest up and your hands together in front of you for balance.",
+    "Keeping your torso upright, bend your knees and lower your hips, letting your knees travel forward over your toes.",
+    "Descend until your thighs are at least parallel to the floor while keeping your heels pressed into the elevation.",
+    "Drive through your whole foot to extend your knees and hips back to standing.",
+    "Repeat for the recommended number of repetitions."
+  ],
+  "images": [],
+  "video": null
+}
