@@ -1,6 +1,9 @@
 {
   "id": "dragon-flag",
   "name": "Dragon Flag",
+  "aliases": [
+    "dragon flags"
+  ],
   "family": "hollow-stability-hold",
   "variantGroup": null,
   "modality": "strength",

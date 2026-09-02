@@ -1,6 +1,9 @@
 {
   "id": "barbell-ab-rollout-on-knees",
   "name": "Barbell Ab Rollout - On Knees",
+  "aliases": [
+    "ab rollout"
+  ],
   "family": "crunch",
   "variantGroup": null,
   "modality": "strength",

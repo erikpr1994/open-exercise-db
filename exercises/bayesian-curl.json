@@ -1,0 +1,33 @@
+{
+  "id": "bayesian-curl",
+  "name": "Bayesian Curl",
+  "aliases": [
+    "behind-the-body cable curl",
+    "cable curl behind the back"
+  ],
+  "family": "curl",
+  "variantGroup": "Cable",
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "force": "pull",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "unilateral",
+  "instructions": [
+    "Set a low pulley with a single handle. Stand with your back to the machine and step forward until your arm can hang straight down and slightly behind your hip with the cable taut.",
+    "Let your arm hang fully extended behind you, palm facing forward. This is your starting position. Keep your torso upright and your upper arm still for the rest of the set.",
+    "Exhale and curl the handle up and forward toward your shoulder, keeping your elbow pinned behind your torso throughout the motion.",
+    "Squeeze the biceps hard at the top of the movement.",
+    "Inhale and slowly lower the handle back to the fully stretched starting position.",
+    "Repeat for the recommended number of repetitions, then switch arms."
+  ],
+  "images": [],
+  "video": null
+}

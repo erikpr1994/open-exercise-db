@@ -1,0 +1,37 @@
+{
+  "id": "kettlebell-rear-lunge",
+  "name": "Kettlebell Rear Lunge",
+  "aliases": [
+    "kettlebell reverse lunge",
+    "kettlebell backward lunge",
+    "reverse lunge with kettlebells"
+  ],
+  "family": "lunge",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "quadriceps",
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "calves",
+    "forearms",
+    "hamstrings"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "unilateral",
+  "instructions": [
+    "Stand upright with your feet hip width apart, holding a kettlebell in each hand at your sides, or one kettlebell held at your chest. This is the starting position.",
+    "Step backward with one leg, about two feet behind the other foot, and lower your hips until the rear knee approaches the floor.",
+    "Keep your torso upright and your front shin close to vertical. Do not let the front knee travel past the toes.",
+    "Drive through the heel of the front foot to return to the starting position, and let the kettlebells hang without swinging.",
+    "Complete the repetitions on that leg, then step back with the other leg and repeat."
+  ],
+  "images": [],
+  "video": null
+}

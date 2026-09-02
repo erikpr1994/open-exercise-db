@@ -1,0 +1,37 @@
+{
+  "id": "american-kettlebell-swing",
+  "name": "American Kettlebell Swing",
+  "aliases": [
+    "overhead kettlebell swing"
+  ],
+  "family": "kettlebell-swing",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "pull",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "glutes",
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "forearms",
+    "lower back",
+    "quadriceps",
+    "shoulders"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Stand with your feet slightly wider than shoulder-width apart, with a kettlebell on the floor a short distance in front of you.",
+    "Hinge at your hips with a flat back and slightly bent knees, grip the handle with both hands, and hike the kettlebell back between your legs.",
+    "Snap your hips forward explosively, squeezing your glutes to drive the kettlebell upward.",
+    "Let the momentum carry the kettlebell all the way overhead until your arms are fully extended and your biceps are near your ears.",
+    "Allow the kettlebell to fall back down under control, hinging at the hips as it passes between your legs while keeping your back flat.",
+    "Immediately drive your hips forward into the next repetition, and continue for the desired number of reps."
+  ],
+  "images": [],
+  "video": null
+}

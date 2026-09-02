@@ -1,6 +1,9 @@
 {
   "id": "decline-crunch",
   "name": "Decline Crunch",
+  "aliases": [
+    "decline bench crunch"
+  ],
   "family": "crunch",
   "variantGroup": "Ball/Decline",
   "modality": "strength",

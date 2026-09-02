@@ -1,6 +1,9 @@
 {
   "id": "kettlebell-thruster",
   "name": "Kettlebell Thruster",
+  "aliases": [
+    "double kettlebell thruster"
+  ],
   "family": "overhead-press",
   "variantGroup": "Kettlebell",
   "modality": "strength",

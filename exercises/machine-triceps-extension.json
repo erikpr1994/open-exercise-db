@@ -1,6 +1,9 @@
 {
   "id": "machine-triceps-extension",
   "name": "Machine Triceps Extension",
+  "aliases": [
+    "triceps extension machine"
+  ],
   "family": "triceps-extension",
   "variantGroup": "Pushdown/Cable",
   "modality": "strength",

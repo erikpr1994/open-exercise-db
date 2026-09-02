@@ -1,0 +1,34 @@
+{
+  "id": "bodyweight-single-leg-deadlift",
+  "name": "Bodyweight Single-Leg Deadlift",
+  "aliases": [
+    "airplane deadlift",
+    "single-leg deadlift touch"
+  ],
+  "family": "romanian-stiff-leg-deadlift",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "pull",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "lower back"
+  ],
+  "measurementType": "reps",
+  "laterality": "unilateral",
+  "instructions": [
+    "Stand tall on one leg with a slight bend in the knee, arms relaxed at your sides.",
+    "Hinge forward at the hips while extending the non-working leg straight back for counterbalance.",
+    "Keep your back flat and hips square as your torso lowers toward parallel with the floor.",
+    "Reach your hands toward the floor, or lightly touch it, while keeping the standing knee soft.",
+    "Reverse the motion by driving your hips forward to return to standing.",
+    "Complete all repetitions on one leg before switching sides."
+  ],
+  "images": [],
+  "video": null
+}

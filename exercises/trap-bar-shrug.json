@@ -1,0 +1,29 @@
+{
+  "id": "trap-bar-shrug",
+  "name": "Trap Bar Shrug",
+  "aliases": [
+    "hex bar shrug"
+  ],
+  "family": "shrug",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "pull",
+  "equipment": "trap bar",
+  "primaryMuscles": [
+    "traps"
+  ],
+  "secondaryMuscles": [],
+  "measurementType": "weight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Load a trap bar and step inside it. Stand up straight holding the handles at your sides with a neutral grip, feet shoulder-width apart. This is your starting position.",
+    "Keeping your arms straight, raise your shoulders straight up toward your ears as high as you can, exhaling as you lift.",
+    "Hold the contraction for a second at the top, avoiding rolling your shoulders.",
+    "Slowly lower back to the starting position as you inhale.",
+    "Repeat for the recommended number of repetitions."
+  ],
+  "images": [],
+  "video": null
+}

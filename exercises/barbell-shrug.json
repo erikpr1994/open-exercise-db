@@ -1,6 +1,9 @@
 {
   "id": "barbell-shrug",
   "name": "Barbell Shrug",
+  "aliases": [
+    "shrugs"
+  ],
   "family": "shrug",
   "variantGroup": null,
   "modality": "strength",

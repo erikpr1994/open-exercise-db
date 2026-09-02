@@ -1,6 +1,9 @@
 {
   "id": "calf-press",
   "name": "Calf Press",
+  "aliases": [
+    "leg press calf raise"
+  ],
   "family": "calf-raise",
   "variantGroup": null,
   "modality": "strength",

@@ -1,0 +1,33 @@
+{
+  "id": "frog-pump",
+  "name": "Frog Pump",
+  "aliases": [
+    "butterfly hip thrust",
+    "frog bridge"
+  ],
+  "family": "glute-bridge",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "push",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "adductors"
+  ],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Lie on your back with your knees bent and the soles of your feet pressed together, letting your knees fall open toward the floor.",
+    "Walk your heels in close to your glutes so your feet stay in contact with each other throughout the set.",
+    "Keeping your feet together and knees open, drive through the outer edges of your feet and squeeze your glutes to lift your hips off the floor.",
+    "Pause briefly at the top with your hips fully extended and glutes fully contracted.",
+    "Lower your hips back down under control without letting your feet separate.",
+    "Repeat for the recommended number of repetitions, keeping the tempo quick and controlled."
+  ],
+  "images": [],
+  "video": null
+}

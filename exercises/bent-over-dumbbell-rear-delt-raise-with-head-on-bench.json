@@ -1,6 +1,9 @@
 {
   "id": "bent-over-dumbbell-rear-delt-raise-with-head-on-bench",
   "name": "Bent Over Dumbbell Rear Delt Raise With Head On Bench",
+  "aliases": [
+    "chest-supported rear delt raise"
+  ],
   "family": "reverse-fly",
   "variantGroup": null,
   "modality": "strength",
