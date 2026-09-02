@@ -1,0 +1,38 @@
+{
+  "id": "assault-bike",
+  "name": "Assault Bike",
+  "aliases": [
+    "Echo Bike",
+    "Fan Bike"
+  ],
+  "family": "cardio",
+  "variantGroup": null,
+  "modality": "cardio",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": null,
+  "equipment": "air bike",
+  "primaryMuscles": [
+    "quadriceps",
+    "hamstrings",
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "chest",
+    "triceps",
+    "abdominals"
+  ],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Set the seat so your knee has a slight bend at the bottom of the pedal stroke.",
+    "Grip both handles and place your feet on the pedals.",
+    "Drive the pedals with your legs while simultaneously pushing and pulling the handles with your arms.",
+    "Keep a steady, controlled pace to start, since the fan resistance increases the harder you push.",
+    "For intervals, alternate short all-out efforts with an easier recovery pace.",
+    "Keep your core braced and torso upright throughout to avoid excess bouncing."
+  ],
+  "images": [],
+  "video": null
+}

@@ -1,0 +1,37 @@
+{
+  "id": "ski-erg",
+  "name": "Ski Erg",
+  "aliases": [
+    "SkiErg",
+    "Ski Ergometer"
+  ],
+  "family": "cardio",
+  "variantGroup": null,
+  "modality": "cardio",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "pull",
+  "equipment": "ski erg",
+  "primaryMuscles": [
+    "lats",
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "triceps",
+    "traps",
+    "quadriceps"
+  ],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Stand facing the machine with feet shoulder-width apart and grip a handle in each hand.",
+    "Reach up so your arms are extended overhead, with a slight hip hinge and soft knees.",
+    "Pull both handles down forcefully using your lats and core, bending your knees slightly as you drive down.",
+    "Finish the pull with your hands near your hips and your torso bent forward.",
+    "Let the handles return upward under control as you reset your stance.",
+    "Repeat the pull-and-reset cycle for the target time or distance."
+  ],
+  "images": [],
+  "video": null
+}

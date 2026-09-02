@@ -1,0 +1,39 @@
+{
+  "id": "sandbag-clean-to-shoulder",
+  "name": "Sandbag Clean to Shoulder",
+  "aliases": [
+    "Sandbag Shouldering",
+    "Sandbag Power Clean"
+  ],
+  "family": "clean",
+  "variantGroup": "Sandbag",
+  "modality": "strongman",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "pull",
+  "equipment": "sandbag",
+  "primaryMuscles": [
+    "hamstrings",
+    "glutes",
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "traps",
+    "forearms",
+    "abdominals",
+    "lower back"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "unilateral",
+  "instructions": [
+    "Stand over the sandbag with feet shoulder-width apart, hips hinged back and chest over the bag.",
+    "Grip the sides or handles of the bag with a flat back and a braced core.",
+    "Drive explosively through your hips and legs to pull the bag upward, keeping it close to your body.",
+    "As the bag rises past your hips, pull it in and rotate it onto one shoulder, catching it with your elbow high.",
+    "Stand fully upright with the bag racked on the shoulder.",
+    "Lower the bag back to the floor under control and repeat, alternating shoulders each rep."
+  ],
+  "images": [],
+  "video": null
+}

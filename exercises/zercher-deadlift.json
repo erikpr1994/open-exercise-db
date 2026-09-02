@@ -1,0 +1,37 @@
+{
+  "id": "zercher-deadlift",
+  "name": "Zercher Deadlift",
+  "aliases": [
+    "Barbell Zercher Deadlift"
+  ],
+  "family": "deadlift",
+  "variantGroup": "Zercher",
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "pull",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "hamstrings",
+    "glutes",
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "lower back",
+    "biceps",
+    "abdominals",
+    "traps"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Set a loaded barbell on the floor and stand over it with feet wider than hip-width.",
+    "Squat down and cradle the bar in the crooks of your elbows, hands clasped in front of your chest.",
+    "Brace your core, keep your chest up, and drive through your feet to stand up.",
+    "Extend your hips and knees fully at the top, standing tall with the bar held at your elbows.",
+    "Reverse the motion under control, squatting back down to set the bar on the floor.",
+    "Reset your grip in the elbow crooks before each rep."
+  ],
+  "images": [],
+  "video": null
+}
