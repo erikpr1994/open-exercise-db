@@ -7,7 +7,7 @@
   "level": "beginner",
   "mechanic": "isolation",
   "force": "static",
-  "equipment": "body only",
+  "equipment": "other",
   "primaryMuscles": [
     "shoulders"
   ],
