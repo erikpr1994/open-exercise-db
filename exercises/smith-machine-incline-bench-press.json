@@ -1,6 +1,9 @@
 {
   "id": "smith-machine-incline-bench-press",
   "name": "Smith Machine Incline Bench Press",
+  "aliases": [
+    "Smith Machine Incline Press"
+  ],
   "family": "bench-press",
   "variantGroup": "Incline",
   "modality": "strength",

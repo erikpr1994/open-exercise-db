@@ -1,6 +1,9 @@
 {
   "id": "dumbbell-bench-press-with-neutral-grip",
   "name": "Dumbbell Bench Press with Neutral Grip",
+  "aliases": [
+    "Neutral-Grip Dumbbell Bench Press"
+  ],
   "family": "bench-press",
   "variantGroup": "Dumbbell",
   "modality": "strength",

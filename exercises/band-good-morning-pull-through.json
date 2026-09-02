@@ -1,6 +1,9 @@
 {
   "id": "band-good-morning-pull-through",
   "name": "Band Good Morning (Pull Through)",
+  "aliases": [
+    "Banded Good Morning Pull-Through"
+  ],
   "family": "good-morning",
   "variantGroup": null,
   "modality": "powerlifting",

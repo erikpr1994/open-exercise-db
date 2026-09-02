@@ -1,6 +1,9 @@
 {
   "id": "speed-box-squat",
   "name": "Speed Box Squat",
+  "aliases": [
+    "Dynamic Effort Box Squat"
+  ],
   "family": "squat",
   "variantGroup": "Box & Bench",
   "modality": "powerlifting",

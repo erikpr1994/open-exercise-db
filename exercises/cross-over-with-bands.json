@@ -1,6 +1,10 @@
 {
   "id": "cross-over-with-bands",
   "name": "Cross Over - With Bands",
+  "aliases": [
+    "Banded Crossover",
+    "Banded Cable Crossover"
+  ],
   "family": "fly",
   "variantGroup": null,
   "modality": "strength",

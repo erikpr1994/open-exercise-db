@@ -1,6 +1,9 @@
 {
   "id": "back-flyes-with-bands",
   "name": "Back Flyes - With Bands",
+  "aliases": [
+    "Banded Rear Delt Flyes"
+  ],
   "family": "reverse-fly",
   "variantGroup": null,
   "modality": "strength",

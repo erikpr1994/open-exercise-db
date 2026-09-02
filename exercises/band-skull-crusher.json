@@ -1,6 +1,9 @@
 {
   "id": "band-skull-crusher",
   "name": "Band Skull Crusher",
+  "aliases": [
+    "Banded Skull Crusher"
+  ],
   "family": "triceps-extension",
   "variantGroup": "Skullcrusher/Lying",
   "modality": "strength",

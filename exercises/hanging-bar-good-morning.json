@@ -1,6 +1,9 @@
 {
   "id": "hanging-bar-good-morning",
   "name": "Hanging Bar Good Morning",
+  "aliases": [
+    "Hanging Good Morning"
+  ],
   "family": "good-morning",
   "variantGroup": null,
   "modality": "powerlifting",

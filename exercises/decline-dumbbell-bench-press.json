@@ -1,6 +1,9 @@
 {
   "id": "decline-dumbbell-bench-press",
   "name": "Decline Dumbbell Bench Press",
+  "aliases": [
+    "Decline DB Bench Press"
+  ],
   "family": "bench-press",
   "variantGroup": "Decline",
   "modality": "strength",

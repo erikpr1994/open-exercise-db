@@ -1,6 +1,9 @@
 {
   "id": "close-grip-standing-barbell-curl",
   "name": "Close-Grip Standing Barbell Curl",
+  "aliases": [
+    "Close-Grip Barbell Curl"
+  ],
   "family": "curl",
   "variantGroup": "Barbell",
   "modality": "strength",

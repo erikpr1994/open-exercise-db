@@ -1,6 +1,9 @@
 {
   "id": "bench-press-with-chains",
   "name": "Bench Press with Chains",
+  "aliases": [
+    "Chain Bench Press"
+  ],
   "family": "bench-press",
   "variantGroup": "Barbell Flat",
   "modality": "powerlifting",

@@ -1,6 +1,10 @@
 {
   "id": "dumbbell-alternate-bicep-curl",
   "name": "Dumbbell Alternate Bicep Curl",
+  "aliases": [
+    "Alternating Dumbbell Curl",
+    "Alternating Bicep Curl"
+  ],
   "family": "curl",
   "variantGroup": "Dumbbell",
   "modality": "strength",

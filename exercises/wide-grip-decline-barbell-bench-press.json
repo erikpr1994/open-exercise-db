@@ -1,6 +1,9 @@
 {
   "id": "wide-grip-decline-barbell-bench-press",
   "name": "Wide-Grip Decline Barbell Bench Press",
+  "aliases": [
+    "Wide-Grip Decline Bench Press"
+  ],
   "family": "bench-press",
   "variantGroup": "Decline",
   "modality": "strength",

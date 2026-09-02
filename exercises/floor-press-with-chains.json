@@ -1,6 +1,9 @@
 {
   "id": "floor-press-with-chains",
   "name": "Floor Press with Chains",
+  "aliases": [
+    "Chain Floor Press"
+  ],
   "family": "floor-press",
   "variantGroup": null,
   "modality": "powerlifting",

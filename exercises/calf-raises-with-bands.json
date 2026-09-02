@@ -1,6 +1,9 @@
 {
   "id": "calf-raises-with-bands",
   "name": "Calf Raises - With Bands",
+  "aliases": [
+    "Banded Calf Raise"
+  ],
   "family": "calf-raise",
   "variantGroup": null,
   "modality": "strength",

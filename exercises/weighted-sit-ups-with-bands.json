@@ -1,6 +1,9 @@
 {
   "id": "weighted-sit-ups-with-bands",
   "name": "Weighted Sit-Ups - With Bands",
+  "aliases": [
+    "Banded Weighted Sit-Up"
+  ],
   "family": "sit-up",
   "variantGroup": null,
   "modality": "strength",
