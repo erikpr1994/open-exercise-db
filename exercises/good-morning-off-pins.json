@@ -1,6 +1,9 @@
 {
   "id": "good-morning-off-pins",
   "name": "Good Morning off Pins",
+  "aliases": [
+    "Pin Good Morning"
+  ],
   "family": "good-morning",
   "variantGroup": null,
   "modality": "powerlifting",

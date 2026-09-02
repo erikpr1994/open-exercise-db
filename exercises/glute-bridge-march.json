@@ -1,0 +1,34 @@
+{
+  "id": "glute-bridge-march",
+  "name": "Glute Bridge March",
+  "aliases": [
+    "Marching Glute Bridge",
+    "Alternating Glute Bridge March"
+  ],
+  "family": "glute-bridge",
+  "variantGroup": "Marching",
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "abdominals"
+  ],
+  "measurementType": "reps",
+  "laterality": "unilateral",
+  "instructions": [
+    "Lie on your back with knees bent, feet flat, hip-width apart, arms at your sides.",
+    "Drive through your heels to lift your hips into a bridge until shoulders, hips, and knees form a straight line.",
+    "Holding the bridge, lift one foot off the floor and draw that knee toward your chest.",
+    "Keep your hips level and square; do not let either side drop or rotate.",
+    "Place that foot back down and repeat by marching the other knee up.",
+    "Continue alternating legs while holding the bridge height throughout the set."
+  ],
+  "images": [],
+  "video": null
+}

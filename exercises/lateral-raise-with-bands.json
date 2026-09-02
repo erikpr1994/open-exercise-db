@@ -1,6 +1,9 @@
 {
   "id": "lateral-raise-with-bands",
   "name": "Lateral Raise - With Bands",
+  "aliases": [
+    "Banded Lateral Raise"
+  ],
   "family": "lateral-raise",
   "variantGroup": null,
   "modality": "strength",

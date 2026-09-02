@@ -1,6 +1,9 @@
 {
   "id": "landmine-linear-jammer",
   "name": "Landmine Linear Jammer",
+  "aliases": [
+    "Landmine Jammer"
+  ],
   "family": "overhead-press",
   "variantGroup": "Machine/Smith",
   "modality": "strength",

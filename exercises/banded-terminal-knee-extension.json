@@ -1,0 +1,31 @@
+{
+  "id": "banded-terminal-knee-extension",
+  "name": "Banded Terminal Knee Extension",
+  "aliases": [
+    "TKE",
+    "Resistance Band Terminal Knee Extension"
+  ],
+  "family": "leg-extension",
+  "variantGroup": "Banded / Terminal",
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "push",
+  "equipment": "bands",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [],
+  "measurementType": "reps",
+  "laterality": "unilateral",
+  "instructions": [
+    "Anchor a resistance band at knee height and loop it behind one knee, facing the anchor.",
+    "Step back until there is light tension in the band, staggering your feet for balance.",
+    "Start with the working knee slightly bent.",
+    "Push the knee straight against the band, squeezing the quad hard for one to two seconds at full extension.",
+    "Slowly bend the knee back to the start, controlling the band the whole way.",
+    "Complete all reps, then switch legs."
+  ],
+  "images": [],
+  "video": null
+}

@@ -1,6 +1,9 @@
 {
   "id": "bench-press-with-bands",
   "name": "Bench Press - With Bands",
+  "aliases": [
+    "Banded Bench Press"
+  ],
   "family": "bench-press",
   "variantGroup": "Barbell Flat",
   "modality": "strength",

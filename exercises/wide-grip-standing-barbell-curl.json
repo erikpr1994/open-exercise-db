@@ -1,6 +1,9 @@
 {
   "id": "wide-grip-standing-barbell-curl",
   "name": "Wide-Grip Standing Barbell Curl",
+  "aliases": [
+    "Wide-Grip Barbell Curl"
+  ],
   "family": "curl",
   "variantGroup": "Barbell",
   "modality": "strength",

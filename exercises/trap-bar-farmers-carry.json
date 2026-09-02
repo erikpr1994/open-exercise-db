@@ -1,0 +1,38 @@
+{
+  "id": "trap-bar-farmers-carry",
+  "name": "Trap Bar Farmer's Carry",
+  "aliases": [
+    "Trap Bar Farmer's Walk",
+    "Hex Bar Carry"
+  ],
+  "family": "carry",
+  "variantGroup": "Trap Bar",
+  "modality": "strongman",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": null,
+  "equipment": "trap bar",
+  "primaryMuscles": [
+    "traps",
+    "forearms"
+  ],
+  "secondaryMuscles": [
+    "quadriceps",
+    "glutes",
+    "abdominals",
+    "shoulders",
+    "lower back"
+  ],
+  "measurementType": "weighted_time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Load a trap bar and stand inside it with feet hip-width apart.",
+    "Squat down and grip the side handles firmly with a flat back.",
+    "Drive through your feet to stand up, lifting the bar to lockout.",
+    "Stand tall with shoulders back, bar hanging at your sides.",
+    "Walk forward with short, controlled steps for the target distance or time.",
+    "Set the bar down with control at the end rather than dropping it."
+  ],
+  "images": [],
+  "video": null
+}

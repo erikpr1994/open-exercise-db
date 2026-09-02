@@ -1,0 +1,35 @@
+{
+  "id": "archer-pull-up",
+  "name": "Archer Pull-Up",
+  "aliases": [
+    "Archer Chin-Up"
+  ],
+  "family": "pull-up",
+  "variantGroup": "Archer",
+  "modality": "strength",
+  "level": "expert",
+  "mechanic": "compound",
+  "force": "pull",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "shoulders",
+    "middle back",
+    "forearms"
+  ],
+  "measurementType": "reps",
+  "laterality": "unilateral",
+  "instructions": [
+    "Hang from a pull-up bar with your hands set wide, well outside shoulder width.",
+    "Brace your core and pull yourself up mainly with one arm, letting the other arm stay nearly straight and act as a support.",
+    "Bring your chin close to the working hand at the top.",
+    "Pause briefly, keeping your body stable and square.",
+    "Lower back to a full dead hang under control.",
+    "Repeat the pull toward the opposite hand on the next rep, alternating sides."
+  ],
+  "images": [],
+  "video": null
+}

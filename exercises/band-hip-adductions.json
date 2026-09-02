@@ -1,6 +1,9 @@
 {
   "id": "band-hip-adductions",
   "name": "Band Hip Adductions",
+  "aliases": [
+    "Banded Hip Adduction"
+  ],
   "family": "hip-adduction",
   "variantGroup": null,
   "modality": "strength",

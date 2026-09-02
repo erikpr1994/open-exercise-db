@@ -1,0 +1,36 @@
+{
+  "id": "dumbbell-walking-romanian-deadlift",
+  "name": "Dumbbell Walking Romanian Deadlift",
+  "aliases": [
+    "Death March",
+    "Walking RDL"
+  ],
+  "family": "romanian-stiff-leg-deadlift",
+  "variantGroup": "Walking (Death March)",
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "pull",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "hamstrings",
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "lower back",
+    "calves",
+    "abdominals"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "unilateral",
+  "instructions": [
+    "Stand tall holding a dumbbell in each hand at your sides, feet hip-width apart.",
+    "Take a short step forward with one leg, keeping both legs nearly straight.",
+    "Hinge at the hips over the front leg, pushing your hips back and lowering the dumbbells toward the floor until you feel a hamstring stretch.",
+    "Keep your back flat and the dumbbells close to your body throughout the hinge.",
+    "Drive your hips forward to stand back up to full height on the front leg.",
+    "Step forward with the trailing leg into the next hinge, alternating legs as you travel forward."
+  ],
+  "images": [],
+  "video": null
+}

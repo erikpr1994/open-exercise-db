@@ -1,0 +1,38 @@
+{
+  "id": "single-arm-sled-push",
+  "name": "Single-Arm Sled Push",
+  "aliases": [
+    "One-Arm Sled Push",
+    "Offset Sled Push"
+  ],
+  "family": "sled-push-drag",
+  "variantGroup": "Single-Arm",
+  "modality": "strongman",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "sled",
+  "primaryMuscles": [
+    "quadriceps",
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "calves",
+    "shoulders",
+    "abdominals",
+    "chest"
+  ],
+  "measurementType": "weighted_time",
+  "laterality": "unilateral",
+  "instructions": [
+    "Load the sled and stand behind it, gripping only one of the high handles with one hand.",
+    "Lean your body weight forward into the sled at roughly a 45-degree angle, keeping a neutral spine.",
+    "Brace your core hard to resist your torso twisting under the one-sided load.",
+    "Drive through the balls of your feet with short, powerful steps to push the sled forward.",
+    "Keep the pushing arm firm as a stabilizer without locking the elbow.",
+    "Cover the set distance or time, then repeat leading with the opposite arm."
+  ],
+  "images": [],
+  "video": null
+}

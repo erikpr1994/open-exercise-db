@@ -1,0 +1,35 @@
+{
+  "id": "ghd-back-extension",
+  "name": "GHD Back Extension",
+  "aliases": [
+    "GHD Hip Extension",
+    "Glute-Ham Developer Back Extension"
+  ],
+  "family": "back-extension",
+  "variantGroup": "GHD",
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "force": "pull",
+  "equipment": "glute-ham developer",
+  "primaryMuscles": [
+    "lower back",
+    "glutes",
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "middle back"
+  ],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Set the glute-ham developer pads so your hip crease sits just past the edge of the hip pad and your ankles are locked under the foot pads.",
+    "Start with your torso hanging down, roughly perpendicular to the floor, hands crossed over your chest.",
+    "Brace your core and squeeze your glutes to raise your torso up until it is in line with your legs.",
+    "Do not hyperextend past a straight line at the top.",
+    "Lower back down under control through the same range until your torso returns past parallel.",
+    "Repeat for the set without swinging or bouncing at the bottom."
+  ],
+  "images": [],
+  "video": null
+}

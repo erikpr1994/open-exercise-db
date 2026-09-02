@@ -1,6 +1,9 @@
 {
   "id": "clean-deadlift",
   "name": "Clean Deadlift",
+  "aliases": [
+    "Clean-Grip Deadlift"
+  ],
   "family": "olympic-pull",
   "variantGroup": null,
   "modality": "olympic weightlifting",
