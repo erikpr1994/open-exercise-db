@@ -1,6 +1,10 @@
 {
   "id": "dumbbell-shrug",
   "name": "Dumbbell Shrug",
+  "aliases": [
+    "shrugs",
+    "db shrug"
+  ],
   "family": "shrug",
   "variantGroup": null,
   "modality": "strength",

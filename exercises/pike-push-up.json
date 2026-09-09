@@ -1,0 +1,34 @@
+{
+  "id": "pike-push-up",
+  "name": "Pike Push-Up",
+  "aliases": [
+    "Pike Press",
+    "Downward Dog Push-Up"
+  ],
+  "family": "push-up",
+  "variantGroup": "Pike",
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "triceps",
+    "chest"
+  ],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Start in a push-up position, then walk your feet toward your hands until your hips are piked high and your body forms an inverted V.",
+    "Set your hands slightly wider than shoulder-width, fingers spread, and keep your hips high throughout.",
+    "Bend your elbows to about 45 degrees from your torso and lower your head toward the floor between your hands.",
+    "Descend until your head nearly touches the floor, without letting your hips drop or your elbows flare straight out.",
+    "Press back up by extending your elbows, driving through your hands until your arms are straight and your hips stay piked.",
+    "Keep your head in a neutral position, looking toward your feet rather than forward, for the whole rep."
+  ],
+  "images": [],
+  "video": null
+}

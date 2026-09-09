@@ -1,0 +1,35 @@
+{
+  "id": "crab-walk",
+  "name": "Crab Walk",
+  "aliases": [
+    "Crab Walking"
+  ],
+  "family": "crawl",
+  "variantGroup": "Crab Walk",
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "triceps",
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "shoulders",
+    "abdominals"
+  ],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Sit on the floor with your knees bent, feet flat, hip-width apart, and place your hands on the floor behind your hips with fingers pointing away from your body.",
+    "Press through your hands and feet to lift your hips off the floor into a tabletop position.",
+    "Keep your hips lifted and your core braced so your torso stays level throughout the movement.",
+    "Move your right hand and left foot forward together, then your left hand and right foot, walking forward in a smooth, continuous rhythm.",
+    "Keep your elbows only slightly bent and avoid letting your hips sag toward the floor.",
+    "Continue for the prescribed distance or number of steps, then reverse direction to walk backward."
+  ],
+  "images": [],
+  "video": null
+}

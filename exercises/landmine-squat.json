@@ -1,0 +1,33 @@
+{
+  "id": "landmine-squat",
+  "name": "Landmine Squat",
+  "aliases": [
+    "Landmine Goblet Squat"
+  ],
+  "family": "squat",
+  "variantGroup": "Landmine",
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "landmine",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Seat one end of a barbell in a landmine attachment and stand facing the free end.",
+    "Pick up the free end with both hands and hold it at chest height, elbows tucked under the bar.",
+    "Set your feet between hip- and shoulder-width and brace your core.",
+    "Bend at the hips and knees to descend, keeping your torso upright with a slight forward lean and your knees tracking over your toes.",
+    "Descend until your thighs are roughly parallel to the floor, without rounding your lower back.",
+    "Drive through your heels to stand back up, extending your hips and knees together to the top."
+  ],
+  "images": [],
+  "video": null
+}

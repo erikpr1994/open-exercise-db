@@ -1,0 +1,35 @@
+{
+  "id": "treadmill-running",
+  "name": "Treadmill Running",
+  "aliases": [
+    "Treadmill Run",
+    "Treadmill Jogging"
+  ],
+  "family": "cardio",
+  "variantGroup": "Treadmill",
+  "modality": "cardio",
+  "level": "beginner",
+  "mechanic": null,
+  "force": null,
+  "equipment": "treadmill",
+  "primaryMuscles": [
+    "quadriceps",
+    "hamstrings",
+    "calves"
+  ],
+  "secondaryMuscles": [
+    "glutes"
+  ],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Start the belt at a slow walking speed and step on, keeping your hands off the console once moving.",
+    "Stand tall with a neutral spine, eyes forward, and shoulders relaxed away from your ears.",
+    "Increase the speed gradually to your target pace, landing mid-foot under your hips rather than reaching out in front of you.",
+    "Swing your arms naturally at roughly a 90-degree bend, keeping your strides short and quick rather than long and loping.",
+    "Stay centered on the belt, not crowded against the front console, so you keep your full natural stride.",
+    "Decelerate gradually before stepping off; do not stop the belt abruptly while at speed."
+  ],
+  "images": [],
+  "video": null
+}

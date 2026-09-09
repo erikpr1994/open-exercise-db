@@ -1,0 +1,34 @@
+{
+  "id": "prone-w-raise",
+  "name": "Prone W Raise",
+  "aliases": [
+    "W-Raise",
+    "Prone Scapular Retraction with External Rotation"
+  ],
+  "family": "rotator-cuff",
+  "variantGroup": "Prone W",
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "pull",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "middle back",
+    "traps"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Lie face-down on an incline bench with your chest supported and your arms hanging straight down, holding a light dumbbell in each hand.",
+    "Bend your elbows to about 90 degrees so your upper arms are close to your body and your forearms point down.",
+    "Squeeze your shoulder blades down and together, then lift your forearms out to the sides to form a \"W\" shape.",
+    "Rotate your forearms upward as they rise, keeping your elbows tucked near your ribs rather than flaring wide.",
+    "Pause briefly at the top with your shoulder blades pinched, without shrugging your shoulders toward your ears.",
+    "Lower back to the starting position under control and repeat."
+  ],
+  "images": [],
+  "video": null
+}

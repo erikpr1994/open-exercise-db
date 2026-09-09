@@ -1,0 +1,33 @@
+{
+  "id": "kettlebell-glute-bridge",
+  "name": "Kettlebell Glute Bridge",
+  "aliases": [
+    "KB Glute Bridge"
+  ],
+  "family": "glute-bridge",
+  "variantGroup": "Kettlebell",
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "abdominals"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Lie on your back with your knees bent and feet flat on the floor, hip-width apart.",
+    "Hold a kettlebell with both hands directly over your hips, arms straight.",
+    "Brace your core and drive through your heels to lift your hips off the floor, pressing the kettlebell straight up as your hips extend.",
+    "Squeeze your glutes at the top so your body forms a straight line from shoulders to knees, keeping the kettlebell stacked over your hips.",
+    "Lower your hips back to the floor under control, keeping the kettlebell steady throughout.",
+    "Repeat for the prescribed number of repetitions."
+  ],
+  "images": [],
+  "video": null
+}
