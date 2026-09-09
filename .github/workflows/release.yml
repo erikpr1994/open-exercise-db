@@ -19,6 +19,10 @@ jobs:
       - run: npm ci
       - run: npm run validate
       - run: npm run build
+      - name: Download the previous release, if any
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh release download --pattern "exercises.json" --dir released || true
       - name: Generate the data changelog
         run: node scripts/release-notes.mjs > release-notes.md
       - run: >
@@ -29,3 +33,18 @@ jobs:
           --generate-notes
         env:
           GH_TOKEN: ${{ github.token }}
+      - name: Notify Peak Health of the new release
+        # Cross-repo issue creation needs a token scoped to peakhealth —
+        # the built-in GITHUB_TOKEN only reaches this repo. Without
+        # PEAKHEALTH_SYNC_TOKEN configured (Settings > Secrets and
+        # variables > Actions), this step fails but the release above has
+        # already published, so a missing secret never blocks a release.
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ secrets.PEAKHEALTH_SYNC_TOKEN }}
+        run: |
+          node scripts/notify-peakhealth.mjs "$GITHUB_REF_NAME" "https://github.com/erikpr1994/open-exercise-db/releases/tag/$GITHUB_REF_NAME" > issue-body.md
+          gh issue create --repo erikpr1994/peakhealth \
+            --title "Sync exercise catalogue to open-exercise-db $GITHUB_REF_NAME" \
+            --label ready-for-agent \
+            --body-file issue-body.md
