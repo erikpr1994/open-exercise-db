@@ -1,0 +1,36 @@
+{
+  "id": "stair-climber",
+  "name": "Stair Climber",
+  "aliases": [
+    "Stairmaster",
+    "Stepmill",
+    "Stair Stepper"
+  ],
+  "family": "cardio",
+  "variantGroup": "Stair Climber",
+  "modality": "cardio",
+  "level": "beginner",
+  "mechanic": null,
+  "force": null,
+  "equipment": "stair climber machine",
+  "primaryMuscles": [
+    "quadriceps",
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "calves"
+  ],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Step on and hold the rails lightly for balance only, not to bear your weight.",
+    "Stand tall with a neutral spine; do not lean forward or hunch over the console.",
+    "Drive through your whole foot, favoring the heel to bias your glutes and hamstrings over your quads.",
+    "Take full steps at a steady, sustainable cadence rather than short, partial steps.",
+    "Keep your core braced to resist rotating your torso with each step.",
+    "Slow the pace gradually before stepping off rather than stopping abruptly."
+  ],
+  "images": [],
+  "video": null
+}

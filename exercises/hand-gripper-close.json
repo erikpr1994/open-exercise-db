@@ -1,0 +1,31 @@
+{
+  "id": "hand-gripper-close",
+  "name": "Hand Gripper Close",
+  "aliases": [
+    "Captains of Crush Gripper",
+    "Grip Crusher"
+  ],
+  "family": "forearm-grip",
+  "variantGroup": "Gripper",
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "force": "pull",
+  "equipment": "hand gripper",
+  "primaryMuscles": [
+    "forearms"
+  ],
+  "secondaryMuscles": [],
+  "measurementType": "reps",
+  "laterality": "unilateral",
+  "instructions": [
+    "Hold the gripper in one hand with the handles resting across the base of your fingers, not deep in your palm.",
+    "Wrap your fingers and thumb around the handles and set your wrist in a straight, neutral position.",
+    "Squeeze the handles together with maximum effort until they touch, keeping your wrist locked straight throughout.",
+    "Hold the closed position briefly, then release under control rather than letting the handles snap open.",
+    "Reset your grip between reps so the setting stays consistent across the base of your fingers.",
+    "Complete all reps on one hand before switching to the other."
+  ],
+  "images": [],
+  "video": null
+}

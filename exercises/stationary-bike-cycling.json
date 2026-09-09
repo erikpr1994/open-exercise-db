@@ -1,0 +1,36 @@
+{
+  "id": "stationary-bike-cycling",
+  "name": "Stationary Bike Cycling",
+  "aliases": [
+    "Exercise Bike",
+    "Indoor Cycling",
+    "Upright Bike"
+  ],
+  "family": "cardio",
+  "variantGroup": "Stationary Bike",
+  "modality": "cardio",
+  "level": "beginner",
+  "mechanic": null,
+  "force": null,
+  "equipment": "stationary bike",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "calves",
+    "glutes"
+  ],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Set the seat height level with your hip bone so your knee holds a slight bend at the bottom of the pedal stroke.",
+    "Sit with a flat back and open chest, reaching the handlebars with only a slight bend in the elbows.",
+    "Begin pedaling in smooth, full circles rather than stomping down on each stroke.",
+    "Build to a cadence of about 80 to 100 revolutions per minute at your target resistance.",
+    "Keep your hips still on the saddle; stop and lower the resistance if you start rocking or bouncing.",
+    "Cool down by reducing resistance and cadence gradually before dismounting."
+  ],
+  "images": [],
+  "video": null
+}

@@ -1,0 +1,34 @@
+{
+  "id": "legless-rope-climb",
+  "name": "Legless Rope Climb",
+  "aliases": [
+    "Legless Rope Ascent"
+  ],
+  "family": "rope-climb",
+  "variantGroup": "Legless",
+  "modality": "strength",
+  "level": "expert",
+  "mechanic": "compound",
+  "force": "pull",
+  "equipment": "climbing rope",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "forearms",
+    "abdominals"
+  ],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Grip the rope with both hands above your head and let your legs hang free, without wrapping or bracing them on the rope.",
+    "Pull with your arms and lats to raise your body, reaching one hand higher on the rope as the other holds your body weight.",
+    "Keep the rope pulled close to your torso rather than letting it swing away, which reduces grip and shoulder strain.",
+    "Continue the hand-over-hand pull, driving through your lats and keeping your core braced to limit body swing.",
+    "Touch the designated mark at the top of the climb with one hand to complete the ascent.",
+    "Descend under control, sliding or lowering hand over hand rather than dropping."
+  ],
+  "images": [],
+  "video": null
+}

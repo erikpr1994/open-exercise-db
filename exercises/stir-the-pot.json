@@ -1,0 +1,34 @@
+{
+  "id": "stir-the-pot",
+  "name": "Stir the Pot",
+  "aliases": [
+    "Swiss Ball Stir the Pot",
+    "Stability Ball Stir the Pot"
+  ],
+  "family": "hollow-stability-hold",
+  "variantGroup": "Stability Ball",
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "force": "static",
+  "equipment": "exercise ball",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "lower back"
+  ],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Kneel behind a stability ball and rest your forearms on top of it, elbows stacked under your shoulders.",
+    "Extend your legs back into a plank position, forming a straight line from shoulders to ankles.",
+    "Brace your core, glutes, and quads to keep your hips and spine still.",
+    "Move only your forearms in a small, slow circle on top of the ball, as if stirring a pot, while your trunk stays motionless.",
+    "Complete the prescribed circles in one direction, then reverse and repeat the same number in the other direction.",
+    "Keep breathing steadily throughout; stop before your hips sag or rotate."
+  ],
+  "images": [],
+  "video": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "lateral-step-up",
+  "name": "Lateral Step-Up",
+  "aliases": [
+    "Side Step-Up",
+    "Lateral Box Step-Up"
+  ],
+  "family": "step-up",
+  "variantGroup": "Lateral",
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "quadriceps",
+    "abductors",
+    "hamstrings"
+  ],
+  "measurementType": "reps",
+  "laterality": "unilateral",
+  "instructions": [
+    "Stand side-on next to a step or box with your inside foot placed fully on top of it.",
+    "Brace your core and keep your pelvis level, avoiding any hip hike.",
+    "Drive down through the foot on the box to stand up tall, letting your trailing leg swing through without pushing off the floor.",
+    "Keep your working knee tracking in line with your toes, not caving inward, as your leg straightens.",
+    "Lower back down under control until your trailing foot lightly touches the floor.",
+    "Complete all reps on one side, then turn and repeat on the other side."
+  ],
+  "images": [],
+  "video": null
+}

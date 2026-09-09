@@ -1,0 +1,35 @@
+{
+  "id": "single-leg-press",
+  "name": "Single-Leg Press",
+  "aliases": [
+    "Single-Leg Leg Press",
+    "Unilateral Leg Press",
+    "One-Leg Leg Press"
+  ],
+  "family": "leg-press",
+  "variantGroup": "Single-Leg",
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "leg press machine",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "unilateral",
+  "instructions": [
+    "Sit in the leg press with your back and head flat against the pad, and place one foot centered on the platform, hip-width from the midline.",
+    "Rest the other foot off the platform, or lightly on the frame, out of the way of the movement.",
+    "Release the safety catches and lower the platform under control until the working knee reaches about 90 degrees.",
+    "Keep the knee tracking in line with the toes throughout, without letting it collapse inward.",
+    "Drive through the whole foot to press the platform back up, stopping just short of locking the knee out.",
+    "Complete all reps on one side before resetting the safeties and switching legs."
+  ],
+  "images": [],
+  "video": null
+}
