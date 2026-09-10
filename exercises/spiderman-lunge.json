@@ -29,6 +29,8 @@
     "Hold briefly, then return the hand to the floor and step back to plank.",
     "Alternate sides for the set time."
   ],
-  "images": [],
+  "images": [
+    "spiderman-lunge/0.jpg"
+  ],
   "video": null
 }

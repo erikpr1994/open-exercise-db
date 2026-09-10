@@ -31,6 +31,8 @@
     "Maintain a normal stride length rather than overstriding to compensate for the load.",
     "Continue for the target time or distance, keeping posture consistent throughout."
   ],
-  "images": [],
+  "images": [
+    "rucking/0.jpg"
+  ],
   "video": null
 }

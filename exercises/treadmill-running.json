@@ -30,6 +30,8 @@
     "Stay centered on the belt, not crowded against the front console, so you keep your full natural stride.",
     "Decelerate gradually before stepping off; do not stop the belt abruptly while at speed."
   ],
-  "images": [],
+  "images": [
+    "treadmill-running/0.jpg"
+  ],
   "video": null
 }
