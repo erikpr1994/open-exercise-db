@@ -37,6 +37,8 @@
     "Find the balance point on the shoulder, then release the opposite hand out to your side.",
     "Hold the stone secured on the shoulder with only the near-side hand until the lift is signaled complete."
   ],
-  "images": [],
+  "images": [
+    "stone-to-shoulder/0.jpg"
+  ],
   "video": null
 }

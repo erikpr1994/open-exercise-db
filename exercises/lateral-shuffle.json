@@ -31,6 +31,8 @@
     "Keep the stance low and the steps short and quick throughout.",
     "Move for the set distance or time, then repeat leading with the other side."
   ],
-  "images": [],
+  "images": [
+    "lateral-shuffle/0.jpg"
+  ],
   "video": null
 }

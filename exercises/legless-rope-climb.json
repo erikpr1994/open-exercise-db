@@ -29,6 +29,8 @@
     "Touch the designated mark at the top of the climb with one hand to complete the ascent.",
     "Descend under control, sliding or lowering hand over hand rather than dropping."
   ],
-  "images": [],
+  "images": [
+    "legless-rope-climb/0.jpg"
+  ],
   "video": null
 }

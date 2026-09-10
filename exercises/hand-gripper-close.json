@@ -26,6 +26,8 @@
     "Reset your grip between reps so the setting stays consistent across the base of your fingers.",
     "Complete all reps on one hand before switching to the other."
   ],
-  "images": [],
+  "images": [
+    "hand-gripper-close/0.jpg"
+  ],
   "video": null
 }

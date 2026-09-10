@@ -31,6 +31,8 @@
     "Keep your core braced to resist rotating your torso with each step.",
     "Slow the pace gradually before stepping off rather than stopping abruptly."
   ],
-  "images": [],
+  "images": [
+    "stair-climber/0.jpg"
+  ],
   "video": null
 }
