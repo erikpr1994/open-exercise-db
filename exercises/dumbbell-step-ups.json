@@ -1,6 +1,9 @@
 {
   "id": "dumbbell-step-ups",
   "name": "Dumbbell Step Ups",
+  "aliases": [
+    "Dumbbell Step-Up"
+  ],
   "family": "step-up",
   "variantGroup": null,
   "modality": "strength",

@@ -1,6 +1,9 @@
 {
   "id": "cable-shrugs",
   "name": "Cable Shrugs",
+  "aliases": [
+    "Cable Shrug"
+  ],
   "family": "shrug",
   "variantGroup": null,
   "modality": "strength",

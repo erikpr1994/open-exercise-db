@@ -1,6 +1,9 @@
 {
   "id": "concentration-curls",
   "name": "Concentration Curls",
+  "aliases": [
+    "Concentration Curl"
+  ],
   "family": "curl",
   "variantGroup": "Concentration",
   "modality": "strength",

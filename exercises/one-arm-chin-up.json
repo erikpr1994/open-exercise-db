@@ -1,6 +1,9 @@
 {
   "id": "one-arm-chin-up",
   "name": "One Arm Chin-Up",
+  "aliases": [
+    "One-Arm Pull-Up"
+  ],
   "family": "pull-up",
   "variantGroup": null,
   "modality": "strength",

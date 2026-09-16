@@ -1,6 +1,9 @@
 {
   "id": "weighted-crunches",
   "name": "Weighted Crunches",
+  "aliases": [
+    "Weighted Crunch"
+  ],
   "family": "crunch",
   "variantGroup": "Weighted",
   "modality": "strength",

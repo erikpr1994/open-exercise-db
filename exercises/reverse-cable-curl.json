@@ -1,6 +1,9 @@
 {
   "id": "reverse-cable-curl",
   "name": "Reverse Cable Curl",
+  "aliases": [
+    "Cable Reverse Curl"
+  ],
   "family": "curl",
   "variantGroup": "Reverse",
   "modality": "strength",

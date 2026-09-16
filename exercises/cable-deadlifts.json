@@ -1,6 +1,9 @@
 {
   "id": "cable-deadlifts",
   "name": "Cable Deadlifts",
+  "aliases": [
+    "Cable Deadlift"
+  ],
   "family": "deadlift",
   "variantGroup": null,
   "modality": "strength",
