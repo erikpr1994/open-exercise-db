@@ -1,0 +1,35 @@
+{
+  "id": "elliptical-machine",
+  "name": "Elliptical Trainer",
+  "aliases": [
+    "Elliptical",
+    "Cross-Trainer"
+  ],
+  "family": "cardio",
+  "variantGroup": "Elliptical",
+  "modality": "cardio",
+  "level": "beginner",
+  "mechanic": null,
+  "force": null,
+  "equipment": "elliptical machine",
+  "primaryMuscles": [
+    "quadriceps",
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "calves"
+  ],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Step onto the pedals and hold the handles lightly for balance, or hold the moving arm handles for a full-body version.",
+    "Stand tall with a neutral spine; do not lean on the console or hunch over the handles.",
+    "Drive the pedals in a smooth elliptical path at a steady, sustainable cadence.",
+    "Keep your core braced and your steps quiet and controlled rather than bouncing on the pedals.",
+    "Push through the whole foot on each stride, and mirror the effort evenly between both legs.",
+    "Slow the pace gradually before stepping off rather than stopping abruptly."
+  ],
+  "images": [],
+  "video": null
+}

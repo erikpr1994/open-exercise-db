@@ -1,0 +1,34 @@
+{
+  "id": "kettlebell-front-rack-carry",
+  "name": "Kettlebell Front Rack Carry",
+  "aliases": [
+    "double kettlebell rack carry",
+    "rack walk"
+  ],
+  "family": "carry",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": null,
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "quadriceps",
+    "traps"
+  ],
+  "measurementType": "weighted_time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Clean two kettlebells to your shoulders so they rest in the front-rack position, elbows tucked and forearms roughly vertical.",
+    "Stand tall with your ribcage down and core braced, keeping the kettlebells close to your chest rather than letting them roll onto your throat.",
+    "Walk forward with short, controlled steps, keeping your torso upright and avoiding leaning back to counterbalance the load.",
+    "Keep your elbows pulled in and your lats engaged so the kettlebells stay stacked over your shoulders rather than drifting forward.",
+    "Continue for the prescribed distance or time, then lower the kettlebells to the floor with control or return them to the shoulders before setting them down."
+  ],
+  "images": [],
+  "video": null
+}

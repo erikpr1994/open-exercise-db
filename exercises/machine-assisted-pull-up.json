@@ -1,0 +1,35 @@
+{
+  "id": "machine-assisted-pull-up",
+  "name": "Machine Assisted Pull-Up",
+  "aliases": [
+    "assisted pull-up machine",
+    "gravitron pull-up"
+  ],
+  "family": "pull-up",
+  "variantGroup": "Machine",
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "pull",
+  "equipment": "assisted pull-up/dip machine",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "middle back",
+    "shoulders"
+  ],
+  "measurementType": "assisted_weight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Set the pin in the machine's weight stack to the amount of assistance you need; more weight selected gives more help and an easier rep.",
+    "Kneel on the lower pad or step onto the footplate, and take an overhand, shoulder-width grip on the handles or bar above you.",
+    "Lift your knees or feet off the support so the machine carries the selected amount of your bodyweight, and keep your torso upright.",
+    "Pull yourself upward by driving your elbows down and back until your chin clears the bar or handles.",
+    "Pause briefly at the top, then lower yourself under control to a full arm extension.",
+    "Repeat for the set, then return your knees or feet to the support before you let go."
+  ],
+  "images": [],
+  "video": null
+}

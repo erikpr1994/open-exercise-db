@@ -1,6 +1,9 @@
 {
   "id": "two-arm-dumbbell-preacher-curl",
   "name": "Two-Arm Dumbbell Preacher Curl",
+  "aliases": [
+    "Dumbbell Preacher Curl"
+  ],
   "family": "curl",
   "variantGroup": "Preacher",
   "modality": "strength",

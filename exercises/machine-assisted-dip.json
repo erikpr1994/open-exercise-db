@@ -1,0 +1,34 @@
+{
+  "id": "machine-assisted-dip",
+  "name": "Machine Assisted Dip",
+  "aliases": [
+    "assisted dip machine",
+    "gravitron dip"
+  ],
+  "family": "dip",
+  "variantGroup": "Machine",
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "assisted pull-up/dip machine",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "shoulders"
+  ],
+  "measurementType": "assisted_weight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Set the pin in the machine's weight stack to the amount of assistance you need; more weight selected gives more help and an easier rep.",
+    "Kneel on the pad or step onto the footplate below the handles, and grip the dip handles at your sides with straight arms.",
+    "Lift your knees or feet off the support so the machine carries the selected amount of your bodyweight.",
+    "Lower yourself by bending your elbows until your upper arms are roughly level with the floor, keeping your torso upright or leaning forward slightly.",
+    "Press back up by extending your elbows until your arms are straight again.",
+    "Repeat for the set, then return your knees or feet to the support before you let go."
+  ],
+  "images": [],
+  "video": null
+}

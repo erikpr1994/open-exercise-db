@@ -194,6 +194,18 @@ function normalizeName(value) {
   return value.trim().toLowerCase().replace(/[^a-z0-9]+/g, " ").trim();
 }
 
+export function checkNotRemoved(entries, removedIds, report) {
+  for (const entry of entries) {
+    const { id } = entry.data;
+    if (typeof id === "string" && removedIds.has(id)) {
+      report(
+        entry.file,
+        `id "${id}" was tombstoned in removed-exercises.json and must not be reused`,
+      );
+    }
+  }
+}
+
 export function checkAliasCollisions(entries, report) {
   const byName = new Map();
   for (const entry of entries) {
@@ -247,6 +259,13 @@ if (process.argv[1] === fileURLToPath(import.meta.url)) {
   checkUniqueIds(exercises);
   checkUniqueIds(families);
   checkAliasCollisions(exercises, report);
+
+  const removedIds = new Set(
+    JSON.parse(
+      await readFile(path.join(root, "removed-exercises.json"), "utf8"),
+    ).map((entry) => entry.id),
+  );
+  checkNotRemoved(exercises, removedIds, report);
 
   console.log(
     `Validated ${exercises.length} exercise file(s) and ${families.length} family file(s).`,

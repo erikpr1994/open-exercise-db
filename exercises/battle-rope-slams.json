@@ -1,0 +1,35 @@
+{
+  "id": "battle-rope-slams",
+  "name": "Battle Rope Slams",
+  "aliases": [
+    "double battle rope slam",
+    "battle rope double slam"
+  ],
+  "family": "swing-slam-implement",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "battle ropes",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "lats",
+    "quadriceps"
+  ],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Anchor a heavy battle rope at its center and stand facing the anchor with an end of the rope in each hand, feet shoulder-width apart and knees soft.",
+    "Hinge slightly at the hips and raise both arms overhead together, keeping a slight bend in your elbows.",
+    "Drive both arms down explosively, slamming both ends of the rope into the ground at the same time.",
+    "Absorb the rebound and immediately reverse the motion, whipping the rope back overhead for the next rep.",
+    "Brace your core and keep your knees soft throughout, using your hips and legs to help drive the power rather than your arms alone.",
+    "Continue at a steady, explosive pace for the prescribed time."
+  ],
+  "images": [],
+  "video": null
+}

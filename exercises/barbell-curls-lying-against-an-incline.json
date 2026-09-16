@@ -1,6 +1,9 @@
 {
   "id": "barbell-curls-lying-against-an-incline",
   "name": "Barbell Curls Lying Against An Incline",
+  "aliases": [
+    "Incline Barbell Curl"
+  ],
   "family": "curl",
   "variantGroup": "Barbell",
   "modality": "strength",
