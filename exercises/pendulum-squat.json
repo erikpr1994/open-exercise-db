@@ -1,0 +1,34 @@
+{
+  "id": "pendulum-squat",
+  "name": "Pendulum Squat",
+  "aliases": [
+    "pendulum squat machine"
+  ],
+  "family": "squat",
+  "variantGroup": "Machine",
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "pendulum squat machine",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "adductors",
+    "calves"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Load the machine's weight pegs and step onto the footplate, positioning your feet shoulder-width apart with your back and shoulders firmly against the pad.",
+    "Release the safety catch and let the pendulum arm swing you into the loaded starting position with your legs extended but not locked.",
+    "Bend your knees to lower yourself along the machine's arced path until your thighs are at or below parallel to the platform.",
+    "Keep your back pressed against the pad and your heels flat throughout the movement.",
+    "Drive through your feet to press the platform away and extend your knees back to the starting position.",
+    "Re-engage the safety catch before racking the weight at the end of your set."
+  ],
+  "images": [],
+  "video": null
+}

@@ -1,0 +1,34 @@
+{
+  "id": "leverage-hip-thrust",
+  "name": "Leverage Hip Thrust",
+  "aliases": [
+    "machine hip thrust",
+    "hip thrust machine"
+  ],
+  "family": "hip-thrust",
+  "variantGroup": "Machine",
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "leverage machine",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "calves"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Sit into the machine with your upper back against the pad and your feet flat on the platform, knees bent to roughly a right angle.",
+    "Position the hip pad across your hips and choose a weight you can control.",
+    "Brace your core and drive through your feet, extending your hips to press the pad upward until your torso and thighs form a straight line.",
+    "Pause at the top and squeeze your glutes hard.",
+    "Lower under control back to the starting position without letting the weight stack rest between reps.",
+    "Repeat for the recommended number of repetitions."
+  ],
+  "images": [],
+  "video": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "kettlebell-deadlift",
+  "name": "Kettlebell Deadlift",
+  "aliases": [
+    "two-hand kettlebell deadlift",
+    "kettlebell sumo deadlift"
+  ],
+  "family": "deadlift",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "pull",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "lower back",
+    "quadriceps"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Place a kettlebell on the floor between your feet and stand with your feet slightly wider than hip-width, toes turned out a little.",
+    "Push your hips back and bend your knees to reach down, gripping the horns of the kettlebell handle with both hands.",
+    "Set your back flat and your chest up, with your shoulders positioned over the kettlebell.",
+    "Drive through your heels and extend your hips and knees together to stand up, keeping the kettlebell close to your body.",
+    "Lock out your hips at the top without leaning back, then reverse the motion, pushing your hips back to lower the kettlebell under control to the floor.",
+    "Reset your position before each repetition."
+  ],
+  "images": [],
+  "video": null
+}

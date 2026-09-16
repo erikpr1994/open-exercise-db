@@ -1,0 +1,36 @@
+{
+  "id": "bar-muscle-up",
+  "name": "Bar Muscle-Up",
+  "aliases": [
+    "strict muscle-up",
+    "pull-up bar muscle-up"
+  ],
+  "family": "pull-up",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "expert",
+  "mechanic": "compound",
+  "force": "pull",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "biceps",
+    "chest",
+    "shoulders",
+    "triceps"
+  ],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Grip a straight pull-up bar with a shoulder-width overhand grip; a rigid bar allows no false grip, so a weaker wrist position is unavoidable.",
+    "Initiate a kipping swing or a strict pull, driving your hips forward and pulling explosively so your chest travels toward the bar higher than in a normal pull-up.",
+    "As your chest passes bar height, lean forward aggressively over the bar and roll your wrists over the top, transitioning from a pulling to a pressing position.",
+    "Continue pressing down through your hands to extend your elbows and finish with straight arms above the bar, similar to the top of a dip.",
+    "Lower back under the bar with control to reset for the next repetition."
+  ],
+  "images": [],
+  "video": null
+}
