@@ -26,7 +26,9 @@ These rules protect consumers of the released data. Never weaken them.
 
 - A released exercise id exists forever. To remove an exercise, add a
   tombstone entry (id, date, reason) to `removed-exercises.json` and delete
-  the file in the same change.
+  the file in the same change. A tombstoned id is retired forever too:
+  never reuse it for a new or unrelated exercise, even under a different
+  name. `validate.mjs` rejects it.
 - A set `measurementType` never changes. A version of a movement that is
   measured differently is a separate exercise in the same family.
 - A set `laterality` or `directionality` changes only to correct data that
