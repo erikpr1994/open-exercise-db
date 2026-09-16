@@ -1,0 +1,34 @@
+{
+  "id": "hip-abduction-machine",
+  "name": "Hip Abduction (Machine)",
+  "aliases": [
+    "Machine Hip Abduction",
+    "Seated Hip Abduction",
+    "Outer Thigh Machine"
+  ],
+  "family": "hip-abduction",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "pull",
+  "equipment": "hip abduction machine",
+  "primaryMuscles": [
+    "abductors"
+  ],
+  "secondaryMuscles": [
+    "glutes"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Sit in the machine with your back against the pad and the outside of each thigh against a leg pad.",
+    "Set the start position so your legs are together, and choose a weight you can control.",
+    "Grip the handles and press your thighs outward against the pads until your legs are open as far as comfortable.",
+    "Pause briefly at the widest point, feeling the contraction on the outside of the hips.",
+    "Return under control to the starting position without letting the weight stack slam down.",
+    "Repeat for the recommended number of repetitions."
+  ],
+  "images": [],
+  "video": null
+}

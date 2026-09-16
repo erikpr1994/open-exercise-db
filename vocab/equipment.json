@@ -18,6 +18,7 @@
   { "name": "dip machine", "loading": "stack" },
   { "name": "dumbbell", "loading": "fixed" },
   { "name": "e-z curl bar", "loading": "plates-per-side" },
+  { "name": "elliptical machine", "loading": "none" },
   { "name": "exercise ball", "loading": "none" },
   { "name": "farmer's walk handles", "loading": "plates-per-side" },
   { "name": "foam roll", "loading": "none" },

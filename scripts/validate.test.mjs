@@ -1,6 +1,6 @@
 import assert from "node:assert/strict";
 import test from "node:test";
-import { checkAliasCollisions } from "./validate.mjs";
+import { checkAliasCollisions, checkNotRemoved } from "./validate.mjs";
 
 function entry(file, name, aliases) {
   return { file, data: { name, aliases } };
@@ -47,4 +47,33 @@ test("rejects an alias that repeats the exercise's own name", () => {
 test("does not flag an entry against itself when it has no aliases", () => {
   const errors = collect([entry("exercises/a.json", "Deadlift", undefined)]);
   assert.deepEqual(errors, []);
+});
+
+function idEntry(file, id) {
+  return { file, data: { id } };
+}
+
+function collectRemoved(entries, removedIds) {
+  const errors = [];
+  checkNotRemoved(entries, removedIds, (file, message) =>
+    errors.push({ file, message }),
+  );
+  return errors;
+}
+
+test("accepts an id that was never removed", () => {
+  const errors = collectRemoved(
+    [idEntry("exercises/a.json", "barbell-squat")],
+    new Set(["bicycling"]),
+  );
+  assert.deepEqual(errors, []);
+});
+
+test("rejects an id that reuses a tombstoned id", () => {
+  const errors = collectRemoved(
+    [idEntry("exercises/elliptical-trainer.json", "elliptical-trainer")],
+    new Set(["elliptical-trainer"]),
+  );
+  assert.equal(errors.length, 1);
+  assert.match(errors[0].message, /tombstoned/);
 });
