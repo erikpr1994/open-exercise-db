@@ -1,0 +1,33 @@
+{
+  "id": "decline-sit-up",
+  "name": "Decline Sit-Up",
+  "aliases": [
+    "decline bench sit-up",
+    "decline ab bench sit-up"
+  ],
+  "family": "sit-up",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "pull",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "hip flexors"
+  ],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Hook your feet under the pads of a decline sit-up bench and lie back on the bench with your knees bent.",
+    "Cross your arms over your chest or place your hands lightly behind your head without pulling on your neck.",
+    "Brace your core and curl your torso up off the bench, leading with your chest toward your knees.",
+    "Continue until your torso is upright, or as close to it as your hip mobility allows.",
+    "Reverse the motion under control, lowering your torso back down to the bench.",
+    "Repeat for the prescribed number of repetitions without letting your feet slip out from under the pads."
+  ],
+  "images": [],
+  "video": null
+}

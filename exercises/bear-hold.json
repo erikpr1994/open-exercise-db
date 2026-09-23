@@ -1,0 +1,33 @@
+{
+  "id": "bear-hold",
+  "name": "Bear Hold",
+  "aliases": [
+    "bear plank",
+    "bear crawl hold"
+  ],
+  "family": "plank",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "static",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "quadriceps"
+  ],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Start on your hands and knees, hands under your shoulders and knees under your hips.",
+    "Tuck your toes and lift your knees an inch or two off the floor, keeping your back flat and core braced.",
+    "Keep your hips level with your shoulders, avoiding any pike or sag in your lower back.",
+    "Hold this hovering tabletop position, breathing steadily, without letting your knees touch down.",
+    "Maintain the hold for the prescribed amount of time."
+  ],
+  "images": [],
+  "video": null
+}

@@ -1,0 +1,36 @@
+{
+  "id": "paused-back-squat",
+  "name": "Paused Back Squat",
+  "aliases": [
+    "pause squat",
+    "dead-stop squat"
+  ],
+  "family": "squat",
+  "variantGroup": "Paused",
+  "modality": "powerlifting",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "adductors",
+    "glutes",
+    "hamstrings",
+    "lower back"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Set up as you would for a standard back squat, with the bar across your upper back and feet shoulder-width apart.",
+    "Brace your core and squat down under control until your hip crease is at or below parallel.",
+    "Come to a complete stop in the bottom position, holding it for the prescribed duration without bouncing or relaxing your brace.",
+    "Stay tight through your torso and keep your knees tracking over your toes throughout the pause.",
+    "Drive back up to standing from the dead stop, without using any rebound from the tissues.",
+    "Reset your brace at the top before beginning the next repetition."
+  ],
+  "images": [],
+  "video": null
+}
