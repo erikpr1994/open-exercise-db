@@ -1,6 +1,9 @@
 {
   "id": "one-arm-kettlebell-clean",
   "name": "One-Arm Kettlebell Clean",
+  "aliases": [
+    "single arm kettlebell clean"
+  ],
   "family": "clean",
   "variantGroup": null,
   "modality": "strength",

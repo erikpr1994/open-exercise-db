@@ -5,7 +5,7 @@
     "Stork Stand",
     "One-Leg Stand"
   ],
-  "family": null,
+  "family": "balance",
   "variantGroup": null,
   "modality": "strength",
   "level": "beginner",
