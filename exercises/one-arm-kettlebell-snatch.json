@@ -1,6 +1,9 @@
 {
   "id": "one-arm-kettlebell-snatch",
   "name": "One-Arm Kettlebell Snatch",
+  "aliases": [
+    "single arm kettlebell snatch"
+  ],
   "family": "snatch",
   "variantGroup": null,
   "modality": "strength",

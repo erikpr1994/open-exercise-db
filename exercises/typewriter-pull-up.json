@@ -1,0 +1,36 @@
+{
+  "id": "typewriter-pull-up",
+  "name": "Typewriter Pull-Up",
+  "aliases": [
+    "typewriter chin-up"
+  ],
+  "family": "pull-up",
+  "variantGroup": "Typewriter",
+  "modality": "strength",
+  "level": "expert",
+  "mechanic": "compound",
+  "force": "pull",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "shoulders",
+    "middle back",
+    "forearms"
+  ],
+  "measurementType": "reps",
+  "laterality": "unilateral",
+  "directionality": "bidirectional",
+  "instructions": [
+    "Hang from a pull-up bar with your hands set wide, well outside shoulder width.",
+    "Pull yourself up until your chin clears the bar, finishing close to one hand.",
+    "Keeping your chin above the bar and your arms bent, shift your body sideways across the bar toward the other hand, like a typewriter carriage.",
+    "Pause once you reach the far hand, staying at the top of the pull throughout the shift.",
+    "Shift back across to the starting hand, still without lowering.",
+    "Lower yourself under control to a full dead hang to complete one repetition."
+  ],
+  "images": [],
+  "video": null
+}

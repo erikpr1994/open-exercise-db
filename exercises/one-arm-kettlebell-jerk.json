@@ -1,6 +1,9 @@
 {
   "id": "one-arm-kettlebell-jerk",
   "name": "One-Arm Kettlebell Jerk",
+  "aliases": [
+    "single arm kettlebell jerk"
+  ],
   "family": "jerk",
   "variantGroup": null,
   "modality": "strength",

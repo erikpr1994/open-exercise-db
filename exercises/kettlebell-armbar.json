@@ -1,0 +1,34 @@
+{
+  "id": "kettlebell-armbar",
+  "name": "Kettlebell Armbar",
+  "aliases": [
+    "kettlebell arm bar"
+  ],
+  "family": "kettlebell-armbar",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "static",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "triceps",
+    "chest"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "unilateral",
+  "instructions": [
+    "Lie on your back holding a kettlebell locked out directly above one shoulder, arm fully extended, and plant the same-side foot flat on the floor.",
+    "Keeping the kettlebell locked out and your eyes on it, roll onto the opposite hip and shoulder.",
+    "Use the planted foot to help drive the roll, and press the free hand into the floor for support as you turn.",
+    "Continue rotating until you are propped on the elbow, and then the flat hand, of the non-working arm, with your torso rotated but the kettlebell still stacked over the working shoulder.",
+    "Hold this rotated position briefly, keeping the elbow of the working arm locked and the shoulder packed.",
+    "Reverse the roll back to lying flat, returning the kettlebell overhead throughout, then repeat for the set before switching sides."
+  ],
+  "images": [],
+  "video": null
+}

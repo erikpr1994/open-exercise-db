@@ -1,0 +1,35 @@
+{
+  "id": "butt-kicks",
+  "name": "Butt Kicks",
+  "aliases": [
+    "heel kicks",
+    "butt kickers"
+  ],
+  "family": "sprint-drill",
+  "variantGroup": null,
+  "modality": "cardio",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "pull",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "quadriceps"
+  ],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Stand tall with your feet hip-width apart, chest up, and core braced.",
+    "Jog lightly in place, bending one knee and kicking that heel up to touch or come close to your glute.",
+    "Quickly lower that foot and repeat the motion with the opposite leg.",
+    "Keep your thighs pointed toward the floor throughout, driving the movement from the knee rather than the hip.",
+    "Pump your arms in a relaxed running rhythm and stay on the balls of your feet.",
+    "Continue alternating legs at a quick cadence for the desired amount of time."
+  ],
+  "images": [],
+  "video": null
+}
