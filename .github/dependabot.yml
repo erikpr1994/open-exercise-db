@@ -11,3 +11,12 @@ updates:
     directory: "/"
     schedule:
       interval: weekly
+  - package-ecosystem: pip
+    directory: "/render"
+    schedule:
+      interval: weekly
+    groups:
+      torch:
+        patterns: ["torch", "torchvision"]
+      pip-minor-and-patch:
+        update-types: ["minor", "patch"]

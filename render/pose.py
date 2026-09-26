@@ -1,21 +1,26 @@
-import json, sys, os
+import json, sys
 from pathlib import Path
+import torch
 HERE = Path(__file__).resolve().parent
 WORK = HERE / '.work'
-import mediapipe as mp
-from mediapipe.tasks.python import vision, BaseOptions
-det = vision.PoseLandmarker.create_from_options(vision.PoseLandmarkerOptions(base_options=BaseOptions(model_asset_path=str(WORK / 'pose.task'))))
-out = json.load(open(WORK / 'poses.json')) if os.path.exists(WORK / 'poses.json') else {}
+CKPT = WORK / 'sam-3d-body-dinov3'
+sys.path.insert(0, str(WORK / 'sam-3d-body'))
+import sam_3d_body.sam_3d_body_estimator as estimator
+import sam_3d_body.models.meta_arch.sam3d_body as sam3d_body
+from sam_3d_body import load_sam_3d_body, SAM3DBodyEstimator
+
+hub_load = torch.hub.load
+torch.hub.load = lambda repo, model, source, **kw: hub_load(str(WORK / 'dinov3'), model, source='local', **kw)
+torch.Tensor.cuda = lambda self, *args, **kwargs: self
+for module in (estimator, sam3d_body):
+    module.recursive_to = lambda x, device, to=module.recursive_to: to(x, 'cpu' if device == 'cuda' else device)
+
+model, cfg = load_sam_3d_body(str(CKPT / 'model.ckpt'), device='cpu', mhr_path=str(CKPT / 'assets' / 'mhr_model.pt'))
+body = SAM3DBodyEstimator(sam_3d_body_model=model, model_cfg=cfg)
+path = WORK / 'poses.json'
+out = json.loads(path.read_text()) if path.exists() else {}
 for ex in sys.argv[1:]:
-    frames = []
-    for i in (0, 1):
-        img = mp.Image.create_from_file(str(HERE.parent / 'images' / ex / f'{i}.jpg'))
-        r = det.detect(img)
-        if not r.pose_world_landmarks:
-            frames = None; break
-        frames.append({'world': [[p.x, p.y, p.z] for p in r.pose_world_landmarks[0]],
-                       'img': [[p.x * img.width, p.y * img.height, p.visibility] for p in r.pose_landmarks[0]]})
-    out[ex] = frames
-    print(ex, 'ok' if frames else 'NO POSE', flush=True)
-json.dump(out, open(WORK / 'poses.json', 'w'))
-os._exit(0)
+    people = [body.process_one_image(str(HERE.parent / 'images' / ex / f'{i}.jpg'), inference_type='body') for i in (0, 1)]
+    out[ex] = [p[0]['pred_joint_coords'].round(4).tolist() for p in people] if all(people) else None
+    print(ex, 'ok' if out[ex] else 'NO POSE', flush=True)
+path.write_text(json.dumps(out))

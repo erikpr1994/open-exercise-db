@@ -24,3 +24,4 @@ for f, t in ((f'{D}/hair/ponytail01/ponytail01.mhclo', 'Hair'), (f'{D}/eyebrows/
         print('ASSET ERR', t, repr(e))
 bpy.ops.wm.save_as_mainfile(filepath=str(WORK / 'character.blend'))
 print('saved')
+os._exit(0)

@@ -50,31 +50,31 @@ for f in body.data.polygons:
     elif top.startswith('spine05') and z < 0.86: idx = 2
     elif top.startswith(('spine', 'breast', 'clavicle')) and z < 1.27: idx = 1
     f.material_index = idx
-poses = json.load(open(WORK / 'poses.json'))[ex]
-def mp(p): return Vector((p[0], p[2], -p[1]))
+MHR = {'L': {'hip': 2, 'knee': 3, 'ankle': 4, 'ball': 8, 'shoulder': 75, 'elbow': 76, 'wrist': 77, 'knuckle': 88},
+       'R': {'hip': 18, 'knee': 19, 'ankle': 20, 'ball': 24, 'shoulder': 39, 'elbow': 40, 'wrist': 41, 'knuckle': 52}}
+SPINE = {'pelvis': 1, 'chest': 36, 'neck': 110, 'head': 113, 'crown': 126}
+joints = json.load(open(WORK / 'poses.json'))[ex]
+def cam(p): return Vector((p[0], p[2], -p[1]))
 def level(frames):
     best = None
-    for lm in frames:
-        P = [mp(p) for p in lm]
-        for h, k, a in ((23, 25, 27), (24, 26, 28)):
-            straight = (P[k] - P[h]).normalized().dot((P[a] - P[k]).normalized())
-            v = P[h] - P[a]
-            if best is None or straight > best[0]: best = (straight, v)
+    for P in frames:
+        for s in MHR.values():
+            h, k, a = (cam(P[s[n]]) for n in ('hip', 'knee', 'ankle'))
+            straight = (k - h).normalized().dot((a - k).normalized())
+            if best is None or straight > best[0]: best = (straight, h - a)
     pitch = math.atan2(best[1].y, best[1].z)
     pitch = max(-0.5, min(0.5, pitch)) if best[0] > 0.9 else 0.0
     R = Matrix.Rotation(pitch, 3, 'X')
-    fr = [[R @ mp(p) for p in lm] for lm in frames]
-    h = sum((lm[23] - lm[24] for lm in fr), Vector())
+    fr = [[R @ cam(p) for p in P] for P in frames]
+    h = sum((P[MHR['L']['hip']] - P[MHR['R']['hip']] for P in fr), Vector())
     Y = Matrix.Rotation(-math.atan2(h.y, h.x), 3, 'Z')
-    return [[Y @ p for p in lm] for lm in fr]
+    return [[Y @ p for p in P] for P in fr]
 def targets(P):
-    m = lambda a, b: (P[a] + P[b]) / 2
-    T = {'pelvis': m(23, 24), 'neck': m(11, 12), 'head': m(7, 8), 'hipL': P[23], 'hipR': P[24], 'shL': P[11], 'shR': P[12]}
-    for s, (sh, el, wr, pk, ix, hp, kn, an, ft) in (('L', (11, 13, 15, 17, 19, 23, 25, 27, 31)), ('R', (12, 14, 16, 18, 20, 24, 26, 28, 32))):
-        T['upperarm'+s] = P[el] - P[sh]; T['forearm'+s] = P[wr] - P[el]; T['hand'+s] = (P[pk] + P[ix]) / 2 - P[wr]
-        T['thigh'+s] = P[kn] - P[hp]; T['shin'+s] = P[an] - P[kn]; T['foot'+s] = P[ft] - P[an]
+    T = {n: P[i] for n, i in SPINE.items()}
+    for s, J in MHR.items():
+        T.update({n + s: P[i] for n, i in J.items()})
     return T
-TA, TB = [targets(lm) for lm in level([f['world'] for f in poses])]
+TA, TB = [targets(P) for P in level(joints)]
 def frame_of(x, up):
     x = x.normalized(); z = (up - up.project(x)).normalized(); y = z.cross(x)
     return Matrix((x, y, z)).transposed().to_quaternion()
@@ -92,28 +92,28 @@ def aim(name, d):
     cur = pb[name].matrix.to_quaternion()
     put(name, (cur @ Vector((0, 1, 0))).rotation_difference(d.normalized()) @ cur)
 
+def seg(a, b, t): return lerpdir(TA[b] - TA[a], TB[b] - TB[a], t)
+
 def pose_frame(t):
     for b in pb: b.rotation_quaternion = (1, 0, 0, 0); b.location = (0, 0, 0)
     bpy.context.view_layer.update()
-    up = lerpdir(TA['neck'] - TA['pelvis'], TB['neck'] - TB['pelvis'], t)
-    hipx = lerpdir(TA['hipL'] - TA['hipR'], TB['hipL'] - TB['hipR'], t)
-    shx = lerpdir(TA['shL'] - TA['shR'], TB['shL'] - TB['shR'], t)
-    fp, fc = frame_of(hipx, up), frame_of(shx, up)
+    lower, upper = seg('pelvis', 'chest', t), seg('chest', 'neck', t)
+    hipx, shx = seg('hipR', 'hipL', t), seg('shoulderR', 'shoulderL', t)
+    fp, fc = frame_of(hipx, lower), frame_of(shx, upper)
     world_frame('root', fp)
     for n in ('spine05', 'spine04', 'spine03'): world_frame(n, fp)
     for n in ('spine02', 'spine01'): world_frame(n, fc)
-    hd = lerpdir(TA['head'] - TA['neck'], TB['head'] - TB['neck'], t)
-    hd = hd.normalized() * 0.35 + up.normalized() * 0.65
-    for n in ('neck01', 'neck02', 'neck03', 'head'): aim(n, hd)
+    for n in ('neck01', 'neck02', 'neck03'): aim(n, seg('neck', 'head', t))
+    aim('head', seg('head', 'crown', t))
     for s in 'LR':
-        ua, fa, hn = (lerpdir(TA[k + s], TB[k + s], t) for k in ('upperarm', 'forearm', 'hand'))
+        ua, fa, hn = seg('shoulder' + s, 'elbow' + s, t), seg('elbow' + s, 'wrist' + s, t), seg('wrist' + s, 'knuckle' + s, t)
         aim('upperarm01.' + s, ua); aim('upperarm02.' + s, ua)
         aim('lowerarm01.' + s, fa); aim('lowerarm02.' + s, fa); aim('wrist.' + s, hn)
-        th, sh = lerpdir(TA['thigh' + s], TB['thigh' + s], t), lerpdir(TA['shin' + s], TB['shin' + s], t)
+        th, sh = seg('hip' + s, 'knee' + s, t), seg('knee' + s, 'ankle' + s, t)
         aim('upperleg01.' + s, th); aim('upperleg02.' + s, th)
         aim('lowerleg01.' + s, sh); aim('lowerleg02.' + s, sh)
-        fd = lerpdir(TA['foot' + s], TB['foot' + s], t)
-        flat = Vector((fd.x, fd.y, 0)); fwd = hipx.cross(up); fwd.z = 0
+        fd = seg('ankle' + s, 'ball' + s, t)
+        flat = Vector((fd.x, fd.y, 0)); fwd = hipx.cross(lower); fwd.z = 0
         if flat.length < 0.5 * fd.length or flat.normalized().dot(fwd.normalized()) < 0.3: flat = fwd
         aim('foot.' + s, flat.normalized() + Vector((0, 0, -0.45)))
     low = min(min((rig.matrix_world @ pb['lowerleg02.' + s].tail).z - 0.062, (rig.matrix_world @ pb['foot.' + s].tail).z - 0.036) for s in 'LR')
@@ -151,3 +151,4 @@ if os.environ.get('STILL'):
         sc.frame_set(f); sc.render.filepath = f'{out}_{f}.png'; bpy.ops.render.render(write_still=True)
 else:
     sc.render.filepath = out + '/f_'; bpy.ops.render.render(animation=True)
+os._exit(0)
