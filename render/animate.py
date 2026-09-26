@@ -6,6 +6,9 @@ from mathutils import Vector, Quaternion, Matrix
 
 ex, out = sys.argv[1], sys.argv[2]
 FRAMES, RES = int(os.environ.get('FRAMES', 72)), int(os.environ.get('RES', 540))
+joints = json.load(open(WORK / 'poses.json')).get(ex)
+if not joints:
+    sys.exit(f'No pose found for {ex}')
 addon_utils.enable('bl_ext.user_default.mpfb', default_set=True)
 bpy.ops.wm.open_mainfile(filepath=str(WORK / 'character.blend'))
 sc = bpy.context.scene
@@ -53,7 +56,6 @@ for f in body.data.polygons:
 MHR = {'L': {'hip': 2, 'knee': 3, 'ankle': 4, 'ball': 8, 'shoulder': 75, 'elbow': 76, 'wrist': 77, 'knuckle': 88},
        'R': {'hip': 18, 'knee': 19, 'ankle': 20, 'ball': 24, 'shoulder': 39, 'elbow': 40, 'wrist': 41, 'knuckle': 52}}
 SPINE = {'pelvis': 1, 'chest': 36, 'neck': 110, 'head': 113, 'crown': 126}
-joints = json.load(open(WORK / 'poses.json'))[ex]
 def cam(p): return Vector((p[0], p[2], -p[1]))
 def level(frames):
     best = None
