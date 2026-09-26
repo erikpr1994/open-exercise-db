@@ -6,6 +6,9 @@ from mathutils import Vector, Quaternion, Matrix
 
 ex, out = sys.argv[1], sys.argv[2]
 FRAMES, RES = int(os.environ.get('FRAMES', 72)), int(os.environ.get('RES', 540))
+poses = json.load(open(WORK / 'poses.json')).get(ex)
+if not poses:
+    sys.exit(f'No pose found for {ex}')
 addon_utils.enable('bl_ext.user_default.mpfb', default_set=True)
 bpy.ops.wm.open_mainfile(filepath=str(WORK / 'character.blend'))
 sc = bpy.context.scene
@@ -50,7 +53,6 @@ for f in body.data.polygons:
     elif top.startswith('spine05') and z < 0.86: idx = 2
     elif top.startswith(('spine', 'breast', 'clavicle')) and z < 1.27: idx = 1
     f.material_index = idx
-poses = json.load(open(WORK / 'poses.json'))[ex]
 def mp(p): return Vector((p[0], p[2], -p[1]))
 def level(frames):
     best = None

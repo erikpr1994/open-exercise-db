@@ -2,7 +2,7 @@
 set -euo pipefail
 cd "$(dirname "$0")"
 mkdir -p .work
-python3 -m venv .work/venv
+python3.11 -m venv .work/venv
 . .work/venv/bin/activate
 pip install -q -r requirements.txt
 curl -sSfL -o .work/pose.task https://storage.googleapis.com/mediapipe-models/pose_landmarker/pose_landmarker_heavy/float16/latest/pose_landmarker_heavy.task

@@ -21,6 +21,6 @@ for f, t in ((f'{D}/hair/ponytail01/ponytail01.mhclo', 'Hair'), (f'{D}/eyebrows/
         o = HumanService.add_mhclo_asset(f, body, asset_type=t, subdiv_levels=0, material_type='MAKESKIN')
         print('added', t, o and o.name)
     except Exception as e:
-        print('ASSET ERR', t, repr(e))
+        raise RuntimeError(f'Failed to load {t} asset from {f}') from e
 bpy.ops.wm.save_as_mainfile(filepath=str(WORK / 'character.blend'))
 print('saved')
