@@ -1,0 +1,29 @@
+{
+  "id": "adductor-ball-squeeze",
+  "name": "Adductor Ball Squeeze",
+  "aliases": [
+    "isometric adductor squeeze",
+    "ball squeeze"
+  ],
+  "family": "hip-adduction",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "static",
+  "equipment": "exercise ball",
+  "primaryMuscles": [
+    "adductors"
+  ],
+  "secondaryMuscles": [],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Lie on your back with your knees bent and your feet flat on the floor.",
+    "Place a ball, cushion or folded towel between your knees.",
+    "Squeeze your knees together at a moderate effort and hold for the set time.",
+    "Release slowly and rest."
+  ],
+  "images": [],
+  "video": null
+}

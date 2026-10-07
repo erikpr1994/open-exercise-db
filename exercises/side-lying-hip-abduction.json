@@ -1,0 +1,29 @@
+{
+  "id": "side-lying-hip-abduction",
+  "name": "Side-Lying Hip Abduction",
+  "aliases": [
+    "side-lying leg raise"
+  ],
+  "family": "hip-abduction",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "pull",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abductors",
+    "glutes"
+  ],
+  "secondaryMuscles": [],
+  "measurementType": "reps",
+  "laterality": "unilateral",
+  "instructions": [
+    "Lie on your side with the bottom knee bent and the top leg straight, in line with your body.",
+    "Keep your pelvis stacked and your toes pointing forward.",
+    "Raise the top leg slightly behind the body line and hold for 2 seconds at the top.",
+    "Lower the leg slowly and repeat, then switch sides."
+  ],
+  "images": [],
+  "video": null
+}
