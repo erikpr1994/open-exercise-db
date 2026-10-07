@@ -1,0 +1,33 @@
+{
+  "id": "legs-up-the-wall",
+  "name": "Legs Up The Wall",
+  "aliases": [
+    "Viparita Karani",
+    "Legs Up Wall Pose"
+  ],
+  "family": "hamstring-stretch",
+  "variantGroup": null,
+  "modality": "stretching",
+  "level": "beginner",
+  "mechanic": null,
+  "force": "static",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "lower back",
+    "calves"
+  ],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Sit side-on to a wall. Lie back and swing both legs up so they rest against the wall.",
+    "Bring your glutes close to the wall. A small gap is fine if your hamstrings are tight.",
+    "Let your legs rest straight and relaxed. Put your arms open by your sides, palms up.",
+    "Breathe slowly through the nose. Hold this position for 3 to 5 minutes.",
+    "To exit, bend your knees, roll onto one side, and sit up slowly."
+  ],
+  "images": [],
+  "video": null
+}
