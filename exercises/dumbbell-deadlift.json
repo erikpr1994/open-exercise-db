@@ -1,0 +1,36 @@
+{
+  "id": "dumbbell-deadlift",
+  "name": "Dumbbell Deadlift",
+  "aliases": [
+    "db deadlift"
+  ],
+  "family": "deadlift",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "pull",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "forearms",
+    "hamstrings",
+    "lower back",
+    "quadriceps",
+    "traps"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Stand with your feet hip width apart and a dumbbell on the floor on each side of your feet, or one dumbbell between them.",
+    "Push your hips back, bend your knees and hold the dumbbells with a firm grip. Keep your back flat.",
+    "Push through your feet and stand up. Keep the dumbbells close to your legs.",
+    "Stand tall at the top. Do not lean back.",
+    "Push your hips back and lower the dumbbells to the floor under control, and repeat."
+  ],
+  "images": [],
+  "video": null
+}

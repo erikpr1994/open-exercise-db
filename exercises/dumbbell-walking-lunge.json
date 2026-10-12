@@ -1,0 +1,32 @@
+{
+  "id": "dumbbell-walking-lunge",
+  "name": "Dumbbell Walking Lunge",
+  "aliases": [
+    "db walking lunge"
+  ],
+  "family": "lunge",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "unilateral",
+  "instructions": [
+    "Stand tall with a dumbbell in each hand at your sides.",
+    "Step forward with one leg and lower your back knee toward the floor until both knees are bent to about 90 degrees.",
+    "Push through your front foot and bring your back leg forward into the next step.",
+    "Keep your torso upright and walk forward, alternating legs for the set."
+  ],
+  "images": [],
+  "video": null
+}

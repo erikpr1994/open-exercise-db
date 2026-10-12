@@ -1,0 +1,33 @@
+{
+  "id": "neutral-grip-pull-up",
+  "name": "Neutral-Grip Pull-Up",
+  "aliases": [
+    "hammer grip pull-up",
+    "parallel grip pull-up"
+  ],
+  "family": "pull-up",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "pull",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "forearms",
+    "middle back"
+  ],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Hold parallel handles with your palms facing each other. Hang with your arms straight.",
+    "Pull your shoulder blades down and back, then pull your chest toward the handles.",
+    "Stop when your chin is above the handles. Do not swing your legs.",
+    "Lower yourself under control until your arms are straight, and repeat."
+  ],
+  "images": [],
+  "video": null
+}

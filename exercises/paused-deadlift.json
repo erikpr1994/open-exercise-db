@@ -1,0 +1,38 @@
+{
+  "id": "paused-deadlift",
+  "name": "Paused Deadlift",
+  "aliases": [
+    "pause deadlift"
+  ],
+  "family": "deadlift",
+  "variantGroup": null,
+  "modality": "powerlifting",
+  "level": "expert",
+  "mechanic": "compound",
+  "force": "pull",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "lower back"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "forearms",
+    "glutes",
+    "hamstrings",
+    "lats",
+    "middle back",
+    "quadriceps",
+    "traps"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Set up as for a conventional deadlift, with the bar over the middle of your feet and a grip just outside your legs.",
+    "Pull the bar off the floor until it is just below your knees.",
+    "Hold this position for 1 to 3 seconds. Keep your back flat and the bar close to your legs.",
+    "Stand up to full lockout with your hips and knees straight.",
+    "Lower the bar to the floor under control, and repeat."
+  ],
+  "images": [],
+  "video": null
+}
