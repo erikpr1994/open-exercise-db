@@ -1,0 +1,32 @@
+{
+  "id": "weighted-dip",
+  "name": "Weighted Dip",
+  "aliases": [
+    "weighted dips",
+    "dip with belt"
+  ],
+  "family": "dip",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "weight plate",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "measurementType": "weighted_bodyweight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Attach a weight plate to a dip belt, or hold a dumbbell between your feet.",
+    "Support yourself on parallel bars with your arms straight. Lean your torso slightly forward.",
+    "Bend your elbows and lower your body until your upper arms are about parallel to the floor.",
+    "Press through your hands until your arms are straight, and repeat."
+  ],
+  "images": [],
+  "video": null
+}
