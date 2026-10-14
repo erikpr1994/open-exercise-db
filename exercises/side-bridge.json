@@ -18,8 +18,13 @@
     "shoulders"
   ],
   "measurementType": "time",
-  "laterality": "bilateral",
-  "instructions": [],
+  "laterality": "unilateral",
+  "instructions": [
+    "Lie on your side with your forearm on the floor and your elbow directly under your shoulder. Stack your feet.",
+    "Lift your hips off the floor until your body forms a straight line from head to feet.",
+    "Hold the position. Keep your hips stacked and do not let them sag or rotate.",
+    "Lower your hips to the floor, turn to the other side, and repeat."
+  ],
   "images": [
     "side-bridge/0.jpg",
     "side-bridge/1.jpg"

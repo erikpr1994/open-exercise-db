@@ -1,0 +1,33 @@
+{
+  "id": "lateral-band-walk",
+  "name": "Lateral Band Walk",
+  "aliases": [
+    "band side walk",
+    "banded lateral walk",
+    "side band walk"
+  ],
+  "family": "hip-abduction",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "pull",
+  "equipment": "bands",
+  "primaryMuscles": [
+    "abductors"
+  ],
+  "secondaryMuscles": [
+    "glutes"
+  ],
+  "measurementType": "reps",
+  "laterality": "unilateral",
+  "instructions": [
+    "Place a band around both legs, just above the knees or around the ankles.",
+    "Stand with your feet hip width apart. Bend your knees and hips a little into a quarter squat.",
+    "Step to the side with the lead foot, then bring the other foot after it. Keep tension on the band and do not let your feet touch.",
+    "Keep your hips level and your toes pointing forward. Take the prescribed number of steps.",
+    "Turn the direction and repeat to the other side."
+  ],
+  "images": [],
+  "video": null
+}
