@@ -974,5 +974,13 @@
     "to": "bilateral",
     "date": "2026-08-27",
     "reason": "The instructions use both hands together; the unilateral value contradicts them."
+  },
+  {
+    "id": "side-bridge",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-10-14",
+    "reason": "The movement holds one side at a time; the bilateral value was seeded wrongly from free-exercise-db."
   }
 ]
