@@ -982,5 +982,13 @@
     "to": "unilateral",
     "date": "2026-10-14",
     "reason": "The movement holds one side at a time; the bilateral value was seeded wrongly from free-exercise-db."
+  },
+  {
+    "id": "carioca-quick-step",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-10-14",
+    "reason": "The instructions lead with one foot and travel to one side; the catalogue counts a sideways movement as one set per side, as for lateral-shuffle."
   }
 ]
