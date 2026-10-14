@@ -1,0 +1,42 @@
+{
+  "id": "4-7-8-breathing",
+  "name": "4-7-8 Breathing",
+  "aliases": [
+    "relaxing breath"
+  ],
+  "family": null,
+  "variantGroup": null,
+  "modality": "breathing",
+  "level": "beginner",
+  "mechanic": null,
+  "force": null,
+  "equipment": "body only",
+  "primaryMuscles": [],
+  "secondaryMuscles": [],
+  "measurementType": "breathing",
+  "laterality": "bilateral",
+  "breathPattern": [
+    {
+      "breath": "in",
+      "seconds": 4
+    },
+    {
+      "breath": "hold",
+      "seconds": 7
+    },
+    {
+      "breath": "out",
+      "seconds": 8
+    }
+  ],
+  "instructions": [
+    "Sit with your back straight and put the tip of your tongue behind your upper front teeth.",
+    "Breathe out fully through your mouth.",
+    "Breathe in quietly through your nose for four seconds.",
+    "Hold your breath for seven seconds.",
+    "Breathe out fully through your mouth for eight seconds, then start the next round.",
+    "Do no more than four rounds at a time for the first month."
+  ],
+  "images": [],
+  "video": null
+}

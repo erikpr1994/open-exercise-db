@@ -1,0 +1,37 @@
+{
+  "id": "coherent-breathing",
+  "name": "Coherent Breathing",
+  "aliases": [
+    "resonance breathing",
+    "resonant frequency breathing"
+  ],
+  "family": null,
+  "variantGroup": null,
+  "modality": "breathing",
+  "level": "beginner",
+  "mechanic": null,
+  "force": null,
+  "equipment": "body only",
+  "primaryMuscles": [],
+  "secondaryMuscles": [],
+  "measurementType": "breathing",
+  "laterality": "bilateral",
+  "breathPattern": [
+    {
+      "breath": "in",
+      "seconds": 5
+    },
+    {
+      "breath": "out",
+      "seconds": 5
+    }
+  ],
+  "instructions": [
+    "Sit or lie down in a comfortable position and relax your shoulders.",
+    "Breathe in slowly and smoothly through your nose for five seconds.",
+    "Breathe out slowly and smoothly through your nose for five seconds, with no pause between breaths.",
+    "Keep an even rhythm for every round."
+  ],
+  "images": [],
+  "video": null
+}

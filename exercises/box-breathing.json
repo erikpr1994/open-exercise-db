@@ -1,0 +1,46 @@
+{
+  "id": "box-breathing",
+  "name": "Box Breathing",
+  "aliases": [
+    "square breathing",
+    "4-4-4-4 breathing"
+  ],
+  "family": null,
+  "variantGroup": null,
+  "modality": "breathing",
+  "level": "beginner",
+  "mechanic": null,
+  "force": null,
+  "equipment": "body only",
+  "primaryMuscles": [],
+  "secondaryMuscles": [],
+  "measurementType": "breathing",
+  "laterality": "bilateral",
+  "breathPattern": [
+    {
+      "breath": "in",
+      "seconds": 4
+    },
+    {
+      "breath": "hold",
+      "seconds": 4
+    },
+    {
+      "breath": "out",
+      "seconds": 4
+    },
+    {
+      "breath": "hold",
+      "seconds": 4
+    }
+  ],
+  "instructions": [
+    "Sit or lie down in a comfortable position and relax your shoulders.",
+    "Breathe in slowly through your nose for four seconds.",
+    "Hold your breath for four seconds.",
+    "Breathe out slowly through your mouth for four seconds.",
+    "Hold your breath with empty lungs for four seconds, then start the next round."
+  ],
+  "images": [],
+  "video": null
+}

@@ -4,5 +4,6 @@
   "weighted_bodyweight_reps",
   "assisted_weight_reps",
   "time",
-  "weighted_time"
+  "weighted_time",
+  "breathing"
 ]
