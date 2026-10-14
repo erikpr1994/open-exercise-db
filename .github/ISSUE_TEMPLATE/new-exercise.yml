@@ -38,6 +38,7 @@ body:
         - strongman
         - cardio
         - technique
+        - breathing
     validations:
       required: true
   - type: dropdown
@@ -139,6 +140,7 @@ body:
         - assisted_weight_reps
         - time
         - weighted_time
+        - breathing
       default: 0
   - type: dropdown
     id: laterality

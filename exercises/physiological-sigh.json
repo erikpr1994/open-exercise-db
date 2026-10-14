@@ -1,0 +1,41 @@
+{
+  "id": "physiological-sigh",
+  "name": "Physiological Sigh",
+  "aliases": [
+    "cyclic sighing",
+    "double inhale breathing"
+  ],
+  "family": null,
+  "variantGroup": null,
+  "modality": "breathing",
+  "level": "beginner",
+  "mechanic": null,
+  "force": null,
+  "equipment": "body only",
+  "primaryMuscles": [],
+  "secondaryMuscles": [],
+  "measurementType": "breathing",
+  "laterality": "bilateral",
+  "breathPattern": [
+    {
+      "breath": "in",
+      "seconds": 2
+    },
+    {
+      "breath": "in",
+      "seconds": 1
+    },
+    {
+      "breath": "out",
+      "seconds": 6
+    }
+  ],
+  "instructions": [
+    "Sit or stand in a comfortable position.",
+    "Breathe in through your nose until your lungs are nearly full.",
+    "Take a second, shorter breath in through your nose to fill your lungs completely.",
+    "Breathe out slowly and fully through your mouth, then start the next round."
+  ],
+  "images": [],
+  "video": null
+}

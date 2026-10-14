@@ -16,6 +16,12 @@
     "instructions",
     "images"
   ],
+  "if": {
+    "properties": { "measurementType": { "const": "breathing" } },
+    "required": ["measurementType"]
+  },
+  "then": { "required": ["breathPattern"] },
+  "else": { "not": { "required": ["breathPattern"] } },
   "properties": {
     "id": {
       "type": "string",
@@ -93,6 +99,20 @@
         { "type": "null" },
         { "type": "string", "x-vocab": "directionalities" }
       ]
+    },
+    "breathPattern": {
+      "type": "array",
+      "minItems": 2,
+      "description": "The steps of one round of a breathing exercise, in order, with the seconds of each step. Present only when measurementType is breathing.",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["breath", "seconds"],
+        "properties": {
+          "breath": { "enum": ["in", "hold", "out"] },
+          "seconds": { "type": "integer", "minimum": 1 }
+        }
+      }
     },
     "instructions": {
       "type": "array",
