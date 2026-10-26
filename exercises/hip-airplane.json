@@ -1,0 +1,32 @@
+{
+  "id": "hip-airplane",
+  "name": "Hip Airplane",
+  "aliases": [
+    "standing hip airplane"
+  ],
+  "family": "mobility",
+  "variantGroup": null,
+  "modality": "stretching",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "force": "static",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "hip flexors"
+  ],
+  "measurementType": "reps",
+  "laterality": "unilateral",
+  "instructions": [
+    "Stand on one leg with a soft knee. Hold a wall or a rack for balance if you need it.",
+    "Hinge forward at the hip until your torso leans over the standing leg and your free leg trails behind you.",
+    "Rotate your pelvis and chest open to the side of the free leg, then rotate them back toward the floor.",
+    "Keep the standing foot flat and your knee over your toes while you rotate.",
+    "Move slowly for the target reps, then switch legs."
+  ],
+  "images": [],
+  "video": null
+}

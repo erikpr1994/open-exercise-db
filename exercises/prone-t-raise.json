@@ -1,0 +1,32 @@
+{
+  "id": "prone-t-raise",
+  "name": "Prone T Raise",
+  "aliases": [
+    "T-Raise"
+  ],
+  "family": "rotator-cuff",
+  "variantGroup": "Prone T",
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "pull",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "middle back",
+    "traps"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Lie face-down on an incline bench with your chest supported and your arms hanging straight down, holding a light dumbbell in each hand.",
+    "Turn your palms to face each other.",
+    "Squeeze your shoulder blades together and lift your arms out to the sides until your body forms a \"T\".",
+    "Keep your elbows almost straight and your neck relaxed.",
+    "Pause briefly at the top, then lower under control and repeat."
+  ],
+  "images": [],
+  "video": null
+}
