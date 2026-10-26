@@ -1,0 +1,34 @@
+{
+  "id": "jump-shrug",
+  "name": "Jump Shrug",
+  "aliases": [
+    "barbell jump shrug"
+  ],
+  "family": "olympic-pull",
+  "variantGroup": null,
+  "modality": "olympic weightlifting",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "pull",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "traps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings",
+    "quadriceps"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Stand with the bar held at mid-thigh, with an overhand grip just outside your legs and your chest up.",
+    "Bend your knees slightly and push your hips back, with the bar close to your thighs.",
+    "Extend your hips, knees and ankles fast to jump, and shrug your shoulders at the same time. Keep your arms straight.",
+    "Land softly on the middle of your feet with your knees bent.",
+    "Reset the bar to mid-thigh and repeat."
+  ],
+  "images": [],
+  "video": null
+}
