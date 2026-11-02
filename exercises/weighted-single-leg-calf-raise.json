@@ -1,0 +1,31 @@
+{
+  "id": "weighted-single-leg-calf-raise",
+  "name": "Weighted Single-Leg Calf Raise",
+  "aliases": [
+    "Single-Leg Calf Raise With Kettlebell",
+    "One-Leg Dumbbell Calf Raise"
+  ],
+  "family": "calf-raise",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "push",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [],
+  "measurementType": "weight_reps",
+  "laterality": "unilateral",
+  "instructions": [
+    "Stand on the ball of one foot on a step, with the heel hanging off the edge.",
+    "Hold a dumbbell or kettlebell in the hand on the same side as the working leg.",
+    "Hold a wall with the other hand for balance.",
+    "Rise as high as you can onto the ball of the foot and pause briefly at the top.",
+    "Lower the heel slowly below the step until the calf is fully stretched.",
+    "Complete all reps on one leg, then switch sides."
+  ],
+  "images": [],
+  "video": null
+}

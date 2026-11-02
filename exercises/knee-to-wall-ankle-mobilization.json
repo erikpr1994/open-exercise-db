@@ -1,0 +1,33 @@
+{
+  "id": "knee-to-wall-ankle-mobilization",
+  "name": "Knee-to-Wall Ankle Mobilization",
+  "aliases": [
+    "Knee to Wall",
+    "Weight-Bearing Lunge Test",
+    "Wall Ankle Dorsiflexion"
+  ],
+  "family": "mobility",
+  "variantGroup": null,
+  "modality": "stretching",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "pull",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [
+    "quadriceps"
+  ],
+  "measurementType": "reps",
+  "laterality": "unilateral",
+  "instructions": [
+    "Stand facing a wall with one foot flat on the floor and the toes a few centimetres from the wall.",
+    "Keep the heel on the floor and drive the knee forward to touch the wall, in line with the middle toes.",
+    "Return slowly and repeat.",
+    "Move the foot back a little further when the movement is easy.",
+    "Complete the reps, then switch legs."
+  ],
+  "images": [],
+  "video": null
+}

@@ -1,0 +1,37 @@
+{
+  "id": "paused-deficit-bulgarian-split-squat",
+  "name": "Paused Deficit Bulgarian Split Squat",
+  "aliases": [
+    "Front-Foot-Elevated Bulgarian Split Squat",
+    "Deficit Rear-Foot-Elevated Split Squat"
+  ],
+  "family": "squat",
+  "variantGroup": "Split & Single-Leg",
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "quadriceps",
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "adductors",
+    "calves",
+    "hamstrings"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "unilateral",
+  "instructions": [
+    "Stand in front of a bench with the front foot on a low plate or step, and hold one dumbbell in one hand.",
+    "Place the top of the rear foot on the bench behind you.",
+    "Lower the back knee toward the floor until the front thigh is at least parallel to the floor.",
+    "Pause for 1 to 2 seconds at the bottom without losing tension.",
+    "Drive through the whole front foot to stand up.",
+    "Complete all reps, then switch legs."
+  ],
+  "images": [],
+  "video": null
+}
