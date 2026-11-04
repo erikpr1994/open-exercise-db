@@ -29,12 +29,13 @@ These rules protect consumers of the released data. Never weaken them.
   the file in the same change. A tombstoned id is retired forever too:
   never reuse it for a new or unrelated exercise, even under a different
   name. `validate.mjs` rejects it.
-- A set `measurementType` never changes. A version of a movement that is
-  measured differently is a separate exercise in the same family.
-- A set `laterality` or `directionality` changes only to correct data that
-  contradicts the instructions, through an entry (id, field, from, to,
-  date, reason) in `corrected-exercises.json` in the same change.
-  `check-release-compat.mjs` rejects any other change.
+- A set `measurementType`, `laterality` or `directionality` changes only
+  to correct data that contradicts the instructions or the movement,
+  through an entry (id, field, from, to, date, reason) in
+  `corrected-exercises.json` in the same change.
+  `check-release-compat.mjs` rejects any other change. A version of a
+  movement that is measured differently is a separate exercise in the same
+  family. A `measurementType` correction is a minor release.
 - Field values marked `x-vocab` must exist in the matching `vocab/` file.
   To use a new value, add it to the vocabulary in the same pull request.
 - Families are broad movement groups. All squat variants belong to the one

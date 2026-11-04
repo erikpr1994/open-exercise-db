@@ -998,5 +998,301 @@
     "to": "unilateral",
     "date": "2026-11-02",
     "reason": "The instructions work one arm at a time; the bilateral value was seeded wrongly from free-exercise-db."
+  },
+  {
+    "id": "open-book-stretch",
+    "field": "measurementType",
+    "from": "time",
+    "to": "reps",
+    "date": "2026-11-04",
+    "reason": "The instructions count repetitions; the time value contradicts them."
+  },
+  {
+    "id": "90-90-hamstring",
+    "field": "measurementType",
+    "from": "time",
+    "to": "reps",
+    "date": "2026-11-04",
+    "reason": "The instructions count repetitions; the time value contradicts them."
+  },
+  {
+    "id": "crossover-reverse-lunge",
+    "field": "measurementType",
+    "from": "time",
+    "to": "reps",
+    "date": "2026-11-04",
+    "reason": "The instructions count repetitions; the time value contradicts them."
+  },
+  {
+    "id": "dynamic-back-stretch",
+    "field": "measurementType",
+    "from": "time",
+    "to": "reps",
+    "date": "2026-11-04",
+    "reason": "The instructions count repetitions; the time value contradicts them."
+  },
+  {
+    "id": "dynamic-chest-stretch",
+    "field": "measurementType",
+    "from": "time",
+    "to": "reps",
+    "date": "2026-11-04",
+    "reason": "The instructions count repetitions; the time value contradicts them."
+  },
+  {
+    "id": "front-leg-raises",
+    "field": "measurementType",
+    "from": "time",
+    "to": "reps",
+    "date": "2026-11-04",
+    "reason": "The instructions count repetitions; the time value contradicts them."
+  },
+  {
+    "id": "side-leg-raises",
+    "field": "measurementType",
+    "from": "time",
+    "to": "reps",
+    "date": "2026-11-04",
+    "reason": "The instructions count repetitions; the time value contradicts them."
+  },
+  {
+    "id": "rear-leg-raises",
+    "field": "measurementType",
+    "from": "time",
+    "to": "reps",
+    "date": "2026-11-04",
+    "reason": "The instructions count repetitions; the time value contradicts them."
+  },
+  {
+    "id": "groiners",
+    "field": "measurementType",
+    "from": "time",
+    "to": "reps",
+    "date": "2026-11-04",
+    "reason": "The instructions count repetitions; the time value contradicts them."
+  },
+  {
+    "id": "iron-crosses-stretch",
+    "field": "measurementType",
+    "from": "time",
+    "to": "reps",
+    "date": "2026-11-04",
+    "reason": "The instructions count repetitions; the time value contradicts them."
+  },
+  {
+    "id": "windmills",
+    "field": "measurementType",
+    "from": "time",
+    "to": "reps",
+    "date": "2026-11-04",
+    "reason": "The instructions count repetitions; the time value contradicts them."
+  },
+  {
+    "id": "hip-circles-prone",
+    "field": "measurementType",
+    "from": "time",
+    "to": "reps",
+    "date": "2026-11-04",
+    "reason": "The instructions count repetitions; the time value contradicts them."
+  },
+  {
+    "id": "standing-hip-circles",
+    "field": "measurementType",
+    "from": "time",
+    "to": "reps",
+    "date": "2026-11-04",
+    "reason": "The instructions count repetitions; the time value contradicts them."
+  },
+  {
+    "id": "knee-circles",
+    "field": "measurementType",
+    "from": "time",
+    "to": "reps",
+    "date": "2026-11-04",
+    "reason": "The instructions count repetitions; the time value contradicts them."
+  },
+  {
+    "id": "wrist-circles",
+    "field": "measurementType",
+    "from": "time",
+    "to": "reps",
+    "date": "2026-11-04",
+    "reason": "The instructions count repetitions; the time value contradicts them."
+  },
+  {
+    "id": "ankle-circles",
+    "field": "measurementType",
+    "from": "time",
+    "to": "reps",
+    "date": "2026-11-04",
+    "reason": "The instructions count repetitions; the time value contradicts them."
+  },
+  {
+    "id": "toe-touchers",
+    "field": "measurementType",
+    "from": "time",
+    "to": "reps",
+    "date": "2026-11-04",
+    "reason": "The instructions count repetitions; the time value contradicts them."
+  },
+  {
+    "id": "torso-rotation",
+    "field": "measurementType",
+    "from": "time",
+    "to": "reps",
+    "date": "2026-11-04",
+    "reason": "The instructions count repetitions; the time value contradicts them."
+  },
+  {
+    "id": "lower-back-curl",
+    "field": "measurementType",
+    "from": "time",
+    "to": "reps",
+    "date": "2026-11-04",
+    "reason": "The instructions count repetitions; the time value contradicts them."
+  },
+  {
+    "id": "isometric-wipers",
+    "field": "measurementType",
+    "from": "time",
+    "to": "reps",
+    "date": "2026-11-04",
+    "reason": "The instructions count repetitions; the time value contradicts them."
+  },
+  {
+    "id": "sit-squats",
+    "field": "measurementType",
+    "from": "time",
+    "to": "reps",
+    "date": "2026-11-04",
+    "reason": "The instructions count repetitions; the time value contradicts them."
+  },
+  {
+    "id": "scissor-kick",
+    "field": "measurementType",
+    "from": "time",
+    "to": "reps",
+    "date": "2026-11-04",
+    "reason": "The instructions count repetitions; the time value contradicts them."
+  },
+  {
+    "id": "90-90-hip-rotation",
+    "field": "measurementType",
+    "from": "time",
+    "to": "reps",
+    "date": "2026-11-04",
+    "reason": "The movement is done as repeated repetitions, so it is measured in repetitions. The instructions now count repetitions."
+  },
+  {
+    "id": "spiderman-lunge",
+    "field": "measurementType",
+    "from": "time",
+    "to": "reps",
+    "date": "2026-11-04",
+    "reason": "The movement is done as repeated repetitions, so it is measured in repetitions. The instructions now count repetitions."
+  },
+  {
+    "id": "walking-knee-hug",
+    "field": "measurementType",
+    "from": "time",
+    "to": "reps",
+    "date": "2026-11-04",
+    "reason": "The movement is done as repeated repetitions, so it is measured in repetitions. The instructions now count repetitions."
+  },
+  {
+    "id": "walking-quad-pull",
+    "field": "measurementType",
+    "from": "time",
+    "to": "reps",
+    "date": "2026-11-04",
+    "reason": "The movement is done as repeated repetitions, so it is measured in repetitions. The instructions now count repetitions."
+  },
+  {
+    "id": "wall-slide",
+    "field": "measurementType",
+    "from": "time",
+    "to": "reps",
+    "date": "2026-11-04",
+    "reason": "The movement is done as repeated repetitions, so it is measured in repetitions. The instructions now count repetitions."
+  },
+  {
+    "id": "inchworm",
+    "field": "measurementType",
+    "from": "time",
+    "to": "reps",
+    "date": "2026-11-04",
+    "reason": "The movement is done as repeated repetitions, so it is measured in repetitions. The instructions now count repetitions."
+  },
+  {
+    "id": "shoulder-raise",
+    "field": "measurementType",
+    "from": "time",
+    "to": "reps",
+    "date": "2026-11-04",
+    "reason": "The movement is done as repeated repetitions, so it is measured in repetitions. The instructions now count repetitions."
+  },
+  {
+    "id": "shoulder-circles",
+    "field": "measurementType",
+    "from": "time",
+    "to": "reps",
+    "date": "2026-11-04",
+    "reason": "The movement is done as repeated repetitions, so it is measured in repetitions. The instructions now count repetitions."
+  },
+  {
+    "id": "elbow-circles",
+    "field": "measurementType",
+    "from": "time",
+    "to": "reps",
+    "date": "2026-11-04",
+    "reason": "The movement is done as repeated repetitions, so it is measured in repetitions. The instructions now count repetitions."
+  },
+  {
+    "id": "superman",
+    "field": "measurementType",
+    "from": "time",
+    "to": "reps",
+    "date": "2026-11-04",
+    "reason": "The movement is done as repeated repetitions, so it is measured in repetitions. The instructions now count repetitions."
+  },
+  {
+    "id": "groin-and-back-stretch",
+    "field": "measurementType",
+    "from": "time",
+    "to": "reps",
+    "date": "2026-11-04",
+    "reason": "The instructions count repetitions; the time value contradicts them."
+  },
+  {
+    "id": "spinal-stretch",
+    "field": "measurementType",
+    "from": "time",
+    "to": "reps",
+    "date": "2026-11-04",
+    "reason": "The instructions count repetitions; the time value contradicts them."
+  },
+  {
+    "id": "prone-manual-hamstring",
+    "field": "measurementType",
+    "from": "time",
+    "to": "reps",
+    "date": "2026-11-04",
+    "reason": "The instructions count repetitions; the time value contradicts them."
+  },
+  {
+    "id": "pelvic-tilt-into-bridge",
+    "field": "measurementType",
+    "from": "time",
+    "to": "reps",
+    "date": "2026-11-04",
+    "reason": "The movement is done as repeated repetitions, so it is measured in repetitions. The instructions now count repetitions."
+  },
+  {
+    "id": "isometric-chest-squeezes",
+    "field": "measurementType",
+    "from": "reps",
+    "to": "time",
+    "date": "2026-11-04",
+    "reason": "The instructions describe one hold for a set number of seconds, not repetitions."
   }
 ]

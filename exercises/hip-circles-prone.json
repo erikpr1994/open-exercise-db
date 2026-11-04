@@ -17,7 +17,7 @@
   "secondaryMuscles": [
     "adductors"
   ],
-  "measurementType": "time",
+  "measurementType": "reps",
   "laterality": "unilateral",
   "directionality": "bidirectional",
   "instructions": [

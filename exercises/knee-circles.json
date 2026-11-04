@@ -15,7 +15,7 @@
     "hamstrings",
     "quadriceps"
   ],
-  "measurementType": "time",
+  "measurementType": "reps",
   "laterality": "bilateral",
   "directionality": "bidirectional",
   "instructions": [

@@ -12,12 +12,13 @@
     "lower back"
   ],
   "secondaryMuscles": [],
-  "measurementType": "time",
+  "measurementType": "reps",
   "laterality": "bilateral",
   "instructions": [
     "Lie down with your feet on the floor, heels directly under your knees.",
     "Lift only your tailbone to the ceiling to stretch your lower back. (Don't lift the entire spine yet.) Pull in your stomach.",
-    "To go into a bridge, lift the entire spine except the neck."
+    "To go into a bridge, lift the entire spine except the neck.",
+    "Lower the spine slowly back to the floor, one segment at a time. Repeat for the set number of repetitions."
   ],
   "images": [
     "pelvic-tilt-into-bridge/0.jpg",

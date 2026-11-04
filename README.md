@@ -47,17 +47,19 @@ pair each name with a `loading` characteristic
 
 Each release ships `exercises.json` — every exercise merged into a single
 array, with derived fields (such as loaded joint regions) computed at build
-time. Consume releases, not `main`. Released ids are stable and a set
-measurement type never changes: CI compares every change against the latest
-release and fails on a violation, so consumers can take the newest release
-without fear of orphaned references.
+time. Consume releases, not `main`. Released ids are stable. A set
+measurement type, laterality or directionality changes only as a correction
+listed in `corrected-exercises.json`: CI compares every change against the
+latest release and fails on any other change, so consumers can take the
+newest release without fear of orphaned references. A measurement type
+correction ships as a minor release.
 
 Releases are cut automatically: every merge to `main` that changes the
 shipped data publishes a new release. Version numbers follow a simple
 policy — **patch** for additive or corrective data changes, **minor** for
 changes consumers should review before upgrading (exercise removals,
-vocabulary or schema changes), and **major** for incompatible schema
-restructures. The automatic release picks patch, except that it detects
+measurement type corrections, vocabulary or schema changes), and **major**
+for incompatible schema restructures. The automatic release picks patch, except that it detects
 removed exercise ids and bumps minor on its own. Schema-driven minors and
 majors are cut by hand: push a `vX.Y.0` tag, or run the "Auto release"
 workflow with an explicit version.

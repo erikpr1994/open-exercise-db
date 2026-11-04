@@ -19,7 +19,7 @@
     "adductors",
     "hamstrings"
   ],
-  "measurementType": "time",
+  "measurementType": "reps",
   "laterality": "unilateral",
   "instructions": [
     "Start in a high plank, hands under shoulders.",
@@ -27,7 +27,7 @@
     "Lower the hips, keeping the chest lifted and the back leg extended.",
     "Rotate the torso toward the front leg, reaching the same-side arm to the ceiling and following it with your eyes.",
     "Hold briefly, then return the hand to the floor and step back to plank.",
-    "Alternate sides for the set time."
+    "Alternate sides. Each lunge with its rotation is one repetition."
   ],
   "images": [
     "spiderman-lunge/0.jpg"
