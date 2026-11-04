@@ -1,0 +1,31 @@
+{
+  "id": "alternating-band-pull-apart",
+  "name": "Alternating Band Pull Apart",
+  "aliases": [
+    "side-to-side band pull apart"
+  ],
+  "family": "reverse-fly",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "pull",
+  "equipment": "bands",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "middle back",
+    "traps"
+  ],
+  "measurementType": "reps",
+  "laterality": "unilateral",
+  "instructions": [
+    "Hold a light band with both hands, arms straight out in front of you at shoulder height.",
+    "Keep the elbows straight and pull the band apart toward your right side: the right hand moves out to the side while the left hand stays in front.",
+    "Keep your shoulder blades back and down. Pause, then return to the start under control.",
+    "Do the next rep toward your left side. Change sides on each rep."
+  ],
+  "images": [],
+  "video": null
+}
