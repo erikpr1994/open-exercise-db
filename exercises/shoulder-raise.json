@@ -14,10 +14,11 @@
   "secondaryMuscles": [
     "lats"
   ],
-  "measurementType": "time",
+  "measurementType": "reps",
   "laterality": "bilateral",
   "instructions": [
-    "Relax your arms to your sides and raise your shoulders up toward your ears, then back down."
+    "Relax your arms to your sides and raise your shoulders up toward your ears, then back down.",
+    "Repeat for the set number of repetitions."
   ],
   "images": [
     "shoulder-raise/0.jpg",

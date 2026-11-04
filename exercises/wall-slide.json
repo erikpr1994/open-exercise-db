@@ -19,7 +19,7 @@
     "middle back",
     "traps"
   ],
-  "measurementType": "time",
+  "measurementType": "reps",
   "laterality": "bilateral",
   "instructions": [
     "Stand with head, upper back, and glutes against a wall, feet a few inches out from it.",
@@ -27,7 +27,7 @@
     "Keep the lower back flat against the wall, ribs down.",
     "Slowly slide the arms up the wall, extending the elbows, keeping full contact.",
     "Pause at the top without arching the back, then slide back down under control.",
-    "Repeat for the set time or reps."
+    "Repeat for the set number of repetitions."
   ],
   "images": [],
   "video": null

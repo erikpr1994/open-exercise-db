@@ -19,7 +19,7 @@
     "glutes",
     "hip flexors"
   ],
-  "measurementType": "time",
+  "measurementType": "reps",
   "laterality": "unilateral",
   "instructions": [
     "Stand tall, feet together.",
@@ -27,7 +27,7 @@
     "Pull the heel toward the glute, keeping the knee pointed down and in line with the hip, chest up.",
     "Hold for one count.",
     "Release, step forward, and repeat pulling the opposite ankle.",
-    "Continue alternating for the set distance or time."
+    "Continue alternating. Each pull is one repetition."
   ],
   "images": [
     "walking-quad-pull/0.jpg"
