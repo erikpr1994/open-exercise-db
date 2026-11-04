@@ -1,0 +1,33 @@
+{
+  "id": "cat-cow",
+  "name": "Cat-Cow",
+  "aliases": [
+    "Cat Camel Flow",
+    "Cat-Cow Spinal Flow"
+  ],
+  "family": "mobility",
+  "variantGroup": null,
+  "modality": "stretching",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "static",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "lower back"
+  ],
+  "secondaryMuscles": [
+    "middle back",
+    "abdominals"
+  ],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Kneel on all fours with the hands under the shoulders and the knees under the hips.",
+    "Inhale and let the belly sink as you lift the chest and tailbone and look slightly forward.",
+    "Exhale, press the floor away, round the spine and tuck the chin and tailbone.",
+    "Move slowly between the two positions in a smooth flow.",
+    "Repeat for the set reps."
+  ],
+  "images": [],
+  "video": null
+}

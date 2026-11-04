@@ -18,14 +18,14 @@
   "secondaryMuscles": [
     "hip flexors"
   ],
-  "measurementType": "time",
+  "measurementType": "reps",
   "laterality": "bilateral",
   "instructions": [
     "Sit on the floor with one leg bent 90 degrees in front of you and the other bent 90 degrees out to the side.",
     "Sit tall with your chest up and core engaged.",
     "Rotate both knees over to the opposite side, moving smoothly into the mirrored 90/90 position.",
     "Keep both sit bones as grounded as possible and move slowly with control.",
-    "Alternate from side to side for the prescribed amount of time."
+    "Alternate from side to side. Each rotation is one repetition."
   ],
   "images": [
     "90-90-hip-rotation/0.jpg"

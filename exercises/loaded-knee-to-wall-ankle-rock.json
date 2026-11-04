@@ -1,0 +1,32 @@
+{
+  "id": "loaded-knee-to-wall-ankle-rock",
+  "name": "Loaded Knee-to-Wall Ankle Rock",
+  "aliases": [
+    "Weighted Knee-to-Wall Rock",
+    "Loaded Ankle Dorsiflexion Rock"
+  ],
+  "family": "mobility",
+  "variantGroup": null,
+  "modality": "stretching",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "pull",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [
+    "quadriceps"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "unilateral",
+  "instructions": [
+    "Stand facing a wall in a split stance, with the front foot a hand-width or more from the wall.",
+    "Hold a light kettlebell at the chest.",
+    "Keep the front heel flat and drive the knee forward to touch the wall.",
+    "Hold for 5 seconds at the end of the range, then rock back.",
+    "Complete the reps, then switch sides."
+  ],
+  "images": [],
+  "video": null
+}

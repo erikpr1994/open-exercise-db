@@ -19,7 +19,7 @@
     "hamstrings",
     "hip flexors"
   ],
-  "measurementType": "time",
+  "measurementType": "reps",
   "laterality": "unilateral",
   "instructions": [
     "Stand tall, feet hip-width apart.",
@@ -27,7 +27,7 @@
     "Clasp both hands around the shin, just below the knee, and pull it gently closer.",
     "Hold briefly while balancing on the standing leg.",
     "Release, step the raised foot down and forward, and repeat lifting the other knee.",
-    "Continue alternating while walking forward for the set distance or time."
+    "Continue alternating while walking forward. Each knee hug is one repetition."
   ],
   "images": [
     "walking-knee-hug/0.jpg"
