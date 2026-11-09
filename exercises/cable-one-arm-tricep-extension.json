@@ -1,6 +1,9 @@
 {
   "id": "cable-one-arm-tricep-extension",
   "name": "Cable One Arm Tricep Extension",
+  "aliases": [
+    "single arm cable triceps extension"
+  ],
   "family": "triceps-extension",
   "variantGroup": "Pushdown/Cable",
   "modality": "strength",

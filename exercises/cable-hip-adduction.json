@@ -1,6 +1,9 @@
 {
   "id": "cable-hip-adduction",
   "name": "Cable Hip Adduction",
+  "aliases": [
+    "standing cable hip adduction"
+  ],
   "family": "hip-adduction",
   "variantGroup": null,
   "modality": "strength",

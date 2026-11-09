@@ -1,0 +1,33 @@
+{
+  "id": "ring-push-up",
+  "name": "Ring Push-Up",
+  "aliases": [
+    "suspension push-up",
+    "trx push-up"
+  ],
+  "family": "push-up",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "suspension trainer",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "triceps",
+    "abdominals"
+  ],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Set gymnastic rings or suspension straps just above the floor. Grip a handle in each hand and take a plank position with your feet on the floor.",
+    "Brace your core and glutes so that your body forms a straight line from head to heels.",
+    "Lower your chest between the handles, keeping the rings steady and your elbows at about 45 degrees to your torso.",
+    "Press back up to full arm extension, keeping the rings from drifting apart."
+  ],
+  "images": [],
+  "video": null
+}

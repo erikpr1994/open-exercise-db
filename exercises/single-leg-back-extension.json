@@ -1,0 +1,32 @@
+{
+  "id": "single-leg-back-extension",
+  "name": "Single-Leg Back Extension",
+  "aliases": [
+    "one leg hyperextension"
+  ],
+  "family": "back-extension",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "force": "pull",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "lower back"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings"
+  ],
+  "measurementType": "reps",
+  "laterality": "unilateral",
+  "instructions": [
+    "Set a back extension bench so that the pad sits just below your hips. Hook one foot under the roller and rest the other leg behind it or lift it off the pad.",
+    "Cross your arms over your chest and keep your body in a straight line.",
+    "Lower your torso until you feel a stretch in the hamstring, keeping your back flat.",
+    "Raise your torso until it is in line with your legs. Do not hyperextend your lower back.",
+    "Finish all reps, then change legs."
+  ],
+  "images": [],
+  "video": null
+}

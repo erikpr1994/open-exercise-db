@@ -1,0 +1,34 @@
+{
+  "id": "handstand-hold",
+  "name": "Handstand Hold",
+  "aliases": [
+    "freestanding handstand",
+    "wall handstand"
+  ],
+  "family": "overhead-press",
+  "variantGroup": "Handstand",
+  "modality": "strength",
+  "level": "expert",
+  "mechanic": "compound",
+  "force": "static",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "traps",
+    "triceps"
+  ],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Place your hands shoulder-width apart on the floor, about 15 cm from a wall if you need support.",
+    "Kick up one leg at a time until your body is inverted, with your heels on the wall or balanced freely.",
+    "Push the floor away through your shoulders, keep your arms straight and your ribs pulled in, and squeeze your glutes so that your body stays in one straight line.",
+    "Look at a point between your hands and hold the position for time.",
+    "Come down under control by lowering one leg at a time."
+  ],
+  "images": [],
+  "video": null
+}

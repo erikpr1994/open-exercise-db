@@ -1,6 +1,9 @@
 {
   "id": "cable-russian-twists",
   "name": "Cable Russian Twists",
+  "aliases": [
+    "cable russian twist"
+  ],
   "family": "russian-twist",
   "variantGroup": null,
   "modality": "strength",
