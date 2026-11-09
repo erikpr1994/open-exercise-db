@@ -1,0 +1,31 @@
+{
+  "id": "banded-hip-thrust",
+  "name": "Banded Hip Thrust",
+  "aliases": [
+    "resistance band hip thrust"
+  ],
+  "family": "hip-thrust",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "bands",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "quadriceps"
+  ],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Sit on the floor with your upper back against a bench. Anchor a resistance band under a stable low point or loop it over your hips and under your feet.",
+    "Place your feet flat on the floor, hip-width apart, and roll the band across your hips.",
+    "Drive through your heels and push your hips up until your torso is level with the floor, with your shins vertical at the top.",
+    "Squeeze your glutes at the top, then lower your hips under control."
+  ],
+  "images": [],
+  "video": null
+}

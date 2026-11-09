@@ -1,0 +1,34 @@
+{
+  "id": "dumbbell-thruster",
+  "name": "Dumbbell Thruster",
+  "aliases": [
+    "db thruster",
+    "dumbbell squat to press"
+  ],
+  "family": "overhead-press",
+  "variantGroup": "Dumbbell",
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "quadriceps",
+    "glutes",
+    "triceps"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Hold a dumbbell in each hand at shoulder height, palms facing each other, elbows in front of the body.",
+    "Stand with feet shoulder-width apart and brace your core.",
+    "Squat down until your thighs are at least parallel to the floor, keeping your chest up.",
+    "Drive up through your heels and use the upward momentum to press the dumbbells overhead to full lockout.",
+    "Lower the dumbbells to your shoulders as you descend into the next squat, keeping the movement continuous."
+  ],
+  "images": [],
+  "video": null
+}

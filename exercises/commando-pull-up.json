@@ -1,0 +1,33 @@
+{
+  "id": "commando-pull-up",
+  "name": "Commando Pull-Up",
+  "aliases": [
+    "side-by-side pull-up"
+  ],
+  "family": "pull-up",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "pull",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "forearms",
+    "middle back",
+    "abdominals"
+  ],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Grip a bar with your hands close together, one palm facing you and one facing away, and stand your body to one side of the bar line.",
+    "Hang with your arms straight and your core braced.",
+    "Pull up so that your head passes on one side of the bar.",
+    "Lower under control, then pull up with your head on the other side. Alternate sides each rep."
+  ],
+  "images": [],
+  "video": null
+}

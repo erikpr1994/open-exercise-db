@@ -1,0 +1,32 @@
+{
+  "id": "half-kneeling-pallof-press",
+  "name": "Half-Kneeling Pallof Press",
+  "aliases": [
+    "half kneeling cable anti-rotation press"
+  ],
+  "family": "anti-rotation-press",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "force": "static",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "shoulders"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "unilateral",
+  "instructions": [
+    "Set a cable handle at chest height. Kneel side-on to the stack on the knee farthest from it, with the other foot flat on the floor in front of you.",
+    "Hold the handle with both hands against the centre of your chest. Tuck your tail bone under and squeeze the glute of the kneeling leg.",
+    "Press the handle straight out until your arms are fully extended. Do not let the cable rotate your torso.",
+    "Pause for a moment, then bring the handle back to your chest under control.",
+    "Finish all reps, then repeat on the other side."
+  ],
+  "images": [],
+  "video": null
+}

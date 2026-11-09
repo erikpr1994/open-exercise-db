@@ -1,6 +1,9 @@
 {
   "id": "seated-good-mornings",
   "name": "Seated Good Mornings",
+  "aliases": [
+    "seated barbell good morning"
+  ],
   "family": "good-morning",
   "variantGroup": null,
   "modality": "powerlifting",

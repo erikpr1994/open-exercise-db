@@ -1,6 +1,9 @@
 {
   "id": "seated-dumbbell-curl",
   "name": "Seated Dumbbell Curl",
+  "aliases": [
+    "seated db curl"
+  ],
   "family": "curl",
   "variantGroup": "Dumbbell",
   "modality": "strength",
