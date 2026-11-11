@@ -1,0 +1,32 @@
+{
+  "id": "weighted-russian-twist",
+  "name": "Weighted Russian Twist",
+  "aliases": [
+    "russian twist with weight",
+    "plate russian twist",
+    "medicine ball russian twist"
+  ],
+  "family": "russian-twist",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "pull",
+  "equipment": "weight plate",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "lower back"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Sit on the floor with your knees bent. Hold a weight plate, a dumbbell or a medicine ball with both hands in front of your chest.",
+    "Lean back until your torso and thighs make a V shape. Lift your feet off the floor for more difficulty.",
+    "Turn your torso to the right and bring the weight beside your hip.",
+    "Turn your torso to the left and bring the weight beside your other hip. Count each turn as one repetition."
+  ],
+  "images": [],
+  "video": null
+}
