@@ -1,0 +1,33 @@
+{
+  "id": "weighted-push-up",
+  "name": "Weighted Push-Up",
+  "aliases": [
+    "weighted push ups",
+    "weighted pushups",
+    "plate push-up"
+  ],
+  "family": "push-up",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "weight plate",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "measurementType": "weighted_bodyweight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Put on a weight vest, or ask a partner to put a weight plate flat on your upper back.",
+    "Put your hands on the floor a little wider than your shoulders. Straighten your arms and keep your body in a straight line from head to heels.",
+    "Bend your elbows and lower your chest until it almost touches the floor.",
+    "Push through your hands until your arms are straight, and repeat."
+  ],
+  "images": [],
+  "video": null
+}
