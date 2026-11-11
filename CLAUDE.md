@@ -46,9 +46,9 @@ These rules protect consumers of the released data. Never weaken them.
 - JSON files use 2-space indentation and end with a newline. `aliases`
   goes directly after `name`.
 - Releases are automatic: a merge to `main` that changes the shipped data
-  publishes the next patch release. Removals and vocabulary or schema
-  changes are a minor release, cut by hand through the "Auto release"
-  workflow dispatch.
+  publishes the next patch release, or the next minor release when it
+  removes an exercise. Vocabulary or schema changes are a minor release,
+  cut by hand through the "Auto release" workflow dispatch with a version.
 
 ## Working style
 
@@ -64,7 +64,6 @@ These rules protect consumers of the released data. Never weaken them.
   indirection.
 - Grow the system in layers. Start from the smallest version that works
   end to end. Never trade a working product for unfinished complexity.
-- Keep components modular and concerns clearly separated.
 - Prefer established, well-maintained libraries when they reduce overall
   complexity or improve reliability. Do not reimplement common
   functionality without a clear reason.
