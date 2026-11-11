@@ -6,19 +6,16 @@ Open, curated exercise database. One JSON file per exercise in
 
 ## Commands
 
-- `npm ci` — install dependencies and the git hooks (`lefthook install`
-  runs through the `prepare` script).
-- `npm run validate` — schema, vocabulary, family, image, and id checks.
-- `npm run build` — write `dist/exercises.json` and `dist/families.json`.
-- `npm test` — unit tests for the scripts (`scripts/*.test.mjs`).
-- `node scripts/check-release-compat.mjs` — compare against the latest release.
-- `npm run generate-issue-form` — regenerate the new-exercise issue form.
-  Run it after every schema or vocabulary change; CI fails when the
-  committed form is stale.
+`npm ci` installs the dependencies and the git hooks. `package.json` lists
+the scripts.
 
-Do not run these checks by hand. The git hooks in `lefthook.yml` run them
+Do not run the checks by hand. The git hooks in `lefthook.yml` run them
 on commit and on push. If a check is missing from the git hooks, add it
 there instead of running it by hand.
+
+After every schema or vocabulary change, run `npm run generate-issue-form`
+and commit the new-exercise issue form. The commit hook and CI fail when
+the committed form is stale.
 
 ## Data invariants
 
@@ -46,9 +43,9 @@ These rules protect consumers of the released data. Never weaken them.
 - JSON files use 2-space indentation and end with a newline. `aliases`
   goes directly after `name`.
 - Releases are automatic: a merge to `main` that changes the shipped data
-  publishes the next patch release. Removals and vocabulary or schema
-  changes are a minor release, cut by hand through the "Auto release"
-  workflow dispatch.
+  publishes the next patch release, or the next minor release when it
+  removes an exercise. Vocabulary or schema changes are a minor release,
+  cut by hand through the "Auto release" workflow dispatch with a version.
 
 ## Working style
 
@@ -64,13 +61,10 @@ These rules protect consumers of the released data. Never weaken them.
   indirection.
 - Grow the system in layers. Start from the smallest version that works
   end to end. Never trade a working product for unfinished complexity.
-- Keep components modular and concerns clearly separated.
-- Prefer established, well-maintained libraries when they reduce overall
-  complexity or improve reliability. Do not reimplement common
-  functionality without a clear reason.
-- Lean on the dependencies already in the project (`ajv`, `yaml`) before
-  you write your own implementation or add a package. Do not assume a
-  library lacks a capability without checking its documentation and types.
+- Lean on the dependencies already in the project (`ajv`, `yaml`) first,
+  then on an established, well-maintained library, before you write your
+  own implementation of common functionality. Do not assume a library
+  lacks a capability without checking its documentation and types.
 - Read the documentation of a library, framework, SDK, CLI, or cloud
   service with `npx ctx7@latest`, before you answer from memory or start a
   web search. `npx ctx7@latest library "<name>" "<question>"` gives an id
