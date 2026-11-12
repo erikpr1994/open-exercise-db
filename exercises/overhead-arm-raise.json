@@ -1,0 +1,31 @@
+{
+  "id": "overhead-arm-raise",
+  "name": "Overhead Arm Raise",
+  "aliases": [
+    "shoulder flexion raise",
+    "standing shoulder flexion"
+  ],
+  "family": "front-raise",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "push",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "traps"
+  ],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Stand tall with your arms by your sides and your thumbs pointing forward.",
+    "Keep your arms straight and raise them slowly in front of you until they are overhead. Do not arch your lower back.",
+    "Lower your arms slowly along the same path to your sides.",
+    "Use it unloaded as a shoulder check: note any pain on the way up and on the way down."
+  ],
+  "images": [],
+  "video": null
+}

@@ -1,0 +1,29 @@
+{
+  "id": "lean-away-lateral-raise",
+  "name": "Lean-Away Lateral Raise",
+  "aliases": [
+    "leaning lateral raise",
+    "leaning dumbbell lateral raise"
+  ],
+  "family": "lateral-raise",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "force": "push",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [],
+  "measurementType": "weight_reps",
+  "laterality": "unilateral",
+  "instructions": [
+    "Stand side-on next to a sturdy post or rack, with your feet near its base. Hold the post at about chest height with your near hand.",
+    "Hold a dumbbell in your far hand and lean away from the post until your arm on the post is straight. Let the dumbbell hang in front of your hip.",
+    "Keep your body still and your working elbow a little bent. Raise the dumbbell out to the side until your arm is level with your shoulder. Do not shrug.",
+    "Lower the dumbbell slowly to the start position. Do all the repetitions, then change sides."
+  ],
+  "images": [],
+  "video": null
+}

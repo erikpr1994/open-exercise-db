@@ -1,0 +1,31 @@
+{
+  "id": "doorway-pec-stretch",
+  "name": "Doorway Pec Stretch",
+  "aliases": [
+    "doorway chest stretch",
+    "door frame pec stretch"
+  ],
+  "family": "chest-shoulder-stretch",
+  "variantGroup": null,
+  "modality": "stretching",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "static",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Stand in a doorway. Raise your arms out to the sides with your elbows bent about 90 degrees and at shoulder height.",
+    "Put your forearms and palms flat on the sides of the door frame.",
+    "Step forward slowly with one foot until you feel a stretch across your chest and the front of your shoulders. Keep your shoulders down and back.",
+    "Hold for the set time and breathe normally. To change the area of the stretch, move your elbows a little higher or lower."
+  ],
+  "images": [],
+  "video": null
+}

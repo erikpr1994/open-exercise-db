@@ -1,0 +1,32 @@
+{
+  "id": "hanging-knee-raise",
+  "name": "Hanging Knee Raise",
+  "aliases": [
+    "hanging knee raises",
+    "hanging knee tuck"
+  ],
+  "family": "leg-raise",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "pull",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "hip flexors",
+    "forearms"
+  ],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Hang from a pull-up bar with an overhand grip, a little wider than your shoulders. Keep your arms straight and your shoulders active.",
+    "Bend your knees and raise them toward your chest. At the top, curl your pelvis up a little. Do not swing.",
+    "Lower your legs slowly until they hang straight down again.",
+    "Repeat for the set number of repetitions. If your grip fails first, use straps or a captain's chair."
+  ],
+  "images": [],
+  "video": null
+}

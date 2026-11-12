@@ -1,6 +1,10 @@
 {
   "id": "deficit-deadlift",
   "name": "Deficit Deadlift",
+  "aliases": [
+    "deficit pull",
+    "deficit conventional deadlift"
+  ],
   "family": "deadlift",
   "variantGroup": null,
   "modality": "powerlifting",

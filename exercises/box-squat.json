@@ -1,6 +1,9 @@
 {
   "id": "box-squat",
   "name": "Box Squat",
+  "aliases": [
+    "barbell box squat"
+  ],
   "family": "squat",
   "variantGroup": "Box & Bench",
   "modality": "powerlifting",

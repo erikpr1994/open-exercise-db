@@ -1,6 +1,9 @@
 {
   "id": "triceps-stretch",
   "name": "Triceps Stretch",
+  "aliases": [
+    "overhead triceps stretch"
+  ],
   "family": "arm-forearm-stretch",
   "variantGroup": null,
   "modality": "stretching",
