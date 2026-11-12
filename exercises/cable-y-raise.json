@@ -1,0 +1,31 @@
+{
+  "id": "cable-y-raise",
+  "name": "Cable Y Raise",
+  "aliases": [
+    "cable lower trap raise",
+    "low cable y raise"
+  ],
+  "family": "lateral-raise",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "push",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "traps"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Set two pulleys at the lowest position. Cross the cables and hold the left handle in your right hand and the right handle in your left hand.",
+    "Stand in the middle of the two pulleys with a small bend in your knees and your hands crossed in front of your hips.",
+    "Keep your arms almost straight and raise your hands up and out above your head until your arms make a Y shape. Pull your shoulder blades down and back. Do not arch your lower back.",
+    "Lower your hands slowly along the same path to the start position, and repeat."
+  ],
+  "images": [],
+  "video": null
+}

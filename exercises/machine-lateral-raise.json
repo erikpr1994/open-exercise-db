@@ -1,0 +1,31 @@
+{
+  "id": "machine-lateral-raise",
+  "name": "Machine Lateral Raise",
+  "aliases": [
+    "lateral raise machine",
+    "seated machine lateral raise"
+  ],
+  "family": "lateral-raise",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "push",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "traps"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Adjust the seat so that your shoulders align with the pivot points of the machine. Sit with your chest against the pad.",
+    "Put the outside of your arms or elbows against the pads, or hold the handles, with your arms at your sides.",
+    "Raise your arms out to the sides until your upper arms are level with your shoulders. Do not shrug.",
+    "Pause for a moment, then lower the pads slowly to the start position, and repeat."
+  ],
+  "images": [],
+  "video": null
+}

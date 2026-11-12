@@ -1,6 +1,10 @@
 {
   "id": "dumbbell-side-bend",
   "name": "Dumbbell Side Bend",
+  "aliases": [
+    "db side bend",
+    "standing dumbbell side bend"
+  ],
   "family": "side-bend",
   "variantGroup": null,
   "modality": "strength",

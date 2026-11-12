@@ -1,6 +1,10 @@
 {
   "id": "external-rotation-with-band",
   "name": "External Rotation with Band",
+  "aliases": [
+    "band external rotation",
+    "banded shoulder external rotation"
+  ],
   "family": "rotator-cuff",
   "variantGroup": null,
   "modality": "strength",

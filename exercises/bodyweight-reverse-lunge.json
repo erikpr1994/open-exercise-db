@@ -1,0 +1,33 @@
+{
+  "id": "bodyweight-reverse-lunge",
+  "name": "Bodyweight Reverse Lunge",
+  "aliases": [
+    "reverse lunge",
+    "backward lunge"
+  ],
+  "family": "lunge",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings"
+  ],
+  "measurementType": "reps",
+  "laterality": "unilateral",
+  "instructions": [
+    "Stand tall with your feet hip-width apart and your hands on your hips or in front of your chest.",
+    "Step back with one foot and lower your back knee until it almost touches the floor. Keep your front shin almost vertical and your torso upright.",
+    "Push through the heel of your front foot to stand up and bring your back foot forward to the start position.",
+    "Repeat with the other leg, or do all the repetitions on one leg and then change legs."
+  ],
+  "images": [],
+  "video": null
+}

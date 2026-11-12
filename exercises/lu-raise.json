@@ -1,0 +1,31 @@
+{
+  "id": "lu-raise",
+  "name": "Lu Raise",
+  "aliases": [
+    "overhead lateral raise",
+    "lu xiaojun raise"
+  ],
+  "family": "lateral-raise",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "force": "push",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "traps"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Stand tall with a light dumbbell in each hand at your sides, palms facing in.",
+    "Keep your elbows almost straight and raise the dumbbells out to the sides, as in a lateral raise.",
+    "Do not stop at shoulder height. Continue to raise your arms until the dumbbells are overhead, with your thumbs pointing up and back.",
+    "Lower the dumbbells slowly along the same path to your sides, and repeat. Use a much lighter weight than for a lateral raise."
+  ],
+  "images": [],
+  "video": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "deep-squat-hold",
+  "name": "Deep Squat Hold",
+  "aliases": [
+    "deep squat",
+    "resting squat",
+    "bodyweight squat hold"
+  ],
+  "family": "mobility",
+  "variantGroup": null,
+  "modality": "stretching",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "static",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "adductors",
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "lower back",
+    "quadriceps"
+  ],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Stand with your feet a little wider than your hips and your toes turned out slightly.",
+    "Bend your knees and hips and lower yourself as far as you can, with your heels flat on the floor. Keep your knees in line with your toes.",
+    "Keep your chest up. You can hold a post or put your elbows inside your knees to stay balanced.",
+    "Hold for the set time and breathe slowly. Use your hands on your knees to help you stand up."
+  ],
+  "images": [],
+  "video": null
+}

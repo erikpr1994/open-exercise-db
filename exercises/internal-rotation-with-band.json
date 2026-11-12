@@ -1,6 +1,10 @@
 {
   "id": "internal-rotation-with-band",
   "name": "Internal Rotation with Band",
+  "aliases": [
+    "band internal rotation",
+    "banded shoulder internal rotation"
+  ],
   "family": "rotator-cuff",
   "variantGroup": null,
   "modality": "strength",

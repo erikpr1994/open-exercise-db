@@ -1,0 +1,31 @@
+{
+  "id": "kas-glute-bridge",
+  "name": "Kas Glute Bridge",
+  "aliases": [
+    "kas bridge",
+    "short range hip thrust"
+  ],
+  "family": "hip-thrust",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Sit on the floor with your upper back against the long side of a bench. Roll a padded barbell over your legs until it is above your hips.",
+    "Put your feet flat on the floor about hip-width apart. Raise your hips until your upper back rests on the bench, with your shins vertical at the top.",
+    "Lower your hips only a short distance, until your hips are a few inches below the top position. Keep your ribs down and your chin tucked.",
+    "Push through your heels and squeeze your glutes to raise your hips back to the top. Pause, and repeat."
+  ],
+  "images": [],
+  "video": null
+}
