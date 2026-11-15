@@ -1294,5 +1294,13 @@
     "to": "time",
     "date": "2026-11-04",
     "reason": "The instructions describe one hold for a set number of seconds, not repetitions."
+  },
+  {
+    "id": "standing-gastrocnemius-calf-stretch",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-11-15",
+    "reason": "The instructions stretch one calf at a time; the bilateral value contradicts them."
   }
 ]
