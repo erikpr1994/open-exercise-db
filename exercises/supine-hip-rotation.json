@@ -1,0 +1,31 @@
+{
+  "id": "supine-hip-rotation",
+  "name": "Supine Hip Rotation",
+  "aliases": [
+    "Lying Hip Rotation",
+    "Knees Together Hip Drop"
+  ],
+  "family": "mobility",
+  "variantGroup": null,
+  "modality": "stretching",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "pull",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "abductors"
+  ],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Lie on your back with the knees bent and together and the feet flat on the floor.",
+    "Keep the shoulders flat on the floor.",
+    "Let both knees drop gently to one side without force, then bring them back to the centre.",
+    "Drop the knees to the other side and back. Each side is one repetition."
+  ],
+  "images": [],
+  "video": null
+}

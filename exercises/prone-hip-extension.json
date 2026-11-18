@@ -1,0 +1,32 @@
+{
+  "id": "prone-hip-extension",
+  "name": "Prone Hip Extension",
+  "aliases": [
+    "Lying Hip Extension",
+    "Prone Leg Lift"
+  ],
+  "family": "hip-extension",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "push",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "lower back"
+  ],
+  "measurementType": "reps",
+  "laterality": "unilateral",
+  "instructions": [
+    "Lie face down with the legs straight and the forehead resting on your hands.",
+    "Squeeze the glute of one leg and lift that leg a few centimetres off the floor. Keep the knee straight and the lower back still.",
+    "Hold briefly at the top, then lower the leg slowly.",
+    "Complete the set, then switch legs."
+  ],
+  "images": [],
+  "video": null
+}

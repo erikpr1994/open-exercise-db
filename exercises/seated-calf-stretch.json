@@ -1,6 +1,11 @@
 {
   "id": "seated-calf-stretch",
   "name": "Seated Calf Stretch",
+  "aliases": [
+    "Seated Ankle Dorsiflexion",
+    "Towel Ankle Dorsiflexion",
+    "Seated Ankle Stretch"
+  ],
   "family": "calf-ankle-stretch",
   "variantGroup": null,
   "modality": "stretching",
