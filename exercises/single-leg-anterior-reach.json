@@ -1,0 +1,34 @@
+{
+  "id": "single-leg-anterior-reach",
+  "name": "Single-Leg Anterior Reach",
+  "aliases": [
+    "Y-Balance Anterior Reach",
+    "Star Excursion Anterior Reach",
+    "Single-Leg Reach Balance"
+  ],
+  "family": "balance",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": null,
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps",
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "abdominals"
+  ],
+  "measurementType": "reps",
+  "laterality": "unilateral",
+  "instructions": [
+    "Stand on one leg with a slight knee bend and the hands on the hips.",
+    "Reach the free foot straight forward as far as you can with control, and lightly tap the floor with the toes.",
+    "Keep the stance heel down and the knee over the toes.",
+    "Return to the start without putting weight on the reaching foot. Complete the set, then switch legs."
+  ],
+  "images": [],
+  "video": null
+}

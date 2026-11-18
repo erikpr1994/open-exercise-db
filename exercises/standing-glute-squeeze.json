@@ -1,0 +1,27 @@
+{
+  "id": "standing-glute-squeeze",
+  "name": "Standing Glute Squeeze",
+  "aliases": [
+    "Standing Glute Squeeze with Pelvic Tilt"
+  ],
+  "family": null,
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "static",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Stand tall with the feet hip-width apart and the knees soft.",
+    "Squeeze both glutes and tilt the pelvis slightly back, as if you tuck the tailbone under.",
+    "Hold the squeeze for 3 seconds, then relax. Each squeeze is one repetition."
+  ],
+  "images": [],
+  "video": null
+}

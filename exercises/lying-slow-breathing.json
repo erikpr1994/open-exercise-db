@@ -1,0 +1,37 @@
+{
+  "id": "lying-slow-breathing",
+  "name": "Lying Slow Breathing",
+  "aliases": [
+    "Slow Breathing",
+    "Belly Breathing"
+  ],
+  "family": null,
+  "variantGroup": null,
+  "modality": "breathing",
+  "level": "beginner",
+  "mechanic": null,
+  "force": null,
+  "equipment": "body only",
+  "primaryMuscles": [],
+  "secondaryMuscles": [],
+  "measurementType": "breathing",
+  "laterality": "bilateral",
+  "breathPattern": [
+    {
+      "breath": "in",
+      "seconds": 4
+    },
+    {
+      "breath": "out",
+      "seconds": 6
+    }
+  ],
+  "instructions": [
+    "Lie on your back with the knees bent and the hands resting on your ribs.",
+    "Breathe in slowly through your nose for four seconds and feel the ribs widen.",
+    "Breathe out slowly for six seconds, longer than you breathed in.",
+    "Repeat for about six breaths."
+  ],
+  "images": [],
+  "video": null
+}

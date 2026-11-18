@@ -1,0 +1,30 @@
+{
+  "id": "seated-hip-internal-external-rotation",
+  "name": "Seated Hip Internal External Rotation",
+  "aliases": [
+    "Seated Hip Rotation"
+  ],
+  "family": "mobility",
+  "variantGroup": null,
+  "modality": "stretching",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "pull",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "abductors"
+  ],
+  "measurementType": "reps",
+  "laterality": "unilateral",
+  "instructions": [
+    "Sit tall on a chair or on the floor with the knee bent to 90 degrees.",
+    "Keep the knee in line with the hip and the thigh still.",
+    "Slowly rotate the lower leg outward, then inward, through a pain-free range.",
+    "Each outward and inward turn is one repetition. Complete the set, then switch sides."
+  ],
+  "images": [],
+  "video": null
+}
