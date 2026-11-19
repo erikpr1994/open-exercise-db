@@ -1,0 +1,32 @@
+{
+  "id": "cyclist-squat",
+  "name": "Cyclist Squat",
+  "aliases": [
+    "Narrow-Stance Heel-Elevated Squat",
+    "Heel-Elevated Goblet Squat"
+  ],
+  "family": "squat",
+  "variantGroup": "Front & Goblet",
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Put your heels on a slant board, a wedge or a pair of weight plates, with your feet close together and your toes pointing forward.",
+    "Hold a dumbbell vertically against your chest by one end.",
+    "Keep your torso upright and bend your knees. Let them travel forward over your toes as you lower your hips straight down.",
+    "Go as deep as you can while you keep your heels on the elevation and your torso upright.",
+    "Push through your whole foot to stand up again."
+  ],
+  "images": [],
+  "video": null
+}

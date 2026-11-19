@@ -1,0 +1,32 @@
+{
+  "id": "egyptian-lateral-raise",
+  "name": "Egyptian Lateral Raise",
+  "aliases": [
+    "Cable Lean-Away Lateral Raise",
+    "Cable Leaning Lateral Raise"
+  ],
+  "family": "lateral-raise",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "force": "pull",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "traps"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "unilateral",
+  "instructions": [
+    "Set a cable pulley to its lowest position and attach a single handle. Stand side-on to the machine with your feet close to its base.",
+    "Hold the handle with your far hand, so the cable crosses in front of your body. Hold the frame of the machine with your near hand.",
+    "Lean away from the machine until your near arm is straight, at an angle of about 15 to 30 degrees.",
+    "Keep the lean and a slight bend in your working elbow. Raise your arm out to the side until it is a little above shoulder height. Lead with the elbow and do not shrug.",
+    "Lower the handle slowly until your hand is in front of your hip. Do all the repetitions, then change sides."
+  ],
+  "images": [],
+  "video": null
+}

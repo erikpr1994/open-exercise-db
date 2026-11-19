@@ -1,0 +1,33 @@
+{
+  "id": "side-plank-hip-dip",
+  "name": "Side Plank Hip Dip",
+  "aliases": [
+    "Side Plank Dip",
+    "Side Plank Hip Drop"
+  ],
+  "family": "side-bridge",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": null,
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "abductors",
+    "shoulders"
+  ],
+  "measurementType": "reps",
+  "laterality": "unilateral",
+  "instructions": [
+    "Lie on your side and prop yourself up on your forearm, with your elbow under your shoulder and your legs straight and stacked.",
+    "Lift your hips until your body is in a straight line from head to feet. This is the start position.",
+    "Lower your hips toward the floor under control until they almost touch.",
+    "Use your obliques to lift your hips back up to the straight line, or a little higher.",
+    "Do all the repetitions, then change sides."
+  ],
+  "images": [],
+  "video": null
+}

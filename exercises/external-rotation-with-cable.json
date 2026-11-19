@@ -1,6 +1,10 @@
 {
   "id": "external-rotation-with-cable",
   "name": "External Rotation with Cable",
+  "aliases": [
+    "Cable External Rotation",
+    "Standing Cable External Rotation"
+  ],
   "family": "rotator-cuff",
   "variantGroup": null,
   "modality": "strength",

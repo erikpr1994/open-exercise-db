@@ -1,0 +1,32 @@
+{
+  "id": "elephant-walk",
+  "name": "Elephant Walk",
+  "aliases": [
+    "Elephant Walk Stretch",
+    "Hamstring Walk"
+  ],
+  "family": "hamstring-stretch",
+  "variantGroup": null,
+  "modality": "stretching",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "pull",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "lower back"
+  ],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Stand with your feet hip width apart and fold forward at the hips. Put your hands on the floor, or on blocks if you cannot reach it.",
+    "Bend one knee and keep the other leg straight, so you feel a stretch in the hamstring of the straight leg.",
+    "Straighten the bent knee as you bend the other one, like a slow walk on the spot.",
+    "Keep your hands down and your head relaxed. Count each knee change as one repetition."
+  ],
+  "images": [],
+  "video": null
+}

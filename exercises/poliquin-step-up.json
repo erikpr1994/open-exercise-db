@@ -1,0 +1,32 @@
+{
+  "id": "poliquin-step-up",
+  "name": "Poliquin Step-Up",
+  "aliases": [
+    "Poliquin Step-Down",
+    "Slant Board Step-Down"
+  ],
+  "family": "step-up",
+  "variantGroup": "Step-Down",
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "plyo box",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes"
+  ],
+  "measurementType": "reps",
+  "laterality": "unilateral",
+  "instructions": [
+    "Put a slant board or a small weight plate on a low step so that its high end is at the back. Stand side-on on it with your working foot, heel higher than toes.",
+    "Let your other leg hang off the side of the step with the ankle pulled up.",
+    "Bend your working knee and let it travel forward over your toes as you lower your free heel to the floor.",
+    "Touch the floor lightly with the free heel. Do not put weight on it.",
+    "Straighten your working knee to come back up to the start. Do all the repetitions, then change sides."
+  ],
+  "images": [],
+  "video": null
+}

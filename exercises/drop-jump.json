@@ -1,0 +1,30 @@
+{
+  "id": "drop-jump",
+  "name": "Drop Jump",
+  "family": "box-jump",
+  "variantGroup": null,
+  "modality": "plyometrics",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "plyo box",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings"
+  ],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Stand on a box about 30 to 60 cm high with your toes at the edge.",
+    "Step off the box. Do not jump off it. Land on both feet at the same time.",
+    "As soon as your feet touch the floor, jump straight up as high and as fast as you can. Keep the time on the floor as short as possible.",
+    "Land softly on both feet with your knees and hips bent.",
+    "Step back onto the box and reset fully before the next repetition."
+  ],
+  "images": [],
+  "video": null
+}

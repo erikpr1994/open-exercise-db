@@ -1,8 +1,11 @@
 {
   "id": "weighted-squat",
   "name": "Weighted Squat",
+  "aliases": [
+    "Dip Belt Squat"
+  ],
   "family": "squat",
-  "variantGroup": "Barbell",
+  "variantGroup": null,
   "modality": "strength",
   "level": "intermediate",
   "mechanic": "compound",
