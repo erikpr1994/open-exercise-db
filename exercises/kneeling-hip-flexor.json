@@ -1,6 +1,10 @@
 {
   "id": "kneeling-hip-flexor",
   "name": "Kneeling Hip Flexor",
+  "aliases": [
+    "Kneeling Hip Flexor Stretch",
+    "Half-Kneeling Hip Flexor Stretch"
+  ],
   "family": "quad-hip-flexor-stretch",
   "variantGroup": null,
   "modality": "stretching",

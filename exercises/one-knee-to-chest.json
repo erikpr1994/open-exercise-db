@@ -1,6 +1,9 @@
 {
   "id": "one-knee-to-chest",
   "name": "One Knee To Chest",
+  "aliases": [
+    "Single Knee to Chest Stretch"
+  ],
   "family": "back-lat-stretch",
   "variantGroup": null,
   "modality": "stretching",

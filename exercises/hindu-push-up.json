@@ -1,0 +1,33 @@
+{
+  "id": "hindu-push-up",
+  "name": "Hindu Push-Up",
+  "aliases": [
+    "Dand"
+  ],
+  "family": "push-up",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "triceps",
+    "lower back"
+  ],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Start in a pike position: hands and feet on the floor a little wider than shoulder width, hips high and arms straight.",
+    "Bend your elbows and lower your head and chest toward the floor between your hands.",
+    "Swoop your chest forward close to the floor, then straighten your arms and push your chest up and forward. Let your hips sink toward the floor and look up.",
+    "Push your hips back up and straighten your arms to return to the pike position.",
+    "Move smoothly from one repetition to the next."
+  ],
+  "images": [],
+  "video": null
+}

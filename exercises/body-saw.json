@@ -1,0 +1,34 @@
+{
+  "id": "body-saw",
+  "name": "Body Saw",
+  "aliases": [
+    "Plank Body Saw",
+    "Body Saw Plank"
+  ],
+  "family": "plank",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": null,
+  "force": null,
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "lats",
+    "hip flexors"
+  ],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Get into a forearm plank with your elbows under your shoulders and your toes on sliders, towels or a slick floor.",
+    "Brace your abs and glutes so that your body is in a straight line from head to heels.",
+    "Push your body back with your forearms so that your shoulders move past your elbows.",
+    "Pull your body forward again until your shoulders are back over your elbows.",
+    "Keep sawing back and forth for the given time. Do not let your hips sag or rise."
+  ],
+  "images": [],
+  "video": null
+}

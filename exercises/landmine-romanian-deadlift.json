@@ -1,0 +1,32 @@
+{
+  "id": "landmine-romanian-deadlift",
+  "name": "Landmine Romanian Deadlift",
+  "aliases": [
+    "Landmine RDL"
+  ],
+  "family": "romanian-stiff-leg-deadlift",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "pull",
+  "equipment": "landmine",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "lower back"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Put one end of a barbell in a landmine anchor and load the other end. Stand at the loaded end, facing the anchor, with your feet hip width apart.",
+    "Lift the end of the bar to your hips and hold the sleeve with both hands, one hand over the other. Stand tall with your shoulders back.",
+    "With a slight bend in your knees, push your hips back and let the bar travel down in front of your thighs. Keep your back flat.",
+    "Go down until you feel a strong stretch in your hamstrings, usually just below the knees.",
+    "Squeeze your glutes and drive your hips forward to stand tall again. Do not lean back at the top."
+  ],
+  "images": [],
+  "video": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "petersen-step-up",
+  "name": "Petersen Step-Up",
+  "aliases": [
+    "Peterson Step-Up"
+  ],
+  "family": "step-up",
+  "variantGroup": "Step-Down",
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "plyo box",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "calves"
+  ],
+  "measurementType": "reps",
+  "laterality": "unilateral",
+  "instructions": [
+    "Stand side-on on a low step with your working foot flat. Let your other leg hang off the side of the step.",
+    "Lift the heel of your working foot and push your knee forward over your toes. Keep the weight on the ball of your foot.",
+    "At the same time, lower your free heel until it touches the floor lightly. Do not put weight on it.",
+    "Drive your working heel back down onto the step as you straighten your knee and lift your free leg.",
+    "Finish standing tall on a flat working foot. Do all the repetitions, then change sides."
+  ],
+  "images": [],
+  "video": null
+}

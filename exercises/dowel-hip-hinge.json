@@ -1,0 +1,33 @@
+{
+  "id": "dowel-hip-hinge",
+  "name": "Dowel Hip Hinge",
+  "aliases": [
+    "Hip Hinge Drill",
+    "PVC Hip Hinge"
+  ],
+  "family": "good-morning",
+  "variantGroup": null,
+  "modality": "technique",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "pull",
+  "equipment": "other",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "lower back"
+  ],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Stand with your feet hip width apart. Hold a dowel or broomstick along your back, one hand behind your neck and the other at your lower back.",
+    "Make sure the dowel touches the back of your head, your upper back and your tailbone.",
+    "With a slight bend in your knees, push your hips back and lean your torso forward. Keep all three points of contact on the dowel.",
+    "Stop when you feel a stretch in your hamstrings or when the dowel starts to leave one of the contact points.",
+    "Drive your hips forward to stand tall again."
+  ],
+  "images": [],
+  "video": null
+}

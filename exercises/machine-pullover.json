@@ -1,0 +1,33 @@
+{
+  "id": "machine-pullover",
+  "name": "Machine Pullover",
+  "aliases": [
+    "Nautilus Pullover",
+    "Pullover Machine"
+  ],
+  "family": "pullover",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "force": "pull",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "triceps"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Adjust the seat so that your shoulders are in line with the pivot point of the machine. Fasten the seat belt if the machine has one.",
+    "Put the backs of your upper arms or your elbows against the pads and hold the handles lightly. Let the pads move up and back until you feel a stretch in your lats.",
+    "Push the pads down and forward with your elbows in an arc until the bar or pads touch your torso.",
+    "Pause and squeeze your lats, then let the pads return slowly to the stretched position.",
+    "Keep your lower back against the seat for all the repetitions."
+  ],
+  "images": [],
+  "video": null
+}

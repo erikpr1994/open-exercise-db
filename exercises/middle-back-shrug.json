@@ -1,6 +1,9 @@
 {
   "id": "middle-back-shrug",
   "name": "Middle Back Shrug",
+  "aliases": [
+    "Kelso Shrug"
+  ],
   "family": "shrug",
   "variantGroup": null,
   "modality": "strength",
