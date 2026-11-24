@@ -13,9 +13,11 @@
   ],
   "secondaryMuscles": [],
   "measurementType": "time",
-  "laterality": "bilateral",
+  "laterality": "unilateral",
   "instructions": [
-    "Reach your left arm across your body and hold it straight."
+    "Reach your left arm across your body and hold it straight.",
+    "Use your right hand to gently pull your left arm toward your chest until you feel a stretch in the back of your shoulder.",
+    "Hold the stretch, then switch sides."
   ],
   "images": [
     "shoulder-stretch/0.jpg",

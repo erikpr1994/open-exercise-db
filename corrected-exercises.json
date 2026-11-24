@@ -1334,5 +1334,29 @@
     "to": "unilateral",
     "date": "2026-11-24",
     "reason": "The instructions press one kettlebell with one arm; the bilateral value contradicts them."
+  },
+  {
+    "id": "shoulder-stretch",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-11-24",
+    "reason": "The instructions stretch one arm across the body; the bilateral value contradicts them. The instructions now say to switch sides."
+  },
+  {
+    "id": "lying-glute",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-11-24",
+    "reason": "The instructions stretch one hip at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "seated-glute",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-11-24",
+    "reason": "The instructions cross one ankle over the opposite knee and stretch one hip at a time; the bilateral value contradicts them."
   }
 ]
