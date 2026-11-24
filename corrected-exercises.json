@@ -1302,5 +1302,37 @@
     "to": "unilateral",
     "date": "2026-11-15",
     "reason": "The instructions stretch one calf at a time; the bilateral value contradicts them."
+  },
+  {
+    "id": "tricep-dumbbell-kickback",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-11-24",
+    "reason": "The images show one arm at a time with the other hand on a bench. The instructions now describe that movement."
+  },
+  {
+    "id": "concentration-curls",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-11-24",
+    "reason": "The instructions curl one dumbbell with one arm braced on the thigh; the bilateral value contradicts them."
+  },
+  {
+    "id": "standing-concentration-curl",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-11-24",
+    "reason": "The instructions curl one dumbbell with the working arm; the bilateral value contradicts them."
+  },
+  {
+    "id": "advanced-kettlebell-windmill",
+    "field": "laterality",
+    "from": "bilateral",
+    "to": "unilateral",
+    "date": "2026-11-24",
+    "reason": "The instructions press one kettlebell with one arm; the bilateral value contradicts them."
   }
 ]
