@@ -1,0 +1,35 @@
+{
+  "id": "half-kneeling-single-arm-lat-pulldown",
+  "name": "Half-Kneeling Single-Arm Lat Pulldown",
+  "aliases": [
+    "kneeling single arm lat pulldown",
+    "half kneeling one arm pulldown",
+    "kneeling one arm lat pulldown"
+  ],
+  "family": "lat-pulldown",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "pull",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "middle back"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "unilateral",
+  "instructions": [
+    "Attach a single handle to a high pulley. Kneel below it on the knee of the working side, with the other foot flat in front of you. Use a pad under your knee.",
+    "Hold the handle with your arm straight above you and let the cable pull your shoulder up into a stretch.",
+    "Brace your trunk and keep your hips square.",
+    "Pull your elbow down and in toward your hip until the handle is near your shoulder.",
+    "Pause for a moment, then let your arm go back up under control to a full stretch.",
+    "Do all the repetitions on one side, then change sides."
+  ],
+  "images": [],
+  "video": null
+}

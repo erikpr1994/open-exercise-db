@@ -1,6 +1,9 @@
 {
   "id": "runner-s-stretch",
   "name": "Runner's Stretch",
+  "aliases": [
+    "runner's lunge"
+  ],
   "family": "quad-hip-flexor-stretch",
   "variantGroup": null,
   "modality": "stretching",

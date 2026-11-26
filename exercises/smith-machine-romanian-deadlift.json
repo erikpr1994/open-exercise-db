@@ -1,0 +1,34 @@
+{
+  "id": "smith-machine-romanian-deadlift",
+  "name": "Smith Machine Romanian Deadlift",
+  "aliases": [
+    "smith machine rdl",
+    "smith rdl"
+  ],
+  "family": "romanian-stiff-leg-deadlift",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "beginner",
+  "mechanic": "compound",
+  "force": "pull",
+  "equipment": "smith machine",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "lower back"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Set the bar of a Smith machine at about the middle of your thighs.",
+    "Stand close to the bar with your feet hip width apart and hold it with an overhand grip just outside your thighs.",
+    "Rotate the bar to unhook it and stand tall with your shoulders back.",
+    "Keep a small bend in your knees and push your hips back. Slide the bar down your thighs and keep your back flat.",
+    "Stop when you feel a strong stretch in your hamstrings, near the middle of your shins. Do not let the bar touch the floor.",
+    "Push your hips forward to stand tall and squeeze your glutes. Repeat, then rotate the bar to hook it."
+  ],
+  "images": [],
+  "video": null
+}

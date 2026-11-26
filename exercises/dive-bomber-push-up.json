@@ -1,0 +1,36 @@
+{
+  "id": "dive-bomber-push-up",
+  "name": "Dive Bomber Push-Up",
+  "aliases": [
+    "dive bomber",
+    "divebomber push-up",
+    "dive bomber press-up"
+  ],
+  "family": "push-up",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "chest",
+    "shoulders",
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "lower back"
+  ],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Start in a downward dog position: hands and feet on the floor a bit wider than shoulder width, hips high, arms and legs straight.",
+    "Bend your elbows and lower your head and chest toward the floor between your hands.",
+    "Keep your chest close to the floor and swoop forward until your hips are low and your arms push you up into an upward dog position.",
+    "Look forward and open your chest at the top.",
+    "Push your hips back up to return to downward dog, then repeat."
+  ],
+  "images": [],
+  "video": null
+}

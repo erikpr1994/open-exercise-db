@@ -1,6 +1,10 @@
 {
   "id": "shoulder-stretch",
   "name": "Shoulder Stretch",
+  "aliases": [
+    "cross-body shoulder stretch",
+    "cross-arm stretch"
+  ],
   "family": "chest-shoulder-stretch",
   "variantGroup": null,
   "modality": "stretching",

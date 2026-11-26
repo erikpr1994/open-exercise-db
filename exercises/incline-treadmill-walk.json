@@ -1,0 +1,35 @@
+{
+  "id": "incline-treadmill-walk",
+  "name": "Incline Treadmill Walk",
+  "aliases": [
+    "incline walk",
+    "12-3-30",
+    "incline treadmill walking"
+  ],
+  "family": "cardio",
+  "variantGroup": "Treadmill",
+  "modality": "cardio",
+  "level": "beginner",
+  "mechanic": null,
+  "force": null,
+  "equipment": "treadmill",
+  "primaryMuscles": [
+    "glutes",
+    "calves",
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "quadriceps"
+  ],
+  "measurementType": "time",
+  "laterality": "bilateral",
+  "instructions": [
+    "Start the belt at a slow walking speed with no incline and step on.",
+    "Raise the incline step by step to your target. A common target is 12% at about 5 km/h (3 mph); start lower if you are new to it.",
+    "Stand tall, lean only slightly forward from the ankles, and swing your arms naturally.",
+    "Do not hold the handrails. If you must hold them to keep up, lower the speed or the incline.",
+    "Walk for the set time, then lower the incline and the speed before you step off."
+  ],
+  "images": [],
+  "video": null
+}

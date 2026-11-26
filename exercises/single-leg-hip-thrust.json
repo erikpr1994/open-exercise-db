@@ -1,0 +1,34 @@
+{
+  "id": "single-leg-hip-thrust",
+  "name": "Single-Leg Hip Thrust",
+  "aliases": [
+    "one-leg hip thrust",
+    "single leg bench glute bridge"
+  ],
+  "family": "hip-thrust",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "force": "push",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "quadriceps"
+  ],
+  "measurementType": "reps",
+  "laterality": "unilateral",
+  "instructions": [
+    "Sit on the floor with your upper back against the long side of a bench, the bottom of your shoulder blades at the edge of the pad.",
+    "Put one foot flat on the floor near your hips, with the shin vertical at the top. Lift the other foot and keep that knee bent.",
+    "Tuck your chin and brace your trunk.",
+    "Push through the heel of the working foot and lift your hips until your trunk and thigh are in a straight line. Squeeze the glute at the top.",
+    "Keep your hips level. Do not let the free side drop or rotate.",
+    "Lower your hips under control, then repeat. Do all the repetitions on one side, then change sides."
+  ],
+  "images": [],
+  "video": null
+}

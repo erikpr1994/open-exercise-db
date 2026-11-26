@@ -1,0 +1,35 @@
+{
+  "id": "reverse-hack-squat",
+  "name": "Reverse Hack Squat",
+  "aliases": [
+    "reverse hack squat machine",
+    "facing hack squat"
+  ],
+  "family": "squat",
+  "variantGroup": "Machine",
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "hack squat machine",
+  "primaryMuscles": [
+    "glutes",
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "adductors",
+    "hamstrings"
+  ],
+  "measurementType": "weight_reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Stand on the hack squat platform facing the back pad, with your chest against the pad and the shoulder pads on top of your shoulders.",
+    "Put your feet about shoulder width apart in the middle of the platform. Hold the handles.",
+    "Straighten your legs to lift the sled, then release the safety handles.",
+    "Push your hips back and bend your knees to lower the sled until your thighs are at least parallel to the platform.",
+    "Keep your chest against the pad and your heels down.",
+    "Push through your whole foot to straighten your legs and squeeze your glutes at the top. Engage the safety handles when the set is done."
+  ],
+  "images": [],
+  "video": null
+}
