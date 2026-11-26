@@ -1,6 +1,10 @@
 {
   "id": "rope-straight-arm-pulldown",
   "name": "Rope Straight-Arm Pulldown",
+  "aliases": [
+    "rope pullover",
+    "cable rope pullover"
+  ],
   "family": "straight-arm-pulldown",
   "variantGroup": null,
   "modality": "strength",

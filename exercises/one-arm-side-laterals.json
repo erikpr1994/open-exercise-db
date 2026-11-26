@@ -1,6 +1,10 @@
 {
   "id": "one-arm-side-laterals",
   "name": "One-Arm Side Laterals",
+  "aliases": [
+    "single-arm lateral raise",
+    "one-arm lateral raise"
+  ],
   "family": "lateral-raise",
   "variantGroup": null,
   "modality": "strength",

@@ -1,6 +1,9 @@
 {
   "id": "cross-body-hammer-curl",
   "name": "Cross Body Hammer Curl",
+  "aliases": [
+    "pinwheel curl"
+  ],
   "family": "curl",
   "variantGroup": "Hammer",
   "modality": "strength",

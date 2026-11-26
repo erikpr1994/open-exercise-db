@@ -1,0 +1,35 @@
+{
+  "id": "hamstring-walkout",
+  "name": "Hamstring Walkout",
+  "aliases": [
+    "glute bridge walkout",
+    "bridge walkout",
+    "hamstring bridge walkout"
+  ],
+  "family": "glute-bridge",
+  "variantGroup": null,
+  "modality": "strength",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "force": "push",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "lower back"
+  ],
+  "measurementType": "reps",
+  "laterality": "bilateral",
+  "instructions": [
+    "Lie on your back with your knees bent, your feet flat on the floor hip width apart and your arms by your sides.",
+    "Squeeze your glutes and lift your hips into a glute bridge.",
+    "Keep your hips high and take small steps with your heels away from your body until your legs are almost straight.",
+    "Do not let your hips sag or rotate as you step.",
+    "Walk your heels back toward your hips to the bridge position. That is one repetition.",
+    "Lower your hips to the floor when the set is done."
+  ],
+  "images": [],
+  "video": null
+}

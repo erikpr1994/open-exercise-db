@@ -1,6 +1,9 @@
 {
   "id": "jerk-dip-squat",
   "name": "Jerk Dip Squat",
+  "aliases": [
+    "jerk dip"
+  ],
   "family": "jerk",
   "variantGroup": null,
   "modality": "olympic weightlifting",

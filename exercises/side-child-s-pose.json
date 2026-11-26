@@ -1,0 +1,35 @@
+{
+  "id": "side-child-s-pose",
+  "name": "Side Child's Pose",
+  "aliases": [
+    "lateral child's pose",
+    "child's pose side reach",
+    "side-reach child's pose"
+  ],
+  "family": "back-lat-stretch",
+  "variantGroup": null,
+  "modality": "stretching",
+  "level": "beginner",
+  "mechanic": null,
+  "force": "static",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "lower back",
+    "shoulders"
+  ],
+  "measurementType": "time",
+  "laterality": "unilateral",
+  "instructions": [
+    "Kneel on the floor, sit back onto your heels and stretch your arms forward on the floor, as in child's pose.",
+    "Walk both hands toward one side until you feel a stretch along the opposite side of your trunk.",
+    "Keep your hips sitting back toward your heels, and do not let the hip on the stretched side lift.",
+    "Breathe slowly into the stretched side and hold for the set time.",
+    "Walk your hands back through the middle and repeat on the other side."
+  ],
+  "images": [],
+  "video": null
+}
